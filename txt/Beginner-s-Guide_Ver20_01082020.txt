@@ -1,0 +1,536 @@
+BEGINNER’S
+G U I D E T O
+S O L A R E N E R G Y
+1
+
+2
+
+Beginners Guide To Solar Energy
+T A B L E O F C O N T E N T S
+Why You Should Choose a Solar System .......................................................................................... 4
+The Benefits of Solar Energy ...................................................................................................... 5
+How a Grid System Works ........................................................................................................ 6
+How Solar Systems Make a Little Love from the Sun Go a Long Way ............................................................. 7
+Solar Panels ....................................................................................................................... 7
+Inverter Solutions ................................................................................................................. 7
+Mounting Systems ................................................................................................................ 8
+Metering Your Solar System ...................................................................................................... 8
+Installing Solar Panels for Your Solar System ...................................................................................... 9
+Tilting and Orientation ............................................................................................................ 9
+Daily Routine ...................................................................................................................... 9
+Shading ........................................................................................................................... 9
+Mounting ......................................................................................................................... 10
+Installing Panels for Greater Performance ......................................................................................... 10
+How Many Panels Does Your Solar System Need? ................................................................................ 11
+How Long Do Solar Systems Last? ................................................................................................ 11
+Solar Panel Sizes .................................................................................................................. 12
+Why Panel Efficiency Matters ..................................................................................................... 12
+Incentives and Financing for Going Solar .......................................................................................... 13
+Are There Incentives Available For Your Solar System ............................................................................. 13
+Financing Your Solar Project ...................................................................................................... 13
+Details on How to Choose a Solar Company ...................................................................................... 14
+Questions to Ask Before You Buy ................................................................................................. 15
+25-year Performance Warranty Info .............................................................................................. 16
+Additional Tips to Get Started With Solar ......................................................................................... 17
+3
+
+Why You Should Choose
+a Solar System
+Over the past five years, the cost of installing a solar system has
+gone down significantly. Now, solar energy can power a home
+throughout the day and greatly reduce how much a family spends
+on energy each year.
+Those who don’t take advantage of the natural energy of the
+sun will always pay for their electricity. Paying for electricity never
+goes away, no matter how much or little you use.
+By harnessing the power of solar energy, you own a major part of
+the power you use. Choosing a solar system is an investment that
+immediately begins to pay for itself through the savings you get
+from relying on a renewable energy source for power.
+Many homeowners pay off their investment in five to six years
+as a result of savings realized through solar (though results may
+vary).
+Installing LG Solar’s high-efficiency panels on your home helps
+you benefit from the sun’s love and create a better relationship
+with energy consumption needs.
+To help you select and install your solar system, an independent
+local installer, or LG PRO Installer trained by LG, will visit your
+home to assess its solar potential. You can find an LG PRO who
+will supply a free detailed quote by getting started at:
+https://www.lg.com/us/solar/getstarted
+4
+
+The Benefits of 01
+S O L A R P O W E R C A N
+S A V E Y O U M O N E Y
+Solar Energy
+Installing solar panels enables you to generate your own electricity rather than
+buying it from your electric company. This enables you to save money as every
+kW/h of electricity you use from your solar system is a kW/h of electricity you do
+not have to buy from your electric company.
+02
+E N V I R O N M E N T A L
+B E N E F I T S
+By using electricity generated from the sun’s love, we reduce the need to produce
+electricity from fossil fuels such as coal and gas, which create carbon dioxide
+(CO2). This can reduce the potential for global warming and create a more
+sustainable and cleaner energy mix.
+03
+E N E R G Y
+I N D E P E N D E N C E
+With your own solar system, you can embrace the sun and the energy it is able to
+generate. This reduces your reliance on fossil fuels while increasing your control
+over your future electricity needs, expenses and lifestyle. If you add an energy
+storage system to your solar array, you gain even more control over your energy
+usage and costs.
+04
+E N E R G Y
+R E L I A B I L I T Y
+High-quality solar systems are a reliable power source. The sun rises and sets
+every day, and when the sun shines, solar panels generate electricity. While the
+weather and seasons vary, the amount of electricity that solar panels generate is
+predictable, and you can plan accordingly to get all the love from the sun you need
+to power your home. LG Solar’s high-efficiency panels are designed to capture
+more of the sun, more of the time too, which helps expand how you power your
+home. You can also increase the financial benefits of your solar system by changing
+the times you operate your household appliances. For example, turning your
+washing machine on as you leave home in the morning instead of washing your
+clothes at night will avoid the higher electricity rates charged by some utilities
+during peak usage times. If you install an energy storage system, you can use the
+energy stored from your solar system during those times.
+5
+
+How a Grid System Works
+A solar system is made up of multiple solar photovoltaic (PV) panels, a DC to AC power converter (inverter
+solution) and a framing system to hold the solar panels in place.
+Solar panels are generally fitted on the roof facing a southern, easterly or westerly direction.
+GRID CONNECTED HOME
+WITHOUT BATTERIES S IN O V L E U R T T IO E N R
+P S A O N L E A L R S DC
+AC
+AC AC AC
+SOLAR ENERGY
+GRID EXPORTED ELECTRICITY METER SWITCHBOARD SOLAR ELECTRICITY USED IN HOUSE
+GRID CONNECTED HOME
+INVERTER
+WITH BATTERIES SOLUTION
+P S A O N L E A L R S DC AC DC
+INVERTER BATTERIES
+CHARGER
+AC
+AC AC AC
+SOLAR ENERGY
+GRID EXPORTED ELECTRICITY METER SWITCHBOARD SOLAR ELECTRICITY USED IN HOUSE
+Homes in the United States are connected to the electricity grid via generated electricity first, before switching to the electricity grid if more
+power lines. Our electricity system uses alternating current (AC), but electricity is required than the solar system can generate.
+the electricity generated by solar panels consists of variable direct Grid-connected solar systems can also feed electricity back to the grid
+current (DC). To transform the DC electricity into AC electricity for if too much electricity is generated through your installation for the
+ordinary household use, solar systems use micro inverters attached immediate needs of your home.
+to each solar panel or a central string inverter attached to a string of
+connected solar panels. Unless you add storage batteries to your system, a grid-connected solar
+system is unable to store power in your home for use at night.
+There is also a third possible inverter solution - power optimizers.
+These are a variance of the string inverter and the micro inverter.
+Once you’re in the process of getting your solar system, ask your
+authorized LG PRO Installer for advice on which of these inverter
+solutions is the most suitable for you. Quality inverter/micro inverter
+solutions include Fronius, SMA, SolarEdge and Enphase brands.
+Today, houses with grid-connected solar systems consume solar-
+6
+
+How Solar Systems Make A Little Love
+From the Sun Go A Long Way
+A solar system is made up of several key components, all of which combine to generate electricity, regulate and
+control the flow of the electricity and to connect and mount the solar system to your home. A grid-connected solar
+system is comprised of panels, a string inverter or micro-inverters or optimizers, a roof mounting system and electrical
+accessories including circuit breakers and wires. It is important that all components work together, with no component
+compromising the performance, safety or life expectancy of any other component.
+S O L A R P A N E L S
+Solar panels on roofs of homes
+generate clean energy by converting
+sunlight into usable electricity. This
+conversion takes place within the solar
+cells and is a process that requires no 325 to 340W 350 to 365W
+moving parts.
+I N V E R T E R S O L U T I O N S
+A solar inverter is one of the most important elements
+of the solar system. It converts the variable direct
+current (DC) output of a photovoltaic (PV) solar panel
+into a 240V alternating current (AC). This AC electricity
+can be fed into your home to operate your household
+appliances.
+Depending on how your system is set up, the electricity
+that is not used in your home is either fed into the grid
+via a digital meter or stored in home batteries for later
+use. New hybrid inverters now include an integrated
+battery management system. The appropriate solar
+system inverters are based on several factors, such as
+your location and the local climate. Your LG PRO Installer
+will be able to give you information on the best long-
+lasting configuration for your home.
+7
+
+M O U N T I N G S Y S T E M S
+Solar systems are mounted to roofs with a mounting system
+using various railings, frames and tiles or tin feet. Most mounting
+systems are made of aluminum with stainless steel hardware and
+are designed to accept a variety of solar modules on a variety of roof
+types. Aluminum rails with clamps attach the solar panels to the rail
+and connection brackets fix the rail to the roof (see diagram below).
+Superior mounting systems are manufactured with higher grades of
+aluminum and stainless steel, often resulting in less weight on the
+roof and lower levels of corrosion over longer periods of time. Quality
+mounting rails may also feature robust anchoring points and design
+solutions that speed up the installation time of your solar system.
+CLIP MOUNTING
+i
+Metering Your Solar System
+There are two fundamental steps to take when
+connecting your solar system to the grid.
+Your electric company will specify what type of meter is
+required to measure your solar generation and energy
+consumption. Your LG PRO Installer will be able to
+explain the details to you. You may be required to pay
+for the cost of the new solar meter, its installation and
+the cost of your solar system. Prices for the meter can
+be a few hundred dollars, so you should make sure that
+the solar electricity meter supply and the connection are
+included in the quote for your new solar system.
+8
+
+Installing Solar Panels for
+Your Solar System
+T I L T I N G A N D O R I E N T A T I O N
+Solar modules can face anywhere from the East to the South and the i Shading
+West, while still providing good output performance.
+Depending on your location in the U.S., your grid-connected LG solar
+system will generate the most solar electricity when the panels are
+facing south at the right angle. The best angle can greatly increase the
+connection between the sun’s energy and your home, which helps to
+build an even greater sense of energy independence.
+Discuss your electricity usage with your LG PRO Installer so that your
+usage pattern can be matched with your solar panels’ installation. Of
+course, the orientation, shape and size of your roof also play a major role
+in where the panels can be installed.
+D A I L Y R O U T I N E
+The amount of electricity generated by your
+solar system directly relates to the amount of
+sunlight that your solar panels receive. If your
+solar modules are in the shade, the system will
+generate less electricity.
+Even a single antenna or a chimney shadow
+on your panels can affect performance, while
+the overall effectiveness of your solar system
+is dependent on where you live. In some areas
+of the U.S., tree coverage greatly reduces the
+effectiveness of solar panels. Using micro-
+inverters or power optimizers on each panel
+instead of one large string inverter (where
+multiple panels are connected to one inverter)
+can help with shadow issues. If you believe that
+Thinking about your daily routine and your electricity consumption will you may have a shade issue, talk to your LG
+help you locate the best possible place for your home to receive the sun’s PRO Installer during your consultation about
+energy. If you use a lot of electricity in the morning, an easterly roof will whether power optimizers or micro-inverters are
+offer the most benefits. If you use a lot of electricity in the middle of a potential solution for you.
+the day, a south-facing roof is more ideal. On the other hand, if lots of
+electricity is used in the early and late afternoon, a south-west facing
+roof is more likely to offer the best outcome. With multi-string inverters,
+you can also put one group of solar panels (one string) on the east and
+one on the west to cover a wider timespan.
+9
+
+M O U N T I N G
+If a suitable roof area is not available at your home, LG solar panels
+can be fitted to a ground-mounted system in a sun-filled spot on your
+land. However, you will need to allow for additional costs for a ground
+mounting system and costs for running the cable safely in the ground.
+These options can be discussed with your local LG PRO Installer.
+I N S T A L L I N G P A N E L S F O R LG is confident that our panels will give you years of reliable functionality
+and an even greater appreciation for solar energy. Although the
+G R E A T E R P E R F O R M A N C E
+cables, safety devices and mounting systems are less influential to the
+performance of your solar system, the use of poor-quality cables or
+isolators can lead to an early ending to your new-found relationship
+with the sun. In cases where non-branded plugs and cables were used,
+complete system failures have occurred.
+For a decade of low maintenance to your solar system, it is strongly
+suggested that you purchase high-quality solar panels and quality solar
+inverters, and ask for high-quality system components in all aspects of
+your solar system.
+Some inexpensive solar panels have failed in certain climates in as little as
+24 months. Some issues have been water ingress, corrosion, hot-spots,
+failed bypass diodes or junction box failures. These types of failures lead
+to the write-off of the panel. Lengthy promised warranties are hard
+to claim if dealers, installers or panel manufacturers have gone into
+liquidation or have stopped operating.
+10
+
+How Many Panels Does
+Your Solar System Need?
+An LG PRO Installer will visit your home for a site inspection to check
+the roof position, discuss your electricity usage pattern, suggest
+monitor options and, where applicable, conduct a shade analysis to
+ensure that the right quantity of the most suitable panels is placed
+in the optimum position. Buyers should insist that their installer also
+undertake a physical site inspection.
+An installer’s willingness to visit your home gives some indication of
+the quality of service you will receive for your purchase. As a result, we
+advise that you buy your solar system from a local installer and not an
+Internet-based solar sales agent.
+Historically (when Internet solar sales were rapidly increasing),
+consumers purchased solar systems without site inspections.
+Sometimes this resulted in their installer highlighting the need for
+special roof brackets or a total switchboard upgrade before the solar
+system could be installed. These additions added unexpected costs and
+time delays to the installation.
+Before making your purchase decision, find out who your point of
+contact will be if you have questions after the installation. Make sure
+that you ask for a comprehensive written warranty from your LG PRO
+Installer for the cabling and installation work, not just the panels,
+inverter and mounting frame.
+How Long Do Solar Systems Last?
+The key components susceptible to failure in your solar system are the solar panels,
+the inverter and some components such as fuses and isolators.
+LG solar products tend to have longer life cycles as they undertake more quality
+control steps, use higher quality cells and solders, have stronger UV protection
+on backing sheets and ensure the water sealing of panels withstands decades of
+weather-induced deterioration. Very low-cost panels with less UV-stabilized backing
+sheets, cheaper sealants and more fragile framing can deteriorate faster, and can fail in
+as little as 2-4 years.
+Unfortunately, sometimes lengthy warranties on cheaper products have been
+unobtainable, as both manufacturers and installers have avoided liability by going out
+of business.
+The key warranties to investigate are for performance, product and labor. These cover
+the power output of the panel, a replacement panel and its transport in the case
+of a panel failure and the labor costs involved in replacing a panel. Cheaper panels
+often do not cover transport and replacement labor. Make sure you verify with your
+installer what is covered in the warranty and ask for the detailed warranty document.
+LG NeON® 2 and LG NeON® R panels are backed by a 25-year warranty that covers
+performance, product and labor (Labor costs in the rare case of a needed module
+repair or replacement are covered up to $450.)
+11
+
+Solar Panel Sizes
+W H Y P A N E L
+SMALL HOME
+E F F I C I E N C Y M A T T E R S
+1-2 People
+2-3kW System
+Av. production per day: 12 kWh A few years ago, many people who started embracing the power of solar systems did not consider
+the efficiency of their panels. If they wanted a 5kW system, they could buy 20 panels with 250W
+or 23 less efficient 220W panels. Most customers never imagined they would need more than
+5kW of solar, and in many homes 20 to 32 panels will fit on the roof. That was the old way of
+using solar power.
+MEDIUM HOME
+2-3 People Now, with the emergence of battery storage as a smart way to harvest energy generated during
+the day for use at night, panel efficiency has become an important consideration.
+3-4kW System
+Av. production per day: 16 kWh
+Making full use of the powerful relationship between modern solar panels and the sun, LG has
+now released a 360W and 365W NeON R in the 60-cell range. If you can save eight spots on
+your roof with a more efficient panel, you have more options for a smaller roof. You can even add
+another 3.6kW solar system for your batteries or electric car charging, which you would not have
+LARGE HOME been able to do with less efficient panels.
+4+ People
+It is important today to buy a system with future expansion capability in mind, both for batteries
+5-8kW System
+Av. production per day: 36 kWh and for how you’ll use the energy your system generates – cars, night consumption needs, etc.
+Buy now with the needs of the future in mind. Choose highly efficient panels and keep spare roof
+space for future expansion.
+12
+
+Incentives and Financing for
+Going Solar
+A R E T H E R E I N C E N T I V E S
+A V A I L A B L E F O R Y O U R
+S O L A R S Y S T E M ?
+Government incentives may be available for your solar system. Over
+the years, these incentives have changed, and they are likely to
+change in the future. Talk to your LG PRO Installer to get the updated
+information you need about the latest incentives applicable to you.
+U.S. incentives vary greatly based on a homeowner’s location. Many
+great programs are available for people on the local, state and federal
+level. In order to find out what types of incentives are available to you,
+LG will connect you with a local LG PRO Installer who can walk you
+through your options.
+F I N A N C I N G Y O U R S O L A R
+P R O J E C T
+Consumers also have the option to finance a solar system. Often,
+homeowners redraw on their mortgage to finance the solar
+and battery system. Your LG PRO Installer can advise you about
+other available finance options, such as those from banks and
+government incentives.
+13
+
+Details on How
+to Choose a
+Solar Company
+It is recommended that consumers use a reputable installer who
+checks your specific solar system requirements and ensures the
+connection between the sun and your home is strong. Please see
+the points below regarding the advantages of using a company
+promoting high-quality products.
+01
+A reputable solar retail company is more likely to
+fully evaluate your requirements and explain in
+detail what needs to be done in order to install
+your solar system.
+02
+A local diversified company is more likely to be
+around in the future to service any warranty
+issues or system upgrades. As we’ve shared in
+this educational piece, some solar installers and
+dealers make big promises, but then vanish.
+03
+If your installer is selling you LG solar panels, then
+LG is more than likely to service your panels in
+the future through your local LG PRO Installer.
+If you choose an unknown brand, again, the
+manufacturer may go out of business, or the
+importer may stop importing these panels into
+the U.S. A safe option is to buy branded solar
+panels from diversified manufacturers such as LG
+that have a proven track record. After all, the sun
+loves LG and knows the company’s decades of
+innovation mean it’s going to be here when you
+need it to be.
+04
+A reputable solar company will be fully aware of
+current electricity supply rules and will provide
+advice on the best system for your needs and
+location. Well-established businesses will be more
+likely to give you the most up-to-date advice.
+05
+If your local installer is aligned with LG, then he/
+she must install the solar power system to a high
+standard and act ethically in all business dealings
+with you, the customer.
+14
+
+Questions to Ask
+S O M E S T A T E S R E Q U I R E
+Before You Buy I N S T A L L E R S T O H A V E
+A L I C E N S E B E F O R E
+I N S T A L L I N G A S O L A R
+Asking your solar installer a few essential
+S Y S T E M .
+questions may make a big difference to the
+T H E F O L L O W I N G
+service and benefits you receive. Make sure you
+E L E M E N T S A R E
+get the answers in writing.
+C O N S I D E R E D W H E N
+D E S I G N I N G A S O L A R
+• What is the estimated monthly and annual production in
+S Y S T E M :
+KWh of my system in its installation position?
+• What is the estimated solar electricity production in the
+best and worst months?
+• Your current electricity consumption and future needs.
+• Who will service and maintain my solar system? Get an • The available roof space and optimum panel location.
+address and contact details in writing, preferably of
+• The orientation and pitch of the roof(s).
+someone reasonably local.
+• Impact of shading across all seasons and time of day.
+• What are the responsibilities for each party: the installer,
+• The structural soundness of the roof.
+manufacturer and consumer?
+• Sizing the strings of panels for the correct voltage of the
+• Who is responsible for connecting your solar system to the
+inverter solution.
+electricity grid? Is it the installer? When will it happen?
+• • Ensuring the design meets building codes and electrical
+• Who is responsible for your meter change? Make sure
+standards.
+this is clarified. Quality companies usually offer to do the
+whole job. • Determining the most suitable location for the inverter
+and the way the cables are run.
+• How will the installer credit your solar rebate?
+• Considering appropriate monitor options and if batteries
+• Can I have a copy of the manual to get a detailed description
+are appropriate.
+of the solar panels?
+15
+
+Important
+What you should know about the 25-year
+Performance Warranty
+Over time, all solar panels will show degradation and produce
+less electricity. In order to give buyers some guidance about the
+level of expected degradation, a warranty is offered by most
+manufacturers. This warranty lasts, in most cases, for 25 years
+and guarantees, for conventional panels, an output of around
+80% of the original capacity. LG guarantees up to 90.08%
+efficiency for the NeON® 2 and the LG NeON® R guarantees up
+to 90.8% efficiency with a 25-year performance warranty.
+Unfortunately, this warranty can easily cause confusion. Please
+note that an output warranty IS NOT a performance warranty. An
+output warranty only covers a portion of the costs for replacing
+your solar panels and only if your panel is in working order. On the
+other hand, a performance warranty covers all costs of replacing
+a faulty solar panel with a new one.
+In many sales promotions, the 25-Year warranty is highlighted,
+but when it comes to an output warranty, you will have to pay for
+removing panels from the roof, shipping the panels for testing,
+the return, and reinstallation.
+Output warranties don’t cover the full cost of replacing a panel,
+especially when the customer has to spend many hundreds of
+dollars on install/uninstall costs.. Be aware of glossy 25-Year
+warranty stickers – it is the performance warranty that counts
+toward getting the most out of your investment in using solar
+energy to strengthen your relationship with the sun.
+16
+
+Additional Tips To Get Started With Solar
+Unfortunately, as in any
+industry, some unscrupulous
+companies can affect the
+reputation of professional,
+positive and reliable suppliers.
+Please see these helpful hints
+on how to avoid poor-quality
+solar system installers.
+1. Undertake some solar research via our years will be like and how your home power to separate the “wheat from the chaff.”
+Frequently Asked Questions needs may grow. Companies like LG offer a full labor warranty
+(FAQs). and a product replacement warranty. Finally,
+5. Solar systems vary in quality and size, and make sure that the manufacturer has a
+2. Do your research about brands and prices. so does the price. Lower-grade systems may local legal entity in the U.S. Should you have
+There are some very cheap offers in the cost you more in the future in repairs and a dispute in the years to come, a company
+market, but these cheaper deals can hide replacements. Use your tax rebate wisely. You with no link and contact in the U.S. may be
+poor quality equipment. You are looking for are making a 25-year or longer investment, hard to communicate with when it comes to
+a product that lasts at least 25 years so that so please consider quality and real warranty consumer rights.
+your financial investment is repaid over and support over everything else. And remember,
+over. Research the companies offering a solar system with a good brand name and 9. Choose a quality inverter solution to go
+cheap deals. performance at the time you sell your home with quality panels: An inverter is the heart of
+might increase your property value. your solar system. It will have a direct impact
+3. Don’t give in to pressure and deadlines. on the efficiency of conversion from solar
+If the salesperson cannot give you the time to 6. Panel Types & Certifications: We energy to usable electric power. The more
+make a considered decision, then they might recommend the high-efficiency NeON® efficient the inverter solution, the better the
+be afraid you will discover something bad mono-crystalline solar panels. They have a energy conversion process will be.
+about the deal after doing a bit of research. black appearance and from our point of view
+If the company has just arrived in town with will aesthetically blend in more to your roof 10. Quotes & Buying: Do not get pressured
+a great deal, they might be gone after the and neighborhood than the blue multi- by salespersons to sign a deal then and
+install, leaving you to your own local devices. crystalline solar panel variety. there. Use reputable and established local
+Please buy from reputable solar companies. In businesses to install your solar system.
+the years to come, you might need their solar 7. Solar systems attract government rebates.
+expertise and support. You should check with the installation
+companies if the offered panels are eligible for
+4. How big is your roof and how big a solar local and federal tax credits. To find out what
+system can it fit? Remember to allow some incentives are available to you, visit our blog
+reserve space for when you install a solar page, https://www.lg.com/us/solar/blog.
+storage battery for nighttime solar power
+use, and then again for more battery storage 8. Performance Warranty: Many
+capacity to charge up an electric car in the manufacturers will offer 10 years’
+future. Your quality solar system is built to performance warranty and an 80.2%
+last 25+ years. Go back 25 years to the days performance efficiency warranty at 25 years
+of brick phones, dot matrix printers, and (LG guarantees 89.6% with the NeON® 2).
+boomboxes to consider what the next 25 For the average consumer, it becomes difficult
+17
+
+Visit us at LG Solar:
+The Sun Loves LG
+For more information visit: http://lg.com/us/solar
+LG Electronics Inc.
+2000 Millbrook Court, Lincolnshire, IL, 60069 US
+Copyright © 2019 LG Electronics. All rights reserved.
+18

@@ -1,0 +1,623 @@
+The Complete Battery Reconditioning Report
+by The Battery Geek
+Copyright Kevin Dixon Inc. 2006
+This ebook is not to be resold or given away or any of the content copied and
+published in anyway.
+
+Table of Contents
+Introduction
+Who am I and why am I Qualified
+Tips to Prolong the Life of NiCd or NiMh Batteries
+Tips to Prolong the Life of Lithium-based Batteries
+Investing in a Good Smart Charger
+Why Batteries Need to be Reconditioned
+How to Test your Battery with a Voltmeter
+How to Test your Batteries with a Battery Analyzer
+How to Recondition a Battery without a Battery Analyzer
+How to Recondition a Battery with a Battery Analyzer (The Best Way)
+How to Rejuvenate a Battery
+How to Revert a Reversed Cell
+Appendix
+Glossary of Common Battery Terms
+Disclaimer
+This is an informational product only. We are not responsible for any injury or
+damage that may occur. All procedures in this ebook should be done with a pair
+of safety goggles and a pair of high voltage gloves. Also, it is very important that
+you not wear any jewelry while dealing with batteries.
+Although these principles can be used with car batteries or any other Lead Acid
+batteries This ebook does not consider them throughout. Take extra precaution
+when dealing with them. These batteries must be charged and discharged in a
+well ventilated area. Use goggles and acid gloves and aprons when handling
+these types of batteries.
+Danger
+Never connect a battery’s negative terminal to another batteries positive terminal
+and then also connect the other 2 terminals. An explosion and/or a fire could
+occur as a result.
+Never connect a battery in reverse polarity to any instrument that was not
+designed to do so.
+
+Introduction
+I have tried to write this informational ebook in a way that anybody can
+understand. You don't have to be a geek to understand what I'm talking about.
+I'm the geek - not you.
+I try not to use a term that a non-geek would understand but sometimes this is
+impossible. So I have provided a Glossary of Common Battery Terms in the
+Appendix.
+So if you find something confusing, please let me know so that first of all I can
+explain it so that you understand but also so that I can make the changes and
+others can understand it as well. Email me for any questions here.
+If you are a geek like me, let me greet you in geek speak – “Live long and
+prosper”. I hope that you will find this report useful information. If not, let me
+know how to improve it by emailing me here.
+OK. So now you have bought this report and you are ready to recondition your
+batteries. Right? That may be correct IF you already have a battery analyzer like
+the CBAII. However, if you don't have this yet, don't fret. You could possibly get
+one in have it in 2-6 days if you don't delay and order within 24 hours.
+I know that I hate it when I buy information like you did here and you find out that
+there are additional hidden costs in achieving the results that was presented to
+you. So that is why I told you upfront that the only other thing that you need is a
+battery analyzer that can be bought for about $120.
+We sell a battery analyzer that is very cost effective and works very well. The
+Computer Battery Analyzer II or CBAII measures and records a graphical display
+of your batteries performance on your computer. All you need is a USB port.
+It will test any kind of battery. Test at up to 40 amps, 150 watts or 48 volts,
+whichever is higher.
+So if you still need to order one, do it now. You order via our webpage on the
+internet. You can read this while you wait:
+http://www.Battery-Reconditioning.com/CBA.htm
+(You must be connected to the internet)
+So I am assuming you are alright with this situation and that I won't get any angry
+customers that didn't know. There is a way to recondition your batteries without a
+battery analyzer if you can learn how to build a circuit and use a voltmeter.
+
+You will also be pleasantly surprised that there are all sorts of tips and common
+things that you can do to help improve the charge capacity of your battery and
+help you increase the life of your batteries in this ebook as well.
+In addition there are links in various locations throughout this ebook to refer to
+additional information or to third party’s website. You must be conn ected to the
+internet for these to work.
+Who am I and why am I Qualified
+The short answer is - I am an electronic technician with additional experience in
+the power tool industry. I received my Associate of Applied Science in Electronics
+degree in 1989. Since then I have worked at a company that manufactured
+pacemakers and implantable defibrillators. I worked at NASA and I worked for
+Texas Instruments. All as an electronic technician.
+During this time I went a step further and achieved certifications as a Biomedical
+Electronic Technician and an Industrial Electronic Technician. After 15 years in
+the industry, I reached the top of my pay grade and worked on starting my own
+business.
+So I started selling Bosch and Skil Power Tools on the internet and I noticed a
+trend in power tool batteries - it's fairly obvious and common to everybody…
+rechargeable batteries don't last forever and they need to be replaced.
+Also, another factor contributing to this problem is that batteries are most often
+THE most expensive component in the power tool. So trying to attack this
+problem has become my goal.
+Tips to Prolong the Life of NiCd or NiMh Batteries
+(cid:190) Do not leave a nickel-based battery (Ni-Cad & Ni-MH) in a charger for
+more than a day after full charge is reached – This will result in
+overcharging and that is bad for your battery’s longevity.
+(cid:190) Apply a monthly full discharge cycle. Running the battery down in the
+equipment may do this sufficiently -This exercises the battery which helps
+prevent the "memory effect".
+(cid:190) Do not discharge the battery before each recharge - This would put undue
+stress on the battery.
+(cid:190) Avoid elevated temperature - A charger should only raise the battery
+temperature for a short time at full charge, and then the battery should
+cool off - Room temperature is ideal.
+
+(cid:190) Use quality chargers to charge batteries.
+Tips to Prolong the Life of Lithium-based Batteries
+(cid:190) Charge the Li-ion often, except before a long storage. Avoid repeated
+deep discharges.
+(cid:190) Keep the Li-ion battery cool. Prevent storage in a hot car. Never freeze a
+battery.
+(cid:190) If your laptop is capable of running without a battery and fixed power is
+used most of the time, remove the battery and store it in a cool place.
+(cid:190) Avoid purchasing spare Li-ion batteries for later use. Observe
+manufacturing date when purchasing. Do not buy old stock, even if sold at
+clearance prices.
+Investing in a Good Smart Charger
+A smart charger is a charger that can sense when a battery is fully charged and
+then revert to a trickle charge that keeps the battery topped off. These usually
+come in charge times of 1 hour and some charge in 30 minutes even in15
+minutes. These all have the electronics to sense a fully charged battery. That's
+why they cost a little more or alot more depending on your perspective.
+A non-smart charger usually has a 3 hour charge time or more. They usually
+have a lower charge current and therefore, take longer to charge a battery.
+However, most of these have no way to sense a full battery so that it can revert
+to a trickle charge. So what it does is continue to charge at the same rate when
+the battery is fully charged. This results in an overcharge condition and can
+seriously reduce the life of a battery and even damage the battery after an
+extended time on charger.
+This is typically evident in batteries whose users like to have the battery sitting on
+the charger all the time so that when they need it, it will always be fully charged.
+Unbeknownst to the user, he is slowly reducing the life of the battery and
+sometimes it doesn't take all that long. Sometimes weeks, sometimes months.
+A smart charger will make your batteries last longer mainly because it does not
+overcharge the battery. These type of chargers would allow one to leave a
+battery on the charger for when it comes time to use it. However, I recommend
+that you don't do this for days. Letting sit on the charger overnight would be fine.
+Then store the battery in room temperature, out of sunlight and in a dry place.
+
+Notice that all batteries discharge themselves very slowly. This is called the self-
+discharge rate. Something like how a balloon deflates slowly over time. You will
+need to recharge it eventually.
+Also note that battery manufacturers have discovered that charging batteries and
+storing them at about 40% is the optimum near long term storage capacity. They
+want, and conversely the consumer wants the optimal battery condition when
+they receive it.
+Why Batteries Need to be Reconditioned
+Rechargeable batteries do NOT last forever. There are only so many times that
+you can charge and recharge them. First they start to lose power and you find
+that there is less and less usable time that you have before you must charge
+again.
+Some people have termed this the memory effect. The term "memory" basically
+is described as the battery "remembers" its usual discharge point and
+superficially "needs" a charge whenever it hits that point.
+In other words, if you have a NiCd that always gets discharged to only 50% of its
+capacity, it will eventually not run below that 50% mark if you ever wanted to
+discharge it to a lower point.
+In a new NiCd battery the active cadmium is present in finely divided crystals.
+The memory effect develops as these crystals grow and reduce the effective
+surface area of the cadmium. See the figures below.
+This an example of a new NiCd
+cell. The cadmium consists of
+fine grains. The surface area is
+maximized.
+This is an example of the
+cadmium in a NiCd that has
+developed some large crystals.
+This effectively reduces the
+surface area of the cadmium and
+reduces the charge capacity.
+Pictures courtesy of Isidor Buchmann's "Batteries in a Portable World"
+
+This results in voltage depression which leads to a loss in capacity. Advanced
+crystal formation can lead to sharp edges piercing the separator between the
+plates and causing a high self discharge rate or an electrical short.
+Many people who do not know about this effect just throw away the battery
+because they think it is dead. More than likely, the battery can be revived
+providing that the battery isn't completely damaged (i.e. from years of memory
+buildup).
+Basically rejuvenation and reconditioning of the batteries can break down this
+crystal formation as long as they are not so ingrained from years of memory
+buildup.
+NiMh is also affected by this memory condition but not as pronounced. So these
+procedures can apply to them as well.
+Lithium and lead based batteries do NOT suffer from the memory effect but plate
+oxidation on the lithium and sulfation and corrosion on the lead acid systems
+cause reduced charge capacity as well.
+Lithium batteries are non correctable but lead acid can be corrected with a
+combination of electrolyte replacement and reconditioning. Check out the Battery
+Doctors on how to do this.
+How to Test your Battery with a Voltmeter
+The following test is not an absolute test. Measuring voltage can only give you an
+indication if the battery is bad. For complete testing see How to Test your
+Batteries with a Battery Analyzer. The bolded words are for emphasis. Make sure
+that you follow the instructions closely and remember to wear your safety
+goggles.
+1) Find the positive (+) and negative terminals (-) on your battery. They
+should be marked somewhere.
+2) Place your Red Lead (+) on the positive (+) battery terminal and the Black
+Lead on the negative (-) battery terminal.
+
+3) Take a reading on your Battery in question in DC volts. Write down the
+reading. Refer to this table for an explanation and suggestions:*
+0 volts This battery is completely dead. It may be rejuvenated.
+0 ohms (direct short) All cells in this battery are internally shorted or there is
+another short with the wiring. It may be rejuvenated by
+exercise extreme caution as there will be sparks. If it’s
+a direct short, nothing can be done other than
+disassembling the battery and looking for the shorted
+connections. Otherwise a technician will nee to do this.
+See Batteries Plus if you need this type of help.
+Open, infinite ohms The battery is dead or there is a bad connection
+(OL) somewhere (it could be in the battery). Try the below
+procedure to see if there is voltage. If not, you can try
+rejuvenating it.
+Less than 1 Volt per Either the battery has been discharged too far and
+Cell* could have caused damage or one or more individual
+cells within the battery is internally shorted or
+reversed. Try measuring the battery’s capacity first.
+Then the rejuvenation procedure.
+
+*Note: See the Nominal voltage table in the appendix.
+4) Place battery in A KNOWN GOOD CHARGER for 3 to 5 minutes.
+5) Take another reading on the battery, IF it is NOT up to the nominal voltage
+of the battery, at least one of the cells or more are INTERNALLY
+SHORTED. It will melt down a charger without current protection. Perform
+a battery rejuvenation on this battery.
+Example: An 18.0 volt power tool battery reads 10.5. After 4 minutes of
+charging on a GOOD Charger, it now reads 11.6. THIS BATTERY IS BAD
+(It will burn up a charger with no current protection).
+Same battery after 4 minutes on charger, reads 18.0 volts. This battery is
+good. Charge it and test the capacity of the battery.
+How to Test your Batteries with a Battery Analyzer
+Make sure that your battery is fully charged before you start this test. If it is not,
+you will not receive a good measurement of it's capacity.
+1) First you must install the software that comes with CBAII. Follow the
+instructions that comes with it.
+2) Next you need a set of leads
+to connect the battery
+analyzer to the battery to be
+tested.
+I used a 1 foot section of
+speaker wire and attached to
+sets of color coded alligator
+clips obtained from Radio
+Shack.
+Caution: Use at least a 16
+gauge wire - wire too thin can
+get very hot and even melt.
+3) Color code the alligator clips so that you don't cross the wires.
+
+4) Double check this by checking the continuity of each color coded alligator
+clip. You will need to solder the wire to each alligator clip. However, you
+may be able to crimp them together.
+5) Connect the Red Lead of the CBAII to the positive (+) terminal of the
+battery via the jumper wire. Double check yourself always.
+6) Now connect the Black Lead from the CBAII to the negative (-) terminal of
+the battery via the jumper wire.
+7) Give the test a name to save it by. I like to label my batteries and name
+the tests accordingly so that I never get confused as to which one is
+which.
+
+8) Select the Battery Type: Lead Acid, NiCd, NiMh, Li-ion, etc. This should
+be marked on your battery somewhere if you don't know.
+9) Select the Capacity of the battery in Amp Hours (ah). If you don't, it may
+be marked on the battery. If not you may have research this a little.
+You will not know what percentage of capacity that the battery is at if you
+don't know what the full capacity is.
+10) Now skip the voltage field and type in how many cells are in this battery.
+You can calculate this by referring to the Nominal Voltage Table in the
+appendix.
+Example: The Nominal Voltage Table tells you that there are 1.2 volts per
+cell in a NiCd battery and you know that you have a 12 volt battery.
+Divide 12 by 1.2 and you have 10 cells. (Cells = Nominal Voltage / Volts
+per cell).
+11) Type this number in the Cells field.
+12) Test Amps will be set by default to whatever the Capacity is. Leave this
+alone for now – this is what you want to test at.
+
+13) The Test Cutoff V is set to 0.9 volts per cell. This is the voltage that the
+test will cut off at. Leave this at 0.9 volts per cell for the test.
+14) You will notice that the Voltage field on the right hand side of the window
+is reading the actual voltage of the battery.
+15) If this is already below the Cutoff Voltage. The test can not run as it is
+already below the cutoff. If this is the case, try rejuvenating the battery and
+charge it again. Other wise you won't be able to test it.
+16) Now press the Start button and the CBAII will do the rest. When it says
+that it is done, just save the file.
+17) The capacity of the tested battery in the graph below is 1.70 Amp Hours.
+Where the test ends, read the Amp Hours on horizontal scale.
+18) Your test should look like this with a graph of Voltage against Amp Hours.
+19) You can calculate the battery's measured capacity in percentage by
+dividing the measured Amp Hours by the battery's full capacity in Amp
+hours.
+
+20) If it is within 5% of the battery's full capacity, it is practically as good as
+new. Do nothing more with this battery.
+If it is anywhere between 50% to 95% you may improve it by
+reconditioning it. If it less than 20% you may try to rejuvenate it and then
+recondition it.
+Note: I've seen one battery that was completely dead turn around and put
+out 100% after rejuvenating and reconditioning. On the other hand I've
+seen some that get worse. It's really a case by case situation.
+How to Recondition a Battery without a Battery Analyzer
+There is a couple of ways to recondition your battery without using a battery
+analyzer. One is the Super Easy way but it is not as effective as the little more
+detailed way.
+The Super Easy Way (aka. Exercising the battery)
+This may sound dumb to you because it is so simple but you would be amazed at
+how many people don't know this. And it can revert a battery that has built up
+some memory.
+1) Discharge your battery by running it through normal operation until it either
+shuts off or does not operate any longer. For example when your cell
+phone shuts off by itself or run your drill until it doesn't turn anymore.*
+*Note: On a power tool or a battery that is used in a high current
+application let the drill turn without a load (nothing to impede the turning of
+the chuck) when you are near the end of the discharge.
+2) Then fully charge the battery.
+3) You may need to repeat this procedure one or 2 times if you don't notice
+any difference.*
+*Note: You don't want to do this every time because it would cause too
+much strain on the battery. After you initially notice some improvement
+from doing the above procedure then do this about once a month to
+maintain the battery.
+
+How to Recondition without a Battery Analyzer (not so simple)
+1) You will need a volt meter to measure the voltage of the battery. Then you
+will need to discharge the battery from normal operation. This may be
+running the drill until it stops or keeping the cell phone on until it shuts off.
+2) Next you will need to calculate the reconditioning current. The current
+needs to be low so that you can bring down the voltage of the battery to
+0.6 volts per cell without damaging the battery.
+Reconditioning Current = ah / 10
+Where ah is the amp hour rating of the battery. For example, 2 ah will
+provide 2 amps of current for one hour. Conversely, it will provide 1 amp
+for 2 hours.
+3) Calculate the resistance that you will need to discharge the battery:
+Resistance = V / Reconditioning Current
+This is the resistance that you will need to do the reconditioning.
+4) Now you need to find a resistor or a combination of resistors that will equal
+this resistance. If you err, error on the higher resistance side. This will
+cause a slightly lower current which is safer.
+When dealing with DC voltage connecting resistors in series adds their
+resistance but you put them in parallel you will need this formula (See
+diagram below).
+5) You must also consider the power in watts when selecting resistors.
+Calculate power with this formula:
+
+Power = Voltage * Reconditioning Current
+This can vary greatly depending on how big the battery. From 1/4 watt for
+a cell phone battery to 10 watts for a large power tool battery. It's better to
+overestimate here.
+Also, if you are connecting resistors in parallel, you can add the wattages.
+Caution: These resistors may get hot during reconditioning.
+6) This typically takes 3 to 4 hours to complete. However, depending on the
+condition of the battery, differences in time may be more dramatic.
+Caution: You must monitor that battery voltage carefully, don't leave it
+unattended as this can result in permanently damaging your battery. You
+do NOT want to go below 0.6 volts per cell.
+7) When you reach 0.6 volts per cell stop the test.*
+*Note: I have indicated 0.6 volts per cell here. In reconditioning with the
+Battery Analyzer, I say 0.4 volts. This is to allow for any human error. If
+you were to leave it unattended even for a few seconds and it went below
+0.4 volts per cell you could be permanently damaging the battery.
+How to Recondition a Battery with a Battery Analyzer (The Best Way)
+1) First make sure that your battery is discharged to about 1 volt per cell. You
+can recondition the battery right after you just tested it because then it is
+discharged.
+2) If you just tested the battery's capacity you can skip steps 3 thru 9 here.
+
+3) Next you need a set of leads
+to connect the battery
+analyzer to the battery to be
+tested.
+I used a 1 foot section of
+speaker wire and attached to
+sets of color coded alligator
+clips obtained from Radio
+Shack.
+Caution: Use at least a 16
+gauge wire - wire too thin can
+get very hot and even melt.
+4) Color code the alligator clips so that you don't cross the wires.
+5) Double check this by checking the continuity of each color coded alligator
+clip. You will need to solder the wire to each alligator clip. However, you
+may be able to crimp them together.
+6) Connect the Red Lead of the CBAII to the positive (+) terminal of the
+battery via the jumper wire. Double check yourself always.
+7) Now connect the Black Lead from the CBAII to the negative (-) terminal of
+the battery via the jumper wire.
+
+8) Give the test a name to save it by. This time identify the battery label and
+as a reconditioning cycle. I usually put in "Recon" somewhere in the
+name.
+9) Select the Battery Type: Lead Acid, NiCd, NiMh, Li-ion, etc. This should
+be the same as in "How to Test your Batteries with a Battery Analyzer"
+above.
+10) Select the Capacity of the battery in Amp Hours (ah). This should be the
+same as in "How to Test your Batteries with a Battery Analyzer" above.
+11) Now skip the voltage field and type in how many cells are in this battery.
+This should be the same as in "How to Test your Batteries with a Battery
+Analyzer" above.
+12) Set the Test Amps to 1/10th to 1/20th of the batteries Rated Amp Hour
+Capacity of the battery.
+Example: for a 12 volt, 1 Amp Hour battery. Divide the Rated Amp Hour
+Capacity by 10. Or for an extra measure of safety (for the battery) and
+maybe a little more deeper reconditioning divide by 20.
+
+13) Set the Test Cutoff V to 0.4 volts per cell. This is the voltage that the test
+will cut off at. For example, multiply 0.4 times the number of cells in the
+battery.
+14) Now press the Start button and the CBAII will do the rest. When it says
+that it is done, just save the file.
+15) The Amp Hour reading really is not relevant at this point but you have just
+performed a reconditioning cycle on your battery. It should look something
+like this depending on the Nominal Voltage of the battery. This was for a
+14.4 volt battery.
+16) Now charge the battery to a full charge and test the battery's capacity
+again.
+17) Usually about 75% of the battery's improvement would have shown on the
+test after the first reconditioning cycle but you can perform this test up to 2
+more times if you find that you are improving the capacity with each
+reconditioning cycle.
+Warning: Don't perform more than 3 reconditioning cycles within one
+month's timeframe as you will burning up precious charge cycles on just
+
+reconditioning. Remember the point of reconditioning is to get more
+usable life out of the battery.
+How to Rejuvenate a Battery
+There are 2 ways to rejuvenate a battery. One way is easy but not as effective
+(isn't this how it usually works?). If your battery contains screws that allows you
+to easily open the casing of the battery you will have better results by following
+the normal battery rejuvenation procedure below.
+Normal Battery Rejuvenation Procedure (Need a rejuvenation battery)
+1) First you will need a 2 jumper wires with small alligator clips on each end
+(Can be obtained from Radio Shack).
+Caution: Use at least a 16 gauge wire - wire too thin can get very hot and
+even melt.
+2) Color code the alligator clips so that you don't cross the wires.
+3) Double check this by checking the continuity of each color coded alligator
+clip.
+4) You will need to solder the wire to each alligator clip. However, you may
+be able to crimp them together.
+5) Carefully remove the casing of the battery to be rejuvenated. If it is sealed
+try the Quick Easy Way.
+6) Measure the voltage of each individual cell, making sure that you have the
+correct polarity.
+
+If the voltage is 1 volt or more it should be a good cell.
+If the voltage is less than 1 volt especially 0 volts and o ohms is a shorted
+cell (The picture above shows a shorted cell – No voltage – 1.8 ohms).
+7) Note the bad cell or cells by marking them somehow.
+8) Now you need a rejuvenating battery (This will do the rejuvenating). You
+can use many different batteries for the Resurrection process. I use a 12
+volt power tool battery if possible. You could use a 6 volt lantern battery or
+a 12 volt car battery.
+9) Now make sure that you positively note the negative (-) terminal and the
+positive (+) terminal of both batteries.
+10) Touch negative (-) terminal to negative (-) terminal and positive (+) to
+positive (+) terminal for no more than 3 seconds.
+11) New life is back in the cell.
+12) Repeat this for each shorted cell.
+13) Now check the shorted cell with the volt meter and you will see the short is
+gone and it is at full voltage. The cell is not fully charged, but the voltage is
+restored and the short is gone.
+
+Note: You might see a tiny spark when doing the rejuvenation and that's
+ok. If you see a large spark - most likely you have the polarity wrong.
+14) Reassemble the battery.
+Note: You will be amazed at how well a rejuvenated battery will work, but don't
+expect it to be as good as a brand new battery. Ni-Cad batteries have a life that
+dwindles each time it is charged. The cells in your battery are used and will
+eventually need to be rejuvenated again.
+The Quick Easy Way (but not as effective)
+1) You will need a 2 jumper wires and a rejuvenating battery for this
+procedure. It will be alot easier to use jumper wires with small alligator
+clips on each end. (Can be obtained from Radio Shack).
+Caution: Use at least a 16 gauge wire - wire too thin can get very hot and even
+melt.
+2) Color code the alligator clips so that you don't cross the wires.
+3) Double check this by checking the continuity of each color coded alligator
+clip.
+4) You will need to solder the wire to each alligator clip. However, you may
+be able to crimp them together. You will need a rejuvenation battery. This
+will do the rejuvenating to the bad battery.
+Note: This battery can be the same voltage or a higher voltage battery.
+Doubling the voltage is optimum. You can do this by connecting 2
+batteries in series like this:
+
+I typically use one 24 volt battery to rejuvenate all power tool batteries
+(See picture below for using a 24 volt rejuvenating battery to a 12 volt
+battery).
+5) It is important to positively identify the positive and negative ends of each
+battery.
+6) Hold the negative (-) alligator clip to the negative (-) terminal and tap the
+positive (+) alligator clip to the positive (+) terminal of the bad battery for
+about 1 second. (Not too long).
+
+7) Tap it about 3 times.
+8) Check the voltage on the rejuvenated battery. It should be at or above the
+nominal voltage.
+How to Revert a Reversed Cell
+No batteries are created equal, and what will most likely happen in a multi-cell
+battery is that one or more of the cells will "reverse" because they are weaker
+than the other cells.
+The reversed cell begins to accept a "backwards" charge from the other better
+charged cells around it. This is really bad for a battery if you don't catch it,
+because chances are it won't charge again while in the pack.
+If you are going to discharge a pack and you cannot open it to test individual cell
+voltages, please discharge to approximately 1.2 volts per cell. This will help
+prevent reversing cells.
+If you do reverse a cell and can access each individual cell, I have found that
+giving that cell about 4.5 volts (up to 1 A current) in the right direction, it will
+probably set itself straight.
+
+Measure the voltage of the cell after the "shock" charge. If it doesn't improve, try
+again. If you are still unsuccessful, try a higher voltage. I've needed 9 volts in
+some cases to get a cell working again.
+Once you get the cell at > 1.2 volts, immediately put the pack on charge now so
+that battery won't have time to reverse again.
+Charge the pack fully for 24 hours on a trickle charge to make sure that the
+reversed cell(s) have recovered fully.
+Also note that the once-reversed cell will never be the same. It will now always
+be the first one to reverse in the pack, so you might want to be aware of that
+when you try to discharge/cycle it in the future.
+Appendix:
+Nominal Voltage - The standard voltage used to express the capacity of a
+particular battery model. It is generally equal to its electromotive force or its
+approximate voltage during normal operation.
+Nominal Voltage Table
+NiCd and NiMh 1.2 volts per cell
+Lithium Ion or Lithium Polymer 3.6 or 3.7 volts per cell
+Lithium Primary 3 volts per cell
+Sealed Lead Acid (SLA) 2 volts per cell
+Alkaline and Carbon Zinc 1.5 volts per cell
+Some Typical Equations:
+Ohm's Law: E = I*R (E=Volts, I=Amps, R=ohms)
+Power: P = E*I or P = (I*I)*R (P=Watts)
+Amp-Hours: expected life (hours)*Average amps = Amp-Hours
+Current (Amps) = Volts/Resistance
+Resistance (ohms) = Voltage/Current
+Voltage = Current*Resistance
+
+Glossary of Common Battery Terms:
+Battery - a device that converts energy, by chemical reaction or physical
+reaction, into electric current.
+Primary Battery - energy is exhausted when active materials are consumed
+(carbon-zinc dry cell, lithium battery, silver oxide battery, alkaline battery)
+Secondary Battery - active materials are regenerated by charging (nickel
+cadmium (NiCd), nickel metal hydride (NiMh), Lithium Ion, Lithium Polymer,
+Sealed Lead Acid.
+Series Connection - Connection of a group of battery cells by sequentially
+interconnecting the terminals of opposite polarity thereby increasing the voltage
+of the battery group but not increasing capacity (i.e. positive to negative
+connections).
+Parallel Connection - Connection of a group of batter cells by interconnecting all
+terminals of the same polarity, thereby increasing the capacity of the battery
+group but not increasing the voltage (i.e. positive to positive and negative to
+negative).
+Cadmium - Chemical symbol Cd. This metallic element is the chemically active
+material of a nickel cadmium battery's negative electrode. When the battery is
+charged, the negative electrode surface consists of cadmium. As the battery
+discharges, the cadmium progressively changes into cadmium hydroxide (Cd
+(OH2)).
+Cadmium Hydroxide - Active material used at the negative electrode of the
+Nickel-Cadmium Cell.
+Metal Hydride - A general name for chemical compounds consisting of metal
+elements and hydrogen.
+Nickel Hydroxide - The active material in the positive electrode of NiMh and
+NiCd batteries.
+Nickel Oxyhydroxide - The chemical name of NiOOH. Indicates that oxidation
+of Ni (OH)2 has progressed, and that the active material of the positive electrode
+of an NiCd or NiMh battery is charged.
+Capacity - The quantity of electricity that can be obtained from a battery in one
+cycle from full charge to full discharge when the battery is discharged under
+conditions of rated current level and ambient temperature within the
+predetermined range. Generally, capacity is expressed in units of mAh
+(milliampere-hour).
+Nominal Capacity - The standard capacity designated by a battery manufacturer
+to identify a particular cell model.
+Nominal Voltage - The standard voltage used to express the capacity of a
+particular battery model. It is generally equal to its electromotive force or its
+approximate voltage during normal operation (See Nominal Voltage Table
+above).
+Discharge Rate - The discharge rate is the rate at which current is removed from
+a battery. When a battery is discharged at a current level "i", for a period until the
+end discharge voltage is '"h", the discharge is referred to as the h-hour rate
+
+discharge, while "i" is known as the h-hour rate discharge current. For practical
+use, nominal capacity is used as standard.
+End-Voltage - The voltage that indicates the end limit of discharge. This voltage
+is almost equivalent to limitation of practical use.
+Typical values:
+1.0 volt per cell for NiCd and NiMh
+1.75 volts per cell for sealed lead acid
+2.75 volts per cell for lithium ion and lithium polymer
+2.0 volts per cell for primary lithium
+0.9 volts per cell for alkaline and carbon zinc
+Open circuit voltage - The voltage between terminals of a battery without any
+load.
+Operating voltage - The voltage between terminals when a battery is subjected
+to a load. Usually expressed by the voltage of the battery at 50% discharge point.
+Polarity Reversal - Reversing of polarity of the terminals of a small-capacity cell
+in a multi-cell battery due to over discharge.
+Positive Electrode - The electrode which has a positive potential. Electric
+current from this electrode flows in the external circuit during discharge.
+Negative Electrode - The plate which has an electrical potential lower than that
+of the other plate during normal cell operation. Electric current from the external
+circuit flows into the cell at the negative electrode during discharge. Also called
+minus electrode.
+Self-Discharge - a decrease in battery capacity which occurs without any current
+flow to an external circuit.
+Typical values:
+1% per day for NiCd
+2% per day for NiMh
+~0% per day for Lithium Ion and Lithium Polymer
+Short Circuit - Directly connecting the positive electrode (terminal) to the
+negative electrode (terminal) of the battery.
+Thermistor - A circuit element with a negative temperature coefficient. It is built
+into batteries and used to detect ambient temperature or battery temperature. A
+battery charger may use this device to properly charge a battery.

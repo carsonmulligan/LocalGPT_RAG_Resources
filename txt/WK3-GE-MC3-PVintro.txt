@@ -1,0 +1,457 @@
+Introduction to Solar Electricity
+
+PV Hands-on 1
+Take a PV panel and a Digital multimeter
+(DMM) out in the sun
+1) Facing the sun, measure Voc and Isc
+(careful about how to use DMM for
+Voltage vs Current!)
+2) At different angles vs the sun,
+repeat Voc and Isc measurements
+3) Shade one or more cells, and
+repeat Voc & Isc measurements
+
+PV Hands-on 1, Part 2
+4 ) Connect a PV panel directly to
+the circuit with a light bulb and
+observe
+Ø what happens if orientation /
+exposure of the panel change
+Ø what happens for various types
+of light bulbs: LED, CFL,
+incandescent.
+Ø measure voltage & current to the
+bulb, compute power
+5) If possible
+Ø Connect 2 similar panels in
+series, then in parallel.
+Ø Measure Voc and Isc and
+discuss.
+
+Photovoltaic Effect
+• PV cells produce electricity
+from sunlight (photons)
+• To work properly each cell
+needs to receive sunlight
+• Electrical energy needs to
+be stored for use if needed
+when there is not enough
+light
+
+Cells, Modules, Panels
+• Most common modules are composed of solar cells
+connected in series
+• Each cell generates the same voltage (~.5 V)
+regardless of size
+• The current generated depends on the light intensity
+and the cell size
+• Many common solar panels are comprised of 2 modules
+in one frame
+• 1 m2 solar panel generates 60-120 Wp in ‘standard
+conditions’ , depending on the technology
+
+Types of Solar Radiation
+The total radiation (sunlight) is comprised of:
+Direct light: Straight from the sun
+Diffuse light: Dispersed by clouds
+Reflected light: From snow, water, etc.
+On a completely cloudy day, all light may be diffuse.
+Most PV panels produce the most power in direct radiation.
+If one cell is shaded the panel electrical production (efficiency) drops drastically
+PV panels are much more sensitive to shade than thermal collectors
+
+Panel Orientation
+Ø Maximum power is received when the
+panel is facing the sun
+Ø For a fixed panel, usually the best yearly
+average power is received for an
+angle = latitude + 0° to 15°
+Ø The angle can be adapted according to
+seasonal needs
+Ø In some cases, the angle can be adjusted
+every month, or even during the day
+Ø Close to the equator, 10° is the
+recommended minimum tilt angle to
+allow rain to run off panels
+
+PV Panels: Electrical Characteristics
+· Shown on label:
+· Isc = short circuit current
+depends on solar power
+received
+· Voc = open circuit current
+reduced for higher
+temperature
+·
+Maximum power: Vmp, Imp
+· All values are given for
+“standard conditions”:
+25°C and 1kW/m²
+Radiation effect (W/m²) Temperature Effect
+
+Interpreting the I-V curve
+Ø A 50W bulb
+connected
+directly to a
+50Wp panel may
+not consume
+50W, even in
+bright sun.
+
+Small Photovoltaic Systems
+
+Small PV System
+• Produces electricity
+during sunlight hours
+• Typically light is used
+when there is no sun
+• Need to store electrical
+energy in batteries
+• A charge controller is
+used to protect the
+battery and regulate its
+charge and discharge
+
+Components of a PV System
+Ø PV panels
+Ø Batteries
+Ø Controller
+Ø DC loads
+Ø Cables, switches, etc.
+Ø If AC is needed a DC-
+AC inverter is required
+(bad efficiency, high
+cost)
+
+Battery
+Ø Stores electrical energy to use
+when there is no sun
+Ø 12 V is the most common for
+small systems
+Ø Use “deep cycle” models
+designed for slow charge and
+discharge and longer life
+Ø Car batteries are designed to
+supply quick bursts of energy
+and only partial discharge.
+They don’t last long in PV
+systems.
+Ø Among Lead-Acid types, Deep
+cycle models have thicker
+plates, so they are heavier
+
+Common Types of Lead-Acid
+Batteries
+Sealed (no maintenance)
+Flooded
+Not sealed
+need regular addition of water
+more risky in transportation
+Lead Acid
+Gel ( AGM)
+
+Battery Capacity
+Expressed in Amp-hours (Ah), is the product of discharge Amps x discharge time in
+hours, e.g. 100 Ah = 5Amps x 20hrs
+If the battery is discharged quickly with a high discharge current, its usable capacity is
+lower.
+Compare to a runner: a sprinter will use up his energy very quickly, vs a marathon
+runner may expand more energy over a longer time.
+Specifications usually show C/100, C/20, or C/10, capacities, respectively for 100hrs,
+20hrs, or 10 hrs discharge.
+For example, a battery with a C/100 capacity of 100 Ah, may have a C/20 capacity of
+88 Ah
+Note: battery capacity decreases when the temperature is low.
+
+Battery capacity is not fixed
+Ø A cold battery has less capacity than a warm one
+Ø A battery stored in a warm place will self-discharge
+faster than a cold one – may be dead before using it
+
+Depth of Discharge
+Ø This term indicates how much of the battery capacity is
+depleted
+Ø The battery life expectancy is reduced if the battery is
+discharged a lot on a regular basis
+Ø A battery which is never more than 50% discharged can last
+twice as long as one that is regularly discharged 80%
+Ø To keep the discharge around 50%, use a battery rated to
+store 2x the daily energy use
+V > 12.6 – 12.7 volts 1= fully charged
+~12.5V
+~12.3V
+~11.9 - 12V
+~11.3 - 11.7V = almost dead
+
+State of charge over time - example
+
+Life expectancy
+in cycles vs. Depth of Discharge
+
+Dangers and Precautions
+Aggressive chemicals
+Electricity
+Flammable gas
+
+Charge Controller
+Ø Controls proper charging of the battery
+when sun is shining
+Ø Protects battery against overcharge
+Ø Recommended protections
+§ Low Voltage Disconnect (LVD)
+§ Overcurrent
+§ Reverse polarity
+§ Short circuit
+§ Blocking diode to avoid current flowing to
+panels at night
+§ Equalization cycle to remove stratification
+in battery
+Ø LEDs or display give information on the
+state of charge of the batteries
+
+Hands-on Lab 2: using controller & battery
+Ø Each group:
+1 PV panel, 1 12V battery, 1 circuit panel board,
+assortment of incandescent light bulb, and/or
+CFL, and/or LED,
+1 or 2 multimeter, 1 clamp meter (shared)
+Ø Connect circuit panel to battery and PV panels
+§ Respect instructions for connection order
+§ Observe controller lights or display
+Ø Check:
+§ Continuity of connections before turning on
+§ PV panels Voc vs. Voltage with light on
+§ Isc vs.current with light on
+§ Battery voltage
+
+Hands-on Lab 2 - examples
+Example of overall setup
+Measuring voltage to bulb Measuring current to bulb
+
+Inverter
+Ø Transforms direct current (DC) into alternating current (AC)
+Ø Must provide not only nominal power rating of the AC load, but also
+surge power (can be 2.5x the nominal rating for motors)
+Ø Efficiency <90%, some power is lost
+Ø Uses low but continuous power if left on when not in use
+Ø Three types of waveforms
+§ Square wave, modified sine wave, sine wave
+§ True sine wave is most expensive but necessary for some sensitive
+electronics
+• Always test the inverter with the load before field implementation
+
+AC types
+
+Demo: Using an inverter
+Ø Allows to use AC light
+bulbs, which are easier to
+find than DC bulbs
+Ø The inverter is connected
+directly to the battery (clips
+are temporary, a
+permanent connection is
+better)
+Ø The battery consumes
+electricity even the light
+bulb is not ON
+Ø Warning: this may
+discharge the battery too
+fully and reduce its life
+expectancy
+
+PV System Sizing
+Find out
+1. How much energy is needed?
+2. How much is available from the sun?
+3. How much will be lost in the system?
+Then calculate
+1. What size panels are needed
+2. How much battery capacity is needed
+
+The Solar Resource
+1400 · “Perfect Solar Hours” or “Peak
+1200 Sun Hours” (PSH) are used to
+1000 express the energy received in
+800 terms of equivalent hours at the
+600 “standard power” of 1000 W/m2
+400
+200
+· Solar Maps / weather data can
+0
+be expressed by the same
+number, either in PSH or kWh/
+m2
+· 1 PSH @ 1 kW/m2 = 1 kWh/m2
+· Common PSH values In
+tropical zones:
+· Up to 7 on sunny days
+· From 2-4 on cloudy days
+· 4-6 as a monthly average
+2m/Wk
+1400
+1200
+1000
+800
+600
+400
+200
+0
+2m/Wk
+Perfect day: maximum PSH
+Cloudy day: poor PSH
+
+Yearly average kWh/m2 on a horizontal surface
+
+Seasonal Variation – incident angle
+June December
+March & September
+equinox
+23° 23°
+December June
+Latitude Latitude
+South South
+Northern Hemisphere Southern Hemisphere
+Equatorial Zone
+
+Step 1: Evaluation of the Load
+Quantity W Inverter Hours/day Wh / day
+Efficiency
+CFL 4 11W n/a 4 176 Wh
+4 20W 3 240 Wh
+LED 2 1.5W n/a 11 33 Wh
+Other DC 1 35W n/a 1 35 Wh
+loads
+(sound / tv)
+other
+AC load 1 110W 85% 1.2 157 Wh
+(TV + DVD)
+TOTAL 641 Wh
+Slide 31
+
+Step 2: Weather Data (PSH)
+Mindanao,
+Philippines
+http://www.retscreen.net/ and NASA database
+
+Losses & Efficiency
+Watt-Hours
+Watt-Hours Needed for
+Lost From Loads
+Panel
+Watt-Hours
+Watt-Hours
+Lost From
+Lost From
+Battery
+Wires
+
+Example
+Temperature Loss:
+10%
+100 Watt x 3 Hours x .90
+= 270 Watt-hrs
+Available
+Solar Panel
+Rating: for DC
+100W Load: 223
+Wh
+PSH = 3
+223 Wh x 85%
+= 190 Wh
+Loss from Wiring: Available
+270 Watt-hrs x .97
+3% = 260 Watt-hrs Losses from in AC: 190
+Inverter: 15% Wh
+i.e. 63% of
+Loss from Battery: 15%
+300Wh
+260 Watt-hrs x .85
+= 223 Watt-hrs
+
+Step 4: Simplified Panel Sizing
+Ø The amount of energy available from the battery (in Wh) is:
+Peak panel power (Wp) x PSH (hrs) – losses, or
+Peak panel power (Wp) x PSH (hrs) x combined efficiencies
+Conservatively, you can use a 50% efficiency factor, i.e. 0.5
+Ø To meet the average electricity load, we then need:
+Peak panel power (Wp) = ____Load (Wh)____
+PSH (h) x 0.5
+Ø Use the PSH value for the worst month of the year, found through
+RETscreen / NASA, or regional maps
+
+Panel Sizing - Example
+Using the load from Step1 slide (641Wh)
+and weather data from RETscreen for Chirinos, Peru (34.5ºC , 4.23PSH)
+Power needed (Wp) =
+__641 Wh___ = 303 Wp
+4.23h x 0.5
+This needs to be rounded to a number of commercially available solar
+panels,
+e.g. 4 panels of 80 Wp each; or 3 panels of 100 Wp, etc.
+
+Step 5: Battery Sizing
+The main design parameters are:
+Ø Number of days of autonomy (to use system during cloudy days,
+typically 2-5 days)
+Ø Depth of Discharge (usually 50%)
+Ø Battery and system voltage (for example a 12 V system could be
+supplied with 2 batteries of 6 V in series)
+Ø In terms of energy supply:
+Battery Capacity (Wh) = daily load (Wh) x days of autonomy
+depth of discharge (%)
+Battery capacity is usually provided in amp hours (Ah)
+Amps = Watts/Volts so:
+Capacity (Ah) = __Capacity (Wh)____
+System voltage (V)
+
+Battery Capacity Sizing Example
+For the same Chirinos load lets use:
+Ø 3 days of autonomy
+Ø 50% depth of discharge
+Ø 12V system and battery
+Ø To meet 641Wh daily load with 85% battery efficiency,
+The battery needs to store: 641Wh / 85%= 777Wh
+Needed Capacity (Wh) = 777 (Wh) x 3 days of autonomy = 4665 Wh
+50%
+In Amp hours this will be:
+Capacity (Ah) = 4665 Wh = 389 Ah
+12V
+Rounding up to a multiple of what’s available on the market;
+4 x 104Ah = 416 Ah,
+2 x 200Ah = 400 Ah, etc.
+
+Battery Charge Management
+To maintain charge level and increase battery life:
+1.) make sure design load values are not exceeded
+2.) Every cloudy / rainy day try to reduce energy use
+3.) if possible use a capacity 20-50% larger than calculations suggest (safety
+factor)
+When the charge controller Low Voltage Disconnect switches the system off it
+means that the whole reserve, including days of autonomy, is exhausted. It will
+take the same number of days with full sunshine and no load use to fully recharge
+the batteries
+
+Sizing Exercises
+
+Sizing Exercises – Panels and Batteries
+Groups A
+Ø Size a home system for Huancayo, Peru, using previous demand analysis
+values
+Groups B
+Ø Size a similar system for a clinic in Huancayo replacing TV/DVD with a
+refrigerator, and eliminating the sound system
+Ø Try 2 scenarios with different depth of discharge and days of autonomy
+
+Homework: Reverse Sizing Exercise
+In many countries, vendors sell pre-packaged domestic
+systems, e.g.
+1. 50Wp
+2. 75Wp
+3. 100Wp
+Select one of those and see how many hours of use it would
+give for three 11W CFLs and a 40W TV in various
+climates:
+A. 4PSH (Amazon or Thailand)
+B. 5PSH (Philippines)
+C. 6 PSH (Cuzco, Peru)
+D. 7 PSH (Mauritania)

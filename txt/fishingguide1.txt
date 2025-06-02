@@ -1,0 +1,531 @@
+A Beginner’s
+Guide to Fishing
+South Carolina Department of
+Natural Resources
+Life’s Better Outdoors
+www.dnr.sc.gov
+
+Table of Contents Angler Ethics
+Angler Ethics ...................................................... 1 What are ethics?
+• Rules and values that change your behavior, causing you to do the right thing.
+Safety ............................................................... 1
+To determine if something is ethical, ask yourself three questions
+• Is it legal?
+Equipment Overview ........................................... 2 • Would it still be ok if everyone was doing it?
+• Would it make you or people who know you proud?
+Knot Tying ......................................................... 5
+Ethical Anglers:
+• Are considerate of one another, respecting other anglers’ space and being quiet so
+Rigging ............................................................. 6
+as to not disturb others.
+• Always leave their fishing area cleaner than when they arrived so as to protect the
+Casting ............................................................. 7
+resource.
+• Abide by all rules and regulations.
+Baits & Artificial Lures .......................................... 9 • Practice Catch & Release Fishing
+o Use barbless or circle hooks and needlenose pliers or forceps to reduce injury
+Fish Anatomy .................................................... 11 and handling time of the fish.
+o Land the fish as quickly as possible to minimize the fish’s fighting time.
+Rules & Regulations ............................................ 12 o Use wet hands when handling a fish and minimize the time out of water to 20
+to 30 seconds.
+o When returning a fish back to the water, point the fish into the current or
+Invasive Species ................................................. 13
+cradle it in your hands loosely under the water until the fish swims away on
+its own.
+Identifying Good Fishing Spots .............................. 14
+o If a fish is landed and the hook has been swallowed, cut the line as far down
+in the fish’s mouth as possible.
+Setting the Hook ................................................. 15 • Release and handle fish properly
+o Sunfish & Small Crappie: comb down the sharp dorsal fin as you slide your
+How to Handle Fish .............................................. 15 hand over the back of the fish.
+o Bass, Large Crappie/Sunfish: grab by bottom lip, you’ll feel the small
+How to Clean Your Catch ...................................... 17 sandpaper-like teeth.
+o Catfish & Bullhead: be aware of the dorsal
+and pectoral spines which can cause a
+References .........................................................17
+painful wound. Slide hands up the ventral or
+bottom side of the fish under the pectoral
+fins or armpit-like area of the fish.
+Safety
+• Keep at least one rod’s length between you and the next angler before, during and
+after you cast.
+• Always look behind you and to the side before casting to prevent hooking power
+lines, trees, or a person.
+• Wear sunglasses, sunscreen, bug spray and other protection from the natural
+elements.
+• Always be aware of your surroundings and be on the alert for ant mounds and
+snakes. Avoid thick grassy areas where you can’t see your feet.
+• Be very careful around water and make sure you have a fishing buddy with you. If
+fishing from a boat, always wear a life jacket or PFD (personal floatation device).
+1
+A Beginner’s Guide to Fishing
+
+Rods & Reels
+Equipment Overview
+• Rod Types
+o Cane Pole: a pole with
+fishing line tied to it; mainly
+Basic Fishing Tackle or Terminal Tackle
+used for shoreline fishing.
+• Hooks
+o Come in a variety of sizes and shapes. Size 1/0 is big to 12, which is very o Spincasting & Baitcasting:
+small. For hook sizes 32 to 1, the larger the number the smaller the hook. a rod with small guides
+For hook sizes from 1/0 (called one aught) to 19/0 the larger the number the for line to move through
+larger the hook size. Popular hook styles: treble, Kirby, octopus, wide gap, on topside of the rod;
+O’Shaughness, baitholder, circle and weedless. handle with a finger grip; reel mounts on the topside.
+o To determine what hook size to use, picture the species you’d like to catch and
+o Spinning: a rod with large
+look at its mouth and what they like to eat.
+guides for line to move
+o Hook anatomy
+through that decrease
+◊ Point: the sharp end that punctures the fish’s mouth;
+in size as they get closer to the rod tip; no finger grip on the handle and reel
+there are many different point types such as spear, hollow
+mounts on the bottom.
+or rolled in.
+◊ Barb: extension of the point that projects backwards to o Fly: a rod that is very
+keep the fish from unhooking. flexible with guides and
+◊ Eye: just like an eye of a needle, the eye of the hook is reel mount on the bottom.
+the loop at the top of the hook used to connect the hook
+to the line; there are many types of eyes and they can be
+• What to Look for in a Rod
+positioned in many ways on the shank (up-turned, down-
+o Type of rod chosen depends on the fish you plan to catch and the type of bait
+turned, straight, ringed or lopped).
+or lure you’ll be using.
+◊ Bend & Shank: portion that connects point to the eye; the
+o Length: a longer rod is better for distance casting and controlling the lure.
+hook shank can be straight or have curves, kinks, bends
+and offsets which allow for easier setting of the hook, o Action: refers to the portion of the rod at which it bends; measured as slow,
+better fly imitation or bait holding. medium, fast:
+• Monofilament Line ◊ Fast Action: rod bends mainly near the tip; good for surface
+o Like the hooks, the line comes in a variety of weights for lures or detecting subtle strikes when jigging.
+different species. ◊ Medium Action: rod bends over the front half or ¾ the way up
+o Measured in “pound test” meaning the amount of weight the rod; good for live bait fishing.
+required to break the line. 10 pound test line is stronger ◊ Slow Action: rod bends over the entire length or at the
+and thicker than 6 pound test line. halfway point; good for absorbing pressure when fighting a big
+o When choosing the right pound test, it is always best to fish so as not to break the line.
+match the line to the capabilities or size of your rod and reel and to take into o Power: similar to rod action; refers to the amount of force required to bend
+account the lures/bait you’re using and the species you want to catch. a rod; measured as light, medium, & heavy or on a scale of 1 to 10 where 1
+o Always discard properly or recycle your monofilament line as it can cause is the lightest; light rods easily bend under the weight of a lure so heavy rods
+harm to wildlife. are needed for heavy lures.
+• Sinkers • Reel Types
+o Come in a variety of weights (measured in ounces) and shapes. o Spincast: also known as push button or closed face
+o Allow you to cast your bait and take it down to the bottom. reels; easiest reel to use and great for beginners.
+o Popular sinker types: bank, pyramid, split shot, egg, bell and o Spinning: also known as an open face reel; line spools off quickly
+bullet. casting line farther than a spincast reel; suitable for light lures for
+• Bobbers, Corks, or Floats saltwater and freshwater.
+o Keep your bait at the depth where the fish are. o Baitcast: most difficult reel to master; line spools during the cast which
+o Serve as a strike indicator, letting you know when you’re getting a bite is controlled by the angler’s thumb (if timing isn’t just right, line on the
+by bobbing down in a quick jerky motion. reels will backlash and tangle); designed to cast large lures or bait long
+o Bobbers come weighted/unweighted and in many different shapes and distances.
+sizes. o Fly: primarily used for fly fishing; the reel is only used to hold the line;
+casting is done by projecting the line out versus casting with other reels
+which project or cast based on the weight of the lure.
+2 3
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+How to Pack Knot Tying
+your Tackle Box • One of the most important steps in fishing is tying knots. Without a strong knot or
+a properly tied knot, your fish could get away.
+• Knot Tips
+o When cinching or tightening down your knot, always wet your line by licking
+it. This helps reduce the friction in the line and helps prevent creating weak
+Pliers spots.
+o When clipping the free end or tag end of your knot, leave about a ¼ inch of
+line hanging. Some knots under pressure will slip just a little and leaving the
+Nail clippers
+extra line will allow the knot to slide but not come undone.
+Hook to Line Knots
+Hooks (various sizes) o Palomar Knot
+1. Double 4 inches of line and pass the loop through the eye of the hook. Let
+Bobbers the hook hang loose.
+2. Tie an overhand knot in the doubled line (like the first step of tying your
+shoes). Don’t twist or tighten the line.
+Weights (various sizes & types)
+3. Pull the end of the loop down passing it over the hook.
+4. Wet the line.
+Snap swivels 5. Hold the hook carefully and pull the ends of the line to cinch down or
+tighten the knot.
+6. Trim the excess line or tag end to leave about ¼ inch of line.
+Artificial Lures
+1.
+Stringer for keeping fish you plan to eat
+5.
+3.
+Measuring tape
+2.
+4.
+6.
+Rules & Regulations
+o Improved Clinch Knot (also called the fisherman’s knot)
+1. Pass the line through the eye of the hook and twist to make 5 to 6 turns.
+Fish Identification guide 2. Take the loose or tag end of the line and put it through the loop that
+formed at the hook above the eye.
+3. Bring the tag end through the second loop that formed by completing
+Backup spools of
+step 2.
+4. Wet the line.
+monofilament
+5. While holding the line and tag end in separate hands, tighten the knot
+slowly so that it moves securely against the eye of the hook.
+line 6. Trim the excess line or tag end to leave about ¼ inch of line.
+First Aid Kit 2.
+1.
+Bug Spray 4.
+3.
+Sunscreen
+5. 6.
+4 5
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Line to Reel Knot
+Casting
+o Arbor Knot
+1. Loop the line around the reel spool (also called arbor).
+2. Tie an overhand knot around the main or standing line to form a loose Spin-casting Technique
+slip knot. 1. Grasp the rod’s handle with one hand with
+3. Tie a second overhand knot in the free end or tag end. your index finger above the point on the
+4. Wet the line. rod handle. Push the reel’s button down
+5. Cinch the knot in the tag end tight. with your thumb and HOLD it to keep
+6. Trim the excess line. line from coming off the reel. Remember
+7. Cinch down the first overhand knot on the reel. a spin-cast or closed face reel will face
+upward toward you.
+2. Face the area you desire to cast and aim
+the rod tip toward the target area about
+level with your eyes.
+3. Bend your arm at the elbow, raising your hand with
+the rod until it reaches about the 10 o’clock position
+over your shoulder or until your hand holding the rod
+is right to the side of your face.
+Rigging
+• Rigging refers to the way that you tie together your terminal tackle (hooks, swivels,
+sinkers, bobbers, etc.) and bait and/or lures with your line.
+• The most popular and most often used rig of all is the bobber rig. This involves
+placing a bobber on your line. The depth of the bobber can differ depending on
+where and what fish species you are fishing for. Placing the bobber two feet from 4. Bring the rod forward with a smooth motion and
+the end of your line is a good place to start after your hook and sinker or split-shot release the button when the rod is at a 12 o’clock
+have been attached. The key to the bobber rig is to make sure after you cast, your position.
+line is tight so that fish biting at your bait will be noticeable. o If the lure/casting plug landed close in front
+• Another easy-to-use rig is a bottom or standard rig. For this rig, just tie on a hook, of you, you released the thumb button too
+attach some live bait and enough split shot to sink it to the bottom. Hold your line late. If the lure casting plug went more or
+tight as you would if you were fishing a bobber rig, but be careful not to move it. less straight up, you released the thumb
+Let the fish come to your bait. If you don’t get a bite after 15 minutes, then reel in button too early. Practice is the key to
+and cast again in a new spot. good casting!
+6 7
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Spinning Technique
+Common Freshwater Live Bait
+1. Grasp the rod’s handle with one hand.
+Place the connection or stem where the
+reel attaches to the rod between your • Worms come in a variety of choices—earthworms, red worms and nightcrawlers.
+second and third fingers. Put your pointer Anglers can create their own compost pile or worm bed to house worms for use.
+finger or first finger over the line. Then When you purchase worms from the store, leftover worms after your fishing trip
+open the reel’s bail (little bar over the can be stored in the refrigerator for a couple of days until the next fishing outing.
+reel) with your other hand. Remember a When placing a worm on your hook, make
+spinning or open faced reel will face away sure to loop the worm through the hook
+from you or below the rod. 2-4 times and to leave some of the worm
+dangling from the bottom of the hook. Don’t
+leave more than an inch of worm dangling
+below the hook or else fish will nibble away
+2. Face the area you desire to cast in and
+at the worm without biting the hook.
+aim the rod tip toward the target area
+about level with your eyes. • Crickets and Grasshoppers are excellent bait for
+sunfish, bass and catfish. These insects can be
+purchased from most local bait and tackle shops
+and placed into a specially designed cricket cage.
+To prolong the life of your crickets, place a moist
+paper towel into the cricket cage. Just be careful
+that the paper towel doesn’t aid your crickets
+in escaping. To properly bait your hook with a
+3. Bend your arm at the elbow, raising your cricket, the hook should be inserted behind the
+hand with the rod until it reaches the 10 cricket’s head under the collar.
+o’clock position over your shoulder or
+• Minnows is a loosely used term by anglers
+almost at eye level.
+to mean baitfish. Minnows are technically
+members of a specific family. Fish used as bait
+typically include shiners, chubs and dace as
+4. When the rod reaches the almost straight well as minnows. Minnows will live longer in an
+up and down or 12 o’clock position, bring aerated minnow bucket where the minnows aren’t crowded. Baiting your hook
+your forearm forward with a slight wrist with a minnow involves hooking them through the
+movement. lips or under their dorsal fin. Avoid hooking the
+fish through the backbone when hooking under
+their dorsal fin to prevent killing the minnow.
+• Tip: make sure to always present the bait on your hook as natural as possible and
+hook your bait in way to keep it alive longer.
+5. Straighten your index finger to release
+the line when the rod reaches eye level.
+o If the lure/casting plug landed close
+in front of you, you released your
+index finger too late. If the lure/
+casting plug went more or less
+straight up, you released your index
+finger too early. Practice is the
+key to good casting!
+8 9
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Artificial Lures Fish External Anatomy & Senses
+• Plugs were originally lures carved of wood, but now
+• The lateral line is a special sensory organ that fish have in addition to the usual
+they are made of various materials such as plastic and
+senses of seeing, hearing, tasting and smelling. The lateral line is a collection of
+cork. Plugs are further separated into different types
+nerve endings along a fish’s side that feels vibrations in the water. It helps the fish
+such as surface and subsurface plugs. Surface plugs
+determine the speed, direction of movement and even the size of the predator
+include stickbaits, propbaits, crawlers and chuggers.
+or prey thus helping them find food and avoid being eaten. The lateral line is very
+Subsurface plugs include crankbaits, minnow plugs,
+important to fish that live in deep water or in murky water.
+trolling plugs and jerkbaits. Plugs have either two or
+three treble hooks attached to • Fish eyesight is similar to ours. They see brightness and color; however, some
+cover the fish’s striking area. The species have better color vision than others. Fish that live in deep water don’t see
+fish to target with plugs include the full spectrum of colors since water filters out color. Fish can see up to 100 feet
+black and white crappie and white, spotted, smallmouth, striped, in extremely clear water and in murky water about 10 to 20 feet out in front of
+largemouth and hybrid bass. them. A fish’s field of vision is all directions except for straight down and straight
+back. Fish can also see above-water objects so anglers should keep a low profile
+• Spinnerbaits have one or more blades that spin or rotate
+when approaching fishing spots, especially in clear waters.
+around a straight wire or safety pin-looking shaft. Most
+spinnerbaits have tails and bodies made of rubber, animal hair, • Fish hear with an inner ear with tiny bones that pick up sound. They lack external
+soft plastic, feathers or other materials. The fish to target ears like we have.
+with spinnerbaits include all bass species, trout and crappie.
+• Fish sense of smell is highly developed. They detect odors by a nasal sac in their
+• Soft Plastics are flexible lures made mouth. Water comes in through the nare and is passed through the nasal sac and
+into the shapes of what fish eat such as worms, grubs, out again. Smells allow fish to return to spawning grounds and alert them to the
+lizards, crayfish and minnows. They are found in a presence of predators or prey.
+variety of sizes, colors and some have a fish-attracting
+• Taste is a useless sense in most fish, except for catfish and bullheads that have skin
+scent. The fish to target with the soft plastics include all
+and barbels or whiskers that have taste-sensitive cells. These fish can use their
+bass species.
+sense of taste to help track down food sources.
+• Jigs are made of a weighted metal or lead head with a
+body and tail made of rubber, feather, soft plastics or
+animal hair. They are found in a variety of sizes, colors
+and patterns. The fish Largemouth Bass
+to target with these
+lures include all bass Dorsal Fin
+species, sunfish (such Caudal Fin
+Lateral Line
+as redbreast, bluegill,
+redear, etc.), crappie
+and yellow perch.
+Eye
+• Spoons are metal, spoon-shaped lures made to resemble a swimming or injured
+Nares
+baitfish. These lures can be used with many techniques such as jigging, rolling
+or just casting them out and reeling them in. The fish to target with these lures
+include all bass species.
+Mouth
+• Tip: Always keep in mind the fish you are targeting, what it eats, how big its mouth
+is to eat its prey and where they feed (surface, middle or bottom) when choosing
+the type of lure and lure size. Gills Anal Fin
+Pectoral Fin
+Pelvic Fin
+10 11
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Why Do We Have Rules & What Are Invasive Or Nuisance
+Regulations? Aquatic Species?
+• These are species that are non-native and lack natural predators and diseases
+• People! Along with natural pressures such as predators and competition for food
+to keep their growth in check. Some common, invasive plants in South Carolina
+and space, fish have to worry about pressures we put on them. Those pressures
+include hydrilla, Didymo algae, water hyacinth, giant salvinia, water primrose,
+include pollution, in the forms of litter and runoff which damage water quality and
+phragmites and alligatorweed. These plants can grow very dense, covering
+cause loss of adequate habitat, and overfishing. Overfishing is the unnecessary
+large areas, degrading water quality, displacing native plant species and making
+harvest of too many fish or the harvesting of fish that are too small or haven’t had
+recreation and boating impossible. Animals can also
+the opportunity to breed.
+be nuisance species. Species of concern include green
+• Management takes place in the form of the following: mussels, zebra mussels, mud snails, flathead catfish,
+o daily bag or creel limits on the amount of fish an angler can catch and possess spotted bass, Asian carp and lionfish. The larvae
+in a day; (immature form) of animals can be so tiny they are not
+o slot or size limits on fish to allow fish to reach sexual maturity and reproduce; and visible to the naked eye. These animal larvae can live in
+o restrictions on what type of gear can be used to harvest or catch certain fish— mud, dirt, sand and on plant fragments. To avoid further
+game versus non-game. damage from exotic species, anglers should never take
+resource management into their own hands. Unplanned
+• Frequently Asked Questions about Fishing Regulations stocking of fish, other aquatic animals or plants by
+anglers can disrupt the natural balance in an aquatic
+o Where do I find all fish and wildlife regulations for the state of South Carolina?
+ecosystem causing damage to the established fishery, fish
+◊ The Rules and Regulations are available at every location that sells licenses.
+habitat and prey base.
+They are also found on the website at dnr.sc.gov/regulations.
+o At what age do I need to purchase a fishing license?
+◊ When you turn 16, you must have a fishing license in order to fish legally in How Can You Help?
+public waters.
+o How often do I need to renew my fishing license? • When you leave a body of water:
+◊ A fishing license is good from July 1st to June 30th.
+o Remove any visible mud, plants, fish, or animals before
+o Do I need a fishing license to fish from my private property?
+transporting equipment. Preventing the occurrence of
+◊ Yes, you will need a license to fish in public waters (such as lakes or rivers)
+these invasive species can save millions of public and
+even if you’re on private land. You don’t need
+private dollars in control costs. South Carolina law also
+a license to fish on private property in a private
+includes fines up to $500 and/or imprisonment for
+pond unless you are fishing in a commercial
+persons spreading nuisance aquatic weeds.
+pay pond. You don’t need a license to fish in
+o Eliminate water from equipment before transporting.
+a commercial pay pond when the pond is
+o Anglers using wading gear should thoroughly clean it after use. They can wait
+permitted by DNR.
+for the gear to dry 100% and allow it to remain dry for 5 days before using
+o Where do I go to buy a license?
+again or dip wading gear in a 3% bleach solution, rinse well (as chlorine can
+◊ You can visit any of the 700 license
+be harmful to gear) and dry thoroughly. To avoid chlorine damage, anglers
+agents throughout the state at the
+can dip their gear in a 100% vinegar solution for 20 minutes or in a 1% salt
+nearest local bait and tackle store, or
+solution for 20 minutes.
+at a DNR office in Charleston, Clemson,
+o Wash all pets that went into the water with warm water, towel dry and brush
+Columbia and Florence between 8:30
+well.
+am-5:00 pm Monday through Friday, or
+o Clean and dry anything that comes into contact with water (boats, trailers,
+call 1-866-714-3611 7 days a week 24
+equipment, clothing, dogs, etc.).
+hours a day, or on the web at www.dnr.
+o Never release plants, fish, or animals into a body of water unless they came
+sc.gov/purchase.
+out of that body of water.
+o Dispose of bait properly, especially live bait, by placing it in the trash can
+within a sealed container or saving live bait in a sealed container for later use.
+12 13
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Even if you think your live bait is native, it has the potential to house nuisance
+How To Set The Hook
+species and disease that can have negative impacts on aquatic ecosystems.
+o Dispose of shrimp parts and oyster shells properly. Shrimp heads and shells
+need to be disposed of in the trash and not thrown into the water because • When you see signs of a fish biting, move your rod tip from pointing towards the
+non-native shrimp parts have the potential to spread disease. Oyster shells water to pointing straight out your belly button and wind up all slack line. Then,
+can be taken to a nearby oyster recycling facility. quickly pull the rod back to set the hook. Practice makes perfect when it comes to
+o Report aquatic weed problems in public waters to the Aquatic Nuisance learning the timing of setting the hook. The feel of setting the hook will vary based
+Program, SCDNR, by calling (803) 755-2836. on the fish species you’re targeting, the lure or bait you’re using and the size of
+o Visit www.dnr.sc.gov/water/envaff/aquatic/index.html or www. your rod, reel and line.
+protectyourwaters.net to learn more.
+• After setting the hook, keep a bend
+in your rod and wait for the fish to
+Finding Good Fishing Spots
+make its move. If the fish is pulling
+against the fishing reel, let him simply
+• The first thing you need to know about finding a good fishing spot is identifying pull. DO NOT wind in line if the fish is
+all the things fish need to live. They need food, oxygen, water, shelter and space. pulling line off your reel. After the fish
+Food will vary from fish to fish so know the particular foods the fish you are quits pulling, begin reeling in, keeping
+targeting likes. This will also help you determine the type of lure or bait to use. a bend in your rod. Take this process
+Fish food can include plants, insects, smaller fish, crayfish and worms. Fish get their slowly.
+required amount of oxygen by using their gills. Oxygen in the water changes with
+water temperature, movement and the amount of algae present. Oxygen levels How To Handle Or Hold Fish
+decrease with warmer temperatures, slow moving
+waters and lots of algae. And as you would guess,
+• Handling fish properly protects the fish and you. Some fish have sharp fins or teeth
+oxygen levels increase with colder temperatures,
+that can cut you when not held correctly. Always remember to wet your hands
+faster moving water, such as near riffles or waterfalls,
+before touching a fish. Wet hands are less likely to damage a fish’s protective
+and with less algae present. For shelter, fish need
+coating of mucous or slime that protects them from disease. Also, don’t allow your
+structures such as rocks, stumps and aquatic plants to
+fish to flop around on the bank, dock or the floor of a boat. If you are keeping fish
+provide cover to hide from predators or to hide and
+to eat, you should put them in ice or in a bucket of cool water.
+wait for food to swim by. Fish also need space. Too
+many fish using the same resources doesn’t work out • Fish that CAN be held by the bottom lip include crappie, sunfish, bass, perch, catfish
+too well. and bullhead. You’ll feel small, dull teeth inside the fish’s mouth somewhat like
+sandpaper. For larger bass, catfish and bullhead, support the body of the fish with
+• Good fishing spots can be found near aquatic
+your other hand once the hook is removed from the fish.
+vegetation, brush piles, sand bottoms, rock and gravel bottoms, fallen trees, boat
+docks and stumps.
+How To Tell A Fish Is Biting
+o Crappie o Sunfish
+• Fishing with a bobber allows anglers to know when a fish bites. However,
+sometimes the movement in the bobbers isn’t so obvious. Sometimes a biting fish
+will cause the bobber to twitch only a bit or the bobber will start to move across
+the surface of the water. If you are not using a bobber, o Bass o Perch
+the best way to tell when a fish is biting is by watching
+your line between the rod tip and the water. If your
+line moves in a twitching or jumping motion, you are
+getting a bite. Sometimes the bite will be hard enough
+that you will feel its pull on the rod tip. When fishing o Catfish o Bullhead
+without a bobber, you should set the hook or pull on
+the rod as soon as you feel that you are getting a bite.
+14 15
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Catfish
+How To Clean Your Catch
+• The common way to hold a catfish is from below the catfish’s belly, gripping the
+catfish below both pectoral fins. Be very careful to avoid the fish’s spines that are
+• The common catch such as sunfish and bass must first be scaled. To scale a fish,
+located in the pectoral fins and the dorsal fin. Hold the fishing line in one hand to
+hold it by the tail and scrape from tail to head with a fish scaler, butter knife or
+steady the fish and slide your hands from the belly of the fish upward under the
+tablespoon. Cut directly behind the gill cover. Remove the head with the innards.
+pectoral fins.
+Then, slice along each side of the dorsal fin and remove. Cut along both sides of
+Blue Catfish the anal fin and remove by pulling it toward the tail. Cut the belly from the area
+where the head was removed to the tail and pull out all the remaining innards. If
+Dorsal Spine
+desired, cut off the tail. Rinse fish quickly and prepare for cooking.
+• Catfish and bullheads must be skinned instead of scaled. Your first cut will start
+behind the head at the pectoral fin on one side up and over to the other side’s
+pectoral fin. Then, slice down the backbone on one side of the dorsal fin and
+create another slice on the other side of the dorsal fin to connect the cut just
+made. Now, use pliers and pull the skin back from the body of the fish while
+holding the head with one hand. After removing the skin from the catfish, cut the
+head completely and remove the innards. Prepare for cooking. When filleting a
+catfish, make sure to cut away all dark red meat along the lateral line as this meat
+often has a strong flavor.
+• Filleting
+Pectoral Spine
+o ALWAYS CUT AWAY FROM YOURSELF!
+o Your first cut will be made behind the pectoral fin with the knife angled
+Sunfish toward the top of the head, cutting only to the backbone (not all the way
+• There are two ways to hold a sunfish. One is from through the fish).
+the fish’s belly, loosely gripping the fish between o Next, cut along one side of the backbone with the knife scraping right above
+your four fingers and thumb across the fish’s side. the rib bones without cutting them all the way to the tail. The knife should
+The other is from the top of the fish’s body over its come out right at the base of the tail.
+dorsal fin. Be very careful of the dorsal fin, it has o Lift the piece of meat from the bones.
+very sharp bones that can hurt you. o Turn the fish over and repeat on the other side.
+o If desired, the skin can be removed from the fish by holding the tail with your
+Perch
+fingertips and cutting between the flesh and skin with a sawing motion. Rinse
+• Perch should be held under the belly
+the meat quickly in cold water and prepare for cooking.
+underneath the pectoral fins loosely
+between your four fingers and thumb across
+References
+the fish’s side. Be very careful of this fish’s
+gill covers because they are very sharp.
+Maas, Dave. Kids Gone Fishin. Minnesota: Creative Publishing International Inc., 2001.
+Maas, Dave, et al. The Complete Guide to Freshwater Fishing. Creative Publishing
+International Inc., 2002.
+Texas State. Texas Parks & Wildlife. A Basic Guide for the Beginning Angler. 2008.
+A special thanks goes to the Texas Parks and Wildlife Department for the use of their
+artwork.
+16 17
+A Beginner’s Guide to Fishing A Beginner’s Guide to Fishing
+
+Total cost $3,577.00
+Total copies 12,000
+08CE6396 Printed on recycled paper. Cost per copy .30
+Equal opportunity to participate in and benefit from the programs and activities of the South Carolina Department of
+Natural Resources is available to all individuals regardless of age, race, religion, color, sex, national origin, disability,
+sexual orientation, status as a parent, and protected genetic information. Please direct any questions to the SCDNR, Chief
+of Staff, 1000 Assembly Street, Columbia, SC 29201; 803-734-3672 or the U.S. Fish and Wildlife Service, Office of
+Diversity and Civil Rights, 1875 Century Boulevard, NE, Atlanta, GA 30345; 404-679-7080/7148.

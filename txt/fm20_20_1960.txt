@@ -1,0 +1,3730 @@
+Copy
+3
+DEPARTMENT OF THE ARMY FIELD MANUAL
+RESCINDED
+MILITARY
+DOG TRAINING
+AND
+EMPLOYMENT
+HEADQUARTERS, DEPARTMENT OF THE ARMY
+APRIL 1960
+AGO 5344B
+
+*FM 20-20
+FIELD MANUAL ~ HEADQUARTERS,
+DEPARTMENT OF THE ARMY
+No. 20-20 WASHINGTON 25, D. C., 28 April 1960
+MILITARY DOG TRAINING AND EMPLOYMENT
+Paragraphs Page
+CHAPTER 1. GENERAL--_____________________________ 1-3 3
+2. TRAITS AND CARE OF MILITARY
+DOGS
+Section I. Dog breed and characteristics ______________.. 4-11 5
+II. Shipment and reception of military dogs_____ 12-20 10
+III. Kenneling …______________________________ 21-23 15
+IV. Grooming and care _____-_-_________________ 24-34 19
+V. Feeding _________________________________ 35-41 22
+VI. Prevention of disease and first aid for injuries 42-53 26
+CHAPTER 3. BASIC TRAINING
+Section I. Principles of dog training _____________--_-_ 54, 55 38
+II. Qualification of handlers--___________.----- 56, 57 41
+III. Outline of training program___-_____-5_8_-_6_4_ _ 42
+IV. HEEL (on leash) - -______________6_5_, _6_6_ ____ 47
+V. SIT (on leash) -__________________________ 67, 68 50
+VI. DOWN (on leash) -_________________------- 69-71 52
+VII. STAY (on leash) -______--_ __-- __--------- 72, 73 53
+VIII. COME (on leash) …________________________ 74, 75 56
+IX. CRAWL (on leash) -_______7_6_, _7_7_ _______5_9---
+X. JUMP (on leash) _____-_-______________--_ 78-80 64
+XI. Off-leash exercises (general) …_____________ 81,82 67
+XII. HEEL (off leash) -_____---- -_-__-___ -_-___ 83, 84 67
+XIII. SIT (off leash) - -_________________8_5_, _8_6 _____ 69
+XIV. DOWN (off leash) -________---_____--__ . 8._7 , 88 69
+XV. STAY (off leash) ____-------_-- __..-------. 89, 90 71
+XVI. COME (off leash) __---------_--_---------- 91, 92 72
+XVII. JUMP (off leash) …_______________-_--- --_ _ 93, 94 73
+XVIII: Accustoming dog to muzzle and gas mask____. 95-97 73
+CHAPTER 4. SPECIALIZED TRAINING
+Section I. Screening for specialized training___________ 98, 99 77
+II. Principles of specialized training -______L1_0_0,_ 101 78
+* This manual supersedes TC 7-1, 21 November 1955.
+TAGO 5344B-Apr 1
+
+Paragraphs,-Page
+Section III. The scout dog ___________________-________ 102-111 80
+IV. The sentry dog____________________________ 112-118 90
+V. Advanced obedience and agitation training___ 119-125 98
+CHAPTER 5. HINTS FOR HANDLERS________________ 126-130 108
+APPENDIX. REFERENCES -____________-___________. _______ 111
+INDEX- _________________________-_-_________---- 112
+2 AGO 5344B
+
+CHAPTER 1
+GENERAL
+1. Purpose and Scope
+This manual is a guide for training dogs for scout and sentry
+duty with the United States Arniy. It includes instructions on
+selecting, training, and caring for dogs and describes the qualities
+needed by dog handlers.
+2. The Dog Handler
+To effectively train military dogs, a handler must know more
+than just the principles of dog training. The effective handler is
+one who-
+a. Has a sound understanding of the way a dog's mind works.
+b. Is able, through a knowledge of grooming, feeding, kenneling,
+and first aid, to keep a dog in the physical condition required for
+performance with maximum efficiency.
+c. Can properly employ the military dog to accomplish assigned
+missions.
+3. Assignment and Attachment of the Scout Dog Platoon
+a. As organized, the infantry scout dog platoon (fig. 1) must be
+attached or assigned to a larger unit for mess, supply, and adminis-
+trative support. The platoon is generally assigned to an army and
+is further attached to a division. Elements of the platoon or indi-
+vidual handlers and their dogs may be attached to lower echelons,
+including frontline battle groups and companies, for specific mis-
+sions or periods.
+b. Sentry dog handlers and teams are authorized by TOE aug-
+mentation or by TD. The size of sentry dog units will vary, depend-
+ing upon the size of the area to be protected and the vulnerability
+and sensitivity of the activity to be protected.
+3
+AGO 5344B
+
+TOE 7-167C
+INFANTRY SCOUT
+DOG PLATOON
+DOGS--27
+0-1 EM 20
+HEADQUARTERSS6
+0-1 EM-2 DOGS-9
+PERSONNEL PERSONNEL
+PLATOON CMD:R SQUAD LEADER
+PLATOON SERGEANT ASSISTANT SQUAD LEADER
+VETERINARY ANIMAL SPECIALIST SCOUT DRIVER
+SENIOR SCOUT OBSERVER
+SCOUT OBSERVER (2)
+NOT INCLUDED IN REDUCED
+STRENGTH PLATOON
+Figure1 . Organization of scout dog platoon.
+4 AGO 5344B
+
+CHAPTER 2
+TRAITS AND CARE OF MILITARY DOGS
+Section I. DOG BREED AND CHARACTERISTICS
+4. General
+The dog's world differs from that of humans in some very specific
+ways. His world is mostly one of odors. His nose tells him count-
+less things about his environment which entirely escape humans.
+He is more sensitive to sounds than humans. His visual sensitivity
+to the movement of objects is superior to that of humans. The dog's
+senses which concern the trainer chiefly are, in the sequence of
+their probable importance, smell, hearing, vision, and touch.
+5. Breed
+a. The German Shepherd is the only breed acceptable for train-
+ing as military scout and sentry dogs.
+b. The German Shepherd is a working dog of'wolflike appear-
+ance, with a medium-size, muscular body. He has a double coat to
+protect him in all kinds of weather; a harsh, straight outer coat
+of medium length, and a dense, wooly undercoat. His color may
+range from black to white, but the most characteristic color is wolf-
+gray. For military uses, his coat should be on the dark side.
+c. The special traits that make the German Shepherd so desir-
+able as a military dog are his outstandingly keen nose, endurance,
+reliability, speed, power, courage, and temperament.
+6. Senses
+a. Smell.
+(1) Dogs so far surpass man in keenness of smell that it is
+difficult to imagine the nature of the smell sensations they
+receive. Just as it is probably impossible for a dog to
+imagine what colors are, so it is impossible for man to
+conceive of the vast range of odors and delicate differ-
+ences in chemical shading to which a dog is so sensitive.
+The dog's nose is ideally adapted for the detection of
+minute amounts of odorous particles. It is kept moist by
+a glandular secretion and is extremely sensitive to slight
+currents of air. On feeling such a current, a dog turns
+AGO 5344B 5
+
+his head into the wind, clears his nostrils, and sniffs.-A
+generous sample of the air passes into the nasal cavity
+and over the mucous membrane which is richly supplied
+with the finely subdivided endings of the olfactory nerves.
+This mucous membrane is supported on a complexly con-
+voluted bony structure. Its structure is such as to present
+a maximum surface with a minimum obstruction to the
+circulation of air. By comparison,. the human olfactory
+apparatus is crude, yet even the human nose can detect
+chemicals borne by the air in such minute quantity that
+they cannot be identified by the most sensitive chemical
+tests. In general, studies show that dogs can respond to
+odor traces of all known sorts and in dilutions far more
+extreme than can be detected by man. Furthermore, they
+can distinguish many odors which seem identical to
+human beings.
+(2) A dog's trailing ability depends upon certain traits in
+addition to his sense of smell. Almost any German Shep-
+herd has a good enough sense of smell to become a good
+trailer, but it is only the exceptional dog that can be
+trained to follow slowly and carefully any trail his master
+sets him on, regardless of any diversion or olfactory ruse
+he may encounter. Any Shepherd can trail a rabbit or
+a woodchuck. Only a few will, on command, follow the
+trail of a stranger leading through traffic, under snow,
+near a kennel full of dogs, or past a woodchuck hole.
+(3) Tests indicate that a dog's success in trailing depends pri-
+marily upon his accurate discrimination of-
+(a) Earth odor from the compression of those spots stepped
+on by his quarry.
+(b) Plant odor from the vegetation bruised or broken by his
+quarry.
+(c) Odor traces from shoes and shoe polish.
+(d) Odor traces from decaying animal or other organic
+matter.
+(e) Body odor specific to any particular person.
+(4) Visual cues are of slight assistance to him.
+b. Hearing.
+(1) Tests have been conducted to prove that a dog hears
+sounds too faint to affect human ears. Also, the dog hears
+sounds of higher pitch than can a human.
+(2) In using a dog's sense of hearing to assist in his training,
+you will find that voice inflection as well as the sound of
+the actual words affects his understanding of oral com-
+6
+AGO 5344B
+
+mands. Some dogs appear to understand most accurately
+the feeling and wishes of the handler as they are conveyed
+by his voice. A word spoken in an encouraging tone will
+elate these dogs; a cross word will depress them. If it is
+intended to use a dog at night or under any circumstances
+where he cannot see his handler, it is important to train
+him to respond to a number of oral commands. Some dogs
+cannot be reached through their sense of hearing. They
+are not considered suitable for military training.
+c. Vision. A most striking difference between the retina of a
+dog's eye and that of a human is that the dog's retina lacks a fovea
+centralis, which is a small rodless area of the retina that affords
+acute vision. When a man focuses his eyes upon any object, the
+light reflected from that object is thrown upon the fovea centralis.
+He can see many other objects-besides that one, but he sees them
+indistinctly. This can be tested readily enough by focusing the eyes
+upon any word on this printed page and then trying to see how
+many other words can be read without moving the eyes. The words
+reflected upon the nonfoveal portions of the retina are blurred and
+poorly defined. Since a dog lacks a fovea centralis, one may expect
+that even an object upon which he focuses is seen less clearly than
+it would be by humans.
+(1) Perceptiono f movement. This is a type of visual stimula-
+tion to which dogs seem very sensitive. If an object is
+moved ever so slightly, most dogs will detect and respond
+to the movement. Dogs make little use of their eyes in
+learning except for their perception of movement.
+(2) Color vision. Experimental evidence supports the opinion
+that to dogs the world looks like a black and white photo-
+graph.
+d. Touch. There is a wide variation among dogs in their respon-
+siveness to the sense of touch. Certain dogs are very susceptible
+to manual caress or correction. Others appear to be relatively in-
+sensitive to it.
+7. Aggressiveness
+The degree of aggressiveness in a military dog is judged almost
+solely by his disposition to attack. In general, a dog which is rated
+underaggressive cannot be taught to attack. A dog of average
+aggressiveness can be taught to attack, though less readily, than
+an animal rated as overaggressive. The only difficulty with an
+overly aggressive dog is getting him to stop an attack promptly
+on command.
+AGO 5S44B 7
+
+8. Sensitivity
+The term "sensitivity" refers to the type and degree of response
+a dog shows to certain stimuli (sound and touch). An oversensitive
+dog is startled by stimuli of lower intensity than is required to dis-
+turb the average dog. He often responds to weak stimuli by trem-
+bling and cowering or fleeing. A normal dog might react to the
+same stimuli with a mere turn of his head.
+a. Oversensitive Dog. A dog that is oversensitive (shy) is so
+handicapped that it is not likely to demonstrate what intelligence
+it possesses in a form which the trainer can utilize. A dog that is
+shy to either sound or touch is difficult to train and is unreliable.
+A dog that shows a mild degree of gun shyness can sometimes be
+accustomed to gunfire through repeated exposure to it, but he can-
+not always be depended on where reliability in the face of noise is
+a matter of life or death. In general, an oversensitive animal can be
+trained only with difficulty, if at all, and it cannot be trusted
+implicitly.
+b. Undersensitive Dog. A dog that is undersensitive to both
+sound and touch is also very difficult to train. A handler cannot
+"reach" him readily to give either correction or caress. A dog that
+is sensitive to either sound or touch, but not to both, can be in-
+structed readily enough by a handler who discovers the right ap-
+proach. The handler must employ his voice in one case and his
+hands in another.
+c. Ideal Sensitivity. The ideal dog from the standpoint of sensi-
+tivity (that is, ideal in the hands of a good handler) is somewhat
+sensitive to both sound and touch. Such a dog tends to do either
+very well or rather poorly, depending on the wisdom used in han-
+dling him. A mediocre handler may spoil him.
+d. Importance of Handler. Certain men are unable to appeal to
+a dog successfully through his ear because they do not have the
+proper voice range and timbre, but they may have a certain finesse
+in muscular control that enables them to obtain excellent results in
+handling the dog manually. The opposite is also true. In general,
+each handler succeeds best with a certain type dog and each dog
+with a certain type handler. To gain maximum effectiveness, the
+qualifications of the man must be matched with the sensory peculi-
+arities of the dog.
+9. Intelligence
+a. Generally, intelligence is the trait most closely related to a
+dog's success in military training and service. 'In intelligence, the
+dog is far inferior to man, but probably superior to any other
+8 AGO 56844B
+
+animal below the primates.' A dog can be taught to respond appro-
+priately to an extremely large number of spoken words. No one
+knows the limit of his vocabulary. Under ordinary working condi-
+tions, only about 20 words are needed, but some dogs have been
+known to master responses to well over 100 oral commands.
+b. A dog's rating for intelligence is based on the readiness with
+which he learns and the extent to which he retains and uses what
+he has learned. Intelligence is not related to the ease with which a
+trainer gets a dog to conform to his commands. Certain dogs learn
+very readily, when they want to, but are instructed with great diffi-
+culty because they have a tendency to sulk or become stubborn in
+obeying commands. A dog is rated high in intelligence if he is
+capable of profiting by experience, regardless of whether this is to
+the full satisfaction of the handler.
+c. Some highly intelligent dogs are successful only when work-
+ing with a man who pleases them. Under others they are unwilling
+and give the appearance of being stupid.
+10. Willingness
+This term is an arbitrary one used to refer to a dog's reaction to
+the commands of his handler. It applies not only to the way he
+responds to a command or to an act that he has already learned,
+but also to his cheerfulness and acceptance in learning new duties.
+a. Willing Dog. A dog is ranked high in willingness if he per-
+sistently responds to his master's commands with an effort to carry
+them out, even though reward or correction is not immediate.
+Whether the dog possesses the necessary intelligence or physical
+strength, and whether he succeeds or fails, are not considered.
+b. Unwilling Dog. If the promise of reward and the threat of
+punishment must constantly be before a dog to make him work
+properly, he is considered an unwilling worker. Many unwilling
+dogs appear to make a nice distinction between work and play.
+They will take great pleasure in retrieving, jumping, or searching
+for objects. Such dogs, after responding only stubbornly during a
+training period, will at times go to their handlers and apparently
+suggest a romp which may include any of the acts mentioned. They
+will then respond, promptly and appropriately, to commands to re-
+trieve, search, jump, trail, etc. If, however, the situation is re-
+versed and the handler initiates the play activity, these dogs may
+not, in this case, respond promptly or appropriately.
+c. Basic Considerations.
+(1) Relation to handler. A few dogs will work willingly for
+only certain people, often for only a single individual.
+Most dogs show unwillingness when commanded by a
+AGO 5344B 9
+
+stranger. Some have proved to be stubborn regardless of
+who trains and handles them. It is evident that the best
+results are obtained when a dog and man are carefully
+matched. A dog's rating for unwillingness should be only
+in relation to his handler. A dog should be penalized in
+his rating on this trait if he readily shifts his "willing-
+ness" to another man; for example, to a stranger or
+prisoner.
+(2) Variances in willingness. Willingness can be enhanced or
+inhibited by the man who handles a dog. Improper han-
+dling may make a dog less willing at one time than at
+another. Some dogs will work willingly during the first
+5 minutes of a training period but, perhaps because of
+impatience shown by the handler, the dog will show un-
+willingness during the remainder of the period. Other
+dogs, however, just naturally seem to become unwilling
+after a few minutes. They should be rated relatively low
+in this trait.
+(3) Confusion with undersensitivity. Undersensitivity may
+be confused with stubbornness. Certainly, a dog that is
+undersensitive to both sound and touch may appear to
+behave unwillingly when, as a matter of fact, the com-
+mands supplied by the handler are less effective merely
+because of the limitations of the dog's sensory system.
+(4) Confusion with intelligence. When in doubt as to whether
+a dog's refusal to perform learned tasks is due to stub-
+bornness or forgetfulness, the dog should be confined to
+the kennels for a few days. If he is merely stubborn, he
+will then gladly run through his exercises for the privilege
+of being at large.
+11. Energy
+This term refers to the degree of spontaneous activity of the
+dog; that is, the speed and extent of his movements in general, not
+in response to any command. Dogs differ greatly in this respect
+and it is easier to rate their comparative energy than their other
+traits. Above-average energy is desirable in a military dog because
+it indicates good stamina.
+Section II. SHIPMENT AND RECEPTION OF MILITARY DOGS
+12. Shipment
+All prospective military dogs are shipped by express at Govern-
+ment expense in individual shipping crates (fig. 2) provided by
+10 AGO 5344B
+
+the Government. These crates are marked with shipping tags
+which'carry the following information: the name of the dog, name
+of the shipper, and the dog's destination. The shipper must get a
+health certificate for the dog from a licensed veterinarian within
+24 hours before shipment. State laws govern the manner in which
+the certificate will be forwarded to the dog's destination. In all
+cases where a dog is shipped overseas, a health certificate must
+accompany the animal.
+13. Reception and Recording Procedure
+a. When a dog is taken from his shipping crate he is immediately
+equipped with a leather collar. After being exercised on leash 'and
+permitted to evacuate, he is put in quarantine for 21 days under
+the supervision of the veterinarian. The veterinarian sees that he
+is fed, watered, and left alone long enough for him to recover from
+his journey and become accustomed to his surroundings.
+b. During the two-week period following the dog's arrival the
+following will be accomplished:
+(1) Physical examination.
+(2) Test for gun shyness.
+(3) Test for man shyness.
+(4) Test for aggressiveness.
+(5) Test for ability to ride in wheeled vehicle without ill
+effects.
+(6) Branding (tatooing) of accepted dog.
+(7) Return shipment of rejected dog.
+14. Physical Examination
+A newly arrived dog is given a while to rest, then he is taken to
+the veterinarian where he is given a thorough physical examina-
+tion, including X-rays to determine whether he has a coxofemoral
+pathology (disease or abnormal condition of the hip and thigh
+region). A dog that does not pass the physical examination is de-
+clared unfit for military service and is returned to his owner.
+15. Testing and Accustoming the Dog to Gunfire
+a. A dog may be considered accustomed to gunfire when a small
+caliber weapon can be fired directly above him without causing him
+to flinch. Some dogs can never be trained to be steady under gun-
+fire. Such dogs should be considered unfit for military training.
+b. A dog can be accustomed to gunfire by discharging small
+caliber weapons or exploding firecrackers from a distance, gradu-
+AGO 5344B 11
+
+* *~~~~~"
+BI~~~~~~
+i~~~~~l·
+_ _ f : _ : ,i Co.
+~I-,
+< 0~~* .1 OXbi,$7fy
+I>
+~~~~~~~~~~~~~~~~~~I 1
+Figure . Individual shipping rate .
+12
+AGO 5.344s
+
+ally decreasing the distance and firing progressively heavier caliber
+weapons. It is best to start this training when the dog is engaged
+in some activity which absorbs his attention, such as eating, or
+during training periods. This will help him become subconsciously
+accustomed to this type of noise. It has been found that the most
+successful procedure in accustoming a dog to gunfire is to have the
+shooting done as casually and intermittently as possible. When the
+dog shows alarm, no attempt should be made to force him to sit
+quietly while firing is repeated. It is better to discontinue firing for
+the time being and resume when the dog has forgotten his alarm.
+16. Test for Man-Shyness
+If a dog trembles, whimpers, or is cowed at the approach of a
+man, he is considered unfit for military service. The time and effort
+required to break a dog of man-shyness is considered too great to
+warrant retraining him.
+17. Test for Aggressiveness
+The test for aggressiveness amounts simply to finding out if a
+dog responds appropriately to mild agitation. To do this, someone
+approaches the dog and strikes him with a rolled gunny sack or
+other harmless device. The dog should respond by growling, bark-
+ing, or attempting to bite his tormentor. A dog that is frightened
+by the agitator is considered unfit for military service.
+18. Test for Ability to Ride in Vehicle
+a. A dog may be considered carbroken when he enters a motor
+vehicle on command, stays quietly within, and makes no attempt
+to get out unless ordered to do so (fig. 3). A dog that cannot be-
+come accustomed to riding in motor vehicles should be considered
+unfit for military service.
+b. (1) The commands UP and STAY are used to train a dog to
+enter a vehicle and remain there. Upon noticing the first
+symptoms of car sickness (a profuse flow of saliva and
+drooling from lips and tongue, followed by gagging), the
+instructor has the speed of the vehicle decreased and ob-
+serves whether the symptoms continue. If the dog shows
+improvement, speed can be gradually resumed. This pro-
+cedure is repeated until the dog becomes accustomed to
+the motion of the vehicle.
+(2) If drooling continues when speed is diminished, the vehi-
+cle is stopped and allowed to remain stationary until the
+dog's behavior is normal. The tendency to be sick can
+13
+AGO 6344B
+
+Cab
+Figure 3. Carbroken dogs riding in correct position.
+sometimes be checked by the handler speaking to the dog.
+The vehicle can then be put into motion again, and this
+procedure repeated as necessary.
+(3) If symptoms of car sickness persist after following the
+procedures in (1) and (2) above, try breaking the dog to
+riding when his stomach is empty.
+c. (1) In subsequent exercises, the length of the rides must be
+progressively increased: 5 minutes the first day, 10 min-
+utes the second, and so on until the dog shows no evidence
+of car sickness, no matter how far he travels. The speed
+of the vehicle should also be varied.
+(2) When the dog can ride as shown in figure 3 without be-
+coming car sick, place him in a shipping crate, load crate
+and dog on the vehicle, and train the dog to ride this way
+by the procedure prescribed in b above.
+14
+AGO 5344B
+
+19. Tattooing Procedure
+a. After the dog has been accepted and is purchased, he is tat-
+tooed with a Preston brand number on the inside of the left rear leg.
+b. Using the Preston branding system, it is possible to tattoo
+4,000 animals with each letter assigned, in the following manner:
+if the letter "A" is to be used, the first animal tattooed will receive
+the tattoo "A000," the second "A001," the third "A002," and so on
+up to "A999," which makes the first thousand. The second thousand
+will be tattooed "OAOO," "OA01," "0A02," and so on up to "9A99."
+The third thousand will be tattooed "OOAO," "OOA1," "00A2," and
+so on up to "99A9." The fourth thousand will be tattooed "000A,"
+"001A," "002A," and so on up to "999A."
+c. Preston brand numbers are assigned by the Office of the
+Quartermaster General.
+20. Rejected Dogs
+Dogs that are rejected for military service within 21 days after
+they arrive are returned to their owners at Government expense.
+Dogs that are not rejected during this period are paid for. If they
+are rejected later, for any reason, they are disposed of through the
+quartermaster property disposal officer.
+Section III. KENNELING
+21. Types of Kennels
+a. Multiple. Multiple kennels (fig. 4) are used at permanent
+installations, such as reception and training centers. They may be
+used for housing and isolating newly received dogs.
+b. Single. Single kennels (fig. 5) are used during training in the
+field and at fixed installations. A single kennel usually has a hinged
+top that can be raised to various heights, ranging from a few
+inches for ventilation to a fully opened position for cleaning. It
+may also have a detachable section to serve as a sunning and
+grooming bench, provide shade, or furnish protection in wet
+weather.
+c. Field Kenneling.
+(1) Kennel-type crate. During wartime or other large-scale
+dog mobilization periods, 'a wide variety of crates may be
+utilized, particularly for shipping dogs to training centers
+from volunteer donors. A crate, regardless of type, should
+not be destroyed by the receiving agency. It may be nec-
+essary to use it for further transport or for housing. The
+kennel-type crate (fig. 6) is normally used for shipping
+a dog to a using agency in an overseas theater, but it is
+15
+AGO 5344B
+
+Figure 4. Multiple kennel.
+i a_\ i i L
+Figure 5. Single kennels.
+16 AGO 6844B
+
+also designed to provide adequate temporary kenneling in
+the field.
+(2) Improvised kennel. Adequate kenneling in the field often
+depends on the ingenuity of the handler. Palm leaves or
+fir branches can be used to construct a crude protection
+from sunlight and rain. In a damp climate, a dog bed
+should be raised 6 to 10 inches above the ground. An
+empty barrel makes an excellent kennel with an entrance
+cut in one end and covered with a blanket, burlap sacling,
+or some other available material. If desired, a porch with
+a slanting roof may be added to provide further protec-
+tion. The barrel is placed so that the bunghole is on top
+and the hole is covered with a perforated housing to pro-
+vide ventilation even in inclement weather.
+Caution: The dog must not share the quarters of the
+handler. It is human nature to make a pet of a dog, but
+this will lead to the dog becoming familiar with too many
+individuals and jeopardize the discipline that is developed
+through training.
+22. Kennel Arrangement and Identification
+a. Kennels should be located in a well drained area that is readily
+accessible to handlers and firefighting equipment and far enough
+from heavy-traffic roads and areas of human activity and other
+distractions to permit dogs a normal amount of rest.
+b. Grass matting, salvage tenting, tarpaulin, or other material
+should be stretched over the inclosures around the runs to provide
+shade during hot weather.
+c. To help prevent the dogs from disturbing one another, indi-
+vidual kennels should not be placed face-to-face. They should be
+so placed so that they receive the maximum benefit from sunlight
+and other climatic conditions.
+d. Sections of the kennel area and individual kennels should be
+marked for identification. A kennel, for example, may bear the
+following identification: "Section A, Kennel No. 8."
+e. A kennel plan should be maintained to provide quick reference
+to each dog's location, sick dogs, and vacant kennels.
+23. Kennel Care
+a. Kennels should be thoroughly cleaned each day to encourage
+cleanliness in the dogs. They should be cleaned the first thing in
+the morning. The kennel attendant must check the kennels from
+time to time during the day and clean them again, when necessary.
+17
+AGO 5344B
+
+He inspects them again after feeding and, at the end of the day, he
+removes all feces again. The runways of permanent kennels should
+be carefully hosed every day and the kennels should be scrubbed
+thoroughly at least once a week. The importance of daily kennel
+care cannot be overemphasized for it is the primary preventive
+measure for continued good health of the dogs. Dirty kennels are
+the main source of most of their communicable diseases.
+b. Kennels should be examined for damage or wetness after
+storms.
+c. The ground around each kennel should be raked and gravel
+added as required. In arctic or subarctic regions, the kennel floor
+should be gravel, thus the dog's feet are toughened on gravel during
+the summer months to prevent cutting on ice during the winter.
+d. The bedding should be inspected, shaken up every day, and
+changed at least once a week. Wet or damp straw should be re-
+placed immediately with dry straw. Certain types of hay, par-
+ticularly clover, prairie, and timothy make excellent bedding.
+Straw has a tendency to mat or pack, whereas hay can readily be
+fluffed up by the dog, thus creating a better nesting arrangement.
+When a dog is moved from one kennel to another, the old bedding
+Figure 6. Kennel-type shipping crate.
+118 8 AAGGOO 56384444BB
+
+should be removed and burned, and the kennel should be disin-
+fected.
+Section IV. GROOMING AND CARE
+24. General
+A dog must be groomed daily the year round. Grooming includes
+inspection and care of ears, nails, nose, teeth, and the anal glands.
+A good brushing keeps a dog clean and maintains his coat and skin
+in a heathly condition. If his coat is brushed properly each day, it
+is seldom necessary to bathe him. A dog must be kept free of fleas,
+lice, and ticks. A dog's appearance denotes his state of health as
+well as the care he receives and reflects directly on his handler.
+25. Coat
+a. German Shepherds have a double coat: the undercoat is com-
+posed of soft, woolly hair and the outer coat is composed of coarse
+hair, somewhat oily and water resistant. The coat offers protec-
+tion from rain and excessive heat and cold.
+b. It is important to give the coat a daily brushing. First, give
+the dog a good brisk rubdown with the fingertips to loosen dead
+skin. Follow the rubdown with a thorough but gentle brushing.
+The coat should be brushed twice, first against and then with the
+grain. This not only keeps the dog's coat clean and free from for-
+eign matter but also polishes it and imparts a healthy, glowing
+appearance. Combing, also, is important to good grooming; the
+comb should be used with care to avoid damaging the dog's skin
+and undercoat.
+26. Nose
+The nose must be inspected for cuts, scratches, and mucous dis-
+charge. Cuts and scratches should be kept clean. In the case of a
+persistent watery or thick discharge, the veterinarian should be
+consulted. An excessively dry, hot, or moist nose is sometimes a
+symptom of ill health.
+27. Ears
+a. Grooming always includes a daily inspection of the ear flaps
+and ear canals and cleaning, if required. To clean the ear flaps, re-
+move all matted dirt and food and brush them. Next, examine
+them for wounds, thickening of the margins, and other abnormal
+conditions.
+b. The ear canals should be examined daily and all visible wax
+removed. This can be done with a piece of cotton dipped in a boric
+19
+AGO 5344B
+
+acid solution or a solution of equal parts of hydrogen peroxide and
+water and applied to the Visible parts of the ear canal in the inside
+flap of the ear. Wax should be removed in a gentle manner and the
+swab must not be forced into the ear canal. As many swabs should
+be used as are necessary to thoroughly cleanse the ears. After re-
+moving the wax, examine the ear canals for excessive hair growth.
+Excessive hair.growth may become matted and cause the dog con-
+siderable discomfort as well as reduce his effectiveness in respond-
+ing to oral commands.
+c. Symptoms of ear trouble are evidenced when a dog constantly
+shakes his head, twitches his eyes, and scratches his ears with his
+hind feet. When the symptoms persist, the dog should be taken to
+the veterinarian for examination and treatment.
+28. Eyes.
+When a dog has a mucous discharge from the eyes or foreign ob-
+jects or other irregularities are noted in or about the eyes, he should
+be examined by a veterinarian. A dog's eyes are often referred to
+as the mirror of his body and their appearance often indicates the
+beginning of infections.
+29. Nails and Pads
+The dog's nails and pads are inspected daily. Long nails often
+break or grow into the pads, making a dog unfit for service either
+temporarily or permanently. Particular attention should be given
+to the nail of the first digit on the front legs. If this first digit, or
+dew claw, appears on the rear legs, it should be removed surgically
+by the veterinary officer. The pads are inspected daily for cuts,
+tears, raw spots, and foreign objects lodged in the creases. In
+arctic or subarctic climates, the nails should be trimmed periodi-
+cally to prevent their tearing. In addition, the hair on the pads
+should be trimmed to prevent the pads from icing up, which causes
+them to bruise easily.
+30. Teeth
+Teeth must be inspected daily. They require cleaning when there
+is an accumulation of tartar. Normally, tartar is removed by the
+veterinarian. Sometimes dogs have abnormal or diseased teeth
+that have to be removed.
+31. Bathing
+a. A normal, healthy dog should be bathed as often as is neces-
+sary. His skin is rich in oil glands and deficient in sweat glands.
+Oil excreted by the oil glands keeps the skin soft and prevents it
+20 AGO 5344B
+
+from becoming dry and cracking. This also protects the coat and
+makes the outer coat water-resistant. When a dog is bathed too
+frequently, the natural oil is removed from the skin and the skin
+and coat become unnaturally dry, resulting in a poor coat and
+minute cracks in the skin. These cracks cause an irritation which
+makes the dog scratch and bite himself, thus preparing the way
+for eczema or infectious skin ailments.
+b. Before bathing a dog, put a wad of cotton in each ear. Take
+care not to let soapy water get in the dog's eyes. The temperature
+of the bath water should be no more than 5° higher than the room
+or area where the dog is bathed. Any good soap which does not
+contain too much free alkali may be used, provided care is taken
+to rinse away all traces of the soap before the dog is removed from
+the bath. When soap is left in the coat, it becomes sticky, collects
+dirt, and causes skin irritation. After the bath, dry the dog with
+towels as thoroughly as possible, then massage him by hand and
+brush his coat. Finally, as an aid to drying, he may be encouraged
+to run outdoors for a while, preferably when the sun is shining,
+never when the weather is very cold.
+32. Skin Parasites
+a. See paragraph 51.
+b. Daily grooming helps to keep the dog free from skin para-
+sites, but more drastic measures may be needed, such as dipping,
+spraying, or the use of insect powder as prescribed by the veteri-
+narian.
+33. Evacuation of Intestines and Bladder
+A dog must be allowed to empty both his bladder and intestines
+at regular intervals. One of these periods must be shortly before
+the training period to prevent him from interrupting the training
+procedure and to avoid fouling the training field. If a dog needs to
+evacuate during the training period, and is not allowed to do so,
+he is usually unable to give his best training performance. It
+should be borne in mind that a mature dog cannot empty his
+bladder thoroughly except by frequent evacuations. He must be
+allowed time to perform this function thoroughly. Urine is dis-
+charged from the bladder at frequent, short intervals until pres-
+sure is entirely relieved.
+34. Anal Glands
+The anal glands are small glands situated on either side of the
+dog's anus or rectum. They often become impacted with their
+secretion, and sometimes they become infected. Both conditions
+AGO 5344B 21
+
+cause annoyance and pain. The secretion in these glands should be
+expressed, when necessary, by placing a large piece of cotton over
+the anus and pressing firmly with the thumb and forefingers
+on both sides of the rectum, expelling the impacted matter into the
+cotton. Infected glands require immediate treatment by the
+veterinarian.
+Section V. FEEDING
+35. Food Requirements
+a. To a great extent, a dog is able to digest the same foods as
+man. As far as anyone knows, the dog has the same nutritional
+requirements as man. The dog in the wild state does a very good
+job of balancing his diet. When he kills a rabbit he devours it en-
+tirely; he may eat even the head and fur. A dog can, however, be
+maintained in just as good a physical condition on a diet balanced
+artificially. Proteins contained in the muscles of the rabbit are
+also to be found in other meat, milk products, and certain plant
+products. In place of the plant products found in the stomach of
+the rabbit, the balanced feed provides carbohydrates through corn,
+and other plant products. Vitamins contained in animal carcasses
+may also be provided through the use of suitable artificial concen-
+trates. Foods may be classified according to what they will supply
+to the animal's system. In general they are grouped as follows:
+(1) Proteins-Flesh makers and tissue builders; mostly sup-
+plied to dogs in meat.
+(2) Fats-Energy and heat producers; supplied in meat fats.
+(3) Carbohydrates-Energy producers; supplied in bread and
+cereals.
+(4) Minerals-Bone builders; supplied in cereals, vegetables,
+and bones.
+(5) Vitamins-Essential in the dog's diet. (A normal dog
+does not need supplemental vitamin feeding; ordinarily,
+the foods named in (1) through (4) above contain the
+necessary vitamins.)
+b. For authority to requisition military dog rations, see AR
+725-8710-2.
+36. Meat and Other Sources of Protein
+a. Meat is considered the essential part of a normal dog's diet.
+Most meat or meat products can be used, but beef, mutton, lamb,
+and horse are preferred. Horse meat is an excellent food for dogs
+provided that it is not too lean, or that an amount of fat is added.
+22 AGO 5344B
+
+Meat may be fed raw, boiled, roasted, or broiled, but should not
+be fried. It may be fed in medium size pieces or ground.
+b. Other sources of protein are eggs, which should be fed cooked;
+milk, dried or raw; cheese; and fish. Fish, fresh, frozen, or canned
+makes a satisfactory substitute for meat. Since the protein content
+of fish, milk, and cheese is usually somewhat lower than in meat,
+it is necessary to feed larger quantities of these foods to obtain the
+same protein balance. Meat or other sources of protein must be
+regularly included in the dog's ration, and should constitute at least
+one-third of the total to insure satisfactory growth of young dogs
+and repair of tissue in mature animals.
+c. Plant proteins, particularly legumes, are also valuable in a
+dog's diet.
+37. Water
+Clean fresh water should be supplied for drinking, although
+usually a dog is not particular about the source of his water supply
+and will drink anywhere if he is thirsty. The handler may note
+that a dog will eat the meal provided and immediately go to the
+water bowl. Usually he will drink a few laps and go away. Occa-
+sionally, a dog will drink excessive quantities of water, which
+causes him to vomit. In such cases, it may be necessary to ration
+the water in small quantities at frequent intervals. If the vomiting
+condition persists, it should be brought to the attention of the
+veterinarian.
+38. Cereals and Cereal Products
+Cereal grains and certain cereal products are not greatly relished
+by dogs. Such foods should be given, however, since they supply
+bulk, energy, protein, some vitamins, and minerals. Cereals may
+constitute a third of the total feed for mature dogs. The cereal
+grains most commonly used for dog feeding are corn, rice, oats,
+wheat, and barley.
+a. Corn is used chiefly as meal to make cornbread, a feed that is
+most suitable as a cold weather ration and for dogs that get quite
+a bit of exercise. Cornbread is rich in carbohydrates.
+b. Rice is considered a suitable dog feed. It must be cooked
+thoroughly and should be slightly seasoned with salt to make it
+palatable. Unpolished rice is superior to the common polished type
+both in vitamin and mineral content.
+c. Oats are sometimes of value if they are ground or rolled. This
+food must be cooked thoroughly. Like cornbread, it is best for
+active, outdoor dogs, and as a cold weather ration.
+23
+AGO 5344B
+
+d. Except in commercially prepared canned foods, wheat is
+seldom used as a cooked grain for dog feeding, but various products
+made from wheat often find their way into the canine ration. Chief
+of these are bread, some dry prepared breakfast foods, dog meals,
+and dog biscuits.
+(1) Bread is useful in a variety of forms. Dried or toasted
+bread that is not needed for human use makes a good
+cereal food for dogs when given in combination with meat
+broths, soup, or milk. When fed in this way, only enough
+liquid should be added to moisten the bread. Moldy bread
+must never be fed to dogs.
+(2) When prepared breakfast foods made from wheat or
+other cereal grain are fed, they are usually moistened
+with milk, broth, or water. Such foods are suitable for a
+light morning meal.
+(3) Dog biscuits of various kinds are also generally suitable
+for supplying the cereal portion of the ration. They may
+be fed dry, moistened, or mixed with cooked meat and
+vegetables. These biscuits can be obtained in many sizes
+and shapes (square, oval, bone-shaped, cubes, pellets, or
+kibbled-broken into small pieces), and their composition
+varies, depending on the specific use for which they are
+intended. Practically all of them are high in cereal and
+low in moisture content, and they contain various combi-
+nations of meat byproducts.
+(4) Commercially made dog meals are usually similar to dog
+biscuits in composition, but are ordinarily not so well
+adapted to a variety of uses. They are generally fed
+mixed with water or milk.
+e. Barley is not very palatable to a dog, but is used in the cooked
+form in some commercial mixtures.
+39. Bones
+a. Although bones are not absolutely necessary to keep a dog in
+top physical shape they are useful in helping keep the animal's
+teeth clean. An occasional bone may be given to a dog provided it
+is a knuckle joint. Bones which shatter, such as chicken bones,
+must never be fed to a military dog. If bones are small or brittle
+enough to shatter, pieces or splinters may scrape, cut, and even
+perforate the stomach or intestines. If they pass safely to the
+rectum, small particles may pack together and cause clogging or
+inflammation there.
+b. It is a good practice to give a dog a knuckle joint once a week
+24 AGO 5344B
+
+and let him keep it for a limited time (about 4 hours). Dogs must
+be separated when given bones to prevent fighting.
+40. Vegetables
+The primary function of vegetables in the dog ration is to fur-
+nish vitamins and minerals, supply bulk, act as fillers, and regulate
+the bowels. Of the common vegetables, canned or raw tomatoes are
+suitable because they can be mashed easily and mixed with various
+other foods. The extensive use of vegetables which have a high
+fiber content should be avoided. The normal cereal ration for a
+military dog has the necessary amount of vegetables included.
+41. General Feeding Rules
+The following rules should be generally observed:
+a. Average Ration. The normal daily ration for a scout or sentry
+dog in training or when performing full duty should be four
+pounds. This ration is broken down into one-third horsemeat, one-
+third cereal or biscuit, and one-third water. After mixing, the food
+should be allowed to stand for about 30 minutes before being fed
+to the dog. This allows the cereal time to absorb the liquid used.
+A dog may be put on one-quarter, one-half, or three-quarter ration,
+depending on his size and whether he is overweight, and on the
+amount of work he performs.
+b. Number of Meals. Ordinarily, one meal a day is enough for
+a mature dog. To bring an underweight dog to proper working
+condition, he may be fed a supplemental ration of milk, eggs,
+cereal, or additional normal rations in excess of four pounds per
+day.
+c. Time of Feeding. The time of feeding depends on whether the
+dog is to work on the night or day shift. He must never be fed his
+ration just before he goes to work and never immediately after
+strenuous exercise. A dog works best when his stomach is empty.
+A full stomach makes him sluggish. The same principle is applied
+for feeding during training.
+d. Dryness of Food. As a general rule, it is desirable to feed
+dogs a slightly dry diet. The mixed food should be crumbly moist.
+Sloppy food is difficult to digest because the excessive moisture in
+the food dilutes the dog's gastric juices and retards chemical action
+on the food. Sometimes, a dog will regurgitate food that is sloppy.
+AGO 5344B 25
+
+Section VI. PREVENTION OF DISEASE AND FIRST AID
+FOR INJURIES
+42. General
+The treatment of dog diseases and injuries and the prevention of
+diseases are functions of the Veterinary Corps. Many diseases and
+injuries are preventable if all who are concerned with the dogs are
+vigilant, intelligent, and untiring in the application of simple pre-
+ventive measures. Frequently, the development of serious diseases
+or injuries can be prevented by prompt first aid measures and early
+treatment.
+43. Healthy Dog
+Health is the condition of the body in which all bodily functions
+are performed in a normal manner. It is particularly essential
+that the normal functions of the body of the animal be thoroughly
+understood, otherwise one cannot hope to recognize abnormalities.
+a. Appearance. In the standing position, a dog's four feet are
+placed squarely on the ground or one hind foot may be placed
+slightly in advance of the other. The head is held alert, the eyes
+are wide open, the nose is moist and free from discharge, and the
+ears are erect (fig. 7). The coat has a lustre and the skin is supple
+and easily moved about over the structure underneath. The color
+of the mucous membranes of the eyes, nostrils, and mouth is salmon
+pink.
+b. Natural Functions. The bowels are evacuated on an average
+of three to 4 times in the course of 24 hours and the stool should
+be formed and free from mucous. The color of the stool will vary
+according to what the dog eats. The urine is voided at frequent
+intervals. Its color varies from light to dark yellow, depending on
+the dog's diet.
+c. Temperature. The normal body temperature of the dog at rest
+is 101° F., but may vary 1° in either direction. Immediately after
+work, and especially under a hot sun, the temperature of healthy
+animals may rise, but as a rule it is unaffected by climatic condi-
+tions and it is thus a most valuable guide to a dog's general state of
+health. The temperature is taken with a clinical thermometer in
+the xectum. The thermometer is moistened or oiled and the mercury
+is shaken down to 96° F. or lower. The bulb of the thermometer
+is inserted in the anus and allowed to remain for 3 minutes. When
+it is withdrawn, the temperature is read, the thermometer
+washed in cold water, and the mercury shaken down again below
+normal. A rise in temperature often precedes any visible symp-
+26
+AGO 6344B
+
+toms in contagious diseases and is important in confirming a sus-
+pected infection.
+d. Breathing. A dog's breathing may be most conveniently noted
+by the rise and fall of his flanks. The number of respiratory move-
+ments while he is at rest will normally vary from 8 to 16 per
+minute in moderate weather. These should not be counted when
+the animal is first approached, as excitement or movement causes
+an increase in the number of respirations. Immediately following
+exercise, the respiration rate may increase to 60 to 90 per minute.
+During warm weather, while the dog is at rest, respiration is
+greatly accelerated due to the fact that the skin glands are not
+active enough to assist in the respiratory functions. To make up
+for this lack, the dog breathes through his mouth and increases
+the frequency of respiration.
+e. Pulse. The normal pulse rate is from 70 to 100 beats per
+minute. The pulse may be felt on the left side just in back of the
+elbow joint, or by placing the fingertips lightly on the femoral
+artery which is located on the inside of each hind leg. The beats
+should be counted for 30 seconds and multiplied by two. The animal
+should be at perfect rest when the pulse is taken, as exercise and
+excitement quickens it. In illness, the pulse is usually faster than
+normal and may be stronger or weaker.
+Figure 7. An alert healthy dog.
+AGO 5344B 27
+
+f. Mucous Membranes of the Eyes, Nose, and Mouth. Normally,
+the mucous membranes are a salmon pink color and free from con-
+gested areas and discharges. During illness, they may become red,
+pale or white, or yellow.
+g. Skin. In health, the skin should be supple and roll easily on
+the underlying structure. The hair should have a lustre, feel soft,
+and lie evenly. In disease, the skin is dry as if adhering to the
+muscles below; the coat is dull in appearance, harsh to the touch,
+with the hair on end instead of lying flat.
+44. Indications of Disease
+Every disease has different indications and the symptoms vary
+so greatly that only exhaustive study can acquaint one with their
+many indications. The most common preliminary indications of
+disease are partial or complete loss of appetite, rise in temperature,
+accelerated breathing, increased pulse rate, listlessness, dejected
+appearance, nasal discharge, persistent cough, diarrhea, constipa-
+tion, unhealthy coat of hair, and swelling in any part of the body.
+One of the first and most important symptoms of sickness is loss
+of appetite. The best time to inspect dogs for evidence of sickness
+or injury is while they are being fed or groomed.
+45. Classes of Diseases
+a. Communicable Diseases.
+(1) Definition. Communicable diseases are diseases that are
+transmitted from animal to animal either by direct con-
+tact between sick and well, or indirectly through the
+medium of infected kennels, unsanitary feeding dishes,
+flies, lice, ticks, mosquitoes, and faulty sanitation. A dis-
+eased animal throws off in the discharges from the res-
+piratory, digestive, and urinary systems the material
+which transmits the disease to other susceptible animals.
+Some of these diseases are incurable, some may be trans-
+mitted to man, and all may cause great harm if not held
+in check. Communicable diseases are always marked by
+a period of incubation, which is the time interval that
+elapses between infection and the appearance of the
+symptoms of the disease. This period may vary from a
+few days to several weeks. Examples of contagious dis-
+eases are distemper, rabies, mange, and ringworm.
+(2) Predisposing causes. Conditions that lower general vital-
+ity and natural resistance to disease, thereby making dogs
+more susceptible to infection, are termed predisposing
+causes. The principal causes are exposure, improper
+28 AGO 5344B
+
+grooming, lack of sufficient food, overwork, and other
+diseases.
+(3) Prevention. The logical way to prevent the entrance of
+communicable disease is to correct the faulty conditions
+that predispose the animal. When a disease once gains
+entrance to a group of dogs, there are certain rules of
+procedure that have been found necessary to check its
+spread to healthy animals and to stamp it out. These
+measures are-
+(a) Daily inspection of all animals to detect new cases.
+(b) Quarantine of exposed animals.
+(c) Isolation of sick animals.
+(d) Disinfection of infected kennels and the surrounding
+area, equipment, and utensils.
+(4) Quarantine.
+(a) Quarantine is the separation of the apparently healthy
+dogs that have been exposed to the infection from those
+that are healthy and have not been exposed.
+(b) Animals that have been exposed or are suspected to
+have been exposed to a communicable disease are poten-
+tial sources of infection and they may be in the incuba-
+tive stage of the disease. In many diseases, a dog may
+be infected during the incubation period or in the very
+early stages of the disease before the characteristic
+symptoms are noticeable. For this reason, such animals
+should be placed in quarantine to protect the unexposed
+animals.
+(c) The incubation period for most of the ordinary com-
+municable diseases of dogs is less than 3 weeks. It is
+obvious that the period of quarantine should be longer
+than the period of incubation.
+(d) The quarantine of exposed animals during an outbreak
+of disease is mandatory. It is prescribed in AR 40-905.
+A quarantine period of not less than 21 days has been
+adopted by the Army. The discovery of a new case in
+the quarantine group is cause for beginning a new
+period of quarantine. Provisions for the quarantine of
+newly arrived animals at a station are also in AR
+40-905.
+(e) The place selected for quarantine should be located so
+that it is impossible for other dogs to enter or come in
+contact with the quarantined dogs.
+(f) The severity of quarantine rules depends upon the
+AGO 5344B 29
+
+nature of the disease. Attendants in the quarantine
+area should not handle other dogs, and strict sanitation
+is mandatory at all times.
+(5) Isolation. Isolation is the absolute segregation from all
+other animals of an animal with a communicable disease,
+or one suspected of being infected. It must be complete
+in every detail to be of any value.
+(6) Disinfection. The application of agents called disinfec-
+tants, used for the purpose of destroying disease-produc-
+ing organisms, is called disinfection. It is essential to
+thoroughly clean kennels and equipment before disinfect-
+ing them. It is a waste of time to disinfect a kennel, uten-
+sil, or anything used by a dog unless it has previously
+been thoroughly cleaned. Fresh air and sunlight are
+potent disinfectants. Therefore, a kennel with plenty of
+windows and ventilation is more sanitary than one that
+is dark and damp.
+b. Noncommunicable Diseases. Noncommunicable diseases in-
+clude all diseases that are not transmissible either directly or in-
+directly from one animal to another. Many of these diseases are
+directly caused by improper methods of animal management. While
+noncommunicable diseases are the cause of many lost days of
+animal service, they do not present the serious problems encoun-
+tered in communicable diseases. Examples of noncommunicable
+diseases are tumors, epilepsy, and nutritional disturbances.
+46. Nursing
+a. Good nursing is indispensable in the treatment of sick and
+injured dogs. The chief points to consider in nursing are-
+(1) Ventilation. Allow plenty of fresh air, but protect the
+dog from drafts. Avoid exposure to extreme tempera-
+tures and, in the field, provide shelter from wind and rain.
+(2) Bedding. A good, clean, bed induces an ailing dog to rest.
+It should be changed several times a day and all food
+particles and fecal matter should be removed.
+b. Convalescent animals should receive as much exercise as their
+individual cases permit. It must be borne in mind, however, that
+rest is one of the best treatments.
+c. Dogs that are weak or depressed should not be too thoroughly
+groomed. They should be carefully brushed once a day and the eyes
+and nostrils wiped out with a moist piece of cotton. Animals that
+are only slightly sick should be completely groomed every day.
+d. Some sick dogs retain a good appetite, but such patients
+30
+AGO 6344B
+
+should not be overfed. Their stools should be kept soft, and they
+should have plenty of fresh water. Sick animals with impaired
+appetites require special attention and often relish a change in diet.
+They should be fed often and in small amounts. Uneaten portions
+should not be allowed to remain with the dog in the kennel. The
+feeding dishes should be kept clean. To induce eating, hand feed-
+ing or forced feeding of liquid foods may be used as a last resort.
+47. Wounds and Injuries
+a. Wounds. A break in the skin, body tissues, or lining of a
+body cavity, resulting from external violence or muscular activity
+of the body itself, is known as a wound. For the purpose of descrip-
+tion, wounds are classified as incised wounds or cuts, lacerated
+wounds or tears, punctured wounds or holes, and abrasions.
+(1) Incised wounds or cuts are caused by sharp objects. Al-
+though this type of wound bleeds freely due to the cut
+blood vessels, there is very little tissue destruction and
+infection does not often follow if proper care and treat-
+ment is given.
+(2) Lacerated wounds or tears involve a destruction of tissue,
+and create a likely seat of infection. Bleeding is not as
+severe as in incised wounds.
+(3) Punctured wounds or holes may be caused by any object
+that will penetrate the tissues. Nails, sharp pieces of
+wood, and bullets are some of the common causes. Wounds
+of this type are difficult to clean and favor infection due
+to extensive tissue destruction and foreign material which
+is carried into the deeper tissues. Hemorrhage in this
+type of wound is of little concern unless a large blood
+vessel is severed.
+(4) Abrasions are wounds caused by the rubbing of the skin
+against some object which produces an area of irritation.
+Rope burns are an example.
+b. First Aid Treatment of Wounds. Before attempting to ad-
+minister first aid, secure the dog's mouth with a muzzle.
+(1) Bleeding must be controlled before any attempt is made to
+clean or bandage a wound. Normally, it can be controlled
+by applying pressure directly to the bleeding surface.
+To do this, make a compress (a folded cloth or pad) with
+a clean piece of gauze or handkerchief, place it over the
+wound, and bind it firmly in position with a bandage.
+Have a veterinary officer examine the dog and give fur-
+ther treatment.
+31
+AGO 5344B
+
+(2) If a veterinary officer is not available, the handler may
+give the following emergency treatment. After bleeding
+has been controlled, clean the wound. First, clip the sur-
+rounding hair with scissors and wash the dirt from the
+injured parts with clean water. All visible foreign mate-
+rial should be removed from the wound but the wound
+should not be packed, probed, or covered with ointment.
+The wound may be covered first with gauze, then cotton.
+This dressing is secured with a bandage. Never place
+cotton directly over a wound, and never apply a bandage
+over a tourniquet. When first aid measures have been
+administered, carry the dog to the veterinarian for fur-
+ther examination and treatment.
+c. Injuries. Bruises, strains, sprains, and fractures are classified
+as injuries. They are caused by external violence or from muscular
+activity of the body itself, and involve muscles, tendons, ligaments,
+joints, organs, and bones. A break in the skin need not accompany
+an injury.
+d. FirstA id Treatment of Injuries.
+(1) Bruises and sprains. The application of hot or cold packs
+to bruises, sprains, and strains will prove beneficial. Com-
+plete rest is essential.
+(2) Fractures. Most fractures occur in the extremities of the
+body. The causes are varied, but the greater number of
+cases result from falls, kicks, bites from other animals,
+and gunshot wounds. Before attempting to administer
+first aid, secure the dog's mouth with a muzzle. Assuming
+that the dog has a leg injury, place him in a reclining
+position and carefully examine the leg to determine the
+extent of the injury. If the leg is obviously fractured
+(broken), or a fracture is suspected, make splints from
+two flat pieces of wood wide enough and long enough to
+accommodate the length and shape of the leg. Place one
+splint on the inside and the other on the outside of the
+leg and bind both in position with strips of gauze bandage.
+The dog should then be carried to the veterinarian. When
+the fracture cannot be splinted, place the dog on a firm,
+improvised litter made from boards and carry him to the
+veterinarian.
+(3) Eye injury.
+(a) Injuries to the eye are very common. They occur as
+wounds and lacerations, and result from contact with
+foreign objects or from external violence such as bites
+32 AGO 5844B
+
+received in dogfights. If at all possible, only a veteri-
+nary officer should treat eye injuries.
+(b) If a veterinary officer is not available, the handler may
+give the following emergency treatment. Bathe the in-
+jured eye with clear warm water and then examine it
+for the presence of foreign material. Carefully remove
+the foreign material if you can do so without causing
+further injury. Then place a moist piece of gauze over
+the eye and top it with a cotton pad. The gauze and pad
+should be held in place with a loose bandage.
+(4) Burns.
+(a) Burns may be caused by hot liquids, chemicals, fire, and
+friction. The extent of the damage to the body tissues
+is defined by the appearance of the injured parts. In
+first degree burns, the skin is reddened. Blistering
+occurs with second degree burns. When deeper destruc-
+tion occurs, the tissue takes on a cooked appearance
+and the condition is referred to as a third degree burn.
+(b) All burns should be treated immediately by a veteri-
+nary officer. Care should be taken to avoid contamina-
+tion of the injured surface.
+48. Bandages
+a. Uses. Bandages are one of the oldest forms of surgical appa-
+ratus and are employed-under varying conditions for many pur-
+poses. The chief uses for bandages are to--
+(1) Control bleeding by pressure.
+(2) Hold dressings and compresses in place.
+(3) Hold splints in place.
+(4) Immobilize a part of the body.
+b. Application.
+(1) The roller bandage is the type most frequently used for
+applying dressings, splints, compresses, and pressure. To
+apply it, use one hand to hold and direct the roll, the other
+to keep each lap smooth and to hold the turn while taking
+up slack or changing directions. Apply the bandage to
+the injured part snugly enough to exert the desired
+amount of pressure and to prevent slipping, but be care-
+ful not to shut off circulation by too much pressure.
+When the ends of the bandage are secured they should
+be tied only as tight as the bandage has been applied.
+(2) A bandage should be applied over gauze and cotton and
+not directly to the body. It is not advisable to apply a wet
+33
+AGO 5344B
+
+gauze bandage, for it may tighten as it dries and cause
+undue pressure, Bruised areas usually become swollen
+within a short time following injury. This should be
+borne in mind when bandaging is contemplated, as the
+application of a snug bandage to the original wound will
+impair circulation if swelling occurs.
+(3) In applying a bandage to an injured leg, it is advisable to
+bandage the foot as well, even when the foot is not in-
+jured. This prevents swelling below the wound and makes
+the bandage more secure. In securing the ends of the
+bandage, fasten them on the outside of the leg but not
+directly over the injured area, as pressure from the knot
+on the wound will cause the animal discomfort.
+(4) When a dog's body needs to be bandaged, a split-tailed
+bandage may be used. This is made from a piece of cloth
+long enough to completely encircle the body and provide
+strips for ties. The material is folded in half and strips
+are cut into the material at the open ends. A dressing is
+placed on the chest, flank, or abdomen, as required, the
+bandage is placed around the body, and the strips tied on
+top of'the back. Made on a smaller scale, a split-tailed
+bandage may be applied to the head or neck.
+49. Disturbances of the Digestive System
+a. ForeignB odies in the Mouth. When a dog claws at his mouth,
+has difficulty in eating, or has an excessive flow of saliva, the pres-
+ence of a foreign object in his mouth should be suspected. Pieces
+of bone, splinters of wood, and small stones will lodge between the
+teeth and cause the dog distress. Caution must be exercised in
+handling a dog that shows these symptoms as similar symptoms
+are noted in dogs having rabies. Cases of this kind should be
+diagnosed by the veterinarian.
+b. Disturbance of the Digestive Tract. Digestive disturbances
+are characterized by loss of appetite, persistent vomiting, diarrhea,
+stools streaked with blood or covered with mucous, and constipa-
+tion. These symptoms may be due to faulty diet, eating of poison-
+ous substances, infections, foreign bodies in the intestines, or
+parasitic infection.
+(1) When there is persistent vomiting and diarrhea, food
+should be withheld and the quantity of drinking water
+limited. Purgatives should not be administered until the
+cause of the illness has been determined.
+(2) Constipation is usually the result of heavy feeding, in-
+sufficient exercise, and the use of bones and dry biscuits
+34 AGO 6344B
+
+in the diet. Constipated animals should be taken to the
+veterinarian for treatment.
+(3) When it is known or suspected that a dog has eaten some
+poisonous substance, vomiting should be induced immedi-
+ately. Make the dog vomit by administering large quan-
+tities of soapy water, salt water, or dishwater. When the
+dog has vomited freely, administer a tablespoonful of
+Epsom salts diluted with. water. If a poison such as
+bichloride of mercury has been eaten, follow the above
+treatment and then administer large quantities of milk.
+Keep the dog warm until further treatment can be given
+by a veterinarian.
+(4) Intestinal parasites will cause digestive disturbances.
+Those commonly found in the digestive tract of a dog are
+roundworms, tapeworms, hookworms, and whipworms.
+Occasionally, the presence of parasites may be detected
+by a visual examination of a dog's stool. Frequently, tape-
+worm segments will be noticed adhering to the hair
+around the anus. A microscopic examination of the feces
+by the veterinarian will reveal the presence of parasitic
+ova. The veterinarian will prescribe specific treatment.
+50. Disturbance of Nervous System
+In case of any disturbance of a' dog's nervous system, such as
+hysteria, convulsions, or general nervous disturbances, do not
+attempt to apply restraint or administer treatment. If the dog is
+on a leash, tie him to a stake in a shaded area or place him in a
+kennel and allow the condition to subside. Summon a veterinarian
+or, if the dog's condition returns to normal, carry him to the
+veterinary hospital for observation.
+51. External Parasites
+Fleas, lice, and ticks are parasites which are found on the body
+of the dog.
+a. Fleas. Fleas reside in unsanitary surroundings. They attach
+themselves to dogs and receive nourishment by sucking blood.
+They cause the dog considerable annoyance and, in large numbers,
+may produce chronic skin eruptions. They also cause the dog to
+inflict self-injury by persistent scratching. Fleas on the dog can be
+destroyed by applying flea powder or by bathing the dog in a 1 to
+2 percent solution of creolin.
+b. Lice. Dogs are subject to infestation by two varieties of lice
+(biting and sucking). All dogs in the kennel should be examined
+AGO 56344B 35
+
+during the daily grooming for evidence of lice infestation. A dog
+infested with lice should be isolated and treated with a parasiticide
+prescribed by a veterinary officer.
+c. Ticks. The common dog tick is a blood-sucking parasite which
+attaches itself to the dog by burying its head in the dog's skin. The
+female tick is gray and the male is brown. Frequently, they will
+be found-attached to one another or feeding on the same area. To
+remove ticks easily, moisten a piece of cotton with ether and place
+it over the tick. Grasp the tick with the thumb and finger over the
+cotton and pull the tick gently but firmly away from the dog's body.
+Jerking the tick away leaves the tick's head imbedded in the tissue,
+which produces further irritation. The area from which the tick
+it.~~~~~~~s~4~~~~~~a
+Figure 8. Hasty muzzle.
+36
+AGO 6i44B
+
+is removed should be washed and an antiseptic applied. Ticks are
+placed in a receptacle as they are removed and are destroyed by
+burning. Ticks are carriers of disease transmissible to man and
+care should be exercised in handling them.
+52. Reporting of Dog Bites
+Rabies is transmitted to animals and man through the bite of a
+rabid animal. Due to the prevalence of rabies in certain communi-
+ties, it is important that all cases of dog bites be reported immedi-
+ately. Dogs bitten by wild animals or other dogs should be placed
+in the custody of the veterinarian and quarantined as prescribed
+in AR 40-905. Military dogs that bite humans are placed under
+observation for fourteen days.
+53. Restraint of Dogs
+a. Before examining or administering first aid to an injured
+dog it is always advisable to muzzle him, no matter how well the
+handler is acquainted with the dog's normal behavior. An injured
+or frightened dog will often bite as a mistaken act of self-defense.
+b. A hasty muzzle may be fashioned from a piece,of gauze band-
+age, a strong strip of cloth, or a leash. It is placed around the
+mouth and looped under the lower jaw. The ends of the leash
+(bandage) are pulled taut to tighten the loop and then passed to
+the back of the neck just below the ears, where they are securely
+held or tied (fig. 8). The muzzle shown in figure 9(1) may also
+be used.
+37
+AGO 6844B
+
+CHAPTER 3
+BASIC TRAINING
+Section I. PRINCIPLES OF DOG TRAINING
+54. General
+There are no tricks or mystery to dog training. It is a fairly
+simple process if based on-
+a. A practical knowledge of how a dog's mind works.
+b. Constant repetition of training exercises.
+c. Suitable recognition of a dog's progress.
+d. Patience.
+55. General Principles
+The effectiveness of a dog training program depends on the re-
+gard shown for certain basic principles.
+a. The handler must establish himself as the master of the dog
+or dogs assigned to him. He pets, praises, feeds, and handles only
+the dogs assigned to him. He does not permit anyone else to make
+friends with them.
+b. The handler must understand the limitations of a dog's mind.
+There are many things one cannot expect of a dog and many things
+one can, provided he is properly handled. In the beginning, a dog
+may be uncertain of what is expected of him. He may not fully
+understand a command until he has been made to carry it out
+numerous times.
+c. There are specific techniques for giving commands so that
+they are suggestive or meaningful to 'a dog.
+(1) Vocal commands are given firmly and clearly. The tone
+and sound of the voice, not volume, are the qualities that
+influence the dog. Commands must be directed at the one
+dog concerned and not voiced in just any haphazard direc-
+tion. They must inspire obedience.
+(2) Next to the voice, gestures are the chief means of influ-
+encing dogs. Often, vocal commands and gestures are
+combined. At first, gestures, may be exaggerated to help
+38 AGO 6344B
+
+convey the desired command to the dog. As training pro-
+gresses, the exaggeration is reduced.
+d. It is essential to make the dog carry out the same command
+over and over until he learns to respond to it without hesitating.
+Repetition is even more important in dog training than it is in
+human learning. However, both handler and dog can go stale or
+lose efficiency by practicing any one command too much during one
+period. In this case, it is better to go on to another exercise or let
+some time elapse, then return to the practice of the command.
+e. The handler must never lose patience or become irritated. If
+he does, the dog will become hard to handle because he takes his cue
+from the handler's attitude. Patience is one of the prime requisites
+of a good dog handler, but it must be coupled with firmness. The
+moment the dog understands, the handler must demand that he
+obey if the dog is to be a prompt and accurate worker.
+f. From the very beginning of training, the dog should never be
+permitted to ignore a command or fail to carry it out completely.
+He must learn to associate the handler's command with his execu-
+tion of it. He should never be allowed to suspect that there is any-
+thing for him to do BUT obey. He must learn that he will have
+to do what the handler commands, that he will have to carry out
+the command completely, no matter how long it takes. Laxity on
+the part of the handler on even one occasion may result in an atti-
+tude or mood of disobedience that means difficulty and delay in the
+continuation of the training program. When the handler is sure
+that a dog knows what is expected of him and is being willfully
+stubborn, the handler may punish the dog by jerking sharply on
+the leash.
+g. The purpose of punishment is improvement, not reprisal.
+(1) A dog does not understand abstract principles of right
+and wrong according to human standards, so reward and
+punishment must be used to teach him what he must and
+must not do.
+(2) It is seldom necessary to resort to physical punishment to
+teach a lesson to a sensitive dog. Withholding praise,
+using a rebuking tone, or even saying "No" reprovingly,
+is usually punishment enough for him. If the dog is
+callous or insensitive, he must be punished more severely.
+The punishment must be made to fit the dog as well as the
+misdeed. Timing in punishment is most important. The
+correction, whatever form it takes, must always be ad-
+ministered immediately after the dog misbehaves. A dog
+39
+AGO 5344B
+
+cannot connect punishment with a misdeed he committed
+several minutes earlier.
+(3) Severe punishment should be inflicted as a last resort and
+only for deliberate disobedience, stubborness, or defiance
+when the dog has learned better. He must never be
+punished for clumsiness, slowness in learning, or inability
+to understand what is expected of him. Punishment for
+such reasons, instead of speeding training, will have the
+opposite effect. The word "No" is used to indicate to the
+dog that he is doing wrong. "No" is the only word used
+as a negative command. It is spoken in a stern and re-
+proving tone. If this form of reproof is not successful,
+the dog should be chained or kenneled. A handler never
+slaps a dog with his hand or strikes him with the leash.
+The hand is an instrument of praise and pleasure to the
+dog and he must never be allowed to fear it; beating him
+with the leash will make him shy of it and lessen the effec-
+tiveness of its legitimate use. The dog's name is never
+used in connection with a correction.
+h. Whenever a dog successfully executes a command, even
+though his performance has taken more time than desirable, the
+handler always rewards him with a pat on the head and praises
+him in some obvious way.
+(1) Dogs are usually anxious to please. They must be shown
+how to do so. When a dog is rewarded for his perform-
+ance he senses that he has done the right thing and will
+do it more readily the next time he is given the same
+command. Praise may take the following forms:
+(a) Kind words.
+(b) Patting.
+(c) Allowing a few minutes' romp.
+(d) Allowing the dog to perform his favorite exercise, in-
+cluding free run and play.
+(2) It is not advisable to reward a military dog by feeding
+him tidbits, as he will become accustomed to this form of
+reward and expect it for some act performed in the field
+where such food is not available.
+(3) Every training period must conclude with petting, praise,
+and encouragement for the dog, to keep up his enthusiasm
+for his work. If the dog's performance of the particular
+exercise does not warrant this, he must be allowed to per-
+form a short exercise he knows thoroughly and does well,
+so that he will earn the reward legitimately.
+40 AGO 5344B
+
+Section II. QUALIFICATION OF HANDLERS
+56. Essential Traits
+Successful care and training of dogs depends to a great extent
+on personal characteristics of the handler. Experience has shown
+that the following traits are essential:
+a. Friendly Attitude Toward Dogs. Any individual selected to
+train and handle dogs must have a genuine fondness for ahid in-
+terest in them. If this quality cannot be readily determined in pros-
+pective handlers, they should be considered unacceptable.
+b. Intelligence. It has been demonstrated that individuals with
+less than average intelligence cannot be taught to care for and
+train dogs successfully.
+c. Patience and Perseverance. The handler cannot force desired
+behavior upon dogs nor can he expect dogs to learn as rapidly as
+human beings. He must be patient and he must persevere until
+each exercise is brought to a successful conclusion.
+d. Mental and Physical Coordination. A good handler must be
+able to convey his wishes to the dog by body movement and gestures
+as well as by voice. This requires a definite amount of mental
+and physical coordination.
+e. Physical Endurance. Not only must the handler be able to
+show good coordination, he must also be able to maintain his efforts
+as long as necessary. The handler must be able to "outlast" his
+dog during each training period.
+f. Resourcefulness. Although training procedure is carefully
+set forth, it is inevitable that situations will arise calling for action
+not covered by rules. A handler must be able to meet these situa-
+tions successfully.
+g. Dependability. The welfare of the dog is entirely in the hands
+of the handler. Dogs cannot disclose how they are being treated
+nor can they make reports. Their physical well-being depends,
+primarily, on the willingness of the handler to do such manual labor
+as necessary for kennel management, feeding, and dog cleanliness.
+Failure in these responsibilities means failure of the training
+program.
+h. Security Clearance. Since dogs will be guarding sensitive
+installations, it is imperative for the handler to have a security
+clearance.
+57. Determination of Qualifications
+There are no purely objective methods of determining how well
+41
+AGO 6344B
+
+a prospective handler qualifies in the desirable traits. However,
+prospective handlers cannot be selected haphazardly. Interviews
+provide a satisfactory basis for selection if carefully conducted by
+a responsible and duly qualified officer or civilian trainer. Each
+candidate should be examined before he is permitted to undergo
+any training with military dogs. To insure the effectiveness of this
+procedure, each candidate should undergo a second interview after
+1 week of training. At this time the candidate should be able to
+give a reasonably clear and intelligent account of the instruction
+he has received and his attitude toward military dog training
+should be carefully checked. If the candidate is rated unsatisfac-
+tory upon conclusion of this interview, he should receive no further
+training and should be transferred to another organization.
+Section III. OUTLINE OF TRAINING PROGRAM
+58. Objectives
+The objectives of basic training are to-
+a. Develop in dogs the behavior that is basic to more specialized
+training for specific military functions.
+b. Determine the specific military function for which each dog
+should be trained.
+c. Teach specially selected enlisted men to-
+(1) Train dogs.
+(2) Train men in the using agencies to which the dogs may
+be assigned.
+59. Scope
+The basic training program involves-
+a. Training dogs to carry out the following fundamental com-
+mands:
+(1) On leash-
+(a) Heel.
+(b) Sit.
+(c) Down.
+(d) Stay.
+(e) Come.
+(f) Crawl.
+(g) Jump (Up).
+(2) Off leash-
+(a) Heel.
+(b) Sit.
+42 AGO 5344B
+
+(c) Down.
+(d) Stay.
+(e) Come.
+(f) Jump (Up).
+b. Accustoming dogs to-
+(1) Wearing muzzles and gas masks.
+(2) Riding in a vehicle.
+(3) Tolerating gunfire.
+60. Personnel
+Three classes of personnel are involved in the training of dogs.
+a. Instructors. Qualified experts designated to take charge of
+training men and dogs in either the scouting or sentry field.
+b. Assistant Instructors. Qualified individuals designated by
+each instructor to assist him in training his classes.
+c. Handlers. Men undergoing training in classes conducted by
+instructors and assistant instructors. These men simultaneously
+train dogs.
+61. Equipment
+a. The chief equipment (fig. 9) in the training program consists
+of the following and is issued for each dog.
+(1) A feeding and watering pan.
+(2) A russet leather muzzle, used when transporting a dog
+and when the veterinarian is treating or operating on a
+dog.
+(3) A 25-foot leash of cotton webbing, used with obedient
+dogs and when a distance between the dog and the handler
+is desired.
+(4) A 5-foot leather leash, used to control dogs in obedience
+training and scouting duties.
+(5) A leather leash holder that the handler wears on his belt
+to hold the leash when he needs both hands free.
+(6) A steel chain, choke-type collar, used for obedience train-
+ing and for controlling a dog when moving from one area
+to another.
+(7) A 1-inch wide leather collar, used as a work collar for
+sentry dogs and to tie nonworking sentry and scout dogs.
+(8) A zinc coated kennel chain. This is the only piece of
+equipment used with the leather collar to tie dogs in the
+field.
+AGO 5344B 43
+
+(9) A comb.
+(10) A grooming brush (horse-grooming brush, M-1912,
+black).
+(11) A gas mask.
+(12) A leather harness, used only with scout dogs when they
+work a problem or go on a patrol.
+b. The proper use of these items of equipment is of the utmost
+importance since it is by these means, combined with voice and
+gestures, that the handler communicates his wishes to the dog and
+controls and disciplines him.
+62. Facilities
+Basic training classes should be held within an inclosed area, but
+an uninclosed area may be used when necessary.
+MUZZLE SCOUT HARNESS
+GAS MASK
+Figure 9. Dog-handling equipment.
+44 AGO 5344B
+
+63. General Procedures
+a. As soon as a handler has a dog assigned to him he takes the
+dog for a walk on a leash to become acquainted and to help establish
+mutual understanding before training begins.
+b. Instruction is organized as follows:
+(1) The working unit for training is the squad (fig. 10) with
+the assistant instructor of each squad in charge.
+(2) At the beginning of a training period each assistant in-
+structor takes his squad of handlers to the kennels to fetch
+the dogs they are to work with for that period.
+(3) Under the supervision of the assistant instructor, the
+handlers put their dogs on leash and fall in line, with
+CHOKE CHAIN
+25-FT LEASH COLLAR
+5-FT LEASH LEATHER COLLAR
+LEASH HOLDER KENNELCHAIN
+2
+Figure 9-Continued.
+AGO 5344B 45
+
+- "MPp
+~~~~~~.
+~~~~~In
+3*
+CM
+t-1
+d
+;s
+,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;r
+46 AGO 6344B~~~~~~~~~~~~~~~~~~C
+4
+
+each dog on the left side of his handler and an interval
+of 6 feet between handlers.
+(4) From this point, the training proceeds under the direc-
+tion of the instructor or assistant instructor, or both.
+(5) At the end of the training period, the assistant instructor
+leads his squad back to the kennels where another group
+of dogs is assembled for the next period.
+(6) The length of each training period is determined by the
+instructor, based on the weather and willingness of the
+dogs. Ordinarily, each dog is given frequent but short
+training periods (10-20 minutes each) daily. During hot
+weather, a temperature of 90° or over, training periods
+are restricted to early morning hours.
+(7) Every training period starts with a short exercise in com-
+mands the dog has already learned. In this way the dog's
+mastery of the basic responses is strengthened. Also,
+starting the training period with familiar activities gives
+the dog confidence, puts him into a spirit of obedience,
+and thus makes it easier for him to learn the new exer-
+cises. The review periods can be shortened to about five
+minutes as training advances.
+64. Corrective Command
+The only corrective command used in training is NO, given in a
+stern voice. A dog must learn quickly that the command NO indi-
+cates his handler's-displeasure.
+Section IV. HEEL (ON LEASH)
+65. Standard of Performance
+At the command HEEL, the dog (of his own accord) walks to
+the handler's left side with his right shoulder even with the han-
+dler's left knee. The leash hangs loose. The dog must heel correctly
+whenever the handler changes his direction of movement, or when
+he walks through a group of people, and at the halt (figs. 11
+and 12).
+66. Training Procedure
+a. InitialE xercise in Heeling.
+(1) The squad falls in, each dog at his handler's left. The
+handler holds the end of the leash in his right hand, and
+the leash hangs loosely in front of him. The instructor
+or assistant instructor gives the command FORWARD,
+AGO 5344B 47
+
+MARCH. Each handler then gives his dog the command
+HEEL in a firm voice, jerks slightly on the leash, and
+steps off smartly, keeping a 6-foot interval with the han-
+dler on his right. The squad walks clockwise around a
+prearranged training square several times, changing
+direction at the corners without command. During the
+walk, each handler repeats the command HEEL to his
+dog every two or three steps, and continuously tries to
+get the dog to walk easily on a loose leash at his side.
+From time to time, he supplements the oral command
+with a command gesture which consists of slapping the
+side of his thigh with his left hand (fig. 12). If the dog
+gets ahead or falls behind, the handler jerks on the leash
+and repeats the command HEEL, and slaps his thigh.
+The handler never pulls steadily on the leash, and he does
+not allow the dog to pull on it. He jerks the leash re-
+peatedly, when necessary, allowing it to fall slack immedi-
+ately after each jerk. A steady pull causes the dog to
+set his muscles against the collar and makes the taut
+leash ineffective for training purposes. If the dog pulls
+Figure 11. Dog at heel on the march.
+48
+AGO 5344B
+
+Figure1 2. Command gesture for HEEL.
+ahead, causing the leash to become taut, the handler drops
+his hand to lessen the tension, then jerks the leash.
+(2) This exercise is also practiced walking counterclockwise
+around the training square so the dog can learn to make
+left turns smoothly at heel. The handler may nudge the
+dog's shoulder with his left leg as they start to make a
+left turn to help the dog understand the direction he is
+to take.
+AGO 5344B 49
+
+b. Advanced Exercises in Heeling. To vary the monotony of
+practice in heeling, as well as to teach the dogs to stick close to
+their handlers, the instructors or his assistant should occasionally
+command, left face, right face, and to the rear.
+(1) At the command LEFT (RIGHT) FACE, MARCH, each han-
+dler makes a quarter turn in the desired direction, giving
+the command HEEL at the same time, and slapping his
+thigh.
+(2) TO THE REAR, MARCH is given as the squad is heeling in
+single file around the training square. At the command
+MARCH, each handler takes one more step forward and
+faces to the rear in marching. As he turns, he gives his
+dog the command HEEL and jerks on the leash. He may
+jerk the leash once or twice during the turn to help the
+dog understand he is to follow around the handler and
+come to heel on his left side.
+c. Amount of Training. Practice in heeling is continued in peri-
+ods of about 15 minutes until perfection is achieved.
+Section V. SIT (ON LEASH)
+67. Standard of Performance
+At the command SIT, which is given when the dog is either
+standing, lying, or heeling, the dog must promptly assume a sitting
+position.
+68. Training Procedure
+a. SIT is taught in conjunction with heeling, but not until after
+the dog has learned to heel. After several times around the train-
+ing square at heel, the instructor or his assistant commands HALT.
+As the handler stops, he gives the command SIT. At the same time,
+he pushes the dog's hindquarters downward with his left hand and
+pulls upward on the leash with his right hand as shown in figure
+13. He follows this procedure at each repetition of the command
+SIT until the dog understands what is wanted of him and will sit
+at the oral command only.
+b. If the dog does not sit facing directly forward, but to the left
+or right, or facing the handler, the handler swings the dog's body
+around with his left hand to get him into the proper position. If
+the dog sits behind the handler or too far from his side, he pulls
+the dog's head close to his left side by using the leash; with his
+left hand, he restrains the dog from getting up and following the
+leash. This correction is most effective when carried out as the
+50 AGO 5344B
+
+\!
+i -/
+i
+J
+Figure 13. Handler easing dog into sitting position.
+dog is in the act of sitting, before his hindquarters have touched
+the ground. Each handler must insist on the proper position at
+every halt (fig. 14). The instructor or assistant instructor should
+allow enough time for the dog to execute SIT and the handler to
+correct the position before he gives the order to march again (FOR-
+WARD, MARCH). When this command is given, the handler gives
+the command HEEL, as before, and moves out. This exercise is
+repeated as often as necessary for the dog to learn to sit in re-
+sponse to the oral command only.
+AGO 5344B 51
+
+Figure 14. Sitting in heel position at the halt.
+Section VI. DOWN (ON LEASH)
+69. Standard of Performance
+At the command DOWN, which is accompanied by a downward
+motion of the arm (fig. 15), the dog must lie down promptly. The
+dog is expected to make this response to the oral command and the
+command gesture given alternately, whether he is standing, sitting,
+or heeling (fig. 16).
+52 AGO 5344B.
+
+70. Training Procedure
+a. Formation. The command DOWN can best be taught with the
+handlers lined up in front of their dogs. Each handler gives the
+oral command to his own dog, while the instructor or assistant goes
+up and down the line to help and make corrections.
+b. Procedure.
+(1) The handler does not use the command gesture when first
+teaching DOWN. Instead, as he commands DOWNI,h e
+grips the dog's leash close to the collar and jerks down.
+on it. If the dog braces himself and refuses to go down,
+the handler pulls his forelegs out with his free hand and
+pulls down on the leash, at the same time repeating
+DOWN. As soon as the dog is down, the handler praises
+and pats him. He then holds the end of the leash in his
+hand, stands before his dog, and commands SIT. If the
+dog does not sit, the handler pulls upward on the leash,
+steps closer to the dog and repeats the command SIT. As
+soon as the command has been properly executed, he
+praises the dog again.
+(2) As soon as the dog learns to assume the DOWN position
+without being touched-by the handler, the handler starts
+using the command gesture (fig. 15) along with the oral
+command.
+71. Amount of Training in the Command "DOWN"
+This exercise should be repeated four or five times in a period.
+It is a depressing exercise and must not be repeated too often in
+succession. After the first period, a series of exercises devoted to
+this command, as well as HEEL and SIT can be alternated or prac-
+ticed concurrently.
+Section VII. STAY (ON LEASH)
+72. Standard of Performance
+At the command STAY, the dog holds the position he is in when
+the command is given, while the handler moves away from him.
+The dog must remain in this position until the handler returns to
+him and gives a different command. The command STAY may be
+given while the dog is standing, sitting, or down.
+73. Training Procedure
+a. Stay (Dog in Down Position).
+(1) Practice in staying should be started in the down position
+AGO 5344B 53
+
+since this is the easiest one for the dog to maintain. The
+5-foot leash is used for teaching STAY. Each handler
+gives his dog the command DOWN. When the dog has
+obeyed, the handler backs away slowly. As he does so he
+watches the dog attentively, uses the gesture shown in
+figure 17, and repeats the command STAY, in a stern
+voice, drawing out the word to cover his retreat. The
+handler reaches the end of the leash, always keeping his
+eyes on the dog, and alert for the first sign that the dog
+is about to get up or break away. (If there is evidence
+that the dog is not going to stay, the handler goes back
+to the dog, motions him down, and repeats the command,
+STAY, STAY.) If the dog attempts to come to the han-
+dler at the command STAY, the handler commands NO-
+STAY, and returns the dog to the spot where he first re-
+ceived the command STAY. He moves away from the dog
+again, then walks back toward him, passes on his left side,
+walks behind the dog, turns around, and stands in posi-
+tion with the dog lying at his left side. During this move-
+ment the handler must repeatedly command STAY, STAY
+in a soothing voice. Finally, he gives his dog the com-
+mand SIT and, when the dog obeys, praises and pats him.
+(2) After this exercise has been successfully completed by all
+handlers under the supervision of the instructor (assist-
+ant), the squad is ordered to march around the training
+square with the dogs at heel, before being lined up for a
+repetition of the exercise. Each time this exercise is re-
+peated, the instructor (assistant) should keep the dogs
+in the stay position a little longer before sending their
+handlers back to them.
+b. Stay (Dog in Sitting Position). The handler trains his dog
+to stay in a sitting position by the procedure described in a above.
+He should augment his first command to stay with the command
+gesture shown in figure 18. He alternates practice in staying in the
+sit and down positions until the dog is able to stay in both positions.
+c. Stay (Silent Tie-Up). The handler fastens the dog to a post
+or stake with the kennel chain. He then walks away for a short
+distance, remaining in sight of the dog. If the dog starts to whine
+or bark, the handler reproves him with a sharp NO, comes up to
+him and quiets him. When the animal has remained quiet for about
+a minute, the handler releases him and rewards him. The length
+of time that the dog remains tied is gradually increased. As the
+dog adjusts himself, the handler goes out of sight. Later, the leash
+is substituted for the chain and the trainer stations himself where
+54 AGO 6344B
+
+-- 'a i?
+NI .
+Figure1 5. Command gesture for DOWN.
+AGO 5344B
+
+tz N
+Figure 16. Dog in down position.
+he can watch closely, for if the dog once bites through a leash, he
+may become a confirmed "leather cutter."
+Section VIII. COME (ON LEASH)
+74. Standard of Performance
+After the dog has learned to obey the command STAY, the han-
+dler teaches him COME. With the dog in a STAY position, the
+handler calls his name, immediately adding the command COME
+(fig. 19). The dog must promptly come to the heel position and sit.
+75. Training Procedure
+a. InitialE xercise. The handler commands DOWN-STAY. He
+then backs away to the end of the 5-foot leash. After the dog has
+obeyed the command and is staying in the down position, the han-
+dler calls the dog's name, following it with the command COME.
+At the same time, he tugs slightly on the leash to suggest the mean-
+ing of the command and gives the command gesture shown in figure
+20. He then changes the end of the leash to the right hand and
+gives the oral command HEEL. At the same time he steps back-
+56 AGO 5844B
+
+a0
+~I
+0
+8) (
+Figure 17. Command gesture for STAY wien handler is away from dog.
+wards a full step with the left foot, grasps the leash with the left
+hand at a point near the middle and guides the dog to the heel posi-
+tion. When the dog reaches the heel position the handler recovers
+to the position of attention and commands SIT. He then praises
+and pats the dog.
+b. Advanced Exercises.
+(1) The handler uses a 25-foot leash. He proceeds as de-
+scribed in a above, gradually backing away from the dog
+until he has reached the end of the leash (fig. 21). He
+calls the dog, preceding the command COME with the
+dog's name, making sure that he holds the dog's attention.
+If the dog starts sniffing the ground or turns away to
+watch another dog, the handler immediately jerks the
+leash and repeats the command COME in a stern voice.
+If necessary, he may pull the dog all the way to him.
+(2) After a few days, all of the dogs in the squad will be able
+to carry out the command without difficulty. The instruc-
+tor (assistant) then separates the handlers by 50 or 60
+AGO 5344B 57
+
+"N
+t ; 1
+r·, ·i" .'
+Figure 18. Command gesture for STAY when handler is with dog.
+feet and instructs them to proceed, as follows: The dogs
+are allowed to wander around at the full length of the
+leash, sniffing and smelling as they please. At intervals
+of 1 or 2 minutes, each handler calls his dog by name and
+commands COME. If the dog does not come promptly, he
+tugs on the leash. If necessary, he jerks the leash at in-
+tervals and induces the dog to come by voice. As soon as
+the dog is within touching distance, his handler pats and
+praises him and then allows him to wander away again.
+It may be necessary, at first, to encourage the dog to go
+58 AGO 5344B
+
+off by playing with him and pushing him. As soon as the
+dog starts to wander away, the handler indicates approval
+by saying "OK." The dog will come to realize that this is
+a signal of release; that it means he is on his own and
+can romp and sniff as he chooses. In calling the dog, the
+tone of voice should ; be Xa uthoritativIe , butS n~ev~e~r ~cr5oss.
+When the dog comes, he should be praised, never punished
+-even if he has been pulled by the leash for the entire
+distance.
+Section IX. CRAWL (ON LEASH)
+76. Standard of Performance
+At the command 'CRAWL, the dog crawls alongside or toward
+his master. This movement may prove valuable if a scout dog
+comes under enemy fire or observation.
+AGO 5344B 59
+
+Figure2 0. Command gesture for COME.
+-60 AGO 5S44B
+
+i~:? '-,~: -ia:~i?'?~ ~:'~i~
+I? : i( ?jj
+~ ~: '~.... :iEI;~t: :
+!i!~'/~i·
+i~i~
+, ?a?,~ .....-.... l
+B:~~~~~~~~~~~~~~~~~~1
+b~g~ ~~~ i ! i i ..
+·
+'·1
+6` ~ !~~ i? ~'~?~ ii
+0
+AGO 6344B 61
+
+77. Training Procedure
+The leash is held closely by the handler who commands DOWN
+and lies down himself. Then he commands CRAWL, and starts
+to crawl himself, encouraging the dog to do likewise (fig. 22). He
+can use the leash to correct the dog. After the dog has learned to
+crawl with the handler, he is taught to crawl alone. The handler
+walks alongside the dog as shown in figure 23. If the dog tries to
+rise, the handler may push down on his shoulders and, at the same
+Figure 22. Handler crawling with dog.
+Figure 23. Dog crawling on command.
+62 AGO 5344B
+
+F r g ure 4. Command geature for CRAWiL
+Figure24 CommandgetureforCRAWL.
+AGO SaUB 63
+
+time, command NO-CRAWL. For the next stage of the exercise,
+the handler stands erect, facing the dog at a distance of a few feet,
+and commands DOWN, then CRAWL, to get the dog to crawl to
+him. At the same time, he uses the command gesture for CRAWL
+(fig. 24). When the dog becomes proficient in this exercise, the
+distance between dog and handler is gradually increased.
+Section X. JUMP (ON LEASH)
+78. Standard of Performance
+Almost any dog can and will jump or scale a 31/ -foot wall. The
+2
+objective of this training exercise is to get him to jump on com-
+mand, and ahead of the handler (fig. 25). At the command UP,
+the dog must immediately jump or scale the wall and then heel or
+return to the handler, according to the handler's position. (A dog
+jumps a low hurdle or fence, which means that he clears it. He
+scales a higher hurdle or wall, which means that he jumps as high
+as he can, then scrambles or climbs the rest of the distance in order
+to get over.)
+79. Training Procedure
+a. Initial Exercise.
+(1) A dog may be afraid of a hurdle, even though he may have
+been taught to jump hedges or other obstacles. Therefore,
+it is well to start this training with a hurdle that has
+removable boards, removing all the boards except the two
+bottom ones so that the hurdle is low enough to walk over.
+(2) The instructor (assistant) instructs members of the
+squad to heel their dogs around a small square. He directs
+one handler at a time, starting with the handler at the
+head of the column, to lead his dog over the hurdle. Each
+man steps over the hurdle and, as he does so, gives his
+dog the command UP. If the dog hesitates or balks, the
+handler coaxes and helps his dog over, tugging on the
+leash. As the dog gets to the other side, the handler im-
+mediately praises him, steps away from the hurdle, and
+commands HEEL. This exercise should be repeated as
+often as necessary to make every dog in the group comply
+with the command. Those dogs that learn more readily
+than others are kept in the line with the slow learners
+throughout the training period, because it is desirable for
+backward dogs to see them go over the hurdle success-
+fully.
+64 AGO 6344B
+
+b. Advanced Exercises.
+(1) When all the dogs have succeeded in clearing the hurdle
+at its initial height, it is raised, one board at a time, and
+the jumping exercise is repeated. By the time the second
+board is inserted into the hurdle, every dog should be so
+proficient in the execution of the command UP that it will
+not be necessary for the handler to go over the hurdle
+with him. Instead, he goes around the right side of the
+hurdle with his left hand extended, holding the middle
+of the leash to keep it from catching on the hurdle. As
+he does so, he gives the command UP. As the dog's neck
+clears the hurdle, he releases the left-hand hold on the
+leash, but continues to hold the end in his right hand.
+(2) Exercises in jumping from a sitting position are also
+undertaken, as follows: The hurdle is at moderate height.
+The handler walks up to the hurdle with his dog heeling
+on the leash. Stopping about two feet in front of the
+Figure 25. D'og jumping training hurdle.
+65
+AGO 5344B
+
+Figure 26. Position of dog and handler for sitting jump.
+hurdle, he makes his dog sit, then gives the command UP
+(fig. 26). The handler walks around the right side of the
+hurdle holding the middle of the leash in his left hand,
+which is extended to permit the dog to jump freely. As
+the dog lands on the other side, the handler praises him,
+commands HEEL, and walks to his place in line. After
+every dog has gone over the hurdle, more height may be
+added and the exercise repeated.
+(3) Jumping, properly taught, is an exercise which raises the
+dog's spirits, and can be interspersed with depressing
+exercises such as DOWN. Jumping should include a
+variety of obstacles such as hedges, ditches, water, and
+walls.
+80. Excessive Jumping
+Practice in jumping should not be overdone in any period. Al-
+though dogs enjoy it, it is very tiring. Other exercises may be
+practiced as alternates to jumping when the dogs show signs of
+fatigue.
+66 AGO 5344B
+
+Section XI. OFF-LEASH EXERCISES (GENERAL)
+81. Training Procedure
+When the instructor (assistant) observes that the dogs in a
+squad are working dependably on a loose leash, he starts the han-
+dlers in training them off-leash. To begin with, he may select only
+the dogs that are doing the best work to form a special class in
+off-leash training. Other classes are added until, finally, all dogs
+are working off the leash. Dogs that do not perform dependably
+are given extra training periods so that the training of the other
+dogs will not be delayed. Dogs are muzzled at the beginning of off-
+leash training to reduce the likelihood of dogfights.
+82. Training Methods
+a. Training the dog to work off the leash follows the same pro-
+cedure as that described for working on the leash. During all off-
+leash work, the handler depends on the tone of his voice and on
+command gestures to direct his dog, as well as the affection which
+has been established between him and his dog, and the attitude of
+obedience learned by the dog. Nevertheless, the handler must be
+alert in noticing any hesitancy on the part of the dog to comply
+with his commands and must be able to prevent his dog from
+breaking or getting out of position. Once a dog has found that he
+can break control it will take a long time to make him dependable
+off the leash. When a dog disobeys or breaks away, he should be
+put on the leash immediately and made to successfully perform
+the exercises on the leash until the instructor decides that it is
+safe to take him off the leash again.
+b. Even after the dogs have advanced to specialized work, each
+training period should begin with a few minutes' exercise heeling
+off the leash. The ability to perform off the leash correctly and
+dependably is fundamental to all specialized training.
+Section XII. HEEL (OFF LEASH)
+83. Standard of Performance
+A dog must be able to follow his handler at heel on straight
+walks, alone, and through groups of people, and through right and
+left turns and about face, with the handler using only the oral
+command and command gesture for HEEL.
+67
+AGO 53443
+
+Figure 27. Heeling off leash.
+84. Training Procedure
+The procedure is the same as that described in paragraph 65, ex-
+cept that the handler corrects the dog only with the oral command
+HEEL and the command gesture for HEEL. See also figure 27.
+68 AGO 5844B
+
+Section XIII. SIT (OFF LEASH)
+85. Standard of Performance
+See paragraph 67.
+86. Training Procedure
+When the dog has mastered sitting exercises on a loose leash, the
+instructor has the handlers remove the leash and begin training
+in the command SIT off leash. The dog is trained to sit in the heel
+position first, then is practiced in sitting from the standing and
+down positions. The command gesture for sit from the standing
+and down positions off leash is given with a sharp upward motion
+of the arm while each handler is standing in front of and directly
+facing his dog (fig. 28). The distance between handler and dog is
+gradually increased as the dog becomes more proficient in the
+exercises.
+Section XIV. DOWN (OFF LEASH)
+87. Standard of Performance
+See paragraph 69.
+88. Training Procedure
+With the dog in a stay position at a distance of 50 feet or more,
+the handler calls the dog's name, following it with the command
+COME. Before the dog reaches him, he gives the commands STAY,
+DOWN, STAY or gives the command gestures, or does both. The
+dog responds promptly to each successive command, stopping at
+once regardless of his gait, dropping promptly to the down posi-
+tion, and staying in that position until his handler gives him a new
+command. He must learn to respond to both the oral commands
+and the gestures used alone.
+a. Prerequisite. Group work in this exercise is started only
+when all the dogs in the squad perform satisfactorily in the STAY
+and COME exercises off the leash.
+b. Organization. The handlers and dogs form a line facing the
+instructor (assistant), with an interval of about 10 to 15 feet be-
+tween handlers. At the direction of the instructor, each handler
+faces his dog and proceeds as outlined in c below.
+c. Methods.
+(1) The handler commands DOWN and STAY, turns and
+walks away to a distance of about 25 feet, and turns to
+69
+AGO 5344B
+
+W;
+Ilk
+Ilu
+i ~~sr
+I4 ,4
+I~ ~~~I
+Figure 28. Command gesture for SIT.
+70 AGO 5344B
+
+face the dog. He calls the dog's name and adds the com-
+mand COME. When the dog is within 10 feet of him, he
+gives the commands STAY, DOWN, STAY in a firm
+voice, accompanied by the command gestures, giving the
+dog time to respond to each command. As he gives the
+first STAY, he takes a step or two toward the dog. At
+first, he may have to repeat the oral commands and the
+gestures several times. He may even have to approach
+the dog and make him assume the down position.
+(2) With the dog staying in the down position, the handler
+calls him by name and commands COME. As soon as the
+dog obeys, he commands HEEL, praises him, and walks
+him back to the starting point to repeat the exercise.
+After the dog has learned to drop instantly on command,
+the handler varies the distances between them for suc-
+ceeding repetitions of the exercise. As the dog becomes
+more and more proficient and dependable in this exercise,
+the handler uses gestures and oral commands independ-
+ently so that the dog learns to respond to each alone.
+(3) This exercise is depressing to the dog's spirit and must
+not be repeated too often in succession.
+Section XV. STAY (OFF LEASH)
+89. Standard of Performance
+At the command STAY-DOWN-STAY, STAY-SIT-STAY, or
+STAY, which may be given at any gait, the dog must promptly
+assume the position called for while the handler continues ahead.
+The dog must remain in this position until the handler either re-
+turns to him or commands COME.
+90. Training Procedure
+a. There are two prerequisites to this training-
+(1) The dog must be able to heel off-leash.
+(2) The dog must respond to the command COME from the
+end of the 25-foot leash.
+b. The handler must be able to influence obedience in the dog
+by his general attitude, by the tone and timbre of his voice, and
+by command gestures.
+c. The training for the fundamental exercise off-leash follows
+the same procedure as for the STAY exercise on-leash (par. 73).
+d. The second step is to make the dog stay in position on com-
+71
+AGO 5344B
+
+mand given during walking exercises. With the entire squad under
+the direction of the instructor (assistant), the handlers start walk-
+ing their dogs at heel. When signaled to do so, each handler com-
+mands STAY, reaches down and places his left hand in front of
+the dog's nose to halt him (fig. 18). He repeats the command
+STAY, making a backward motion with his left hand, and turns
+slightly to watch the dog. When the dog halts, the handler walks
+on about 10 feet further, turns around, and faces the dog. After
+an interval, he returns to his dog, and commands SIT. This exer-
+cise is repeated several times. Periods of heeling are conducted to
+break the monotony. As the dog becomes more and more depend-
+able, the handler may increase the distance between them after
+giving the command STAY.
+e. When all the dogs in the group can be made to stay in their
+positions while their handlers continue walking, they are ready for
+the last stage of the STAY training. This is an exercise to teach
+the dogs to remain in a stay position while their handlers are out
+of sight. Under the supervision of the instructor (assistant), each
+handler commands his dog DOWN, STAY, then walks about 25
+yards away to a previously arranged hiding place. The scaling
+hurdle makes a good screen for this purpose, because the handler
+can look through the cracks between the boards and watch his dog.
+If the dog starts to rise or break, his handler should come out from
+his hiding place, advance slowly to the dog, speak to him sternly,
+and put him back in place. He then returns to hiding. The instruc-
+tor (assistant) uses his judgment as to the length of time the han-
+dlers are to remain hidden. At the start, he waits only a few sec-
+onds before directing the handler back to his dog. As the exercise
+is repeated, the time he remains out of the dog's sight is increased
+until the dog will stay in either the sit, stand, or down position
+indefinitely with his handler out of sight.
+Section XVI. COME (OFF LEASH)
+91. Standard of Performance
+See paragraph 74.
+92. Training Procedure
+a. The handler follows the procedure described in paragraph
+75b(2) with the following differences. He attaches the 25-foot
+leash to the dog's collar and lays the leash loosely along the ground
+in front of the dog. He does not hold onto the leash when he starts
+the exercises. He practices the dog in COME two or three times
+72 AGO 5344B
+
+from a distance of a few feet. After the dog has responded
+promptly several times, the handler casually and unhurriedly un-
+hooks the leash from the dog's collar and lays that end on the
+ground. Then he again practices the dog in COME several times,
+varying the distance between dog and handler from 5 to 10 feet.
+After the dog responds rather consistently at this range, the dis-
+tance is gradually increased until the dog will come on command
+or gesture from any distance up to 100 yards.
+b. If the dog becomes disobedient at any time during the fore-
+going exercises, the handler should put him on leash again as a
+corrective measure and make him go through several repetitions
+of COME.
+Section XVII. JUMP (OFF LEASH)
+93. Standard of Performance
+See pargaraph 78.
+94. Training Procedure
+When all the dogs in the group have demonstrated ability to take
+the full-height hurdle while on the leash, they are ready to be
+trained in jumping over or scaling hurdles and other obstacles
+while off the leash (fig. 29). The hurdle is heightened gradually.
+When the dog is able to get over the hurdle at its full height and
+to return to position as commanded, practice may be undertaken
+in jumping over or scaling other obstacles. Practice in jumping
+exercises should not be overdone in any one period.
+Section XVIII. ACCUSTOMING DOG TO MUZZLE AND GAS MASK
+95. General
+Dogs are trained to wear a muzzle and a gas mask after they
+have learned to heel on leash. The equipment should fit the dog
+snugly and comfortably. Accustoming the dog to this new equip-
+ment depends entirely on patience and practice.
+96. Muzzle
+After adjusting the muzzle on the dog (fig. 30), the handler
+starts heeling him at a fast walk on leash. If the dog tries to reach
+up with a front paw and pull off the muzzle, the handler jerks
+upward with the leash and keeps on walking, holding the leash
+taut. As soon as the dog stops trying to remove the muzzle, the
+handler slackens the leash and praises him.
+AGO 5344B 73
+
+97. Gas Mask
+After the dog becomes accustomed to wearing a muzzle, he is
+trained to wear a gas mask (fig. 31). The first time the mask is
+used, the dog must not be made to move fast enough to cause him
+to pant.
+:. E -
+Figure2 9. Off-leash jumping.
+74 AGO 5344B
+
+Figure 30. Muzzled dog.
+AGO 5344B 75
+
+Figure3 1. Dog wearing gas mask.
+76 AGO S344B
+
+CHAPTER 4
+SPECIALIZED TRAINING
+Section I. SCREENING FOR SPECIALIZED TRAINING
+98. Screening Procedure
+The term "screening" refers to the procedure used to classify
+dogs for the type of military service for which they seem best
+qualified. This classification is based on observation of the physical
+and psychological traits manifested by the dogs from the time they
+are given the tests on arrival at reception and training centers
+(pars. 14-18), throughout the basic training period, and even after
+they have begun specialized training. It is imperative to continue
+observing the dogs throughout the training program. The poten-
+tialities of some dogs and inherent weaknesses of others may come
+to light as unexpectedly as in the case of human beings. The dogs
+are observed by a classification board consisting of the command-
+ing officer and selected instructors. On the basis of physical and
+psychological traits manifested, the board may reject a dog at any
+time during training. The screening procedure is shown graphi-
+cally in figure 32.
+99. Selection for Type of Specialized Training
+a. The classification board has the responsibility for deciding
+which dogs will be trained as scouts and which will be trained for
+sentry duty. The selection is based on consideration of the demon-
+strated qualities of an individual dog as measured against the
+requirements for the two types of duty. Scouting makes more
+demands on a dog's intelligence and temperament than sentry duty.
+Normally, therefore, the dogs that qualify best in the desirable
+traits (par. 102) are selected for scout training; the others are
+given sentry training (par. 113).
+b. During the course of scout training, a dog may show that he
+is not, after all, suitable for scouting. He may be transferred to
+sentry training. A dog that shows during specialized training that
+he is unsuitable for sentry duty is rejected.
+c. The high standards set in a and b above may be tempered
+when necessary to match the available supply of dogs with mili-
+tary requirements.
+AGO 56844B 77
+
+Section II. PRINCIPLES OF SPECIALIZED TRAINING
+100. General
+Basic dog training, as an end in itself, has no place in the mili-
+tary service. It serves simply, but necessarily, to develop in dogs
+the behavior that is essential to efficient and effective training for
+specific military functions. A dog that successfully completes basic
+training is disciplined and prepared to receive instruction in mili-
+tary duties. Furthermore, his behavior during basic training, if
+properly observed, is an indication of the type of specialized train-
+ing for which he is best suited.
+101. Statement of Principles
+The effectiveness of specialized dog training depends on the re-
+gard shown for the following fundamental principles:
+a. The Dog Must be Trained for Only One Job. He may learn to
+be a good scout or sentry dog, but never both. Because of his
+natural limitations, any effort to train him for more than one job
+will diminish the contribution he can make.
+b. The General Attitude of the Handler is All-Important. A
+handler must fully realize the importance of the work that he is
+doing. He must understand and appreciate the fact that dogs are
+used to conserve manpower, conserve life, and to further the work
+of the military service through the use of their peculiar powers.
+c. The Importance of the Handler-Dog Relationship Cannot be
+Overestimated. The dog and his handler must work as a team.
+Therefore, no handler must be forced to train an animal that he
+deems unsuitable. For the same reason, if a dog appears unwilling
+to serve a certain handler, it may be necessary to assign him to
+another. On the other hand, once a team has been established, the
+relationship must not be interfered with by anyone. Only the
+handler should pet, feed, or otherwise handle his dog.
+d. Association of Ideas Facilitates Learning. Where special
+equipment is used, the dog must learn to associate this equipment
+with his work.
+e. The Dog Should be Motivated Not Only by His Handler's
+Praise and Petting, But Also by the Goal of Accomplishing a Mis-
+sion. The dog can and should be trained to complete a task as an
+end in itself, not simply for the sake of reward by his master. In
+all his training, therefore, he must be permitted to finish every
+exercise successfully, no matter how many errors he makes. The
+dog must always "WIN."
+78 AGO 5344B
+
+NEWLY ARRIVED
+DOGS
+EETS
+7 j.H VETERINARIAN
+REJECTS BOARD
+REJECTS |
+SCOUT TRAININGI
+DOGS NOT RETAINED
+BY SCOUT SECTION
+4
+SENTRY TRAINING
+DOGS NOT RETAINED
+BY SENTRY SECTION
+REJECTS
+Figure 32. Screening procedure flow chart.
+AGO 63443 79
+
+f. Conduct Training Over Varying Terrain and in the Face of
+Gunfire and Other Distractionst o Develop the Dog's Responsibility
+for Given Tasks and to Assure the Accomplishment of His Mission.
+g. The Ability of The Dog is Developed by Training During
+Daylight. The effects of daylight training will carry over into
+actual service at night. Training is difficult to conduct in darkness
+because the handler cannot see well enough to observe the dog's
+errors and correct them. But the dog can carry over into nikht
+performance the effects of good daylight training. The dog and
+handler must be proficient in daylight training before any training
+at night is attempted.
+h. Review of Previous Training Maintains and Raises the Level
+of Performance. Handlers must use their best judgment in deter-
+mining how often and how many times previously learned exercises
+should be repeated.
+i. Successful Training of Military Dogs Depends on the Care
+Taken for Their Welfare. Unless the dogs are kept in good health,
+properly groomed, fed, and kenneled, the effectiveness of the train-
+ing program will be diminished.
+Section il. THE SCOUT DOG
+102. Selection of Scout Dog
+a. To be suitable for scout training, dogs should possess the de-
+sirable traits in the following degrees. (See also pars. 7-11.):
+(1) Intelligence: High.
+(2) Willingness: High.
+(3) Aggressiveness: Moderate.
+(4) Sensitivity: Medium.
+(5) Energy: High.
+b. The scout dog should be a sharp, hardy animal of medium
+size. He must have highly developed scenting powers, acute hear-
+ing, and a good ability to detect motion. He must not be overly
+excitable or noisy. It is not necessary for him to have great speed.
+103. Uses of Scout Dogs
+a. The scout dog is trained to detect and give silent warning of
+the presence of any: strange individual or group. He will prove
+especially useful in warning of ambushes and attempts at infiltra-
+tion. The scout dog is worked by one man, the handler, who has
+been especially trained in this type of work. The dog works on a
+short or long leash, in daylight or darkness, in any kind of weather,
+80 AGO 5344B
+
+and in jungle or open country. He is aware of and gives silent
+warning of the presence of unfamiliar humans and animals long
+before they can be detected by a human. The distance at which he
+can give warning depends on a number of factors-wind direction
+and velocity; the volume of concentration of human scent; humid-
+ity; density or openness of terrain; and the amount of noise or
+other confusing factors in the vicinity. The handler's ability in
+"reading" his dog is an important factor in their operations to-
+gether.
+b. When possible, the scout dog platoon leader should know two
+or three days in advance the number and type of patrols he is re-
+quired to support. This permits him to select the dog-handler team
+which will be most effective for each mission and gives the handler
+enough time to prepare himself and his dog for the mission.
+c. The scout dog may be employed in various ways.
+(1) Reconnaissance patrols.
+(a) Before reporting for patrol duty, the handler should
+test the dog's alertness and readiness for work by lead-
+ing him through a 15-minute period of basic obedience
+exercises. If, for any reason, the dog is unsatisfactory
+at duty time, another dog or another team should be
+selected and used, even if the new dog has not re-
+hearsed with the patrol.
+(b) The dog and handler should be completely integrated
+into the patrol during the planning, rehearsal, and
+execution phases; and the handler must attend the de-
+briefing phase. During the planning phase, the handler
+makes recommendations to the patrol leader for the
+employment of the dog. The patrol leader allows the
+handler enough flexibility to work the dog in the most
+effective manner.
+(c) The presence of a scout dog in a patrol creates varied
+reactions among personnel unfamiliar with scout dogs.
+Some members of the patrol may feel an exaggerated
+sense of security, while others may become apprehen-
+sive. To avert these extreme reactions, the handler
+should brief the patrol before rehearsals as to the dog's
+mission and capabilities. Rehearsals enable the patrol
+members to become familiar with the way the dog and
+handler operate and also accustom the dog to the scents
+of the individual patrol members and the noises and
+actions of the patrol on the move.
+(d) The dog and handler report to the assembly position at
+least one hour before the patrol's scheduled time of de-
+AGO 6344B 81
+
+parture. This time leeway is necessary for final coordi-
+nation, orientation of new patrol members as to the
+dog and his capabilities, and for familiarizing the dog
+with the scent of all patrol members.
+(e) The dog and handler precede the patrol at a distance
+which will permit immediate communication with the
+patrol leader. At night, this distance may be an arm's
+length; in daylight, the distance is greater, but within
+easy visual signaling distance.
+(f) The scout dog and handler move forward, keeping gen-
+erally in the assigned direction, utilizing cover, and
+moving so as best to take advantage of wind and other
+conditions favoring the dog's sense of smell and hear-
+ing. The patrol leader may from time to time change
+the direction of the patrol's advance; in general, it is
+advisable for the dog and handler to move at will for-
+ward of the patrol.
+(g) One member of the patrol should be assigned the mis-
+sion of protecting the handler and dog. When a scout
+dog is following a scent, the handler needs both' hands
+and all his strength to control him. For this reason, the
+handler shoud be armed with a .45 caliber pistol only.
+(h) As soon as the dog warns of a hostile presence, the
+handler passes the information to the patrol by signal-
+ing "enemy in sight," whereupon the patrol leader at
+once causes his patrol to take cover or halt. The patrol
+leader goes quietly, taking advantage of all available
+cover, to the scout dog and handler (fig. 33). The han-
+dler briefs the patrol leader on what the team has
+located. The patrol leader then takes the necessary
+action. He may proceed in a new direction or circle
+around the danger spot, preceded as before by the scout
+dog and handler.
+(i) A patrol accompanied by a dog and handler must be im-
+pressed with the fact that all members must maintain
+their usual patrol alertness and not rely solely on the
+dog.
+(2) Combat patrol.
+(a) The working procedure for the handler-scout dog team
+is the same as for a reconnaissance patrol except that
+after the handler has given the patrol leader the definite
+location of the enemy, the dog and handler immediately
+retire to the rear or a flank position so as not to inter-
+fere with any action undertaken by the patrol.
+82 AGO 5344B
+
+(b) If speed of movement is more essential than security,
+the dog and handler may not be used at the point posi-
+tion until relatively close to the objective. After the
+patrol removes enemy opposition, it may continue its
+mission, preceded as before by the scout dog and
+handler.
+(c) If the handler becomes a casualty and his dog will
+permit him to be evacuated, this should be done. The
+dog will follow his master. If the dog will not allow
+anyone to assist the handler, the dog should be de-
+stroyed.
+(3) Outposts.
+(a) In an outpost position, the main value of the scout dog
+is to give timely warning of enemy approach or at-
+tempts at infiltration of friendly lines. The dog and
+handler are placed a short distance forward of the out-
+post to which they are attached, within easy range of
+visual signals in daylight, and even closer at night.
+Figure 33. Scout dog on patrol.
+AGO 65344B 83
+
+(b) It is imperative to devise a communication system be-
+tween the dog handler and the outpost commander. At
+night a cord can be laid between the two positions and
+the handler can give it a jerk to alert the outpost.
+(c) After the dog detects an enemy and his handler notifies
+the outpost, the dog and handler should withdraw to a
+previously designated position or, if they are in a pre-
+pared position, they should remain under cover, so they
+will not be endangered by outpost and enemy fires.
+(4) Night attacks. Scout dogs may be used to locate enemy
+security elements during night attacks. They will nor-
+mally be employed with the leading elements of the attack
+and operate in the same manner as on a patrol. On com-
+pleting its mission of detection, the dog-handler team
+moves to a position of security.
+104. Equipment for Scout Training
+The handler will need a chain choke collar, a 5-foot and 25-foot
+leash, and a scout harness. Leather collars and kennel chains may
+be needed to tether dogs that are not working.
+105. Basic Training Required
+a. Before a dog starts scout training, he must be able to heel
+closely, off leash, and respond independently to both oral commands
+and command gestures for Down, Stay, Sit, Come, Jump, and
+Crawl. He must also be accustomed to riding in vehicles and to
+the sound of gunfire.
+b. The handler must have a thorough working knowledge of
+winds and scents and of his dog's working peculiarities.
+106. Training Conditions
+a. Functions of Handler. The handler must learn to read and
+understand his dog so that he can interpret his every signal with
+regard to the approach or presence of the enemy.
+b. Functions of Assistant. The assistant acts as a decoy.
+c. Location. Training starts in the regular training area. At
+the beginning, the decoy should not always conceal himself behind
+a screen such as a tree, rock, or bush. If, on the first three or four
+scouting runs, the dog finds the decoy concealed behind some natu-
+ral cover, he will associate such spots with his discovery of the
+decoy and will consequently rely on his inferior eyesight to find
+him. He will not use his nose and ears, which are the senses he
+must learn to depend on. Training locations must be changed daily
+84 AGO 5344B
+
+so, that the dog does not learn to associate the decoy with a given
+area.
+d. Time. Although a scout dog is generally used at night, he
+must be trained mostly during the daytime. The instructor decides
+when a dog and handler have completed enough daytime training
+and are ready for exercises at night.
+107. Wind and Scent
+a. General. The wind is probably the most important and, at the
+same time, the most variable factor a handler has to contend with
+in employing a scout dog to the best advantage. It is the wind that
+carries the all-important human scent to the dog-or away from
+him. A handler must therefore always be wind-conscious. He
+should learn all he can about wind "habits," and he should be able
+to feel or sense what direction the wind is blowing at any time with-
+out having to rely on such expedients as dropping dust or a handful
+of hair from his dog's back and noting its direction of drift. If a
+handler keeps track of the wind and his dog gives an alert, he
+knows that there is only one general direction to look for the enemy.
+The only exception to this occurs when the dog gives a sight or
+sound alert. Usually, a handler can distinguish this type of alert
+from close familiarity with his dog's reactions, if not from his own
+sense of sight or hearing.
+b. Effects of Topography on Wind. Wind hitting a hilltop or
+the crest of a hill is prone to break into two or three smaller
+streams. A small table top mesa is probably the worst place for a
+dog to try to find a hidden man. Scents borne by the wind off a
+mesa may be scattered, blown aloft, or die before they come in
+contact with ground level. A dog may pick up a scent far from a
+mesa only to lose it once he comes close because it is being blown
+over his head. Mountains, gorges, buttes, breaks, valleys, and
+timberlines will all cause the wind to sweep and swirl. Thus, the
+only wind that will blow with any steadiness is that which comes
+over a flat and even surface.
+c. Impermanence of Scent.
+(1) Human scent dissipates more rapidly in a hot and dry
+climate than it does in an area where there is quite a bit
+of moisture. Heat from the sun causes scents to evaporate
+rather rapidly. During rains, scents remain close to their
+source.
+(2) Human scents from foxholes become borne by the wind
+because scents rise as they evaporate. These scents are
+not as strong as those from men in the open.
+AGO 5344B 85
+
+(3) Dogs have a difficult time scenting in a grove or forest of
+pine trees where there is always a carpet of pine needles
+covering the ground.
+108. Quartering
+a. Quartering is the method the handler and his dog use to
+search a piece of terrain, taking full advantage of the wind, to
+locate any enemy that may be present. Scents borne by the wind
+may be elusive. Sometimes the dog can detect them from one spot
+whereas, from another spot just as close to the source of the scent,
+he may receive no odor at all. Therefore, to give the dog every
+opportunity to pick up an enemy scent, the handler must lead him
+systematically over a fair-sized area so that every breeze can pass
+through his nose.
+b. Figure 34 shows a quartering course layout for training. The
+instructor lays out the course and selects the starting point down-
+wind from the decoy. The handler and dog proceed through the
+course as diagrammed. Point A represents the spot where the dog
+first alerts to a weak scent. The handler can then elect to further
+quarter the course or let the dog follow the weak scent directly to
+point B where the dog should give a strong alert. From this point,
+the handler lets the dog move in and find the decoy.
+c. Figure 35 shows schematically how a handler and dog would
+quarter an area in the field to search out an enemy. At point A the
+dog alerts. Based on his knowledge of the dog, the handler knows
+that the alert at point A is a weak one. The team continues to
+quarter, as shown, and the dog gives another weak alert at point B.
+At point C the handler receives a strong alert and turns his dog in
+the direction of the wind which is in the direction of the enemy.
+109. Training Procedure
+a. From the beginning of basic training, a dog selected for scout
+training IS REPROVED IF HE ATTEMPTS TO BARK OR
+WHINE. The handler must use every reasonable means to keep
+him quiet. If the dog is taught to understand the correction "NO"
+in basic training, it is usually not difficult to silence him with this
+word. If necessary, his mouth may be held shut gently with the
+hand. As soon as the dog is quiet or is content to growl very softly,
+he should be patted and praised.
+b. Before the dog and handler arrive in the training area, the
+instructor visually selects a route for the team to follow. The in-
+structor prepositions human decoys at various intervals and at
+different distances away from and upwind to the prescribed route.
+86 AGO 5844B
+
+WIND
+" DECOY
+j
+Cl) (A)-
+t
+0
+0
+STARTING I
+POINT
+- -_ __-
+>1
+|I< _200 METERS.
+KEY:
+A DOG'S FIRST ALERT
+B DOG'S STRONGEST ALERT
+SHADED AREA = DETECTABLE SCENT.
+Figure3 4. Quarteringc ourse for training.
+AGO 5344B 87
+
+-
+Figure3 5. Quarteringi n the field.
+The instructor and decoys must not walk the selected route as their
+odor will mark the trail.
+c. The dog and his handler then enter the training area, which
+is preferably one where high grass affords cover for the decoys.
+Once in the field, the handler harnesses his dog and attaches the
+5-foot leash. The dog wears the harness only when he is working.
+The handler removes it at the conclusion of the exercise. On start-
+ing the quartering exercise, the handler commands WATCH HIM,
+letting the dog precede him on a loose leash. The dog will then
+attempt to locate the decoy by smell, hearing, or sight. In this
+initial exercise, it is important for the decoy to be well concealed
+from view and remain quiet, but within easy scenting distance and
+directly upwind from the dog.
+88 AGO 5S44B
+
+d. The dog is encouraged to lift his nose and sample the wind
+well above ground level. When he detects a scent other than his
+handler's, he is likely to react in one of the following ways:
+(1) Tensing the whole body.
+(2) Raising his hackles.
+(3) Pricking up his ears.
+(4) Giving other signs of alertness easily recognizable by a
+keen observer, such as a desire to investigate, a slight
+inclination to whimper or growl, an active or distinctly
+rigid tail.
+e. As soon as the dog gives evidence that he has picked up the
+scent, the handler praises him. Praise at this point must be given
+in a soft, almost whispering voice; it must not be insistent enough
+to divert the dog from his work. (Some dogs when first going into
+the field will put their noses to the ground and attempt to pick up a
+ground scent. His handler must immediately discourage this tend-
+ency by raising his foot under the dog's chin to make him lift his
+head and reproving him with NO, NO in a stern'voice. It is impor-
+tant that the dog's nose be raised to the proper scenting level
+immediately if he attempts to ground trail.)
+f. When the dog gives his alert, the handler deduces the general
+direction to the decoy's hiding place and announces it to the in-
+structor. If he is correct in his deduction, the instructor tells the
+handler to follow the scent. When the dog is about 10 feet from
+the decoy, the instructor tells the decoy to move out. The decoy
+exppses himself and runs rapidly to his right. The handler allows
+the dog to chase the decoy for 30 to 40 feet then turns off to his
+left to avoid contact with the decoy. The handler rewards the dog
+with praise and the exercise is considered concluded.
+g. During repetitions of the exercise, the size of the quartering
+course is enlarged and the number of decoys is increased. The dis-
+tances between the dog and the concealed decoys are lengthened
+progressively. The handler must give his dog every possible oppor-
+tunity to locate the decoys. He stops at intervals so the dog can
+take advantage of every breeze, quartering the field if necessary
+for the dog to catch the scent. He pays strict attention to the dog's
+action and encourages him as soon as he shows signs that he may
+have spotted a decoy. The dog is not always allowed to follow the
+scent to the decoy and give chase. The handler uses the chase as
+a form of reward, but he should use it more and more infrequently
+during training.
+h. This exercise is repeated daily with the terrain and other
+conditions being varied. The decoy is concealed in underbrush,
+89
+AGO 5344B
+
+ditches, branches of a tree, behind rocks, or in any natural or
+artificial hiding place.
+i. The role of the decoy is played by a different man each day so
+that the dog will learn that he must pick up all human scents other
+than that of his handler.
+j. After the dog and his handler have established mutual under-
+standing, they practice the exercise at night.
+110. Training for Outpost Duty
+The procedure for training a dog for duty on an outpost as a
+precaution against enemy infiltration differs from that described
+in paragraph 109 in the following -respects. The dog remains
+motionless and the decoy advances along a concealed route in day
+practice. Less concealment is required for night practice. The
+dog is trained to alert while stationary. The handler judges the
+decoy's approach by the reaction of his dog.
+111. Scout Dog Limitations
+a. Smoke, fog, rain, and dust reduce the dog's effectiveness.
+b. The dog becomes tired if he is used too often on patrol.
+c. He is capable of error and may miss hostile troops or fail to
+alert, especially in an area where there is much movement and
+noise.
+d. He needs retraining (basic and specialized) periodically and
+the longer he goes without retraining the less efficient he will be.
+e. He is subject to the elements the same as a human. When he
+is extremely cold or overheated, he tends to be less alert.
+f. If the dog is never given the opportunity to go in on a scent,
+his effectiveness is reduced. In a combat situation, a training area
+in the rear must be prepared so the dog can be given the oppor-
+tunity to chase.
+Section IV. THE SENTRY DOG
+112. Use of Sentry Dogs
+a. The sentry dog, as the name implies, is used principally on
+interior guard duty as a watchdog. This type of dog is trained to
+give warning to his handler by growling or barking, or by silent
+alert. He is habitually worked on leash. The handler, keeping the
+dog on leash, patrols his post and can depend on the dog to notify
+him of the approach or presence of strangers in or about the area
+being protected (fig. 36). When the dog alerts, the handler must
+90 AGO 5344B
+
+beprepared to cope with the situation as circumstances dictate;
+that is, he must challenge; investigate, keeping carefully under
+cover; or make an arrest. The dog, being kept on leash and close
+to the handler, will also assist as a psychological factor in such
+circumstances. He will attack on command of his handler.
+b. The sentry dog can be used to advantage in such critical loca-
+tions as-
+Airplane dispersal areas Beach patrol areas
+Gun emplacement areas Dynamite storage areas
+Ammunition dumps Motor pools
+Ration dumps Waterworks
+Guided missile sites Warehouses
+c. Where areas to be guarded are free from traffic, entirely con-
+fined, and not excessively large, a trained dog may be turned loose
+and permitted to roam at liberty. Only the dog's handler should
+be permitted in or near the area being guarded and he must accom-
+pany any patrol sent to a point in the area to check on the suspected
+presence of trespassers so he can control the dog. Sentry dogs
+working at liberty are usually sharp and will attack trespassers
+at once.
+d. The sentry dog is a one-man dog. Each dog is assigned to
+only one handler for care, training, and duty.
+e. Whenever practical, sentry dogs should patrol downwind from
+the area being protected to increase their alerting range.
+f. There is no need to withdraw sentry dog teams from post
+during rainy weather. Although a heavy rain will tend to reduce
+a dog's effective alerting range, his ability to detect intruders will
+still exceed that of his handler. No difficulties should be encoun-
+tered in the employment of sentry dogs in cold climates where tem-
+peratures fall to 400 F. below zero. The dogs will adjust rapidly
+to the extreme temperature; however, for peak efficiency in such
+cold climates, carry out the following special instructions.
+(1) Assign the dogs to their duty sites during the summer
+months so they can gradually become acclimated before
+cold weather sets in.
+(2) Cold weather housing for dogs should be unheated and
+located out-of-doors.
+(3) In extremely cold climates, provide the dogs with boots to
+protect their pads against ice cuts. Dog boots may be
+made from canvas or leather as described in FM 25-6,
+or they may be bought at appropriate civilian shops.
+AGO 5344B 91
+
+113. Selection for Training in Sentry Work
+See paragraphs 98 and 99. To be suitable for sentry training,
+dogs should possess the desirable traits (pars. 7-11) in the fol-
+lowing degrees:
+Intelligence: Moderate to high.
+Willingness: Moderate to high.
+Energy: Moderate to high.
+Aggressiveness: High.
+Sensitivity: Low to moderate.
+114. Training Conditions
+a. Functions of the Handler. In addition to teaching the dog to
+obey his commands, the handler must instill in him the idea that
+every human, except himself, is his natural enemy. He does this
+by encouraging the dog to alert at the presence of any stranger and
+to attempt to attack him. It must be emphasized that the handler
+NEVER PERMITS ANYONE TO PET OR MAKE FRIENDS
+WITH THE DOG HE IS TRAINING. He must remember that
+he is the only friend the dog must recognize; he is the ONLY
+master. For the same reason, the handler must never pet any dog
+except his own.
+b. Functions of Assistant. An assistant is used to act as agitator
+and decoy. The agitator sharpens the dog's aggressiveness by
+teasing and angering him and builds up his self-confidence by re-
+treating as soon as the dog makes an aggressive move toward him.
+He approaches the dog in a threatening manner, but when the dog
+'~~~~~~.". .
+Figure3 6. Sentry dog alerted.
+92 AGO 5344B
+
+makes the slightest move toward him, he retreats. His manner of
+approaching the dog may be varied according to the dog's tempera-
+ment. It is essential, however, that in every encounter between
+the dog and the agitator, the DOG MUST ALWAYS BE THE
+WINNER. The agitator is as important in sentry dog training as
+the handler, and his work should be carefully supervised by the
+instructor. For variety, different men are used as agitators. The
+handler of one dog can act as agitator for the handler of another
+dog. See paragraph 117 for the assistant's function when acting
+as a decoy.
+c. Location. Training starts in the regular training area. As the
+dog progresses, he is moved to different locations, chosen to re-
+semble various types of sentry posts.
+d. Time. Initial training is done during daytime. When the dog
+alerts consistently to the presence of unfamiliar persons in day-
+light, final training is undertaken at night.
+Figure3 7. Attack suit.
+AGO 5344B 93
+
+115. Equipment for Sentry Training
+The following equipment is required:
+a. The handler will need a chain choke collar, a 5-foot leather
+leash, a 25-foot leash, a flat leather collar, a stake, and a kennel
+chain.
+b. The agitator needs a small flexible stick, rolled up sacking, or
+other harmless weapon, and attack suit and extra sleeve (fig.
+37).
+116. Basic Training Required
+The basic training requirements for sentry dogs are identical
+to those for scout dogs (par. 105).
+117. Training Procedure
+a. Training for the sentry dog is divided into three stages.
+(1) Testing, arousing, and controlling the dog's natural
+aggressiveness. Some dogs are naturally aggressive and
+do not need much teasing to become excited. To avoid
+accidents, training in arousing aggressiveness may be
+started by tying the dog to a stake with a kennel chain
+attached to the broad leather collar. It is advisable to
+loosen an inch or two of the earth around the stake so
+that the stake will give a little when the dog lunges and
+not check him too sharply.
+(2) Teaching the dog to detect a stranger's presence or ap-
+proach. The dog must learn to detect the presence of a
+human in partial or complete concealment either below,
+at, or above ground level. For this reason, the final stage
+of sentry training must include patrols in areas where
+decoys are concealed in such places as the branches of a
+tree, behind a fence, or in a ditch. It is desirable to work
+the dog on the 25-foot leash, as well as the short leash,
+so that he can enter buildings and other suspected places
+of concealment ahead of the handler.
+(3) Teaching the dog to attack. The dog is taught to attack
+on command and stop his attack on command. The com-
+mand to attack is GET HIM and the command to release
+or stop attacking is OUT. At the command GET HIM,
+the handler drops the leash and the dog attacks. On the
+command OUT, the dog returns to his handler who then
+commands DOWN, STAY, and WATCH HIM.
+94 AGO 5344B
+
+b. Training proceeds as follows:
+(1) When the dog is chained to a stake for agitation training
+(a(1) above), the handler also puts a chain choke collar
+on the dog with the 5-foot leather leash attached. The
+handler heels the dog to the end of the chain, orders him
+to sit, and steps away from the dog, keeping hold of the
+leash.
+(2) The handler puts the dog on the alert by the command
+WATCH HIM uttered in a low voice, almost a whisper.
+The command WATCH HIM is used only during early
+training. It is a signal for the dog that he is on duty and
+must be prepared to detect any intrusion. The command
+should be eliminated as soon as the dog has learned that
+putting on the collar and leash signifies that he is on duty.
+WATCH HIM is never used in actual service to alert the
+dog. The dog notifies the handler of danger, the handler
+does not notify the dog.
+(3) The agitator appears, equipped with a small, flexible stick
+or some other harmless weapon. He approaches the dog
+from an angle, not facing him directly. He looks at the
+dog out of thecorner of his eyes; he does not stare at him.
+He strikes at the dog without hitting him, and jumps
+away. As he strikes, the handler encourages the dog by
+saying GET HIM, GET HIM, in a sharp voice.
+(4) Dogs will respond to this procedure according to their
+natural aggressiveness. At this point, they may be con-
+veniently classified as follows and their training con-
+tinued accordingly:
+(a) A moderately aggressive dog. This dog is the easiest
+to train for sentry work. He barks or growls as soon
+as the agitator appears, lunging on the chain and try-
+ing to attack. The agitator runs away and out of sight.
+As soon as the dog responds in this manner, the handler
+praises him lavishly and, if the dog is not too excited,
+steps close to him and pats him. When the handler is
+convinced that the dog is aroused only against the
+agitator and that he has no tendency to attack indis-
+criminately, he may be considered ready for work off
+the stake. The exercise for that day is concluded with
+the agitator running away and the handler praising
+the dog and unchaining him.
+(b) An overaggressive dog. This dog is apt to ,lose his head,
+try to bite everyone within reach, and keep on barking
+even after the agitator disappears. In this case, the
+AGO 5344B 95
+
+handler scolds the dog. He shouts NO, NO, jerking on
+the leash until the dog calms down. He must be careful
+not to step within reach until the dog stops barking and
+growling. When he is sure that the dog is calm enough,
+he approaches him, speaking soothingly, and praises
+and pets him. This procedure is repeated, except that
+the agitator appears and disappears immediately. As
+the dog shows signs of directing his aggressiveness
+toward the agitator, the handler lavishes praise on him.
+and tries to indicate to him that his hostility must be
+directed only at the agitator. After two or three trials,
+training stops for the day. It is resumed the following
+day with the dog chained to the stake as before. He is
+chained to the stake for this exercise until he has
+demonstrated that he will not bite his handler, no mat-
+ter how excited he becomes.
+(c) An underaggressive dog. This dog reacts negatively
+to the presence of the agitator. He may stand and wag
+his tail, throw himself on the ground, or try to run
+away from the agitator. In this case, the agitator ap-
+proaches the dog from the flank and hits or seizes him
+from behind. The handler sets an example for the dog
+by making threatening gestures toward the agitator,
+who imitates a dog's growl. When the dog, in trying
+to protect himself, snaps or growls at the agitator, the
+agitator at once stops teasing the dog and quickly steps
+away. In training this type of dog, it is very important
+for the handler to exaggerate his praise and encourage-
+ment whenever the dog shows the slightest sign of
+aggressiveness, and for the agitator to exaggerate his
+simulated fear of the dog. This procedure must be re-
+peated until the dog's confidence is built up and he tries
+to attack the agitator as soon as he approaches. Train-
+ing for the day is concluded with praise by the master
+as the agitator disappears.
+c. Six naturally aggressive dogs are brought out at the same
+time. These are dogs which have demonstrated that they do not
+need to be chained to the stake. Between every two of these dogs
+is placed a dog that has reacted negatively to the first phase of
+training. All the dogs are lined up far enough apart so that they
+cannot get into a fight among themselves. Each dog is on leash at
+the left side of his handler. At the command WATCH HIM, the
+agitator appears and walks toward the dogs. Some of the dogs will
+bark immediately; these should be praised lavishly by their han-
+dlers. The agitator concentrates his attention on the dogs that do
+96 AGO 5344B
+
+not respond readily. He approaches them with his stick, threatens
+them, and jumps away. Inspired by the bolder dogs beside them,
+even the slow ones will eventually start barking. If properly en-
+couraged by their masters, they will understand that there is
+nothing to fear from the agitator, and that he will disappear as
+soon as they bark, growl, or make a move toward him. When all
+the dogs in the group alert as soon as the agitator appears, he must
+vary his direction of approach and increase the distance at which
+he first appears. The dogs that detect him earliest are praised
+lavishly. It will be found that the slower dogs learn from their
+aggressive companions, as well as from their handlers.
+d. When all the dogs in the class alert at the approach of the
+agitator, a new man takes his place. The dogs learn in this way
+that ANY man approaching is an enemy. It is desirable to have
+numerous persons play the role of the agitator.
+e. The handler now plays the role of the sentry, walking post
+with his dog heeling on loose leash. (This simulated post must be
+changed each day so that the dog does not get accustomed to one
+definite route.) When the dog and sentry have advanced a short
+distance, the agitator approaches from some place of concealment.
+If the dog has learned his first lessons, he will detect the approach
+of the agitator and will alert without help from the handler. If he
+does not alert, the handler gives him a cue by saying WATCH
+HIM. As soon as the dog gives warning, the agitator runs out of
+sight and the hander praises and encourages the dog. If the dog
+does not respond correctly, the agitator conceals himself along the
+dog's path of advance, steps out quickly from his hiding place, hits
+at the dog with a stick, and jumps away. This will arouse the dog.
+Furthermore, he will learn that unless he gives alarm immediately
+upon detecting the presence of a stranger, he will suffer pain and
+punishment.
+f. When a dog detects and alerts to the presence of all strangers
+at a considerable distance without any help during the daytime, he
+is generally ready to be worked at night. It will usually be found
+that a dog better at night because scenting conditions are more
+favorable and his keen hearing is enhanced by the absence of
+distracting noises.
+118. Additional Training Notes
+a. Importance of Loose Heeling. In walking a post, loose heel-
+ing is essential as long as the dog does not pull or tug on the leash.
+If a handler insists on close heeling, the dog is more likely to con-
+centrate on perfection in heeling; this means that his attention
+will be on the handler and not concentrated on his surroundings.
+97
+AGO 6344B
+
+He is likely to forget his main duty, which is to be on the alert at
+all times and ready to give alarm at the slightest provocation.
+b. Importance of Distrust of Strangers. The sentry dog is
+taught not to make friends with strangers. The handler walks his
+dog on leash at the heel position. A stranger approaches uttering
+soothing words and coaxes the dog to come to him. As soon as the
+dog starts to respond with friendliness, the stranger slaps him
+smartly on the nose and jumps away. The handler then encourages
+the dog to attack the stranger. This is repeated with different
+people acting as strangers until the dog growls and barks on the
+approach of all strangers, no matter how friendly their attitude
+or how much they attempt to appease the dog. Next, a stranger
+tries to entice the dog with a piece of meat or any other bit of food
+the dog likes particularly. If the dog tries to take the food, the
+stranger slaps him on the nose and runs away without giving him
+the food. Thus the dog learns that HIS HANDLER IS THE ONLY
+PERSON TO BE TRUSTED.
+Section V. ADVANCED OBEDIENCE AND AGITATION
+TRAINING
+119. Advanced Obedience
+a. Advanced obedience training consists of requiring the dog to
+run an obstacle course and to perform all exercises off leash and
+without the use of command gestures. Since sentry dogs are nor-
+mally used at night when gestures are useless, it is essential to
+train them to understand and obey vocal commands. This advanced
+training allows the handler to acquire increased control over his
+dog and develops in the dog the discipline necessary for effective
+military service.
+b. At the start of obedience training, the dogs are well separated
+to minimize the possibility of fights. A dog that attempts to attack
+another should be muzzled immediately as punishment. As the
+training progresses the handlers increase their control and the
+dogs become accustomed to working together in the area. The
+distance between dogs is then gradually reduced until handlers
+and dog, working off leash, are capable of doing close order drill
+and obedience exercises at intervals of four feet or less.
+120. Obstacle Course
+As in the case of human beings, sentry dogs cannot be expected
+to maintain peak efficiency unless they are in top physical condi-
+tion. This means that, in addition to receiving proper food and
+98 AGO 5344B
+
+medical care, they must be exercised frequently, regularly, and
+strenuously. An obstacle course (fig. 38) which may be constructed
+out of natural or salvage materials, provides an excellent medium
+for such exercise. All units which have sentry dogs assigned should
+have an obstacle course constructed. A good obstacle course should
+include, but is not limited to, hurdles, ditches, and low ramps for
+jumping; high ramps to teach the dog that wherever his handler
+takes him he is not to be afraid; tunnels to teach a dog to crawl;
+and walking logs or ladders raised above and parallel to the ground
+to teach a dog to be more sure-footed.
+121. Agitation
+a. Advanced agitation training consists of teasing the dog to
+the extent of making him bite at the agitator. The agitator wears
+the extra sleeve (with or without the attack suit) to give the dog
+something to actually bite. He uses a light switch or burlap bag
+to irritate the dog. For the more dangerous exercises in agitation
+training, the agitator may wear a fencer's face mask for added
+protection (figs. 39, 40 and 42). This mask is not an item of issue,
+but it is well worth the trouble to try to obtain one. The agitator
+builds the dog up by acting frightened and backing up every time
+the dog advances. Without exception, the dog must always be the
+winner. A handler never agitates his own dog.
+Note. Scout dogs are never given agitation training.
+b. The dog always wears the leather collar for agitation train-
+ing. As soon as a session has been completed the collar is removed.
+In this way the dog soon comes to associate the leather collar with
+agitation and when it is placed around his neck he will begin to
+search for an agitator. He also wears the leather collar while per-
+forming sentry duty. It is important that this leather collar/
+agitator association be established early and firmly. The choke
+chain is used only when taking a dog to or from the kennel area
+and during obedience training.
+c. It is agitation which develops in a dog the aggressiveness and
+viciousness essential to an effective sentry dog. His aggressiveness
+and viciousness determine his alertness on post and his urge to
+attack. It is important to keep in mind that each dog is an indi-
+vidual with a distinct temperament of his own and, to obtain the
+best results, agitation must be suited to the dog. There are four
+principal methods of agitation.
+(1) Line agitation (fig. 39). Handlers and dogs form a single
+line at intervals of about 30 feet, the dogs standing at
+heel. The agitator quietly approaches one end of the line
+from the rear. He stops when he is about 30 feet from
+AGO 5344B 99
+
+the first dog and handler and the instructor commands
+ABOUT, FACE. All handlers and dogs execute about face,
+and the first dog and handler advance slowly toward the
+agitator. The handler incites his dog with the command
+WATCH HIM. When the dog comes within 10 feet of
+him, the agitator acts excited and afraid and begins to
+retreat, walking backwards. The dog is allowed to ap-
+proach within 3 feet of the agitator who then irritates
+the dog a few moments with his switch, while continuing
+to retreat. The handler then calls off his dog and leads
+him back of the agitation line to the other end while the
+next dog and handler start the same procedure. This
+should continue until each dog has gone through three
+repetitions of the agitation. The dogs are not allowed to
+take hold of the agitator during this exercise.
+(2) Circle agitation (fig. 40). Handlers and dogs form a
+circle with a 30-foot interval between each team. The
+agitator, wearing either an attack sleeve or an attack
+suit and carrying a switch, takes his position in the center
+Figure 38. Obstacle course.
+Figure 39. Line agitation.
+100 AGO 5344B
+
+of the circle. At the command MOVE IN the handlers
+and dogs move very slowly toward the agitator and the
+handlers order the dogs to WATCH HIM. At the same
+time, the handlers begin taking up the slack in the leashes
+until, by the time the dogs are within four feet of the
+agitator, the handlers are holding them by the leather
+Figure 40. Circle agitation.
+Figure4 1. Kennel agitation.
+AGO 6344B 101
+
+(2:
+!I
+0,"
+102~;t AG 54
+%4 A 5
+
+collar. This is necessary to protect the agitator and to
+eliminate the possibility of one dog attacking another.
+While the dogs are moving in, the agitator moves about
+threatening first one dog and then another with his
+switch. When the circle has been reduced to 10 feet in
+diameter, the handlers halt and, at the instructor's com-
+mand MOVE OUT, resume their original positions in the
+large circle. This exercise is repeated several times. Next,
+starting from the big circle, the agitator has the handlers
+bring their dogs into the center of the circle one at a time
+for individual agitation. In this phase of agitation, the
+dogs are allowed to bite the agitator's attack sleeve or
+suit. The aggressiveness shown by each dog stimulates
+aggressiveness in the other dogs and creates an emotional
+chain reaction. This is particularly effective in the case
+of dogs that are deficient in aggressiveness or slow in
+attacking or biting.
+(3) Kennel agitation. This type agitation is used only on dogs
+that do not respond to other types. The expected reaction
+is based on the dog's natural instinct to protect his home.
+The agitator approaches while the dog is in his run and
+his handler is present. The agitator makes threatening
+gestures and vocal sounds, slapping the fenced run with
+a switch, burlap bag, or some other object (fig. 41). The
+handler incites his dog against the agitator. At the first
+sign of aggressiveness on the part of the dog, the agitator
+runs away and is chased by the handler. The handler then
+returns and praises and pets the dog. This should be re-
+peated until the instructor determines that maximum
+benefit has been realized.
+(4) Stake agitation. Stake agitation follows kennel agitation.
+It is conducted like kennel agitation except that the dog
+is chained to a tree, post, or stake in some open space
+away from the kennels. This exercise tends to further
+build up the dog's confidence in himself in unfamiliar
+places.
+(5) Muzzle agitation. This is an exercise for sentry dogs. The
+sentry dog is muzzled and allowed to attack his agitator
+who wears regular clothing. This actually is a test to de-
+termine if the dog will attack, on command, persons not
+dressed in the attack suit. During training, many dogs
+seem to acquire an almost exclusive association between
+the attack suit and "enemy."
+d. Dogs are never agitated from a vehicle. Eventually this will
+AGO 5344B 103
+
+cause them to look for and react against vehicles instead of people.
+In addition, they become nervous and excited when vehicles ap-
+proach, thus making it difficult to get them to enter one and ride
+calmly.
+e. Normally, dogs should be agitated at least three times weekly
+to keep them at the peak of their effectiveness, but the tempera-
+ment of individual dogs should also be considered in determining
+the amount of agitation they need. Under no circumstances will a
+dog be agitated in the absence of his handler.
+122. Attack Training
+The handler and his dog proceed to an area which is isolated
+from both pedestrain and vehicular traffic. In the training area, the
+handler puts the leather work collar on the dog and does not re-
+move it until the exercise is completed. The agitator, dressed in
+an attack suit, should be concealed upwind from the dog so that
+his scent will be driven directly into the dog's nose. For the first
+exercise in this phase of training, it is important for the agitator
+to be well concealed, but within easy scenting distance and directly
+upwind from the dog. The handler commands WATCH HIM, and
+the dog then tries to locate the agitator by scent or sound. When
+the dog alerts and pulls on the leash, the handler should put his
+hand on the dog's flank, stroking it gently and whispering the
+words, "Atta boy, Good boy," to praise the dog. He must praise
+the dog enough to encourage him, but must not distract him from
+his purpose. The dog's attention must remain focused in the direc-
+tion of the agitator. The dog approaches the concealed agitator
+and the handler again uses words of praise and encouragement.
+When the dog gets to within a short distance of the agitator, the
+agitator breaks cover. The handler orders the agitator to halt
+and place his hands over his head. The agitator ignores the order
+and tries to escape. The handler then releases his dog and com-
+mands GET HIM. The dog then pursues and attacks the agitator
+(fig. 42) who, after a brief struggle, ceases to resist. The handler
+approaches, commands OUT, and draws the dog away from the
+agitator, at the same time praising and patting him. He leads the
+dog about 10 feet away from the agitator and commands DOWN,
+STAY, and WATCH HIM. He then returns to the agitator and
+searches him, being careful never to place himself between the
+dog and the agitator. In the course of the search, the agitator
+strikes or pushes the handler to the ground and tries to run away.
+At this point the dog must attack the agitator WITHOUT COM-
+MAND from the handler.
+104 AGO 5344B
+
+S'ii3 iX,~ ~ t;I
+'~ :5,) . 3. t' a r.-:
+'ii~i~ i~~~ !^ ~ ':9 ', ,~ i f
+i~ ,... ';'i+t&>'ri .i'? ....e
+f'>lfi*fI. .f, ::>t'3 1 'i4',a
+z ;> ;"^~ B"-".1 ' a ' .: .b
+;., f ( p> ' < -i- i· 9
+' }UJ
+X: aK. _ r. -rf w. t ., 105
+t 0t i 8 + ,:,.
+AOO~~~~~~~~~~~~~~~~~~~~E 684 > 9:_sa+
+
+4-
+ant-: r t _ Aw ? .- -. ~¢L ~
+Figure 44. Escorting a prisoner.
+123. Attacking Under Gunfire
+Attack under gunfire is taught after the sentry dog is well
+trained and the handler is sure that he will obey all commands or
+gestures to attack and cease attack. The agitator wears the attack
+suit. The procedure is like that prescribed in paragraph 122, ex-
+cept that when the dog flushes the agitator, the handler and the
+agitator exchange pistol shots, the handler firing first. The exer-
+cise then continues through all the stages of pursuit, capture,
+guard, and search. When exchanging shots, the handler and agita-
+tor should be careful not to fire close to the dog's head to avoid
+powder burns, particularly about his eyes and nose.
+124. Guarding a Prisoner
+On the command DOWN, the dog assumes this position behind
+a motionless prisoner (fig. 43). He must not be close enough for
+the prisoner to injure him with a sudden kick. The handler then
+commands WATCH HIM to put the dog on the alert, and walks
+106
+AGO 5344B
+
+away to a hiding place where he can observe the dog's actions.
+The prisoner then starts to turn around, or walk or run away. If
+the dog does not attack when the prisoner moves; the handler im-
+mediately comes out of his hiding place and commands GET HIM.
+This exercise is repeated until the dog pursues and attacks the
+prisoner whenever he moves. The exercise should always conclude
+with the handler returning to the scene, taking charge of the
+prisoner, and praising the dog.
+125. Escorting a Prisoner
+The dog is taught that a prisoner is not to be attacked when
+walking slowly, accompanied by the dog's handler. In this exercise;
+the dog is made to heel on leash at the left side of the handler, while
+a prisoner walks in front and slightly to the left of the dog (fig.
+44). The prisoner suddenly turns in a threatening manner or
+starts to run away. The handler drops the leash and the dog, if
+well trained, will attack. At first, the handler may need to com-
+mand GET HIM. The procedure is repeated until the dog attacks
+without command when the prisoner makes any sudden break, but
+refrains from attacking when the prisoner is marching in an
+orderly manner ahead of the handler. The handler praises his dog
+at the conclusion of each exercise.
+AGO 5344B 107
+
+CHAPTER 5
+HINTS FOR HANDLERS
+126. Helpful Hints
+a. Oral commands should always be given with the same words,
+in the same tone, and at the same rate of speed.
+b. Do not punish your dog for failure to execute a command
+unless you are certain that he understands what you want.
+c. Reward follows promptly after each act done properly;
+punishment follows every act of disobedience.
+d. To punish a dog at any time other than instantly after he has
+committed a wrong act is cruelty rather than training.
+e. Training periods should not be too long as a dog tires quickly
+and will go sour on the lesson.
+f. If a dog does one step wrong, do not repeat this step only.
+Begin again, for a dog must learn acts in their entirety to carry
+them out successfully.
+g. Never fool your dog, he has a sense of humiliation and pride.
+He is to always understand that when you say a certain word, a
+certain thing will happen. There must never be a break in this
+seeming cause and effect.
+h. Anticipate your dog's actions. Think ahead of him.
+i. Do not lose your temper while training your dog. He will lose
+respect for you. A person must refrain from venting his anger
+on an animal.
+j. Have patience with your dog. He wants to do what you want
+him to do, but you cannot tell him in a language that he readily
+understands.
+k. All dog training is founded on the theory that his natural
+instincts and abilities can be stimulated and developed.
+1. A dog has a one-track mind. Teach him only one thing at a
+time.
+m. Too many masters, too many friends, too many strangers will
+ruin your dog. Let him know only one master: You, whose word
+is supreme law.
+108 AGO 5844B
+
+127. Commands Used by Instructor and Handler
+Instructor Handler
+Class, ATTENTION (one step forward) HEEL (SIT)
+Sit dog, COMMAND SIT
+Down dog, COMMAND DOWN
+Recall dog, COMMAND COME, HEEL, SIT
+Circle dog, MOVE STAY
+Heel position, MOVE (From the end of leash) STAY
+Crawl dog, COMMAND CRAWL
+Cover DOWN
+Jump dog HUP
+Right Flank, MARCH HEEL
+Left Flank, MARCH HEEL
+To the Rear, MARCH HEEL
+Right, FACE HEEL
+Left, FACE HEEL
+About, FACE HEEL
+Column right, MARCH HEEL
+Column left, MARCH HEEL
+Forward, MARCH HEEL
+Detail, HALT SIT
+Drop leashes, MOVE STAY
+Special Commands
+CORRECTIVE COMMAND IS ALWAYS NO
+While scouting to alert the dog SEARCH
+Sentry dog command WATCH HIM
+Approval or release command OK
+Attack GET HIM
+Cease attack OUT
+128. Steps in Daily Grooming
+a. Examine nose.
+b. Examine eyes.
+c. Examine ears and ear flaps.
+d. Check teeth.
+e. Check nails and pads.
+f. Check anus.
+g. Examine and care for dog's coat.
+(1) Rub against the grain using the fingertips.
+(2) Rub with the grain using fingertips.
+(3) Brush against the grain.
+(4) Brush with the grain.
+(5) Comb only to remove dead hair.
+(6) Smooth hair down with hand.
+129. Jerk on the Leash
+A jerk on the leash is a very necessary thing, especially in the
+basic training of your dog. It will mildly discipline an otherwise
+errant dog and is effective in getting the attention of young and
+AGO 5344B 109
+
+inattentive dogs, indicating to them that some new move or com-
+mand is coming up. The handler should never jerk the leash
+violently enough to injure the dog, nor viciously to vent his temper
+on the dog.
+130. Reminders for Dog Handler Going on Patrol
+a. If possible, accompany the patrol leader on his ground recon-
+naissance and assist him in making the detailed plans for the patrol
+(such as suggesting a route that will allow the dog to work at
+maximum efficiency).
+b. If it is to be a long patrol, make sure that food and water are
+provided for the dog.
+c. Inform the patrol members of the temperament of the par-
+ticular dog to be used on the patrol.
+d. Inform the patrol what should be done in regard to the dog
+if you are seriously wounded or killed.
+e. Establish with the patrol leader a system of signals to use for
+exchanging information once your dog detects the presence of the
+enemy.
+f. Inspect your dog's working equipment to see that all metal
+parts are taped or wrapped to preclude unnecessary noise. This
+inspection includes the metal choke chain, the snap on the leash,
+and the D-ring of the leather harness.
+g. Walk your dog at heel and review him in basic obedience for
+about 15 minutes just before you take him to join the patrol. This
+gives the dog an opportunity to evacuate and to burn up some of
+his accumulated nervous energy.
+110 AGO 5344B
+
+APPENDIX
+REFERENCES
+AR 40-905 Veterinary Service For Public Animals.
+AR 320-5 Dictionary of United States Army Terms.
+AR 320-50 Authorized Abbreviations.
+AR 725-8710-2 Forage, Dog Food, and Bird Feed.
+FM 21-5 Military Training.
+FM 21-6 Techniques of Military Instruction.
+FM 25-6 Dog Transportation.
+DA Pam 108-1 Index of Army Motion Pictures, Filmstrips,
+Slides, and Phono-Recordings.
+DA Pam 310-1 Index of Administrative Publications (Army
+Regulations and Pamphlets).
+DA Pam 310-3 Index of Training Publications (Field Man-
+uals).
+AGO 6344B 111
+
+INDEX
+Paragraphs Page
+Agitation training.________________--_____- 113,117 121 92,94, 99
+Agitator….1_____________________________________ _ 114,117 121 92, 94,99
+Anal glands_______________________________----- 34 21
+Attack training _________________________________ 122, 123 104, 106
+Bandage---_________________________ ___-_________. 47, 48 31, 33
+Bathing a dog--____________________________________ 31 20
+Bedding--_________________________ _____-________ 46 30
+Bichloride of mercury poisoning-____________________ 49 34
+Body functions, dog's _________________________-___ 33, 43 21,26
+Burns -______________________-__-_--------------- 47 31
+Breed -_________________________.---------------- 5 5
+Bruises _-_----_ ___________4_7_ ________3_1____________
+Brush, grooming ______-_-___________________ 61 43
+Circle agitation_______________________________ 121 99
+Coat, dog's, care-__________________________________ 25 19
+Collar --______________________________________ _- 61 43
+Color of military dogs -___________________________ 5 5
+Comb--6_1_ __________________________________ 43
+Combat patrol__________________________________. 103 80
+Come__----------------------------------_____ _ 74, 75, 91, 92 56, 72
+Command gestures -_____-_____-_-_ .____-5_5--, --6_5----8 6 38, 47
+Commands, training ___--_ ______-_--_--_ _.- ___ --- 127 109
+Communicable disease -_________________-__. 44 28
+Constipation_ ________-________--------- 49 34
+Corrective command_______-- ________________....__ 64 47
+Crawl_--___----------------_---------------______- 76, 77 59, 62
+Creolin solution __________---_---.__--________ - 51 35
+Decoy ---------------------- ------------ 109, 110 86, 90,
+117 94
+Digestive system disturbances ._________4_9_ ___._.__. 34
+Disease prevention-.____-________________________ 42-46 26
+Disinfection ____--…---_-_-_--_------ ___---_-__ 45 28
+Distemper__------------------- --- 45 28
+Down--_________-_-__________________________ 69-71 52,
+87, 88 69
+Ears. dog's, care---___________-_------- ------- ----- 27 19
+Escorting prisoner …___________-_-_-_ _……_- -_……---- 125 107
+Ether----------------------------------- 51 35
+Examination of dog, preliminary-_____________._____14 11
+Eye injury_-_-_- _____----_---____.--_- -- 47 31
+Eyes, dog's, care__________________________________ 28 20
+Feeding _________________________________-___ 35-41 22
+Balanced diet _______-_-_______________________ 35, 41 22,26
+Bones___________________________________ 39 24
+112 AGO 5344B
+
+Paragraphs Page
+Feeding-Continued
+Cereal …_____________________--_---____--_._ _. 38 23
+Meat -_________________----____------------- 36 22
+Rules_ _ _________--__________________________ 41 25
+Time-______________________________________- 41 25
+Water ------_-_-_-_______ ___--_---_____--_ __ 37 23
+First aid __________________________________…__ _ 47, 48 31, 33
+Fleas …__________________________________________. 51 35
+Food requirements--_____________________________- 35 22
+Foreign bodies in mouth-___________________-----_-- 49 34
+Fovea centralis -- _____________-------------------. 6 5
+Fractures …______________________________________. 47 31
+Gas mask __________________--___________-_______ 61,95, 97 43, 73, 74
+German Shepherd __________--_____________________ 5 5
+Grooming--____________________________ _________. 24-34 19
+Guarding prisoner ________-_-_____________________ 124 106
+Handler ______-_-__________________________ 2, 8, 56, 67 3,8, 41
+Harness--_______________________________________ 61 43
+Hasty muzzle--_________________________________---- 53 37
+Health certificate …____________-_____-_______1-2_ ___ 10
+Hearing, dog's sense_______________-------_-------- 6 5
+Heel ___________________________________________ 65, 66, 47,
+83,84 67,68
+Hemorrhage ___________________________---------- 47 31
+Hookworms -__________________________________ _- 49 34
+Injuries_--_--__.__ __-____-_-_- ______------------- 47 31
+Intelligence, dog's.._____________________._- ------ 9 8
+Isolation …______________-_-____- _-------_-.- ------ 45 28
+Jump_ _________________-----___----------------_ 78-80,93, 94 64, 73
+Kennel:
+Agitation ___ ______-_-_______________________ 121 99
+Arrangement_________-_-___________________ 22 17
+Care -------------------_-------------------- 23 17
+Chain--________________________-------- - 61 43
+Field_____--------------------------------..-- 21 15
+Identification …_____________------------------- 22 17
+Improvised …_____________________________----2 1 15
+Multiple …_______________--------------2-1- ---- 15
+Single …_______________. _______…___2_1_ __ 15
+Leash ______…_--________________----- ------------ 61 43
+Holder -_____________________---___----_-_--- 61 43
+Lice …________________________----_5_1_ _______3_5____
+Line agitation …______________.- ----____----__----- 121 99
+Mange ------------------------------------------- 45 28
+Military dog squad__________--______________________ 63 45
+Mineral oil …_____________________-49- _-----3-4------_
+Muzzle _…_______--____________---- --__________--- 61, 95,96 43, 73
+Agitation …________________--_-----_1--2-1- ---_- 99
+AGO S844B 113
+
+Paragraphs Page
+Nails and pads, care ___--_ __--- ______ ______.._ _____ 29 20
+Nervous system disturbances______________________ 50 34
+Noncommunicable disease _-_------------__-------- 45 28
+Nose, dog's, care ___________.__-_-___ -_-_____…_ _- - 26 19
+Nursing ___________________----__. -_ ....----4--6- - 30
+Obstacle course __________________________________. 120 98
+Outpost_ _________---___…____-------------------- 103, 110 80, 90
+Patrol -_______________________.______________ __ 130 110
+Principles of training_ ___________------__--------- 55, 100, 101 38, 78
+Punishment in training -___________________________ 55, 126, 38, 108,
+129 109
+Quarantine ________------------------------------ 45 28
+Quartering (scout dog) --- ____________--__.--_____- 108 86
+Rabies ___…___----------------------------------- 45, 52, 53 28, 37
+Reception of dog_- ---__--------------------------- 13 11
+Reconnaissance patrol_ _____________---------.----- 103 80
+Rejection of dogs ___________--___----------------- 20 15
+Retraining__--_-_-_-_-_-_-_-_- ---------------- - - 111 90
+Ringworm -______--_--_--------_---------------- 45 28
+Roundworms_____------------------------------ --- 49 34
+Scent …____……----------------------------------- 6 5
+Scout dog:
+Limitations__-----_-------------.. -------- i1 11 90
+Platoon …________._____.._- ------------------ 3 3
+Uses_________-------------------------------- 103 80
+Screening procedure …______.-------_-------------- 98, 99 77
+Senses, dog -_____________________---------------- 6 5
+Sensitivity, dog's__-----_-------------------------- 8 8
+Sentry dog:
+Selection for training_ _______----------------- 113 92
+Uses -___________________-----_.------------- 112 90
+Shipment of dog ----------------------------------- 12 10
+Shipping crate___-------------------.------------- 12 10
+Sit __________--_....- . ..------------------------ 67, 68, 85, 86 50,69
+Skin parasites …_______--------------------------- 32, 51 21, 35
+Smell, dog's sense_-------------------------------- 6 5
+Splint____-----------------------.--------------- 47 31
+Split-tailed bandage _______----------------------- 48 33
+Sprains -_--_-_-_- ------------------ ------ --- 47 31
+Stake agitation ____________-------------------- 121 99
+Stay ______…-- -....------------------------------ 72, 73, 89, 90 53, 71
+Suppository_______--------------------------- 49 34
+Tapeworms______ _------_- ---------------------- 49 34
+Teeth, dogs', care__ _------------------------------ 30 20
+Temperature of dog, normal_______-________-_43_ _____ 26
+Test:
+Aggressiveness________________…__._ _______ . . 17 13
+Gun-shyness ----_____________________________ 15 11
+114 AGO 5344B
+
+Paragraphs Page
+Test-Continued
+Man-shyness -_____________1_6 _________1_3______-
+Riding …-__________________________________ - 18 13
+Testing dog, preliminary __________________----__-- 13, 15-18 11
+Ticks ______________________________------------- 51 35
+Touch, dog's sensitivity ___________---- _-----_-----. 6,8 5, 8
+Tourniquet …_______________________________--_--- 47 31
+Training:
+Advanced:
+Agitation ________-_-______________________ 121 99
+Obedience _______-_-______________________ 119, 120 98
+Attack …-__________________________________ - 122,123 104, 106
+Commands ________________________________…- 127 109
+Equipment -_-_________________________________ 61 43
+Facilities--________________________----------- 62 44
+Methods --- _____________--------------------- 82 67
+Objective _____________________-_____________ 58 42
+Personnel -…_________________________________ 60 43
+Procedure, general _______-_-__________________. 63 45
+Program________ ___________________________--59 42
+Specialized:
+Conditions _______-_-______________________ 106, 114 84,92
+Dog selection ____________________________. 99, 102, 113 77, 80,92
+Principles___________________________…__ _ 100, 101 78
+Procedure _______________________________ 109, 117, 118 86, 94, 97
+Squad ___________-________________________-- 63 45
+Traits, military dogs ___________________________--_ 6-11 5
+Vision, dog's__________________ ________________ 6 5
+Vocal command ________-_-________________________. 55, 117 38, 94
+Whipworms _________-_-___________________ 49 34
+Willingness, dog's ________________________________ 10 9
+Wind (scout dog training) _________________________. 107 85
+Wounds _______-_-__________________________ 47 31
+AGO 5344B 115
+
+[AG 353 (18 Mar 60)]
+By Order of Wilber M. Brucker, Secretary of the Army:
+L. L. LEMNITZER,
+General, United States Army,
+Official: Chief of Staff.
+R. V. LEE, ,
+Major General, United States Army,
+The Adjutant General,
+Distribution:
+Active Army:
+CNGB (1) Corps (3)
+Tech Stf, DA (1) except Div (3) except
+TSG (50) 25th Inf Div (25)
+Tech Stf Bd (1) Svc Colleges (5)
+USCONARC (13) Br Svc Sch (5) except
+US ARADCOM (3) USAIS (18)
+US ARADCOM Rgn (2) PMGS (15)
+OS Maj Comd (5) except USA Corps (Res) (2)
+USARAL (18) Units org under fol TOE:
+USARYIS/IX Corps (20) 7-11 (5)
+OS Base Comd (5) 7-167 (20)
+Log Comd (2) 7-310 (5)
+MDW (2) 44-12 (3)
+Armies (5) except 44-544 (3)
+First US Army (7) 44-545 (2)
+Second US Army (15) 44-546 (3)
+Fourth US Army (25) 44-547 (3)
+Eighth US Army (100) 44-548 (3)
+NG: None.
+USAR: Same as Active Army except allowance is one copy to each unit.
+For explanation of abbreviations used, see AR 320-50.
+* U.S. GOVERNMENTP RINTING OFFICE: 1960 0-576Z74
+116 AGO 5344B
