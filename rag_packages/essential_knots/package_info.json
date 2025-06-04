@@ -1,0 +1,41 @@
+{
+  "package_id": "essential_knots",
+  "name": "Essential Survival Knots",
+  "description": "Step-by-step guide to tying essential survival and utility knots",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:23:36.750794",
+  "source_pdf": "Step_By_Step_Basic_Knots.pdf",
+  "vector_database": {
+    "file": "essential_knots.vdb.npz",
+    "size_bytes": 10016,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "essential_knots_ios.index.json",
+    "size_bytes": 4060,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 2,
+    "embedding_dim": 384,
+    "total_embeddings": 2
+  },
+  "offline_priority": "high",
+  "category": "technical_skills",
+  "tags": [
+    "knots",
+    "rope",
+    "technical_skills",
+    "step_by_step",
+    "utility"
+  ],
+  "checksum": {
+    "vdb": "2180e8a2a2ad9f74869990597bc03fc021b6b152b63e428b937bdec84431ad00",
+    "index": "0dd68addc48c73096acbf525fcdeabe1a946bed52adada81bf3f1dfce084338a"
+  }
+}

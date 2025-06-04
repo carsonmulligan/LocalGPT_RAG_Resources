@@ -1,0 +1,39 @@
+{
+  "app_config": {
+    "min_ios_version": "14.0",
+    "required_storage_mb": 50,
+    "chunk_size_for_rag": 1000,
+    "max_concurrent_downloads": 2,
+    "embedding_model": "BAAI/bge-small-en"
+  },
+  "download_strategies": {
+    "wifi_only": {
+      "packages": ["fishing_basics"],
+      "auto_download": true
+    },
+    "cellular_allowed": {
+      "packages": [],
+      "auto_download": false
+    }
+  },
+  "ui_settings": {
+    "package_icons": {
+      "fishing_basics": "🎣",
+      "wilderness_survival": "🏕️",
+      "first_aid_medical": "🚑",
+      "emergency_preparedness": "⚠️",
+      "food_procurement": "🍄",
+      "technical_skills": "🔧",
+      "military_tactical": "🎖️"
+    }
+  },
+  "testing": {
+    "simulator_packages": ["fishing_basics"],
+    "local_llm_models": ["TinyLlama-1.1B-Chat", "Phi-3-mini-4k-instruct"],
+    "test_queries": [
+      "How to tie a fishing knot?",
+      "What bait should I use?",
+      "How to cast a fishing line?"
+    ]
+  }
+}

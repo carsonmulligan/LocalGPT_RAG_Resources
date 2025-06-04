@@ -1,0 +1,41 @@
+{
+  "package_id": "advanced_battery_care",
+  "name": "Advanced Battery Care & Charging",
+  "description": "Professional battery care, charging, and reconditioning procedures",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:25:04.928346",
+  "source_pdf": "ODYSSEY_Battery_Reconditioning_Charge_Procedure.pdf",
+  "vector_database": {
+    "file": "advanced_battery_care.vdb.npz",
+    "size_bytes": 15612,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "advanced_battery_care_ios.index.json",
+    "size_bytes": 6355,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 3,
+    "embedding_dim": 384,
+    "total_embeddings": 3
+  },
+  "offline_priority": "low",
+  "category": "technical_skills",
+  "tags": [
+    "battery",
+    "charging",
+    "technical",
+    "maintenance",
+    "odyssey"
+  ],
+  "checksum": {
+    "vdb": "e50a90318b6b8adfc5857ed40b43f66adbadd68dd0bb08dd5a894ac4a5da016c",
+    "index": "f8094764999ed2fd46110d8e3b4480cf121f3cc4d7f502e2b6aad56ff7d27a89"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "package_id": "essential_knots",
+  "format_version": "1.0",
+  "optimized_for": "ios_swift",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "Step-By-Step: Basic Scout Knots\n\nOverhand Knot\n\nSquare Knot (or Reef not, the classic joining knot.)\n\nRight over left\u2026\n\nLeft over right\u2026\n\nmakes a knot tidy\u2026 and tight.\n\nGranny Knot (The Granny knot is very UNSAFE. This is why your shoelaces come untied!)\n\nRight over left\u2026\n\nRight over left\u2026\n\nmakes a knot ugly and WRONG.\n\nBowline (The rescue knot.)\n\nMake a loop (top to you). The rabbit goes out of the hole\u2026\n\naround the tree\u2026\n\nand back into the hole.\n\nSheet Bend (Stronger than a Square Knot, especially good for joining different size lines..)\n\nMake a loop in one end. The rabbit goes out of the hole\u2026 around the tree\n\nback under his path.\n\nSlip Knot (Warning: This is a type of noose! This is a quick cinch knot.)\n\nMake a loop. Pull a loop up through the loop.\n\nPull tight.\n\nStep-By-Step: Basic Scout Knots\n\nPage 2\n\nHalf Hitch\n\nTwo Half Hitches (Taught-Line is much stronger.)\n\nLoop over the top (Half Hitch)\n\nSecond Half Hitch on the outside. Pull tight.\n\nTaut-Line Hitch (Perfect for tying down",
+      "keywords": [
+        "knot",
+        "left",
+        "joining",
+        "classic",
+        "right\u2026",
+        "makes",
+        "over",
+        "reef",
+        "basic",
+        "knots",
+        "not",
+        "overhand",
+        "right",
+        "square",
+        "scout",
+        "step-by-step:",
+        "left\u2026"
+      ],
+      "length": 999,
+      "preview": "Step-By-Step: Basic Scout Knots\n\nOverhand Knot\n\nSquare Knot (or Reef not, the classic joining knot.)..."
+    },
+    {
+      "chunk_id": 1,
+      "text": "out Knots\n\nPage 2\n\nHalf Hitch\n\nTwo Half Hitches (Taught-Line is much stronger.)\n\nLoop over the top (Half Hitch)\n\nSecond Half Hitch on the outside. Pull tight.\n\nTaut-Line Hitch (Perfect for tying down your truck lid or a tent guy line.)\n\nLoop over the top (Half Hitch)\n\nLoop over the top again.\n\nOne last loop outside. Pull tight.\n\nClove Hitch (For tying a rope to a tree or pole.)\n\nLoop over the top.\n\nLoop around again below. Pull through the hole.\n\nFigure-Eight (This classic \u201cstopper knot keeps knots in place.)\n\nLoop over the top\n\nLoop under\n\nGo through the hole\n\nPull tight",
+      "keywords": [
+        "hitches",
+        "stronger",
+        "page",
+        "half",
+        "over",
+        "taut-line",
+        "outside",
+        "tight",
+        "second",
+        "knots",
+        "much",
+        "pull",
+        "loop",
+        "hitch",
+        "taught-line"
+      ],
+      "length": 578,
+      "preview": "out Knots\n\nPage 2\n\nHalf Hitch\n\nTwo Half Hitches (Taught-Line is much stronger.)\n\nLoop over the top (..."
+    }
+  ],
+  "keyword_lookup": {
+    "knot": [
+      0
+    ],
+    "left": [
+      0
+    ],
+    "joining": [
+      0
+    ],
+    "classic": [
+      0
+    ],
+    "right\u2026": [
+      0
+    ],
+    "makes": [
+      0
+    ],
+    "over": [
+      0,
+      1
+    ],
+    "reef": [
+      0
+    ],
+    "basic": [
+      0
+    ],
+    "knots": [
+      0,
+      1
+    ],
+    "not": [
+      0
+    ],
+    "overhand": [
+      0
+    ],
+    "right": [
+      0
+    ],
+    "square": [
+      0
+    ],
+    "scout": [
+      0
+    ],
+    "step-by-step:": [
+      0
+    ],
+    "left\u2026": [
+      0
+    ],
+    "hitches": [
+      1
+    ],
+    "stronger": [
+      1
+    ],
+    "page": [
+      1
+    ],
+    "half": [
+      1
+    ],
+    "taut-line": [
+      1
+    ],
+    "outside": [
+      1
+    ],
+    "tight": [
+      1
+    ],
+    "second": [
+      1
+    ],
+    "much": [
+      1
+    ],
+    "pull": [
+      1
+    ],
+    "loop": [
+      1
+    ],
+    "hitch": [
+      1
+    ],
+    "taught-line": [
+      1
+    ]
+  },
+  "search_config": {
+    "min_keyword_length": 3,
+    "max_results": 10,
+    "relevance_threshold": 0.1
+  },
+  "ios_integration": {
+    "swift_compatible": true,
+    "core_ml_ready": true,
+    "memory_efficient": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "package_id": "automotive_repair",
+  "name": "Automotive Repair & Maintenance",
+  "description": "Vehicle repair and maintenance guide for emergency situations",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:22.904531",
+  "source_pdf": "Crawfords_Auto_Repair_Guide.pdf",
+  "vector_database": {
+    "file": "automotive_repair.vdb.npz",
+    "size_bytes": 860288,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "automotive_repair_ios.index.json",
+    "size_bytes": 301724,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 156,
+    "embedding_dim": 384,
+    "total_embeddings": 156
+  },
+  "offline_priority": "medium",
+  "category": "technical_skills",
+  "tags": [
+    "automotive",
+    "repair",
+    "maintenance",
+    "vehicle",
+    "technical"
+  ],
+  "checksum": {
+    "vdb": "6b4241ba6c5475e8b329faa66e50fcc3f6e77fdaeffb8417a024be08d1e55965",
+    "index": "83b66729e0f182b36cd3df708a75e5cec297116c99a83e2b1156351aeb67e4a0"
+  }
+}

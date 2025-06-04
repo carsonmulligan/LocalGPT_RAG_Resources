@@ -1,39 +1,88 @@
 {
   "app_config": {
     "min_ios_version": "14.0",
-    "required_storage_mb": 50,
+    "required_storage_mb": 150,
     "chunk_size_for_rag": 1000,
-    "max_concurrent_downloads": 2,
+    "max_concurrent_downloads": 3,
     "embedding_model": "BAAI/bge-small-en"
   },
   "download_strategies": {
     "wifi_only": {
-      "packages": ["fishing_basics"],
+      "packages": [
+        "army_survival_manual",
+        "first_aid_medical", 
+        "survival_evasion_recovery",
+        "fishing_basics",
+        "edible_wild_plants",
+        "emergency_preparedness"
+      ],
       "auto_download": true
     },
     "cellular_allowed": {
-      "packages": [],
+      "packages": [
+        "essential_knots",
+        "scout_knots",
+        "beginners_survival_guide"
+      ],
       "auto_download": false
     }
   },
   "ui_settings": {
     "package_icons": {
-      "fishing_basics": "🎣",
-      "wilderness_survival": "🏕️",
+      "army_survival_manual": "🎖️",
       "first_aid_medical": "🚑",
+      "survival_evasion_recovery": "🚁",
+      "fishing_basics": "🎣",
+      "advanced_fishing": "🐟",
+      "edible_wild_plants": "🌿",
+      "essential_knots": "🪢",
+      "scout_knots": "⛺",
       "emergency_preparedness": "⚠️",
-      "food_procurement": "🍄",
-      "technical_skills": "🔧",
-      "military_tactical": "🎖️"
+      "readiness_checklist": "📋",
+      "combat_skills_training": "🎯",
+      "military_operations": "🪖",
+      "historical_military_manual": "📜",
+      "automotive_repair": "🚗",
+      "battery_maintenance": "🔋",
+      "advanced_battery_care": "⚡",
+      "outdoor_skills_nature": "🌲",
+      "forest_education": "🌳",
+      "beginners_survival_guide": "📖",
+      "technical_reference": "⚙️"
+    },
+    "categories": {
+      "critical": ["army_survival_manual", "first_aid_medical"],
+      "essential": ["survival_evasion_recovery", "fishing_basics", "edible_wild_plants", "emergency_preparedness"],
+      "advanced": ["combat_skills_training", "automotive_repair", "advanced_fishing"],
+      "specialized": ["military_operations", "battery_maintenance", "technical_reference"]
     }
   },
   "testing": {
-    "simulator_packages": ["fishing_basics"],
+    "simulator_packages": [
+      "fishing_basics",
+      "essential_knots", 
+      "emergency_preparedness",
+      "beginners_survival_guide"
+    ],
     "local_llm_models": ["TinyLlama-1.1B-Chat", "Phi-3-mini-4k-instruct"],
     "test_queries": [
       "How to tie a fishing knot?",
-      "What bait should I use?",
-      "How to cast a fishing line?"
+      "What plants can I eat in the wild?",
+      "How to start a fire without matches?",
+      "Emergency first aid for cuts?",
+      "How to purify water?",
+      "Building a shelter in the wilderness?",
+      "Vehicle emergency repairs?",
+      "Military evasion techniques?"
     ]
+  },
+  "knowledge_domains": {
+    "food_procurement": ["fishing_basics", "advanced_fishing", "edible_wild_plants"],
+    "medical_emergency": ["first_aid_medical"],
+    "comprehensive_survival": ["army_survival_manual", "beginners_survival_guide"],
+    "military_tactical": ["survival_evasion_recovery", "combat_skills_training", "military_operations", "historical_military_manual"],
+    "technical_skills": ["essential_knots", "scout_knots", "automotive_repair", "battery_maintenance", "advanced_battery_care", "technical_reference"],
+    "emergency_preparedness": ["emergency_preparedness", "readiness_checklist"],
+    "wilderness_skills": ["outdoor_skills_nature", "forest_education"]
   }
 }

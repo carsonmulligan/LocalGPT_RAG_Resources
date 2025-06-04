@@ -1,0 +1,1179 @@
+{
+  "package_id": "technical_reference",
+  "format_version": "1.0",
+  "optimized_for": "ios_swift",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "Introduction to Solar Electricity\n\nPV Hands-on 1\n\nTake a PV panel and a Digital multimeter\n\n(DMM) out in the sun\n\n1)\u202f Facing the sun, measure Voc and Isc (careful about how to use DMM for Voltage vs Current!)\n\n2) At different angles vs the sun, repeat Voc and Isc measurements\n\n3) Shade one or more cells, and repeat Voc & Isc measurements\n\nPV Hands-on 1, Part 2\n\n4 ) Connect a PV panel directly to the circuit with a light bulb and observe \u00d8\uf0d8\u202f what happens if orientation /\n\nexposure of the panel change \u00d8\uf0d8\u202f what happens for various types\n\nof light bulbs: LED, CFL, incandescent.\n\n\u00d8\uf0d8\u202f measure voltage & current to the\n\nbulb, compute power\n\n5) If possible \u00d8\uf0d8\u202f Connect 2 similar panels in series, then in parallel. \u00d8\uf0d8\u202f Measure Voc and Isc and discuss.\n\nPhotovoltaic Effect\n\nPV cells produce electricity from sunlight (photons)\n\nTo work properly each cell needs to receive sunlight\n\nElectrical energy needs to be stored for use if needed when there is not enough light\n\nCells, Modules, Panels\n\nMost com",
+      "keywords": [
+        "about",
+        "multimeter",
+        "digital",
+        "sun",
+        "hands-on",
+        "measure",
+        "panel",
+        "take",
+        "careful",
+        "facing",
+        "voltage",
+        "introduction",
+        "electricity",
+        "different",
+        "dmm",
+        "current",
+        "solar",
+        "repeat",
+        "angles"
+      ],
+      "length": 1000,
+      "preview": "Introduction to Solar Electricity\n\nPV Hands-on 1\n\nTake a PV panel and a Digital multimeter\n\n(DMM) ou..."
+    },
+    {
+      "chunk_id": 1,
+      "text": "y from sunlight (photons)\n\nTo work properly each cell needs to receive sunlight\n\nElectrical energy needs to be stored for use if needed when there is not enough light\n\nCells, Modules, Panels\n\nMost common modules are composed of solar cells connected in series\n\nEach cell generates the same voltage (~.5 V) regardless of size\n\nThe current generated depends on the light intensity and the cell size\n\nMany common solar panels are comprised of 2 modules in one frame\n\n1 m2 solar panel generates 60-120 Wp in \u2018standard conditions\u2019 , depending on the technology\n\nTypes of Solar Radiation\n\nThe total radiation (sunlight) is comprised of:\n\nDirect light: Straight from the sun\n\nDiffuse light: Dispersed by clouds Reflected light: From snow, water, etc.\n\nOn a completely cloudy day, all light may be diffuse.\n\nMost PV panels produce the most power in direct radiation. If one cell is shaded the panel electrical production (efficiency) drops drastically\n\nPV panels are much more sensitive to shade than thermal",
+      "keywords": [
+        "energy",
+        "sunlight",
+        "cells",
+        "from",
+        "each",
+        "needs",
+        "work",
+        "cell",
+        "electrical",
+        "when",
+        "photons",
+        "properly",
+        "there",
+        "light",
+        "needed",
+        "enough",
+        "stored",
+        "receive"
+      ],
+      "length": 1000,
+      "preview": "y from sunlight (photons)\n\nTo work properly each cell needs to receive sunlight\n\nElectrical energy n..."
+    },
+    {
+      "chunk_id": 2,
+      "text": "Most PV panels produce the most power in direct radiation. If one cell is shaded the panel electrical production (efficiency) drops drastically\n\nPV panels are much more sensitive to shade than thermal collectors\n\nPanel Orientation\n\n\u00d8\uf0d8\u202f Maximum power is received when the\n\npanel is facing the sun\n\n\u00d8\uf0d8\u202f For a fixed panel, usually the best yearly\n\naverage power is received for an angle = latitude + 0\u00b0 to 15\u00b0\n\n\u00d8\uf0d8\u202f The angle can be adapted according to\n\nseasonal needs\n\n\u00d8\uf0d8\u202f In some cases, the angle can be adjusted\n\nevery month, or even during the day\n\n\u00d8\uf0d8\u202f Close to the equator, 10\u00b0 is the\n\nrecommended minimum tilt angle to allow rain to run off panels\n\nPV Panels: Electrical Characteristics\n\nShown on label:\n\n\n\nIsc = short circuit current depends on solar power received\n\nVoc = open circuit current reduced for higher temperature\n\n\n\nMaximum power: Vmp, Imp\n\nAll values are given for \u201cstandard conditions\u201d: 25\u00b0C\t\r \t\r and\t\r 1kW/m\u00b2\n\nRadiation effect (W/m\u00b2)\n\nTemperature Effect\n\nInterpreting the I-V curve",
+      "keywords": [
+        "sensitive",
+        "produce",
+        "drastically",
+        "cell",
+        "electrical",
+        "direct",
+        "production",
+        "shade",
+        "power",
+        "more",
+        "drops",
+        "shaded",
+        "much",
+        "efficiency",
+        "panels",
+        "radiation",
+        "most",
+        "panel"
+      ],
+      "length": 1000,
+      "preview": "Most PV panels produce the most power in direct radiation. If one cell is shaded the panel electrica..."
+    },
+    {
+      "chunk_id": 3,
+      "text": "duced for higher temperature\n\n\n\nMaximum power: Vmp, Imp\n\nAll values are given for \u201cstandard conditions\u201d: 25\u00b0C\t\r \t\r and\t\r 1kW/m\u00b2\n\nRadiation effect (W/m\u00b2)\n\nTemperature Effect\n\nInterpreting the I-V curve\n\n\u00d8\uf0d8\u202f A 50W bulb connected directly to a 50Wp panel may not consume 50W, even in bright sun.\n\nSmall Photovoltaic Systems\n\nSmall PV System\n\nProduces electricity during sunlight hours\n\nTypically light is used when there is no sun\n\nNeed to store electrical energy in batteries\n\nA charge controller is used to protect the battery and regulate its charge and discharge\n\nComponents of a PV System\n\n\u00d8\uf0d8\u202f PV panels \u00d8\uf0d8\u202f Batteries \u00d8\uf0d8\u202f Controller \u00d8\uf0d8\u202f DC loads \u00d8\uf0d8\u202f Cables, switches, etc. \u00d8\uf0d8\u202f If AC is needed a DC- AC inverter is required (bad efficiency, high cost)\n\nBattery\n\n\u00d8\uf0d8\u202f Stores electrical energy to use\n\nwhen there is no sun\n\n\u00d8\uf0d8\u202f 12 V is the most common for\n\nsmall systems\n\n\u00d8\uf0d8\u202f Use \u201cdeep cycle\u201d models\n\ndesigned for slow charge and discharge and longer life\n\n\u00d8\uf0d8\u202f Car batteries are designed to supply quic",
+      "keywords": [
+        "\u201cstandard",
+        "higher",
+        "temperature",
+        "values",
+        "1kw/m\u00b2",
+        "vmp",
+        "curve",
+        "effect",
+        "power:",
+        "interpreting",
+        "bulb",
+        "duced",
+        "maximum",
+        "conditions\u201d:",
+        "25\u00b0c",
+        "radiation",
+        "given",
+        "w/m\u00b2"
+      ],
+      "length": 1000,
+      "preview": "duced for higher temperature\n\n\n\nMaximum power: Vmp, Imp\n\nAll values are given for \u201cstandard conditio..."
+    },
+    {
+      "chunk_id": 4,
+      "text": "when there is no sun\n\n\u00d8\uf0d8\u202f 12 V is the most common for\n\nsmall systems\n\n\u00d8\uf0d8\u202f Use \u201cdeep cycle\u201d models\n\ndesigned for slow charge and discharge and longer life\n\n\u00d8\uf0d8\u202f Car batteries are designed to supply quick bursts of energy and only partial discharge. They don\u2019t last long in PV systems.\n\n\u00d8\uf0d8\u202f Among Lead-Acid types, Deep cycle models have thicker plates, so they are heavier\n\nCommon Types of Lead-Acid Batteries\n\nSealed (no maintenance)\n\nFlooded\n\nNot sealed\n\nLead Acid\n\nneed regular addition of water more risky in transportation\n\nGel ( AGM)\n\nBattery Capacity\n\nExpressed in Amp-hours (Ah), is the product of discharge Amps x discharge time in hours, e.g. 100 Ah = 5Amps x 20hrs\n\nIf the battery is discharged quickly with a high discharge current, its usable capacity is lower.\n\nCompare to a runner: a sprinter will use up his energy very quickly, vs a marathon runner may expand more energy over a longer time.\n\nSpecifications usually show C/100, C/20, or C/10, capacities, respectively for 100hrs, 20hrs,",
+      "keywords": [
+        "supply",
+        "there",
+        "longer",
+        "discharge",
+        "models",
+        "small",
+        "batteries",
+        "\u201cdeep",
+        "cycle\u201d",
+        "systems",
+        "slow",
+        "bursts",
+        "most",
+        "common",
+        "charge",
+        "quick",
+        "designed",
+        "when",
+        "life"
+      ],
+      "length": 1000,
+      "preview": "when there is no sun\n\n\u00d8\uf0d8\u202f 12 V is the most common for\n\nsmall systems\n\n\u00d8\uf0d8\u202f Use \u201cdeep cycle\u201d models\n\nd..."
+    },
+    {
+      "chunk_id": 5,
+      "text": "nter will use up his energy very quickly, vs a marathon runner may expand more energy over a longer time.\n\nSpecifications usually show C/100, C/20, or C/10, capacities, respectively for 100hrs, 20hrs, or 10 hrs discharge.\n\nFor example, a battery with a C/100 capacity of 100 Ah, may have a C/20 capacity of 88 Ah\n\nNote: battery capacity decreases when the temperature is low.\n\nBattery capacity is not fixed\n\n\u00d8\uf0d8\u202f A cold battery has less capacity than a warm one\n\n\u00d8\uf0d8\u202f A battery stored in a warm place will self-discharge\n\nfaster than a cold one \u2013 may be dead before using it\n\nDepth of Discharge\n\n\u00d8\uf0d8\u202f This term indicates how much of the battery capacity is\n\ndepleted\n\n\u00d8\uf0d8\u202f The battery life expectancy is reduced if the battery is\n\ndischarged a lot on a regular basis\n\n\u00d8\uf0d8\u202f A battery which is never more than 50% discharged can last\n\ntwice as long as one that is regularly discharged 80% \u00d8\uf0d8\u202f To keep the discharge around 50%, use a battery rated to\n\nstore 2x the daily energy use\n\nV > 12.6 \u2013 12.7 volts = f",
+      "keywords": [
+        "show",
+        "c/100",
+        "quickly",
+        "c/10",
+        "will",
+        "longer",
+        "specifications",
+        "expand",
+        "time",
+        "energy",
+        "marathon",
+        "runner",
+        "nter",
+        "c/20",
+        "capacities",
+        "very",
+        "more",
+        "over",
+        "usually"
+      ],
+      "length": 1000,
+      "preview": "nter will use up his energy very quickly, vs a marathon runner may expand more energy over a longer ..."
+    },
+    {
+      "chunk_id": 6,
+      "text": "an 50% discharged can last\n\ntwice as long as one that is regularly discharged 80% \u00d8\uf0d8\u202f To keep the discharge around 50%, use a battery rated to\n\nstore 2x the daily energy use\n\nV > 12.6 \u2013 12.7 volts = fully charged\n\n1\n\n~12.5V\n\n~12.3V\n\n~11.9 - 12V\n\n~11.3 - 11.7V = almost dead\n\nState of charge over time - example\n\nLife expectancy in cycles vs. Depth of Discharge\n\nDangers and Precautions\n\nAggressive chemicals\n\nFlammable gas\n\nElectricity\n\nCharge Controller\n\n\u00d8\uf0d8\u202f Controls proper charging of the battery\n\nwhen sun is shining\n\n\u00d8\uf0d8\u202f Protects battery against overcharge \u00d8\uf0d8\u202f Recommended protections\n\n\u00a7\uf0a7\u202f Low Voltage Disconnect (LVD) \u00a7\uf0a7\u202f Overcurrent \u00a7\uf0a7\u202f Reverse polarity \u00a7\uf0a7\u202f Short circuit \u00a7\uf0a7\u202f Blocking diode to avoid current flowing to\n\npanels at night\n\n\u00a7\uf0a7\u202f Equalization cycle to remove stratification\n\nin battery\n\n\u00d8\uf0d8\u202f LEDs or display give information on the\n\nstate of charge of the batteries\n\nHands-on Lab 2: using controller & battery\n\n\u00d8\uf0d8\u202f Each group:\n\n1 PV panel, 1 12V battery, 1 circuit panel board, assor",
+      "keywords": [
+        "rated",
+        "regularly",
+        "keep",
+        "battery",
+        "discharge",
+        "around",
+        "50%",
+        "daily",
+        "volts",
+        "12.7",
+        "discharged",
+        "energy",
+        "long",
+        "store",
+        "12.6",
+        "twice",
+        "that",
+        "last",
+        "fully"
+      ],
+      "length": 1000,
+      "preview": "an 50% discharged can last\n\ntwice as long as one that is regularly discharged 80% \u00d8\uf0d8\u202f To keep the di..."
+    },
+    {
+      "chunk_id": 7,
+      "text": "ery\n\n\u00d8\uf0d8\u202f LEDs or display give information on the\n\nstate of charge of the batteries\n\nHands-on Lab 2: using controller & battery\n\n\u00d8\uf0d8\u202f Each group:\n\n1 PV panel, 1 12V battery, 1 circuit panel board, assortment of incandescent light bulb, and/or CFL, and/or LED, 1 or 2 multimeter, 1 clamp meter (shared)\n\n\u00d8\uf0d8\u202f Connect circuit panel to battery and PV panels\n\n\u00a7\uf0a7\u202f Respect instructions for connection order\n\n\u00a7\uf0a7\u202f Observe controller lights or display\n\n\u00d8\uf0d8\u202f Check:\n\n\u00a7\uf0a7\u202f Continuity of connections before turning on\n\n\u00a7\uf0a7\u202f PV panels Voc vs. Voltage with light on\n\n\u00a7\uf0a7\n\nIsc vs.current with light on\n\n\u00a7\uf0a7\u202f Battery voltage\n\nHands-on Lab 2 - examples\n\nExample of overall setup\n\nMeasuring voltage to bulb\n\nMeasuring current to bulb\n\nInverter \u00d8\uf0d8\u202f Transforms direct current (DC) into alternating current (AC) \u00d8\uf0d8\u202f Must provide not only nominal power rating of the AC load, but also\n\nsurge power (can be 2.5x the nominal rating for motors)\n\n\u00d8\uf0d8\u202f Efficiency <90%, some power is lost \u00d8\uf0d8\u202f Uses low but continuous power if left on w",
+      "keywords": [
+        "leds",
+        "assortment",
+        "using",
+        "each",
+        "board",
+        "circuit",
+        "group:",
+        "hands-on",
+        "state",
+        "controller",
+        "battery",
+        "incandescent",
+        "information",
+        "charge",
+        "give",
+        "batteries",
+        "display",
+        "panel"
+      ],
+      "length": 1000,
+      "preview": "ery\n\n\u00d8\uf0d8\u202f LEDs or display give information on the\n\nstate of charge of the batteries\n\nHands-on Lab 2: ..."
+    },
+    {
+      "chunk_id": 8,
+      "text": "not only nominal power rating of the AC load, but also\n\nsurge power (can be 2.5x the nominal rating for motors)\n\n\u00d8\uf0d8\u202f Efficiency <90%, some power is lost \u00d8\uf0d8\u202f Uses low but continuous power if left on when not in use \u00d8\uf0d8\u202f Three types of waveforms\n\n\u00a7\uf0a7\u202f Square wave, modified sine wave, sine wave \u00a7\uf0a7\u202f True sine wave is most expensive but necessary for some sensitive\n\nelectronics\n\nAlways test the inverter with the load before field implementation\n\nAC types\n\nDemo: Using an inverter\n\n\u00d8\uf0d8\u202f Allows to use AC light\n\nbulbs, which are easier to find than DC bulbs\n\n\u00d8\uf0d8\u202f The inverter is connected\n\ndirectly to the battery (clips are temporary, a permanent connection is better)\n\n\u00d8\uf0d8\u202f The battery consumes electricity even the light bulb is not ON \u00d8\uf0d8\u202f Warning: this may\n\ndischarge the battery too fully and reduce its life expectancy\n\nPV System Sizing\n\nFind out 1.\u202f How much energy is needed? 2.\u202f How much is available from the sun? 3.\u202f How much will be lost in the system? Then calculate 1.\u202f What size panels are n",
+      "keywords": [
+        "also",
+        "<90%",
+        "nominal",
+        "2.5x",
+        "some",
+        "load",
+        "can",
+        "only",
+        "power",
+        "surge",
+        "uses",
+        "continuous",
+        "lost",
+        "motors",
+        "rating",
+        "efficiency"
+      ],
+      "length": 999,
+      "preview": "not only nominal power rating of the AC load, but also\n\nsurge power (can be 2.5x the nominal rating ..."
+    },
+    {
+      "chunk_id": 9,
+      "text": "ts life expectancy\n\nPV System Sizing\n\nFind out 1.\u202f How much energy is needed? 2.\u202f How much is available from the sun? 3.\u202f How much will be lost in the system? Then calculate 1.\u202f What size panels are needed 2.\u202f How much battery capacity is needed\n\nThe Solar Resource\n\n1400\n\n1200\n\n1000\n\n2 m W k\n\n/\n\n800\n\n600\n\n400\n\n200\n\n0\n\nPerfect day: maximum PSH\n\n1400\n\n1200\n\n1000\n\n2 m W k\n\n/\n\n800\n\n600\n\n400\n\n200\n\n0\n\nCloudy day: poor PSH\n\n\n\n\u201cPerfect Solar Hours\u201d or \u201cPeak Sun Hours\u201d (PSH) are used to express the energy received in terms of equivalent hours at the \u201cstandard power\u201d of 1000 W/m2\n\nSolar Maps / weather data can be expressed by the same number, either in PSH or kWh/ m2 1 PSH @ 1 kW/m2 = 1 kWh/m2\n\n\n\nCommon PSH values In tropical zones:\n\nUp to 7 on sunny days \u00b7\u202f From 2-4 on cloudy days 4-6 as a monthly average \u00b7\n\nYearly average kWh/m2 on a horizontal surface\n\nSeasonal Variation \u2013 incident angle\n\nJune\n\nMarch & September equinox\n\nDecember\n\n23\u00b0\n\n23\u00b0\n\nDecember\n\nJune\n\nLatitude Northern Hemisphere\n\nSouth",
+      "keywords": [
+        "energy",
+        "from",
+        "available",
+        "find",
+        "expectancy",
+        "calculate",
+        "life",
+        "size",
+        "system",
+        "sun",
+        "what",
+        "needed",
+        "much",
+        "will",
+        "sizing",
+        "then",
+        "lost"
+      ],
+      "length": 999,
+      "preview": "ts life expectancy\n\nPV System Sizing\n\nFind out 1.\u202f How much energy is needed? 2.\u202f How much is availa..."
+    },
+    {
+      "chunk_id": 10,
+      "text": "average \u00b7\n\nYearly average kWh/m2 on a horizontal surface\n\nSeasonal Variation \u2013 incident angle\n\nJune\n\nMarch & September equinox\n\nDecember\n\n23\u00b0\n\n23\u00b0\n\nDecember\n\nJune\n\nLatitude Northern Hemisphere\n\nSouth\n\nLatitude\n\nSouthern Hemisphere\n\nEquatorial Zone\n\nSouth\n\nStep 1: Evaluation of the Load\n\nQuantity\n\nW\n\nInverter Efficiency\n\nHours/day Wh / day\n\nCFL\n\n4 4\n\n11W 20W\n\nn/a\n\n4 3\n\n176 Wh 240 Wh\n\nLED\n\n2\n\n1.5W\n\nn/a\n\n11\n\n33 Wh\n\nOther DC loads (sound / tv)\n\n1\n\n35W\n\nn/a\n\n1\n\n35 Wh\n\nother\n\nAC load (TV + DVD)\n\n1\n\n110W\n\n85%\n\n1.2\n\n157 Wh\n\nTOTAL\n\n641 Wh\n\nSlide 31\n\nStep 2: Weather Data (PSH)\n\nMindanao, Philippines\n\nhttp://www.retscreen.net/ and NASA database\n\nLosses & Efficiency\n\nWatt-Hours Lost From Panel\n\nWatt-Hours Lost From Wires\n\nWatt-Hours Needed for Loads\n\nWatt-Hours Lost From Battery\n\nSolar Panel Rating: 100W\n\nPSH = 3\n\nLoss from Wiring: 3%\n\nExample\n\nTemperature Loss: 10%\n\n100 Watt x 3 Hours x .90 = 270 Watt-hrs\n\n270 Watt-hrs x .97 = 260 Watt-hrs\n\nLosses from Inverter: 15%\n\nLoss from Battery: 15% 260 Wa",
+      "keywords": [
+        "hemisphere",
+        "horizontal",
+        "september",
+        "average",
+        "seasonal",
+        "latitude",
+        "angle",
+        "variation",
+        "surface",
+        "december",
+        "equinox",
+        "northern",
+        "incident",
+        "yearly",
+        "june",
+        "march",
+        "kwh/m2"
+      ],
+      "length": 1000,
+      "preview": "average \u00b7\n\nYearly average kWh/m2 on a horizontal surface\n\nSeasonal Variation \u2013 incident angle\n\nJune\n..."
+    },
+    {
+      "chunk_id": 11,
+      "text": "00W\n\nPSH = 3\n\nLoss from Wiring: 3%\n\nExample\n\nTemperature Loss: 10%\n\n100 Watt x 3 Hours x .90 = 270 Watt-hrs\n\n270 Watt-hrs x .97 = 260 Watt-hrs\n\nLosses from Inverter: 15%\n\nLoss from Battery: 15% 260 Watt-hrs x .85 = 223 Watt-hrs\n\nAvailable for DC Load: 223 Wh\n\n223 Wh x 85% = 190 Wh\n\nAvailable in AC: 190 Wh i.e. 63% of 300Wh\n\nStep 4: Simplified Panel Sizing\n\n\u00d8\uf0d8\u202f The amount of energy available from the battery (in Wh) is: Peak panel power (Wp) x PSH (hrs) \u2013 losses, or Peak panel power (Wp) x PSH (hrs) x combined efficiencies\n\nConservatively, you can use a 50% efficiency factor, i.e. 0.5\n\n\u00d8\uf0d8\u202f To meet the average electricity load, we then need:\n\nPeak panel power (Wp) = ____Load (Wh)____\n\nPSH (h) x 0.5\n\n\u00d8\uf0d8\u202f Use the PSH value for the worst month of the year, found through\n\nRETscreen / NASA, or regional maps\n\nPanel Sizing - Example\n\nUsing the load from Step1 slide (641Wh) and weather data from RETscreen for Chirinos, Peru (34.5\u00baC , 4.23PSH)\n\nPower needed (Wp) =\n\n__641 Wh___ = 303 Wp 4.23h x 0.",
+      "keywords": [
+        "temperature",
+        "watt",
+        "from",
+        "available",
+        "example",
+        "hours",
+        "losses",
+        "wiring:",
+        "inverter:",
+        "loss",
+        "watt-hrs",
+        "loss:",
+        "battery:"
+      ],
+      "length": 1000,
+      "preview": "00W\n\nPSH = 3\n\nLoss from Wiring: 3%\n\nExample\n\nTemperature Loss: 10%\n\n100 Watt x 3 Hours x .90 = 270 W..."
+    },
+    {
+      "chunk_id": 12,
+      "text": "gional maps\n\nPanel Sizing - Example\n\nUsing the load from Step1 slide (641Wh) and weather data from RETscreen for Chirinos, Peru (34.5\u00baC , 4.23PSH)\n\nPower needed (Wp) =\n\n__641 Wh___ = 303 Wp 4.23h x 0.5\n\nThis needs to be rounded to a number of commercially available solar panels, e.g. 4 panels of 80 Wp each; or 3 panels of 100 Wp, etc.\n\nStep 5: Battery Sizing\n\nThe main design parameters are: \u00d8\uf0d8\u202f Number of days of autonomy (to use system during cloudy days,\n\ntypically 2-5 days)\n\n\u00d8\uf0d8\u202f Depth of Discharge (usually 50%) \u00d8\uf0d8\u202f Battery and system voltage (for example a 12 V system could be\n\n\u00d8\uf0d8\n\nsupplied with 2 batteries of 6 V in series) In terms of energy supply:\n\nBattery Capacity (Wh) = daily load (Wh) x days of autonomy\n\ndepth of discharge (%)\n\nBattery capacity is usually provided in amp hours (Ah) so: Amps = Watts/Volts\n\nCapacity (Ah) = __Capacity (Wh)____\n\nSystem voltage (V)\n\nBattery Capacity Sizing Example\n\nFor the same Chirinos load lets use: \u00d8\uf0d8\u202f 3 days of autonomy \u00d8\uf0d8\u202f 50% depth of dischar",
+      "keywords": [
+        "from",
+        "4.23psh",
+        "chirinos",
+        "panel",
+        "using",
+        "641wh",
+        "slide",
+        "peru",
+        "weather",
+        "maps",
+        "gional",
+        "example",
+        "load",
+        "step1",
+        "retscreen",
+        "power",
+        "34.5\u00bac",
+        "sizing",
+        "data"
+      ],
+      "length": 1000,
+      "preview": "gional maps\n\nPanel Sizing - Example\n\nUsing the load from Step1 slide (641Wh) and weather data from R..."
+    },
+    {
+      "chunk_id": 13,
+      "text": ") so: Amps = Watts/Volts\n\nCapacity (Ah) = __Capacity (Wh)____\n\nSystem voltage (V)\n\nBattery Capacity Sizing Example\n\nFor the same Chirinos load lets use: \u00d8\uf0d8\u202f 3 days of autonomy \u00d8\uf0d8\u202f 50% depth of discharge \u00d8\uf0d8\u202f 12V system and battery \u00d8\uf0d8\u202f To meet 641Wh daily load with 85% battery efficiency,\n\nThe battery needs to store: 641Wh / 85%= 777Wh\n\nNeeded Capacity (Wh) = 777 (Wh) x 3 days of autonomy = 4665 Wh\n\n50%\n\nIn Amp hours this will be: Capacity (Ah) = 4665 Wh = 389 Ah\n\n12V\n\nRounding up to a multiple of what\u2019s available on the market;\n\n4 x 104Ah = 416 Ah, 2 x 200Ah = 400 Ah, etc.\n\nBattery Charge Management\n\nTo maintain charge level and increase battery life: 1.) make sure design load values are not exceeded 2.) Every cloudy / rainy day try to reduce energy use 3.) if possible use a capacity 20-50% larger than calculations suggest (safety factor)\n\nWhen the charge controller Low Voltage Disconnect switches the system off it means that the whole reserve, including days of autonomy, is exhausted.",
+      "keywords": [
+        "capacity",
+        "amps",
+        "system",
+        "battery",
+        "wh)____",
+        "chirinos",
+        "same",
+        "voltage",
+        "autonomy",
+        "days",
+        "watts/volts",
+        "use:",
+        "ah",
+        "lets",
+        "__capacity",
+        "depth",
+        "example",
+        "load",
+        "sizing"
+      ],
+      "length": 999,
+      "preview": ") so: Amps = Watts/Volts\n\nCapacity (Ah) = __Capacity (Wh)____\n\nSystem voltage (V)\n\nBattery Capacity ..."
+    },
+    {
+      "chunk_id": 14,
+      "text": "larger than calculations suggest (safety factor)\n\nWhen the charge controller Low Voltage Disconnect switches the system off it means that the whole reserve, including days of autonomy, is exhausted. It will take the same number of days with full sunshine and no load use to fully recharge the batteries\n\nSizing Exercises\n\nSizing Exercises \u2013 Panels and Batteries\n\nGroups A \u00d8\uf0d8\u202f Size a home system for Huancayo, Peru, using previous demand analysis\n\nvalues\n\nGroups B \u00d8\uf0d8\u202f Size a similar system for a clinic in Huancayo replacing TV/DVD with a\n\nrefrigerator, and eliminating the sound system\n\n\u00d8\uf0d8\u202f Try 2 scenarios with different depth of discharge and days of autonomy\n\nHomework: Reverse Sizing Exercise\n\nIn many countries, vendors sell pre-packaged domestic\n\n1.\u202f 2. 3.\n\nsystems, e.g. 50Wp 75Wp 100Wp\n\nSelect one of those and see how many hours of use it would give for three 11W CFLs and a 40W TV in various climates: 4PSH (Amazon or Thailand) 5PSH (Philippines) 6 PSH (Cuzco, Peru) 7 PSH (Mauritania)\n\nA",
+      "keywords": [
+        "switches",
+        "system",
+        "factor",
+        "reserve",
+        "safety",
+        "whole",
+        "voltage",
+        "means",
+        "autonomy",
+        "days",
+        "than",
+        "calculations",
+        "suggest",
+        "larger",
+        "controller",
+        "charge",
+        "that",
+        "when",
+        "including",
+        "disconnect"
+      ],
+      "length": 999,
+      "preview": "larger than calculations suggest (safety factor)\n\nWhen the charge controller Low Voltage Disconnect ..."
+    },
+    {
+      "chunk_id": 15,
+      "text": "ect one of those and see how many hours of use it would give for three 11W CFLs and a 40W TV in various climates: 4PSH (Amazon or Thailand) 5PSH (Philippines) 6 PSH (Cuzco, Peru) 7 PSH (Mauritania)\n\nA.\u202f B.\u202f C.\u202f D.",
+      "keywords": [
+        "many",
+        "various",
+        "5psh",
+        "cfls",
+        "hours",
+        "climates:",
+        "philippines",
+        "peru",
+        "4psh",
+        "cuzco",
+        "three",
+        "thailand",
+        "those",
+        "mauritania",
+        "amazon",
+        "give",
+        "would"
+      ],
+      "length": 213,
+      "preview": "ect one of those and see how many hours of use it would give for three 11W CFLs and a 40W TV in vari..."
+    }
+  ],
+  "keyword_lookup": {
+    "about": [
+      0
+    ],
+    "multimeter": [
+      0
+    ],
+    "digital": [
+      0
+    ],
+    "sun": [
+      0,
+      9
+    ],
+    "hands-on": [
+      0,
+      7
+    ],
+    "measure": [
+      0
+    ],
+    "panel": [
+      0,
+      2,
+      7,
+      12
+    ],
+    "take": [
+      0
+    ],
+    "careful": [
+      0
+    ],
+    "facing": [
+      0
+    ],
+    "voltage": [
+      0,
+      13,
+      14
+    ],
+    "introduction": [
+      0
+    ],
+    "electricity": [
+      0
+    ],
+    "different": [
+      0
+    ],
+    "dmm": [
+      0
+    ],
+    "current": [
+      0
+    ],
+    "solar": [
+      0
+    ],
+    "repeat": [
+      0
+    ],
+    "angles": [
+      0
+    ],
+    "energy": [
+      1,
+      5,
+      6,
+      9
+    ],
+    "sunlight": [
+      1
+    ],
+    "cells": [
+      1
+    ],
+    "from": [
+      1,
+      9,
+      11,
+      12
+    ],
+    "each": [
+      1,
+      7
+    ],
+    "needs": [
+      1
+    ],
+    "work": [
+      1
+    ],
+    "cell": [
+      1,
+      2
+    ],
+    "electrical": [
+      1,
+      2
+    ],
+    "when": [
+      1,
+      4,
+      14
+    ],
+    "photons": [
+      1
+    ],
+    "properly": [
+      1
+    ],
+    "there": [
+      1,
+      4
+    ],
+    "light": [
+      1
+    ],
+    "needed": [
+      1,
+      9
+    ],
+    "enough": [
+      1
+    ],
+    "stored": [
+      1
+    ],
+    "receive": [
+      1
+    ],
+    "sensitive": [
+      2
+    ],
+    "produce": [
+      2
+    ],
+    "drastically": [
+      2
+    ],
+    "direct": [
+      2
+    ],
+    "production": [
+      2
+    ],
+    "shade": [
+      2
+    ],
+    "power": [
+      2,
+      8,
+      12
+    ],
+    "more": [
+      2,
+      5
+    ],
+    "drops": [
+      2
+    ],
+    "shaded": [
+      2
+    ],
+    "much": [
+      2,
+      9
+    ],
+    "efficiency": [
+      2,
+      8
+    ],
+    "panels": [
+      2
+    ],
+    "radiation": [
+      2,
+      3
+    ],
+    "most": [
+      2,
+      4
+    ],
+    "\u201cstandard": [
+      3
+    ],
+    "higher": [
+      3
+    ],
+    "temperature": [
+      3,
+      11
+    ],
+    "values": [
+      3
+    ],
+    "1kw/m\u00b2": [
+      3
+    ],
+    "vmp": [
+      3
+    ],
+    "curve": [
+      3
+    ],
+    "effect": [
+      3
+    ],
+    "power:": [
+      3
+    ],
+    "interpreting": [
+      3
+    ],
+    "bulb": [
+      3
+    ],
+    "duced": [
+      3
+    ],
+    "maximum": [
+      3
+    ],
+    "conditions\u201d:": [
+      3
+    ],
+    "25\u00b0c": [
+      3
+    ],
+    "given": [
+      3
+    ],
+    "w/m\u00b2": [
+      3
+    ],
+    "supply": [
+      4
+    ],
+    "longer": [
+      4,
+      5
+    ],
+    "discharge": [
+      4,
+      6
+    ],
+    "models": [
+      4
+    ],
+    "small": [
+      4
+    ],
+    "batteries": [
+      4,
+      7
+    ],
+    "\u201cdeep": [
+      4
+    ],
+    "cycle\u201d": [
+      4
+    ],
+    "systems": [
+      4
+    ],
+    "slow": [
+      4
+    ],
+    "bursts": [
+      4
+    ],
+    "common": [
+      4
+    ],
+    "charge": [
+      4,
+      7,
+      14
+    ],
+    "quick": [
+      4
+    ],
+    "designed": [
+      4
+    ],
+    "life": [
+      4,
+      9
+    ],
+    "show": [
+      5
+    ],
+    "c/100": [
+      5
+    ],
+    "quickly": [
+      5
+    ],
+    "c/10": [
+      5
+    ],
+    "will": [
+      5,
+      9
+    ],
+    "specifications": [
+      5
+    ],
+    "expand": [
+      5
+    ],
+    "time": [
+      5
+    ],
+    "marathon": [
+      5
+    ],
+    "runner": [
+      5
+    ],
+    "nter": [
+      5
+    ],
+    "c/20": [
+      5
+    ],
+    "capacities": [
+      5
+    ],
+    "very": [
+      5
+    ],
+    "over": [
+      5
+    ],
+    "usually": [
+      5
+    ],
+    "rated": [
+      6
+    ],
+    "regularly": [
+      6
+    ],
+    "keep": [
+      6
+    ],
+    "battery": [
+      6,
+      7,
+      13
+    ],
+    "around": [
+      6
+    ],
+    "50%": [
+      6
+    ],
+    "daily": [
+      6
+    ],
+    "volts": [
+      6
+    ],
+    "12.7": [
+      6
+    ],
+    "discharged": [
+      6
+    ],
+    "long": [
+      6
+    ],
+    "store": [
+      6
+    ],
+    "12.6": [
+      6
+    ],
+    "twice": [
+      6
+    ],
+    "that": [
+      6,
+      14
+    ],
+    "last": [
+      6
+    ],
+    "fully": [
+      6
+    ],
+    "leds": [
+      7
+    ],
+    "assortment": [
+      7
+    ],
+    "using": [
+      7,
+      12
+    ],
+    "board": [
+      7
+    ],
+    "circuit": [
+      7
+    ],
+    "group:": [
+      7
+    ],
+    "state": [
+      7
+    ],
+    "controller": [
+      7,
+      14
+    ],
+    "incandescent": [
+      7
+    ],
+    "information": [
+      7
+    ],
+    "give": [
+      7,
+      15
+    ],
+    "display": [
+      7
+    ],
+    "also": [
+      8
+    ],
+    "<90%": [
+      8
+    ],
+    "nominal": [
+      8
+    ],
+    "2.5x": [
+      8
+    ],
+    "some": [
+      8
+    ],
+    "load": [
+      8,
+      12,
+      13
+    ],
+    "can": [
+      8
+    ],
+    "only": [
+      8
+    ],
+    "surge": [
+      8
+    ],
+    "uses": [
+      8
+    ],
+    "continuous": [
+      8
+    ],
+    "lost": [
+      8,
+      9
+    ],
+    "motors": [
+      8
+    ],
+    "rating": [
+      8
+    ],
+    "available": [
+      9,
+      11
+    ],
+    "find": [
+      9
+    ],
+    "expectancy": [
+      9
+    ],
+    "calculate": [
+      9
+    ],
+    "size": [
+      9
+    ],
+    "system": [
+      9,
+      13,
+      14
+    ],
+    "what": [
+      9
+    ],
+    "sizing": [
+      9,
+      12,
+      13
+    ],
+    "then": [
+      9
+    ],
+    "hemisphere": [
+      10
+    ],
+    "horizontal": [
+      10
+    ],
+    "september": [
+      10
+    ],
+    "average": [
+      10
+    ],
+    "seasonal": [
+      10
+    ],
+    "latitude": [
+      10
+    ],
+    "angle": [
+      10
+    ],
+    "variation": [
+      10
+    ],
+    "surface": [
+      10
+    ],
+    "december": [
+      10
+    ],
+    "equinox": [
+      10
+    ],
+    "northern": [
+      10
+    ],
+    "incident": [
+      10
+    ],
+    "yearly": [
+      10
+    ],
+    "june": [
+      10
+    ],
+    "march": [
+      10
+    ],
+    "kwh/m2": [
+      10
+    ],
+    "watt": [
+      11
+    ],
+    "example": [
+      11,
+      12,
+      13
+    ],
+    "hours": [
+      11,
+      15
+    ],
+    "losses": [
+      11
+    ],
+    "wiring:": [
+      11
+    ],
+    "inverter:": [
+      11
+    ],
+    "loss": [
+      11
+    ],
+    "watt-hrs": [
+      11
+    ],
+    "loss:": [
+      11
+    ],
+    "battery:": [
+      11
+    ],
+    "4.23psh": [
+      12
+    ],
+    "chirinos": [
+      12,
+      13
+    ],
+    "641wh": [
+      12
+    ],
+    "slide": [
+      12
+    ],
+    "peru": [
+      12,
+      15
+    ],
+    "weather": [
+      12
+    ],
+    "maps": [
+      12
+    ],
+    "gional": [
+      12
+    ],
+    "step1": [
+      12
+    ],
+    "retscreen": [
+      12
+    ],
+    "34.5\u00bac": [
+      12
+    ],
+    "data": [
+      12
+    ],
+    "capacity": [
+      13
+    ],
+    "amps": [
+      13
+    ],
+    "wh)____": [
+      13
+    ],
+    "same": [
+      13
+    ],
+    "autonomy": [
+      13,
+      14
+    ],
+    "days": [
+      13,
+      14
+    ],
+    "watts/volts": [
+      13
+    ],
+    "use:": [
+      13
+    ],
+    "ah": [
+      13
+    ],
+    "lets": [
+      13
+    ],
+    "__capacity": [
+      13
+    ],
+    "depth": [
+      13
+    ],
+    "switches": [
+      14
+    ],
+    "factor": [
+      14
+    ],
+    "reserve": [
+      14
+    ],
+    "safety": [
+      14
+    ],
+    "whole": [
+      14
+    ],
+    "means": [
+      14
+    ],
+    "than": [
+      14
+    ],
+    "calculations": [
+      14
+    ],
+    "suggest": [
+      14
+    ],
+    "larger": [
+      14
+    ],
+    "including": [
+      14
+    ],
+    "disconnect": [
+      14
+    ],
+    "many": [
+      15
+    ],
+    "various": [
+      15
+    ],
+    "5psh": [
+      15
+    ],
+    "cfls": [
+      15
+    ],
+    "climates:": [
+      15
+    ],
+    "philippines": [
+      15
+    ],
+    "4psh": [
+      15
+    ],
+    "cuzco": [
+      15
+    ],
+    "three": [
+      15
+    ],
+    "thailand": [
+      15
+    ],
+    "those": [
+      15
+    ],
+    "mauritania": [
+      15
+    ],
+    "amazon": [
+      15
+    ],
+    "would": [
+      15
+    ]
+  },
+  "search_config": {
+    "min_keyword_length": 3,
+    "max_results": 10,
+    "relevance_threshold": 0.1
+  },
+  "ios_integration": {
+    "swift_compatible": true,
+    "core_ml_ready": true,
+    "memory_efficient": true
+  }
+}

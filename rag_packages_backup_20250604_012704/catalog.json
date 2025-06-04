@@ -1,0 +1,68 @@
+{
+  "catalog_version": "1.0",
+  "created_date": "2025-06-04T00:47:06.666923",
+  "total_packages": 1,
+  "total_size_bytes": 317243,
+  "total_size_mb": 0.3,
+  "packages": [
+    {
+      "package_id": "fishing_basics",
+      "name": "Fishing Basics & Techniques",
+      "description": "Essential fishing techniques, knot tying, and equipment guide",
+      "version": "1.0",
+      "created_date": "2025-06-04T00:47:06.666387",
+      "source_pdf": "fishingguide1.pdf",
+      "vector_database": {
+        "file": "fishing_basics.vdb.npz",
+        "size_bytes": 226858,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "fishing_basics_ios.index.json",
+        "size_bytes": 90385,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 41,
+        "embedding_dim": 384,
+        "total_embeddings": 41
+      },
+      "offline_priority": "high",
+      "category": "survival_skills",
+      "tags": [
+        "fishing",
+        "knots",
+        "survival",
+        "food_procurement"
+      ],
+      "checksum": {
+        "vdb": "4e3ad70f62af145fa8f0958900a2af4d2254b8580e4b0f5fa5c2980e90520664",
+        "index": "3f4ee6442cabe31d0207473103b6d14c4ed5726cd2b80eebce064f406d345e7b"
+      }
+    }
+  ],
+  "ios_requirements": {
+    "min_ios_version": "14.0",
+    "required_mlx": true,
+    "required_storage_mb": 0.5,
+    "swift_package_manager": true
+  },
+  "download_strategy": {
+    "recommended_order": [
+      "fishing_basics"
+    ],
+    "bundle_options": {
+      "essential": [
+        "fishing_basics"
+      ],
+      "complete": [
+        "fishing_basics"
+      ]
+    }
+  }
+}

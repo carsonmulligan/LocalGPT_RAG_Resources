@@ -3,7 +3,7 @@
   "name": "Fishing Basics & Techniques",
   "description": "Essential fishing techniques, knot tying, and equipment guide",
   "version": "1.0",
-  "created_date": "2025-06-04T00:47:06.666387",
+  "created_date": "2025-06-04T01:24:19.845421",
   "source_pdf": "fishingguide1.pdf",
   "vector_database": {
     "file": "fishing_basics.vdb.npz",
@@ -26,7 +26,7 @@
     "total_embeddings": 41
   },
   "offline_priority": "high",
-  "category": "survival_skills",
+  "category": "food_procurement",
   "tags": [
     "fishing",
     "knots",
@@ -35,6 +35,6 @@
   ],
   "checksum": {
     "vdb": "4e3ad70f62af145fa8f0958900a2af4d2254b8580e4b0f5fa5c2980e90520664",
-    "index": "3f4ee6442cabe31d0207473103b6d14c4ed5726cd2b80eebce064f406d345e7b"
+    "index": "feca0caa49a64db86ecf7d4f70b4dc27cbc105f04ae1e451373f112d60e99218"
   }
 }

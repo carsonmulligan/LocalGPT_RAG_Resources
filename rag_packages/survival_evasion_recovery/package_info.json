@@ -1,0 +1,41 @@
+{
+  "package_id": "survival_evasion_recovery",
+  "name": "Survival, Evasion & Recovery",
+  "description": "Military survival, evasion, resistance, and escape procedures",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:06.279384",
+  "source_pdf": "fm3-05-70.pdf",
+  "vector_database": {
+    "file": "survival_evasion_recovery.vdb.npz",
+    "size_bytes": 5415480,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "survival_evasion_recovery_ios.index.json",
+    "size_bytes": 1888754,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 978,
+    "embedding_dim": 384,
+    "total_embeddings": 978
+  },
+  "offline_priority": "high",
+  "category": "military_tactical",
+  "tags": [
+    "survival",
+    "evasion",
+    "military",
+    "sere",
+    "escape"
+  ],
+  "checksum": {
+    "vdb": "d7946b3fd863db249510f88e098b02be3898115a913eb2f295d3298441e3a356",
+    "index": "55df8664f034e75fce15197b1a05512de01f8d27587c02d0f75a65021be41417"
+  }
+}

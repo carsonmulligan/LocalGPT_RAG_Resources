@@ -1,0 +1,3039 @@
+{
+  "package_id": "advanced_fishing",
+  "format_version": "1.0",
+  "optimized_for": "ios_swift",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "BASIC\n\nCatch the Fishing Fever\n\nKentucky Department of Fish and Wildlife Resources\n\nWelcome to the world of fishing. You are about to join the\n\nranks of thousands of like-minded anglers \u2013 some of the best conservationists on earth. Each of them started right where\n\nyou are today\u2026as a beginner. You will learn from experience and from friends and family. You will share lifetime memories with them. As a parent, I realize how important time management has become. My own family must plan to enjoy family activities and events. You are beginning an activity that takes practice and patience to become successful. Try to keep this in mind\u2026fishing is a life-long sporting challenge. It is one you will be able to pass to your children and future generations. It is time well spent.\n\nFish is definitely good food, and time spent with family is a\n\ntreasure, but time spent fishing is also healthy for you. Stress is a major factor in today\u2019s world, and stress relief can not be better defined than a day\u2019s",
+      "keywords": [
+        "kentucky",
+        "some",
+        "anglers",
+        "about",
+        "thousands",
+        "fever",
+        "ranks",
+        "join",
+        "welcome",
+        "catch",
+        "best",
+        "fishing",
+        "department",
+        "basic",
+        "wildlife",
+        "like-minded",
+        "world",
+        "resources",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "BASIC\n\nCatch the Fishing Fever\n\nKentucky Department of Fish and Wildlife Resources\n\nWelcome to the w..."
+    },
+    {
+      "chunk_id": 1,
+      "text": "ood food, and time spent with family is a\n\ntreasure, but time spent fishing is also healthy for you. Stress is a major factor in today\u2019s world, and stress relief can not be better defined than a day\u2019s fishing. Fishing also helps each individual develop a sense of stewardship for aquatic resources that support fish and responsibility to maintain a healthy environment.\n\nYou\u2019ll enjoy fishing. The information in this book will help you find the fishing gear you will need. Don\u2019t forget your positive attitude, friendly nature, and a good friend. You\u2019ll soon find that you are hooked on a lifetime of enjoyment.\n\nCommissioner, Kentucky Department of Fish & Wildlife Resources\n\nBASIC FISHING\n\nA Cooperative Program of the\n\nKentucky Department of Fish and Wildlife Resources\n\nAlabama Division of Wildlife and Freshwater Fisheries, Alabama Department of Conservation and Natural Resources\n\nOriginally created by: Doug Darr Alabama Aquatic Education Coordinator Visit us on the Web at: www.conservation.al",
+      "keywords": [
+        "also",
+        "better",
+        "spent",
+        "food",
+        "treasure",
+        "family",
+        "fishing",
+        "healthy",
+        "you",
+        "factor",
+        "today\u2019s",
+        "with",
+        "stress",
+        "relief",
+        "world",
+        "time",
+        "major"
+      ],
+      "length": 1000,
+      "preview": "ood food, and time spent with family is a\n\ntreasure, but time spent fishing is also healthy for you...."
+    },
+    {
+      "chunk_id": 2,
+      "text": "e and Freshwater Fisheries, Alabama Department of Conservation and Natural Resources\n\nOriginally created by: Doug Darr Alabama Aquatic Education Coordinator Visit us on the Web at: www.conservation.alabama.gov/agfd\n\nRevised by: Lonnie Nelson Kentucky Aquatic Education Coordinator Visit us on the Web at: www.fw.ky.gov\n\nRevised 2003\n\nFOREWORD\n\nThis written information is adapted from the work of Doug Darr of the Alabama Division of Wildlife and Freshwater Fisheries. It has been edited for use in Kentucky with photographs replacing drawings wher- ever possible. This edition is intentionally created \u201cstate free\u201d so other states can use it without extensive editing. In the original Alabama version, many individuals and state \u201cFish and Wildlife\u201d departments contributed. This only emphasizes the fact that fishing and the stew- ardship of our natural resources are national passions, not restricted to any state or agency.\n\nFor the Kentucky version, I am thankful for the guidance received from f",
+      "keywords": [
+        "darr",
+        "coordinator",
+        "fisheries",
+        "nelson",
+        "lonnie",
+        "originally",
+        "department",
+        "freshwater",
+        "aquatic",
+        "revised",
+        "education",
+        "alabama",
+        "doug",
+        "www.conservation.alabama.gov/agfd",
+        "visit",
+        "natural",
+        "created",
+        "resources",
+        "conservation"
+      ],
+      "length": 1000,
+      "preview": "e and Freshwater Fisheries, Alabama Department of Conservation and Natural Resources\n\nOriginally cre..."
+    },
+    {
+      "chunk_id": 3,
+      "text": "fact that fishing and the stew- ardship of our natural resources are national passions, not restricted to any state or agency.\n\nFor the Kentucky version, I am thankful for the guidance received from fellow employees John Boone, Information & Education Division, on computer layout, Bonny Laflin, Fisheries Division, for stimulating the internet page, and all Directors who supported this endeavor.\n\nThis brochure and web site entry is funded by Sportfish Restora- tion funds. Fishery management, aquatic education and boating access programs are not funded through general tax money. Fishery manage- ment and aquatic education are funded by anglers through license fees and an excise tax on the purchase of fishing equipment. Boating access projects are funded by an excise tax on gasoline.\n\nThis material is intended to be used by not-for-profit organizations.\n\nCLICK HERE for more information on Fishing\n\ni - BASIC FISHING\n\nBASIC FISHING - v\n\nTABLE OF CONTENTS\n\nForeword ---------------------------",
+      "keywords": [
+        "kentucky",
+        "from",
+        "state",
+        "thankful",
+        "received",
+        "stew-",
+        "fishing",
+        "ardship",
+        "passions",
+        "employees",
+        "national",
+        "that",
+        "natural",
+        "restricted",
+        "version",
+        "fellow",
+        "guidance",
+        "resources",
+        "fact",
+        "agency"
+      ],
+      "length": 1000,
+      "preview": "fact that fishing and the stew- ardship of our natural resources are national passions, not restrict..."
+    },
+    {
+      "chunk_id": 4,
+      "text": "erial is intended to be used by not-for-profit organizations.\n\nCLICK HERE for more information on Fishing\n\ni - BASIC FISHING\n\nBASIC FISHING - v\n\nTABLE OF CONTENTS\n\nForeword ---------------------------------------------------------------- i Table of Contents ---------------------------------------------------- ii Introduction ----------------------------------------------------------- 2 Safety Equipment ----------------------------------------------------- 3 Basic Fishing Skills ---------------------------------------------------- 4 Section 1. TACKLE --------------------------------------------------- 4\n\nFishing Pole Selection ------------------------------------------ 4 Assembly --------------------------------------------------------- 6 Knot Tying -------------------------------------------------------- 6\n\nSection 2. CASTING PRACTICE -------------------------------- 9 Body Position ---------------------------------------------------- 9 Beginning Casting -------------------------------",
+      "keywords": [
+        "intended",
+        "here",
+        "click",
+        "contents",
+        "fishing",
+        "table",
+        "erial",
+        "organizations",
+        "basic",
+        "more",
+        "used",
+        "foreword",
+        "information",
+        "not-for-profit",
+        "----------------------------------------------------------------"
+      ],
+      "length": 1000,
+      "preview": "erial is intended to be used by not-for-profit organizations.\n\nCLICK HERE for more information on Fi..."
+    },
+    {
+      "chunk_id": 5,
+      "text": "--------------- 6\n\nSection 2. CASTING PRACTICE -------------------------------- 9 Body Position ---------------------------------------------------- 9 Beginning Casting -------------------------------------------- 10 Advanced Casting -------------------------------------------- 11 Section 3. FISHING TECHNIQUES --------------------------- 12 Choosing Appropriate Tackle ------------------------------- 12 Adjusting the Drag ------------------------------------------- 14 Holding the Pole --------------------------------------------- 14 Retrieving ------------------------------------------------------ 14 Setting the Hook --------------------------------------------- 14 Playing the Fish ----------------------------------------------- 15 Section 4. GOING FISHING ----------------------------------- 15 Think Safety --------------------------------------------------- 15 Choosing Where to Fish ------------------------------------ 16 What Fish Live Here? --------------------------------------- 18",
+      "keywords": [
+        "--------------------------------------------",
+        "appropriate",
+        "position",
+        "section",
+        "beginning",
+        "advanced",
+        "fishing",
+        "---------------------------",
+        "choosing",
+        "----------------------------------------------------",
+        "casting",
+        "--------------------------------",
+        "---------------",
+        "body",
+        "practice",
+        "techniques"
+      ],
+      "length": 999,
+      "preview": "--------------- 6\n\nSection 2. CASTING PRACTICE -------------------------------- 9 Body Position ----..."
+    },
+    {
+      "chunk_id": 6,
+      "text": "- 15 Think Safety --------------------------------------------------- 15 Choosing Where to Fish ------------------------------------ 16 What Fish Live Here? --------------------------------------- 18 Choosing Bait ------------------------------------------------- 20 Section 5. CARING FOR THE CATCH ------------------------ 21 Catch and Release ------------------------------------------- 21 Catch and Keep ---------------------------------------------- 22 Cleaning Your Catch ----------------------------------------- 23 Final Touches for Fillets--------------------------------------- 29 Caring for Cleaned Fish ------------------------------------- 29\n\nGlossary ------------------------------------------------------------- 30 Ethics ----------------------------------------------------------------- BC\n\nBASIC FISHING - v BASIC FISHING - ii\n\nINTRODUCTION\n\nThis short course is designed to give basic\n\nfishing knowledge to those with limited fish- ing experience and to stimulate anglers to learn m",
+      "keywords": [
+        "bait",
+        "here",
+        "---------------------------------------",
+        "live",
+        "catch",
+        "where",
+        "caring",
+        "------------------------",
+        "section",
+        "---------------------------------------------------",
+        "choosing",
+        "what",
+        "-------------------------------------------------",
+        "------------------------------------",
+        "think",
+        "safety",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "- 15 Think Safety --------------------------------------------------- 15 Choosing Where to Fish ----..."
+    },
+    {
+      "chunk_id": 7,
+      "text": "-- BC\n\nBASIC FISHING - v BASIC FISHING - ii\n\nINTRODUCTION\n\nThis short course is designed to give basic\n\nfishing knowledge to those with limited fish- ing experience and to stimulate anglers to learn more. The objective is to help the new angler have safer and more enjoyable fishing trips. Once they learn the fundamentals, Basic Fishing will be a handy reference as beginning anglers move for- ward in fishing. Numbered pictures are presented with the text. A glossary of fishing terms is found on the inside back cover.\n\n2 - BASIC FISHING\n\nBASIC FISHING - 3\n\nSafety Equipment\n\nWhen people are learning a new activity, personal safety has to be\n\nthe first consideration. Safety equipment includes: \u2022 Personal Floatation Device (PFD) or life jackets. While PFDs must be readily available for each person on a boat, they are equally im- portant when you are fishing from shore. PFDs are strongly recom- mended for all anglers when fishing near deep or swift water. If leading a group of youngsters in",
+      "keywords": [
+        "designed",
+        "course",
+        "short",
+        "stimulate",
+        "introduction",
+        "this",
+        "anglers",
+        "fishing",
+        "experience",
+        "fish-",
+        "knowledge",
+        "basic",
+        "those",
+        "with",
+        "give",
+        "limited"
+      ],
+      "length": 999,
+      "preview": "-- BC\n\nBASIC FISHING - v BASIC FISHING - ii\n\nINTRODUCTION\n\nThis short course is designed to give bas..."
+    },
+    {
+      "chunk_id": 8,
+      "text": "son on a boat, they are equally im- portant when you are fishing from shore. PFDs are strongly recom- mended for all anglers when fishing near deep or swift water. If leading a group of youngsters in these conditions, they should be mandatory.\n\nThrowable floatation with a rope attached is recommended if sev- eral new anglers are fishing in the same area.\n\nSuntan lotion with a minimum SPF 15 is recommended. \u2022 Insect repellent and medicine may be needed for stings or bites. \u2022 Sunglasses protect the eyes from glare and from errant fish hooks. \u2022 A hat protects the wearer from flying lures. \u2022 Wear appropriate clothes and protective gear for anticipated weather.\n\nBASIC FISHING - 3\n\n2 - BASIC FISHING\n\nBasic Fishing Skills\n\nParticipants who use this information will be introduced to the vari- ous types of equipment, tackle, and learning experiences. After learning how to assemble the fishing equipment and stringing the line, budding anglers will experience knot tying and simple techniques used",
+      "keywords": [
+        "strongly",
+        "mended",
+        "near",
+        "portant",
+        "when",
+        "from",
+        "recom-",
+        "swift",
+        "anglers",
+        "equally",
+        "pfds",
+        "fishing",
+        "shore",
+        "deep",
+        "boat",
+        "leading",
+        "they",
+        "water"
+      ],
+      "length": 1000,
+      "preview": "son on a boat, they are equally im- portant when you are fishing from shore. PFDs are strongly recom..."
+    },
+    {
+      "chunk_id": 9,
+      "text": "types of equipment, tackle, and learning experiences. After learning how to assemble the fishing equipment and stringing the line, budding anglers will experience knot tying and simple techniques used to cast. They will then learn to hook appropriate bait to catch common fish. In all cases, we hope these lessons lead to fishing adventures.\n\nAs you plan to go fishing, you need to know where to place your bait. Habitat features that typically attract fish will be described. We certainly hope you catch fish, so fish handling, cleaning and preparation of the catch will also be discussed.\n\nSection 1. TACKLE\n\nFishing tackle is the connection between the angler and the fish. The fishing tackle is necessary both to get the lure or bait to the fish and to get the fish to the angler.\n\nA. Fishing Pole Selection\n\nFishing poles are named for the reel (or lack of reel) that holds the fishing line. Each type of fishing reel has an appropriate fishing rod that goes with it.\n\n1. Pole and Line. (Figure",
+      "keywords": [
+        "after",
+        "knot",
+        "equipment",
+        "tackle",
+        "tying",
+        "anglers",
+        "fishing",
+        "experience",
+        "line",
+        "stringing",
+        "types",
+        "techniques",
+        "learning",
+        "will",
+        "simple",
+        "assemble",
+        "experiences",
+        "budding"
+      ],
+      "length": 999,
+      "preview": "types of equipment, tackle, and learning experiences. After learning how to assemble the fishing equ..."
+    },
+    {
+      "chunk_id": 10,
+      "text": "e Selection\n\nFishing poles are named for the reel (or lack of reel) that holds the fishing line. Each type of fishing reel has an appropriate fishing rod that goes with it.\n\n1. Pole and Line. (Figure 1). The simplest gear is a pole with fishing line attached to the end. It is used with a float and hook or lure. This gear is simple yet very effective for fish in shallow water.\n\n2. Spincast Gear. (Figure 2). Spincast gear, a simple rod with a reel, is usually the appropriate rod and reel for beginning anglers. The fishing line comes out of a hole in the reel cover. The thumb button releases the line or stops the line from going too far. Spincast gear is used to cast light to medium size lures.\n\n3. Spinning Gear. (Figure 3). Spinning reels can cast farther than spincast gear. The fishing line on a spinning reel is exposed, and the index finger is used to release the line and to control the line. Vari- ous spinning gear is used for casting very light to heavy lures.\n\n4. Baitcast Gear. (Fig",
+      "keywords": [
+        "that",
+        "each",
+        "selection",
+        "appropriate",
+        "goes",
+        "holds",
+        "fishing",
+        "reel",
+        "line",
+        "named",
+        "with",
+        "poles",
+        "lack",
+        "type"
+      ],
+      "length": 1000,
+      "preview": "e Selection\n\nFishing poles are named for the reel (or lack of reel) that holds the fishing line. Eac..."
+    },
+    {
+      "chunk_id": 11,
+      "text": "on a spinning reel is exposed, and the index finger is used to release the line and to control the line. Vari- ous spinning gear is used for casting very light to heavy lures.\n\n4. Baitcast Gear. (Figure 4). Baitcast gear has more control than spin- ning gear. In a casting reel, the fishing line rotates the spool as the line comes off the spool. During the cast, the thumb is used to release the line and for control. Bait casting gear is used to cast moderate to very heavy weights farther than other reels.\n\n4 - BASIC FISHING\n\nBASIC FISHING - 5\n\n5. Fly. (Figure 5).A fly rod works differently than other rods. In fly fish- ing the lure is carried by the line instead of the lure carrying the line. The fly rod casts very light lures typically made of feathers, fur or fibers. Fly fishing is not difficult, but it normally takes training and practice to learn properly.\n\n2\n\n3\n\n4\n\n1\n\n5\n\n(Figures 1-5)\n\nBASIC FISHING - 5\n\n4 - BASIC FISHING\n\nB. Assembly\n\nWhen you buy a new fishing pole, it usually r",
+      "keywords": [
+        "spinning",
+        "index",
+        "heavy",
+        "release",
+        "gear",
+        "exposed",
+        "vari-",
+        "reel",
+        "baitcast",
+        "line",
+        "very",
+        "light",
+        "lures",
+        "casting",
+        "finger",
+        "used",
+        "control"
+      ],
+      "length": 999,
+      "preview": "on a spinning reel is exposed, and the index finger is used to release the line and to control the l..."
+    },
+    {
+      "chunk_id": 12,
+      "text": "ifficult, but it normally takes training and practice to learn properly.\n\n2\n\n3\n\n4\n\n1\n\n5\n\n(Figures 1-5)\n\nBASIC FISHING - 5\n\n4 - BASIC FISHING\n\nB. Assembly\n\nWhen you buy a new fishing pole, it usually requires assembly.\n\nRemove all parts from the package. \u2022 Put the sections of the rod together with all guides lined up in a straight line.\n\nDifferent reels attach in different ways. Loosen the attachment de- vice and place the reel into the seat of the rod with front of the reel pointed toward the guides.\n\nTighten the attachment device snugly but do not use too much pressure, as plastic parts may break or threads will strip.\n\nSome reels come without line. Follow package directions if line needs to be added.\n\nRelease line from reel and thread line through all guides. \u2022 Attach appropriate tackle for intended fishing or casting.\n\nC. Knot Tying\n\nTying quality knots is the single most important skill that should be learned. A knot that connects the hook or lure to your line is the most important",
+      "keywords": [
+        "training",
+        "takes",
+        "ifficult",
+        "when",
+        "pole",
+        "figures",
+        "learn",
+        "requires",
+        "fishing",
+        "1-5",
+        "assembly",
+        "properly",
+        "basic",
+        "usually",
+        "practice",
+        "normally"
+      ],
+      "length": 1000,
+      "preview": "ifficult, but it normally takes training and practice to learn properly.\n\n2\n\n3\n\n4\n\n1\n\n5\n\n(Figures 1-..."
+    },
+    {
+      "chunk_id": 13,
+      "text": "for intended fishing or casting.\n\nC. Knot Tying\n\nTying quality knots is the single most important skill that should be learned. A knot that connects the hook or lure to your line is the most important knot to learn. There are several that work well, such as Improved Clinch, Palomar, Uni, and Surgeon knots. This pamphlet will describe these knots with diagrams for tying them.\n\nOther knots are used for special purposes such as connecting fishing lines together. When you buy fishing line, maintain the manu- facturer\u2019s pamphlet in your tackle box. You should pick a favorite knot and master the skill of tying it.\n\nImproved Clinch Knot The improved clinch knot is a basic knot for beginning anglers to use with monofilament line. To tie an improved clinch knot:\n\n1\n\n1. pass the line through the eye of the hook,\n\nStanding end: Line leading back to pole or rod\n\nTag end: End of fishing line\n\n2\n\n2. make\n\nfive turns around the standing end of the line (more for lighter line),\n\n6 - BASIC FISHING\n\nBAS",
+      "keywords": [
+        "learned",
+        "knot",
+        "intended",
+        "that",
+        "hook",
+        "tying",
+        "should",
+        "skill",
+        "connects",
+        "lure",
+        "fishing",
+        "single",
+        "casting",
+        "knots",
+        "quality",
+        "most",
+        "important"
+      ],
+      "length": 1000,
+      "preview": "for intended fishing or casting.\n\nC. Knot Tying\n\nTying quality knots is the single most important sk..."
+    },
+    {
+      "chunk_id": 14,
+      "text": "of the hook,\n\nStanding end: Line leading back to pole or rod\n\nTag end: End of fishing line\n\n2\n\n2. make\n\nfive turns around the standing end of the line (more for lighter line),\n\n6 - BASIC FISHING\n\nBASIC FISHING - 7\n\n3. pass the tag end through the \u201ctear drop\u201d\n\nloop above eye,\n\n4. pass the tag end through the \u201cbig loop\u201d, 5. moisten the line and slide the knot tight against the eye.\n\n3\n\n4\n\n5\n\nPalomar Knot The palomar knot is also a good knot for beginning anglers, as it is strong and easy to tie. To tie a palomar knot: 1. double about 4 inches of line and pass loop through hook or lure\n\neye, (for small openings, pass line through, then pass through in op- posite direction creating the loop)\n\n2. tie an overhand knot with loop and doubled line, 3. pass hook or lure completely through line loop, and 4. moisten line and pull knot tight against the eye.\n\n1\n\n2\n\n3\n\n4\n\nBASIC FISHING - 7\n\n6 - BASIC FISHING\n\n1\n\n3\n\n5\n\nREMEMBER ! Standing end: Line leading back to pole or rod Tag end: End of fishing",
+      "keywords": [
+        "hook",
+        "pole",
+        "standing",
+        "make",
+        "fishing",
+        "lighter",
+        "line",
+        "basic",
+        "more",
+        "around",
+        "leading",
+        "end:",
+        "five",
+        "turns",
+        "back"
+      ],
+      "length": 999,
+      "preview": "of the hook,\n\nStanding end: Line leading back to pole or rod\n\nTag end: End of fishing line\n\n2\n\n2. ma..."
+    },
+    {
+      "chunk_id": 15,
+      "text": ", and 4. moisten line and pull knot tight against the eye.\n\n1\n\n2\n\n3\n\n4\n\nBASIC FISHING - 7\n\n6 - BASIC FISHING\n\n1\n\n3\n\n5\n\nREMEMBER ! Standing end: Line leading back to pole or rod Tag end: End of fishing line\n\nUni-Knot The uni knot is a third option. It is a very reliable knot for tying hooks to line or flies to leaders. To tie the uni knot: 1. pass the line through the eye of the hook, 2. pull 5-6 inches through the eye and form a loop above the standing\n\nline,\n\n3. take the tag end around the standing line and inside the loop four to five times,\n\n4. bring the tag end out the top of the loop, 5. pull on the standing line to tighten the knot.\n\nSurgeon\u2019s End Loop The surgeons end loop is used to tie a loop at the end of a fishing line. To tie a surgeons end loop: 1. double about 4 inches of line and\n\ntie an overhand knot with it,\n\n8 - BASIC FISHING\n\n2\n\n4\n\n1\n\nBASIC FISHING - 9\n\n2. bring doubled end through the loop once again, and\n\n3. hold both the stand- ing end and tag end and pull loop to",
+      "keywords": [
+        "knot",
+        "pole",
+        "standing",
+        "against",
+        "remember",
+        "fishing",
+        "line",
+        "end:",
+        "tight",
+        "basic",
+        "pull",
+        "leading",
+        "eye",
+        "moisten",
+        "back"
+      ],
+      "length": 1000,
+      "preview": ", and 4. moisten line and pull knot tight against the eye.\n\n1\n\n2\n\n3\n\n4\n\nBASIC FISHING - 7\n\n6 - BASIC..."
+    },
+    {
+      "chunk_id": 16,
+      "text": "e and\n\ntie an overhand knot with it,\n\n8 - BASIC FISHING\n\n2\n\n4\n\n1\n\nBASIC FISHING - 9\n\n2. bring doubled end through the loop once again, and\n\n3. hold both the stand- ing end and tag end and pull loop to tighten knot.\n\n2\n\nFor all knots, when the knot is complete, cut the tag end cleanly about 1\u20444 inch from the knot and discard the tag end properly.\n\n3\n\nSection 2. CASTING PRACTICE (Group activity explained, works for individuals)\n\nA. Body position\n\nBefore using a fishing rod, new anglers should understand body\n\nposition and hand and arm action. \u2022 Start with caster\u2019s feet and shoulders square to the target. This is ac- complished by having them point the toes of both feet at the target area.\n\nNext, toss a tennis or ping pong ball overhand (action similar to throwing a dart) a few feet for accuracy (hit my hand). Make sure they keep their shoulders square.\n\nThis is the desired body and arm action for accurate casting. Re- lease of the ball is at a similar position as thumb release when casti",
+      "keywords": [
+        "doubled",
+        "through",
+        "knot",
+        "hold",
+        "both",
+        "again",
+        "fishing",
+        "bring",
+        "tighten",
+        "basic",
+        "stand-",
+        "with",
+        "overhand",
+        "pull",
+        "loop",
+        "once"
+      ],
+      "length": 1000,
+      "preview": "e and\n\ntie an overhand knot with it,\n\n8 - BASIC FISHING\n\n2\n\n4\n\n1\n\nBASIC FISHING - 9\n\n2. bring double..."
+    },
+    {
+      "chunk_id": 17,
+      "text": "acy (hit my hand). Make sure they keep their shoulders square.\n\nThis is the desired body and arm action for accurate casting. Re- lease of the ball is at a similar position as thumb release when casting. Now transition to fishing rods, with spincast rods recommended.\n\nBASIC FISHING - 9\n\n8 - BASIC FISHING\n\nB. Beginning Casting\n\nWhen learning to cast a fishing pole for the first time, it is recom-\n\nmended to have new anglers tie on a casting plug without hooks, using newly learned knots. \u2022 As safety is an important habit to establish, each person should check the immediate area around and above him/her to be sure each caster has plenty of space.\n\nReel in line so casting plug hangs a few inches from the tip of the rod.\n\nLine all casters across the casting area. \u2022 Have all anglers point the fishing rod at an object on the horizon with the hands comfortably at the waist. (Some youth may have dif- ficulty holding the pole with one hand, so the rod may be held with one hand or two.) This is t",
+      "keywords": [
+        "keep",
+        "accurate",
+        "sure",
+        "thumb",
+        "casting",
+        "square",
+        "desired",
+        "hit",
+        "lease",
+        "their",
+        "ball",
+        "they",
+        "hand",
+        "make",
+        "body",
+        "action",
+        "similar",
+        "this",
+        "shoulders",
+        "position"
+      ],
+      "length": 1000,
+      "preview": "acy (hit my hand). Make sure they keep their shoulders square.\n\nThis is the desired body and arm act..."
+    },
+    {
+      "chunk_id": 18,
+      "text": "shing rod at an object on the horizon with the hands comfortably at the waist. (Some youth may have dif- ficulty holding the pole with one hand, so the rod may be held with one hand or two.) This is the 3 o\u2019clock position.\n\nHave each caster raise the rod to 1:30 clock position (normal release point), push the push button with their thumb, and practice sliding thumb off the button (release the line). If line does not come out, pull line slightly to start. Reel the plug back to original position, a few inches from the tip. Repeat as necessary.\n\nWhen ready to cast, the casters should slowly move the rods to point them slightly behind the shoulder of the casting arm, the 11 o\u2019clock position. Hands should be slightly above and in front of the shoulder with forearms nearly straight up and down. Hold this position momentarily to concen- trate.\n\n10 - BASIC FISHING\n\nBASIC FISHING - 11\n\nWith the thumb of the casting arm, push and hold the push button on the reel. To cast, the hand should go up s",
+      "keywords": [
+        "hand",
+        "hands",
+        "holding",
+        "youth",
+        "horizon",
+        "shing",
+        "comfortably",
+        "some",
+        "pole",
+        "held",
+        "have",
+        "object",
+        "two",
+        "with",
+        "dif-",
+        "ficulty",
+        "waist"
+      ],
+      "length": 1000,
+      "preview": "shing rod at an object on the horizon with the hands comfortably at the waist. (Some youth may have ..."
+    },
+    {
+      "chunk_id": 19,
+      "text": "Hold this position momentarily to concen- trate.\n\n10 - BASIC FISHING\n\nBASIC FISHING - 11\n\nWith the thumb of the casting arm, push and hold the push button on the reel. To cast, the hand should go up slightly and forward as the caster ex- tends the arm.\n\nBy rotating the wrist,\n\nmove the rod back toward the 3 o\u2019clock position in a quick motion, extending the arm forward.\n\nSlide the thumb off the button at the same point as they originally released the ball (approximately 1: 30 clock position).\n\nStop the fishing rod with it pointed slightly above the original target.\n\nIf the lure went too high and fell short, angler released the button too soon. If the lure went too low and fell short, the but- ton was released too late.\n\nC. Advanced Casting\n\nWhen anglers advance from spincasting to spinning or baitcast- ing, the overhead cast is the easiest cast with which to start. However, after mastering basic casting with each type of equipment, the angler needs to vary the position of the rod for di",
+      "keywords": [
+        "hold",
+        "concen-",
+        "button",
+        "this",
+        "position",
+        "fishing",
+        "reel",
+        "push",
+        "thumb",
+        "trate",
+        "basic",
+        "with",
+        "casting",
+        "cast",
+        "arm",
+        "momentarily"
+      ],
+      "length": 1000,
+      "preview": "Hold this position momentarily to concen- trate.\n\n10 - BASIC FISHING\n\nBASIC FISHING - 11\n\nWith the t..."
+    },
+    {
+      "chunk_id": 20,
+      "text": "or baitcast- ing, the overhead cast is the easiest cast with which to start. However, after mastering basic casting with each type of equipment, the angler needs to vary the position of the rod for different situations. Advanced casting can include a quick transition from 3 o\u2019clock to 11 o\u2019clock and back forward (constant motion) to add the rod\u2019s \u201ccatapult\u201d action.\n\nBASIC FISHING - 11\n\n10 - BASIC FISHING\n\nSection 3. FISHING TECHNIQUES A. Choosing Appropriate Tackle\n\nTerminal tackle is the tackle between the fish and the rod.\n\nHooks. Hooks keep fish attached to your line. Hooks must be kept sharp. Hooks come in many sizes and types. Ask your bait and\n\ntackle dealer what is appropriate for the species you are trying to catch and the bait you are using. The size fishing line or leader you are using should be dependent\n\non the size hook you are using. If you get nibbles, but you are not catching them, switch\n\nto a smaller hook.\n\nSnaps and swivels. Most hooks and lures are more effective wi",
+      "keywords": [
+        "after",
+        "ing",
+        "easiest",
+        "start",
+        "equipment",
+        "each",
+        "needs",
+        "overhead",
+        "angler",
+        "which",
+        "mastering",
+        "basic",
+        "casting",
+        "with",
+        "baitcast-",
+        "cast",
+        "type",
+        "however"
+      ],
+      "length": 1000,
+      "preview": "or baitcast- ing, the overhead cast is the easiest cast with which to start. However, after masterin..."
+    },
+    {
+      "chunk_id": 21,
+      "text": "using should be dependent\n\non the size hook you are using. If you get nibbles, but you are not catching them, switch\n\nto a smaller hook.\n\nSnaps and swivels. Most hooks and lures are more effective without snaps or snap-swivels attached. Crank baits (wobbling lures) are the ex- ception. If you are trying a variety of lures, a small but strong snap will make changing lures easier. A swivel or three-way swivel can be used to attach a dropper that keeps bait or lures off the bottom.\n\nWeights or Sinkers. Only enough weight should be used to cast the bait and keep it at the desired depth. More weight will be needed in windy weather or swift water. To prevent losing a fish, weights should be at- tached carefully, especially when they clamp on\n\nthe fishing line directly between the hook and the angler.\n\nFloats. Floats are used to keep baits off the bottom and to assist with detecting a bite. The float should be just large enough to do the job; if the float is too large, the fish will feel it",
+      "keywords": [
+        "nibbles",
+        "them",
+        "hook",
+        "using",
+        "should",
+        "swivels",
+        "effective",
+        "size",
+        "smaller",
+        "catching",
+        "snaps",
+        "hooks",
+        "lures",
+        "dependent",
+        "without",
+        "more",
+        "most",
+        "switch"
+      ],
+      "length": 998,
+      "preview": "using should be dependent\n\non the size hook you are using. If you get nibbles, but you are not catch..."
+    },
+    {
+      "chunk_id": 22,
+      "text": "ngler.\n\nFloats. Floats are used to keep baits off the bottom and to assist with detecting a bite. The float should be just large enough to do the job; if the float is too large, the fish will feel it and may not become hooked.\n\n12 - BASIC FISHING\n\nBASIC FISHING - 13\n\nOther tackle that is helpful in fishing (Figure 10) includes a tackle\n\nbox to hold all equipment. A sharpening stone keeps hooks and knives sharp. A lure retriever frees lures. A rag keeps your hands clean. Fingernail clippers or scissors safely cut fishing line. A pair of long nose pliers with wire cutters is useful for holding and removing fish hooks.\n\nA fish basket keeps smaller fish alive until you finish your fishing trip. Some anglers land fish with a net after they are hooked; landing nets are more critical for large fish, fish with spines such as catfish, and fish with sharp teeth such as musky, sauger and walleye. A cooler with ice keeps your catch fresh. A thin, flexible fillet knife makes it easier to clean fish",
+      "keywords": [
+        "detecting",
+        "ngler",
+        "job;",
+        "just",
+        "should",
+        "assist",
+        "keep",
+        "large",
+        "enough",
+        "floats",
+        "bottom",
+        "with",
+        "baits",
+        "used",
+        "bite",
+        "float",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "ngler.\n\nFloats. Floats are used to keep baits off the bottom and to assist with detecting a bite. Th..."
+    },
+    {
+      "chunk_id": 23,
+      "text": "sh, fish with spines such as catfish, and fish with sharp teeth such as musky, sauger and walleye. A cooler with ice keeps your catch fresh. A thin, flexible fillet knife makes it easier to clean fish. An inch ruler measures fish to verify legal length. An angler\u2019s diary helps you become a better angler by reminding you of how fish were caught, what the weather was like, and what the fish were eating.\n\nd\n\nc\n\nb\n\na\n\ne\n\nf\n\ng\n\nFigure 10. Tackle that is helpful to the beginning angler: (a) stringers\n\nor floating fish baskets can help keep fish fresh, (b) bait containers, (c) tackle box, (d) a landing net is useful with large fish, (e) a fillet knife is designed specifically for fish, (f) long nose pliers are a useful all-around tool, (g) finger nail clippers for clipping line.\n\nBASIC FISHING - 13\n\n12 - BASIC FISHING\n\nB. Adjusting the Drag\n\nSee the reel diagram for your reel to find the drag adjustment.\n\nThere are two ways to adjust the drag. One is to tighten the drag (toward the + sign) un",
+      "keywords": [
+        "sharp",
+        "catch",
+        "spines",
+        "catfish",
+        "musky",
+        "sauger",
+        "your",
+        "such",
+        "cooler",
+        "fresh",
+        "thin",
+        "teeth",
+        "with",
+        "keeps",
+        "walleye",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "sh, fish with spines such as catfish, and fish with sharp teeth such as musky, sauger and walleye. A..."
+    },
+    {
+      "chunk_id": 24,
+      "text": "13\n\n12 - BASIC FISHING\n\nB. Adjusting the Drag\n\nSee the reel diagram for your reel to find the drag adjustment.\n\nThere are two ways to adjust the drag. One is to tighten the drag (toward the + sign) until the line can be pulled directly from the reel with some resistance. (If a friend is helping, have him/her pull line from the pole, while you hold the pole as if fighting a fish). The other way is to use a weight that is equal to 1/3 the tensile strength of your line. Attach the weight to the line as if fishing and adjust the drag until the weight can just be lifted from the floor with the pole.\n\nC. Holding the Pole\n\nbalance point (fulcrum)\n\nEvery pole has a balance point (ful- crum) with the reel and lure attached (Fig- ure 11). If the angler holds the pole at this point, leverage to fight the fish is greater than when the pole is held behind this point. This also allows the angler to place the end of the pole (butt end) against the belt to fight larger fish.\n\nFigure 11\n\nD. Retrieving",
+      "keywords": [
+        "adjust",
+        "find",
+        "until",
+        "your",
+        "drag",
+        "fishing",
+        "reel",
+        "tighten",
+        "there",
+        "toward",
+        "adjustment",
+        "basic",
+        "adjusting",
+        "ways",
+        "diagram",
+        "sign"
+      ],
+      "length": 999,
+      "preview": "13\n\n12 - BASIC FISHING\n\nB. Adjusting the Drag\n\nSee the reel diagram for your reel to find the drag a..."
+    },
+    {
+      "chunk_id": 25,
+      "text": "the fish is greater than when the pole is held behind this point. This also allows the angler to place the end of the pole (butt end) against the belt to fight larger fish.\n\nFigure 11\n\nD. Retrieving\n\nThis is the act of bringing a bait\n\nor lure back to the angler (Figure 12). After casting, live and prepared bait are often left in one spot until retrieved. Some baits and most artifi- cial lures are most effectively pre- sented while retrieving. The retrieve can be slow or fast; it can be steady or erratic.\n\nE. Setting the Hook\n\nFigure 12\n\nOnce the fish bites the lure, the hook must be pulled into the fish\n\nto hold the fish. If using barbed hooks, pull hard enough to pull the barb into the jaw. Then the fish can be brought to the angler (Figure 13). When the fish bites, the fishing rod should be quickly pulled up to\n\n14 - BASIC FISHING\n\nBASIC FISHING - 15\n\nset the hook into the fish. The force needed to set the hook depends on the rod, line, species of fish, and the lure or bait used. F",
+      "keywords": [
+        "also",
+        "allows",
+        "place",
+        "end",
+        "when",
+        "pole",
+        "greater",
+        "butt",
+        "this",
+        "held",
+        "angler",
+        "against",
+        "belt",
+        "fight",
+        "than",
+        "behind",
+        "point",
+        "fish"
+      ],
+      "length": 999,
+      "preview": "the fish is greater than when the pole is held behind this point. This also allows the angler to pla..."
+    },
+    {
+      "chunk_id": 26,
+      "text": "ld be quickly pulled up to\n\n14 - BASIC FISHING\n\nBASIC FISHING - 15\n\nset the hook into the fish. The force needed to set the hook depends on the rod, line, species of fish, and the lure or bait used. For example, a crappie caught on a light line and minnows will need only a gentle lifting of the rod to set the hook. A bass angler, fishing with heavier line and the hook buried in a plastic worm, will need a vigorous rod sweep to force the hook through the worm and into the bony mouth of a bass.\n\nF. Playing the Fish\n\nAfter setting the hook,\n\nthe line should be kept tight so the fish will not shake the hook loose. The fishing rod should be held between a 10 o\u2019clock and a 12 o\u2019clock position. Allow the rod to fight the fish. Properly adjusted drag will allow the line to release prior to breaking. Large fish must be moved by a pumping ac- tion; a large fish is repeatedly pulled toward the angler with the rod. After pulling the rod to the 12 o\u2019clock position to move the fish, reel in the fish",
+      "keywords": [
+        "bait",
+        "fish",
+        "depends",
+        "hook",
+        "species",
+        "into",
+        "lure",
+        "quickly",
+        "fishing",
+        "line",
+        "used",
+        "needed",
+        "basic",
+        "rod",
+        "force",
+        "pulled"
+      ],
+      "length": 1000,
+      "preview": "ld be quickly pulled up to\n\n14 - BASIC FISHING\n\nBASIC FISHING - 15\n\nset the hook into the fish. The ..."
+    },
+    {
+      "chunk_id": 27,
+      "text": "g. Large fish must be moved by a pumping ac- tion; a large fish is repeatedly pulled toward the angler with the rod. After pulling the rod to the 12 o\u2019clock position to move the fish, reel in the fishing line to maintain a tight line as the rod is lowered back to the 10 o\u2019clock position .\n\nFigure 13\n\nSection 4. GOING FISHING A. Think Safety\n\nWhen taking a new person fishing, it is important they have an enjoyable experience. Therefore, find a pond, lake or stream that is safe and easily fished. As they learn and advance their skills, new chal- lenges can be introduced; however, always include the safety equip- ment required for the new situation.\n\nBASIC FISHING - 15\n\n14 - BASIC FISHING\n\nB. Choosing Where to Fish\n\nSome fishing areas are better than others. The quality of fish- ing depends upon the water\u2019s productivity, the fish species present, and the size of the fish present. Productive water has more fish than unproductive water; up to a point, the greener the water is, the more prod",
+      "keywords": [
+        "pulled",
+        "after",
+        "must",
+        "pumping",
+        "moved",
+        "angler",
+        "position",
+        "large",
+        "move",
+        "toward",
+        "pulling",
+        "tion;",
+        "repeatedly",
+        "with",
+        "rod",
+        "o\u2019clock",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "g. Large fish must be moved by a pumping ac- tion; a large fish is repeatedly pulled toward the angl..."
+    },
+    {
+      "chunk_id": 28,
+      "text": "pon the water\u2019s productivity, the fish species present, and the size of the fish present. Productive water has more fish than unproductive water; up to a point, the greener the water is, the more productive the water. In some waters, undesirable fish compete with desirable fish. Fishing is better in a lake with a high proportion of the right size fish. Check the fishing forecast for predicted \u201chot spots.\u201d Habitat is the key to fish survival, and fishing near habitat will result in more bites. Stumps, weed beds, and man-made fish attrac- tors are all good examples of fish habitat. During summer, fish can be found near fishing or boating docks, as they prefer shaded areas.\n\nfarm ponds\n\nIn streams and rivers, anglers focus on riffles, the swift areas that\n\nbring food into the deep, slower portions. Fish congregate in this area and feed more actively as water begins to rise and carry more food. Also you should try areas that fish use for resting. Fish rest in areas where the current is slo",
+      "keywords": [
+        "water\u2019s",
+        "species",
+        "size",
+        "productive",
+        "present",
+        "greener",
+        "than",
+        "water;",
+        "unproductive",
+        "productivity",
+        "more",
+        "water",
+        "point",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "pon the water\u2019s productivity, the fish species present, and the size of the fish present. Productive..."
+    },
+    {
+      "chunk_id": 29,
+      "text": "tions. Fish congregate in this area and feed more actively as water begins to rise and carry more food. Also you should try areas that fish use for resting. Fish rest in areas where the current is slowed by rocks, trees or in eddies near the swift water.\n\nCurrent attracts fish in reservoirs as well as in streams. Current\n\nflow rates are higher under bridges; therefore, bank fishing from highway bridge approaches or near bridges from a boat can be good. Safety should be a top priority in these bank areas, including the use of life jackets.\n\nThe areas below dams are called tailwaters. As fish migrate up river to spawn, they sometimes encounter a dam. Since many fish are migrating together, fish are concentrated. Fishing can be very good\n\n16 - BASIC FISHING\n\nBASIC FISHING - 17\n\ncity lakes\n\nat specific times of the year. Caution should be used in these areas, including the use of life jackets. If fishing these areas from a boat, maintain appropriate distance from the discharge areas for sa",
+      "keywords": [
+        "also",
+        "that",
+        "resting",
+        "actively",
+        "feed",
+        "food",
+        "tions",
+        "this",
+        "should",
+        "begins",
+        "areas",
+        "carry",
+        "more",
+        "area",
+        "rise",
+        "congregate",
+        "fish",
+        "water"
+      ],
+      "length": 1000,
+      "preview": "tions. Fish congregate in this area and feed more actively as water begins to rise and carry more fo..."
+    },
+    {
+      "chunk_id": 30,
+      "text": "specific times of the year. Caution should be used in these areas, including the use of life jackets. If fishing these areas from a boat, maintain appropriate distance from the discharge areas for safety and as required by law.\n\n1. Private Waters. Private ponds, streams and rivers are often excellent places to fish. The permission of the owner is required to fish water when you are walking on private property. A few simple courte-\n\nstreams\n\nBASIC FISHING - 17\n\n16 - BASIC FISHING\n\ntailwaters\n\nsies will help you get invited back. \u2022 If you desire to keep any fish from a stocked pond, ask how many,\n\nwhat species, and what size fish you may keep. \u2022 Ask the owner if they would like any of your catch. \u2022 Ask before you bring anyone with you. \u2022 Do not litter. \u2022 Close all gates behind you. \u2022 Report any problems immediately to the owner.\n\n2. Public Waters. Larger lakes are normally managed by public entities such as the Army Corps of Engineers, Tennessee Valley Author- ity, state wildlife agency",
+      "keywords": [
+        "times",
+        "year",
+        "caution",
+        "should",
+        "from",
+        "appropriate",
+        "including",
+        "life",
+        "these",
+        "fishing",
+        "maintain",
+        "areas",
+        "specific",
+        "jackets",
+        "used",
+        "boat",
+        "distance"
+      ],
+      "length": 999,
+      "preview": "specific times of the year. Caution should be used in these areas, including the use of life jackets..."
+    },
+    {
+      "chunk_id": 31,
+      "text": "any problems immediately to the owner.\n\n2. Public Waters. Larger lakes are normally managed by public entities such as the Army Corps of Engineers, Tennessee Valley Author- ity, state wildlife agency or perhaps a power company. Public access points allow anglers boating and fishing access. For more information contact the information division of your state fish and wildlife agency. C. What Fish Live Here?\n\nMost ponds have a combination of large-\n\nmouth bass, bluegill, redear sunfish, and chan- nel catfish. Larger lakes will have more variety. Streams and rivers will have many of the na- tive fishes, plus a few introduced species.\n\nCLICK HERE for more information on fish in your state\n\nBluegill\n\n18 - BASIC FISHING\n\nBASIC FISHING - 19\n\nSmallmouth Bass\n\nRedear Sunfish\n\nLargemouth Bass\n\nRock Bass\n\nCheck the fish identification booklet from your state fish and wildlife agency to find the proper habitat to fish for a given species.\n\nBASIC FISHING - 19\n\n18 - BASIC FISHING\n\nD. Choosing Bait",
+      "keywords": [
+        "ity",
+        "immediately",
+        "army",
+        "state",
+        "normally",
+        "tennessee",
+        "managed",
+        "owner",
+        "larger",
+        "public",
+        "entities",
+        "engineers",
+        "problems",
+        "corps",
+        "author-",
+        "lakes",
+        "valley",
+        "such",
+        "waters"
+      ],
+      "length": 997,
+      "preview": "any problems immediately to the owner.\n\n2. Public Waters. Larger lakes are normally managed by publi..."
+    },
+    {
+      "chunk_id": 32,
+      "text": "Bass\n\nCheck the fish identification booklet from your state fish and wildlife agency to find the proper habitat to fish for a given species.\n\nBASIC FISHING - 19\n\n18 - BASIC FISHING\n\nD. Choosing Bait\n\nEvery angler has a favorite bait or lure to catch fish. It works be- cause that lure is on the line most often. By sharing information with new anglers, we help them be successful while learning the variety of fishing techniques.\n\nLive bait simulates food items that fish normally eat. Bait that is alive and moving after you hook it will catch more fish. Some bait is available year-round and some is seasonal. See your state\u2019s fish ID book for ideas on what baits work for which fish.\n\nMeal worm - Insert a size 6 - 8 hook into the underside of the meal worm (note tiny legs) near one end. Run the hook inside and bring the point of the hook out near the opposite end.\n\nRed worm - Run the hook, usually a size 6 - 8, through the worm about 1\u20442 inch from one end. Go through the worm about every inc",
+      "keywords": [
+        "from",
+        "wildlife",
+        "species",
+        "find",
+        "identification",
+        "your",
+        "proper",
+        "fishing",
+        "state",
+        "booklet",
+        "habitat",
+        "basic",
+        "bass",
+        "agency",
+        "check",
+        "fish",
+        "given"
+      ],
+      "length": 1000,
+      "preview": "Bass\n\nCheck the fish identification booklet from your state fish and wildlife agency to find the pro..."
+    },
+    {
+      "chunk_id": 33,
+      "text": "hook inside and bring the point of the hook out near the opposite end.\n\nRed worm - Run the hook, usually a size 6 - 8, through the worm about 1\u20442 inch from one end. Go through the worm about every inch leaving 1\u20442 inch wriggling at the other end.\n\nNight crawler - Use larger hooks, such as size 2. Can either be hooked like a red worm or in one spot only. To give the worm a natural look, run the hook inside the worm to hide the shank and barely bring the point of the hook through the skin of the worm.\n\nMinnow - Size of hook varies depending on size of minnow and target fish. Two methods: 1. Run hook through both lips of the minnow. 2. Run hook through the back behind the dor- sal (top) fin (be careful not to pierce the spine).\n\nCricket - Use a size 8, long shank hook. Looking at the back of the cricket, run the point of the hook under the sheath behind the head. Bring the point of the hook out behind the sheath.\n\n20 - BASIC FISHING\n\nBASIC FISHING - 21\n\nArtificial lures - If you do not wa",
+      "keywords": [
+        "near",
+        "through",
+        "end",
+        "hook",
+        "from",
+        "size",
+        "about",
+        "opposite",
+        "bring",
+        "point",
+        "inch",
+        "usually",
+        "worm",
+        "inside"
+      ],
+      "length": 1000,
+      "preview": "hook inside and bring the point of the hook out near the opposite end.\n\nRed worm - Run the hook, usu..."
+    },
+    {
+      "chunk_id": 34,
+      "text": "the cricket, run the point of the hook under the sheath behind the head. Bring the point of the hook out behind the sheath.\n\n20 - BASIC FISHING\n\nBASIC FISHING - 21\n\nArtificial lures - If you do not want to use live bait, you can select from a variety of artificial lures.\n\nSection 5. CARING FOR THE CATCH Before your fishing trip begins, you should plan how you will care\n\nfor your catch. The decision to catch and release or keep should be made before you catch your first fish.\n\nA. Catch and Release\n\nIf the decision is to release fish, all fish should be handled as little as possible and fish should be returned to the water as quickly as pos- sible. The best method is to hold the fish in the water, reach to the fish and remove the hook with needle nose pliers (Figure 14). If you need to remove the fish from the water, return it as quickly as possible. In warmer water, moving the fish back and forth with water entering the mouth will help the fish recover more quickly. However, in some cas",
+      "keywords": [
+        "hook",
+        "live",
+        "under",
+        "fishing",
+        "bring",
+        "want",
+        "lures",
+        "basic",
+        "head",
+        "behind",
+        "point",
+        "cricket",
+        "sheath",
+        "artificial"
+      ],
+      "length": 1000,
+      "preview": "the cricket, run the point of the hook under the sheath behind the head. Bring the point of the hook..."
+    },
+    {
+      "chunk_id": 35,
+      "text": "e the fish from the water, return it as quickly as possible. In warmer water, moving the fish back and forth with water entering the mouth will help the fish recover more quickly. However, in some cases, fish caught from deep in a lake (cool water) can not swim back down to the cool water due to air bladder expan- sion. They may not survive if released in warm surface water, and anglers should consider keeping legal fish rather than releasing them.\n\nFigure 14\n\nBASIC FISHING - 21\n\n20 - BASIC FISHING\n\nB. Catch and Keep.\n\nAnglers who choose to keep and eat the fish they catch should\n\nrefer to their state\u2019s annual fishing guide for the latest updates on creel and size limits plus fish comsumption advisories. By knowing how many fish you intend to keep and what size (selective release), you can plan for other equipment. Many fish are kept in floating fish baskets or on stringers; however these work best in cooler weather. In warmer water, fish tend to die quickly due to stress from heat and",
+      "keywords": [
+        "return",
+        "possible",
+        "forth",
+        "from",
+        "quickly",
+        "help",
+        "moving",
+        "entering",
+        "with",
+        "will",
+        "mouth",
+        "recover",
+        "water",
+        "warmer",
+        "fish",
+        "back"
+      ],
+      "length": 1000,
+      "preview": "e the fish from the water, return it as quickly as possible. In warmer water, moving the fish back a..."
+    },
+    {
+      "chunk_id": 36,
+      "text": "plan for other equipment. Many fish are kept in floating fish baskets or on stringers; however these work best in cooler weather. In warmer water, fish tend to die quickly due to stress from heat and from being caught. All fish are best when they are kept fresh on ice. To keep your cooler clean and to keep fish out of the water, use a plastic bag to isolate your catch.\n\n22 - BASIC FISHING\n\nBASIC FISHING - 23\n\nC. Cleaning Your Catch.\n\nAfter you leave the water with your catch, you want to properly prepare it for eating. There are two different ways to clean your catch: filleting and dressing.\n\n1. Filleting (Figures 15-19) involves cutting the edible part of the fish away from the inedible part; no bones are left in the edible portion.\n\n2. Dressing (Figures 20-22) implies taking off parts that cannot be eaten, and most bones are left with the edible portion. Some fish, like catfish, have a skin that must be removed (Figures 23 and 24). Other fish have to be scaled with a knife or a spoo",
+      "keywords": [
+        "many",
+        "plan",
+        "baskets",
+        "equipment",
+        "stringers;",
+        "work",
+        "best",
+        "floating",
+        "kept",
+        "these",
+        "cooler",
+        "tend",
+        "weather",
+        "water",
+        "other",
+        "warmer",
+        "fish",
+        "however"
+      ],
+      "length": 999,
+      "preview": "plan for other equipment. Many fish are kept in floating fish baskets or on stringers; however these..."
+    },
+    {
+      "chunk_id": 37,
+      "text": "hat cannot be eaten, and most bones are left with the edible portion. Some fish, like catfish, have a skin that must be removed (Figures 23 and 24). Other fish have to be scaled with a knife or a spoon (Figure 20).\n\nFILLETING\n\nFigure 15. Filleting fish, such as bass, removes all bones from the meat. To fillet a bass, place the fish on its side on a firm, flat surface. Make a cut behind the gill plate from the top of the fish to the belly and into the flesh to the backbone. Do not cut through the backbone.\n\nBASIC FISHING - 23\n\n22 - BASIC FISHING\n\nFigure 16. Without removing the knife turn the blade toward the tail, cut through the ribs, and continue on the tail, closely following the backbone as a guide. Do not cut through the skin completely at the tail, but leave a half to one inch intact.\n\nFigure 17. Flip the fillet over, skin side down, and insert the blade\n\nbetween the skin and the meat.\n\n24 - BASIC FISHING\n\nBASIC FISHING - 25\n\nFigure 18. With a sawing motion, follow the inside of",
+      "keywords": [
+        "some",
+        "24",
+        "must",
+        "skin",
+        "figures",
+        "have",
+        "eaten",
+        "edible",
+        "with",
+        "portion",
+        "bones",
+        "cannot",
+        "catfish",
+        "like",
+        "most",
+        "other",
+        "left",
+        "that",
+        "removed",
+        "fish"
+      ],
+      "length": 999,
+      "preview": "hat cannot be eaten, and most bones are left with the edible portion. Some fish, like catfish, have ..."
+    },
+    {
+      "chunk_id": 38,
+      "text": ".\n\nFigure 17. Flip the fillet over, skin side down, and insert the blade\n\nbetween the skin and the meat.\n\n24 - BASIC FISHING\n\nBASIC FISHING - 25\n\nFigure 18. With a sawing motion, follow the inside of the skin\n\nclosely with the blade and cut the meat away from the skin.\n\nFigure 19. Cut the ribs away from the skinless fillet. Repeat the\n\nsteps for the other side of the fish.\n\nBASIC FISHING - 25\n\n24 - BASIC FISHING\n\nDRESSING\n\nFigure 20. Small fish, such as bream (sunfish), are usually dressed. Dressing a fish leaves some of the bones in the meat, but less meat is lost during the cleaning process.\n\nFigure 21. To dress a small fish, place the fish on its side on a firm, flat surface. Use one hand to hold it in place by the head. Scrape the scales from the tail toward the head by using a fish scaler, spoon, or dull knife. Remove the scales on both sides of the body.\n\n26 - BASIC FISHING\n\nBASIC FISHING - 27\n\nFigure 22. Use a fillet knife to cut along both sides of the dorsal fin.\n\nGrasp the do",
+      "keywords": [
+        "side",
+        "meat",
+        "fillet",
+        "skin",
+        "figure",
+        "fishing",
+        "over",
+        "down",
+        "sawing",
+        "motion",
+        "insert",
+        "basic",
+        "blade",
+        "with",
+        "flip",
+        "between"
+      ],
+      "length": 1000,
+      "preview": ".\n\nFigure 17. Flip the fillet over, skin side down, and insert the blade\n\nbetween the skin and the m..."
+    },
+    {
+      "chunk_id": 39,
+      "text": "aler, spoon, or dull knife. Remove the scales on both sides of the body.\n\n26 - BASIC FISHING\n\nBASIC FISHING - 27\n\nFigure 22. Use a fillet knife to cut along both sides of the dorsal fin.\n\nGrasp the dorsal fin and pull forward to remove. Spines should pull out with fin. Repeat process to remove the anal fin and spines.\n\nFigure 23. Cut off the head immediately behind the gills and remove\n\nthe organs. Wash in cold, clean water. The fish is now ready to freeze or cook.\n\nBASIC FISHING - 27\n\n26 - BASIC FISHING\n\nFigure 24. Some fish, such as catfish, are usually skinned. To skin a catfish, first remove the spines to prevent puncture of a hand or finger. Cut through the skin around the head and pectoral fins. Do not penetrate the body cavity.\n\nFigure 25. Using a pair of pliers, pull the skin away from the meat,\n\nworking from the head toward the tail. Break or cut the head away from the backbone and remove the internal organs.\n\nFigure 26. The finished product, ready for the skillet.\n\n28 - BASIC",
+      "keywords": [
+        "dull",
+        "remove",
+        "fillet",
+        "sides",
+        "along",
+        "knife",
+        "figure",
+        "fishing",
+        "aler",
+        "body",
+        "basic",
+        "spoon",
+        "both",
+        "scales",
+        "dorsal"
+      ],
+      "length": 1000,
+      "preview": "aler, spoon, or dull knife. Remove the scales on both sides of the body.\n\n26 - BASIC FISHING\n\nBASIC ..."
+    },
+    {
+      "chunk_id": 40,
+      "text": "from the meat,\n\nworking from the head toward the tail. Break or cut the head away from the backbone and remove the internal organs.\n\nFigure 26. The finished product, ready for the skillet.\n\n28 - BASIC FISHING\n\nBASIC FISHING - 29\n\nD. Final Touches for Fillets\n\nMany fish have a dark strip on the \u201cskin side\u201d of the fillet. This is what is left of a blood vessel that took blood to the tail. It is also a place where fat has been stored, and fat is associated with some of the pollut- ants that accumulate in fish flesh.\n\nUsing a fillet knife, lift that fat and\n\ndark area out.\n\n(1) Make a \u201cv-cut\u201d the full length of the fillet from both sides of the\n\ndark area. (2) Now lift out the dark meat out,\n\ngently cutting underneath it, and\n\ndiscard that portion.\n\nNext look on both edges of the fil- let for white or yellow fat. Trim that fat and your fillet is ready for your fish fry! Eating fish, even fish from an area\n\n1\n\nlisted in fish advisories, is a choice you make as an angler. By limiting your co",
+      "keywords": [
+        "tail",
+        "remove",
+        "from",
+        "break",
+        "away",
+        "backbone",
+        "internal",
+        "organs",
+        "figure",
+        "ready",
+        "skillet",
+        "finished",
+        "toward",
+        "head",
+        "product",
+        "meat",
+        "working"
+      ],
+      "length": 1000,
+      "preview": "from the meat,\n\nworking from the head toward the tail. Break or cut the head away from the backbone ..."
+    },
+    {
+      "chunk_id": 41,
+      "text": "white or yellow fat. Trim that fat and your fillet is ready for your fish fry! Eating fish, even fish from an area\n\n1\n\nlisted in fish advisories, is a choice you make as an angler. By limiting your consumption rate, selecting smaller fish to eat (less time to accu- mulate pollutants), removing as much of the potentially polluted flesh (fat) as possible, and cooking it properly, you lower your risk dramatically. For more information on fish advisories, see your state\u2019s fishing guide.\n\n2\n\nE. Caring for Cleaned Fish.\n\nOnce fish are cleaned, they should be washed thoroughly, then\n\nfrozen immediately or refrigerated and cooked within three days. Frozen fish may develop freezer burn unless they are tightly wrapped or frozen in water. When freezing fish in water, you should use just enough water to cover them. Plastic freezer bags work well for fillets, if they can be sealed without leaking.\n\nThere are numerous cookbooks that have a variety of recipes and\n\nmethods for cooking fish for the tab",
+      "keywords": [
+        "that",
+        "trim",
+        "fillet",
+        "ready",
+        "yellow",
+        "from",
+        "your",
+        "advisories",
+        "eating",
+        "even",
+        "white",
+        "fry",
+        "listed",
+        "fat",
+        "area",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "white or yellow fat. Trim that fat and your fillet is ready for your fish fry! Eating fish, even fis..."
+    },
+    {
+      "chunk_id": 42,
+      "text": "to cover them. Plastic freezer bags work well for fillets, if they can be sealed without leaking.\n\nThere are numerous cookbooks that have a variety of recipes and\n\nmethods for cooking fish for the table. By trying many different ways of fixing fish, the angler finds those dishes that best suit individual tastes.\n\nBASIC FISHING - 29\n\n28 - BASIC FISHING\n\nGLOSSARY\n\nbait - usually refers to something natural or live that is used to attract fish to bite. The terms bait and lure may be used interchangeably.\n\nbite - when a fish tries to take a bait (or lure). Also called a strike.\n\ncasting - the skill of propelling a bait or lure into the water.\n\ncleaning - preparing your catch for eating.\n\nconservation - the wise use of natural resources.\n\ncreel limit - the number of fish an angler can keep in a day.\n\ndressed - fish prepared for eating complete with bones.\n\ndropper - a separate line tied onto the main line near the hook. It is used to attach a weight to a separate line or to fish two hooks.",
+      "keywords": [
+        "them",
+        "fillets",
+        "there",
+        "numerous",
+        "bags",
+        "sealed",
+        "leaking",
+        "have",
+        "variety",
+        "recipes",
+        "methods",
+        "they",
+        "plastic",
+        "freezer",
+        "cookbooks",
+        "that",
+        "work",
+        "well",
+        "without",
+        "cover"
+      ],
+      "length": 999,
+      "preview": "to cover them. Plastic freezer bags work well for fillets, if they can be sealed without leaking.\n\nT..."
+    },
+    {
+      "chunk_id": 43,
+      "text": "day.\n\ndressed - fish prepared for eating complete with bones.\n\ndropper - a separate line tied onto the main line near the hook. It is used to attach a weight to a separate line or to fish two hooks.\n\nfillet - cleaning a fish by cutting the edible portion from the bones.\n\nfishing line - special flexible fiber; connects fishing reel to the hook.\n\nfloat, bobber or cork - maintains bait at given depth, indicates bites.\n\nhabitat - combination of food, water, shelter and space that attracts given animal.\n\nland - bringing the fish to the land or to a net for capture.\n\nleader - the piece of line attached to the hook.\n\nlunker - a large specimen of a species of fish.\n\nlure - usually refers to man-made bait used to entice fish to bite.\n\nmonofilament - fishing line with a single strand of material.\n\nmultifilament - fishing line that is several strands woven together.\n\nplaying - process of bringing a fish to the angler so it can be landed.\n\nreel - a device that holds and retrieves fishing line.\n\nr",
+      "keywords": [
+        "hook",
+        "attach",
+        "complete",
+        "eating",
+        "used",
+        "prepared",
+        "day",
+        "with",
+        "dropper",
+        "tied",
+        "onto",
+        "dressed",
+        "near",
+        "bones",
+        "weight",
+        "main",
+        "line",
+        "separate",
+        "fish"
+      ],
+      "length": 999,
+      "preview": "day.\n\ndressed - fish prepared for eating complete with bones.\n\ndropper - a separate line tied onto t..."
+    },
+    {
+      "chunk_id": 44,
+      "text": "multifilament - fishing line that is several strands woven together.\n\nplaying - process of bringing a fish to the angler so it can be landed.\n\nreel - a device that holds and retrieves fishing line.\n\nretrieving - the act of bringing a bait or lure back to the angler.\n\nrigging - how you hook your bait and where you put your hook, snap or swivel, weight and float.\n\n30 - BASIC FISHING\n\nBASIC FISHING - 31\n\nrod - a pole with guides that is used to cast a lure or bait.\n\nselective harvest - personal ethics that includes reduced harvest within established legal size and creel limits.\n\nsetting the hook - pulling the rod up sharply when a fish bites.\n\nsinker - used to help cast or help sink the bait or lure; a weight.\n\nslot limit - a limit to protect fish between specified sizes. Usually extends life of predators or reduces number of small fish.\n\nsnap, swivel or snap-swivel - a small metal device tied onto fishing line; used to quickly attach lures to the line. Keeps line from twisting.\n\nstrike -",
+      "keywords": [
+        "that",
+        "retrieves",
+        "multifilament",
+        "device",
+        "angler",
+        "together",
+        "fishing",
+        "landed",
+        "process",
+        "line",
+        "strands",
+        "several",
+        "bringing",
+        "reel",
+        "holds",
+        "woven",
+        "playing",
+        "fish"
+      ],
+      "length": 1000,
+      "preview": "multifilament - fishing line that is several strands woven together.\n\nplaying - process of bringing ..."
+    },
+    {
+      "chunk_id": 45,
+      "text": "of predators or reduces number of small fish.\n\nsnap, swivel or snap-swivel - a small metal device tied onto fishing line; used to quickly attach lures to the line. Keeps line from twisting.\n\nstrike - when a fish takes or tries to take a lure (or bait).\n\nstructure - any area that causes fish to be concentrated.\n\ntailwater - area below a reservoir.\n\nterminal tackle - placement of tackle at the end of the line.\n\nNotes\n\nBASIC FISHING - 31\n\n30 - BASIC FISHING\n\nEthics\n\nAn ethical angler:\n\nKeeps only the fish needed... \u2022 Does not use illegal live bait... \u2022 Uses only native aquatic species for bait and does not release aquatic bait... \u2022 Properly disposes of trash and waste, including old fish line... \u2022 Observes all applicable laws and regulations... \u2022 Practices safe angling and boating... \u2022 Hones angling and boating skills and passes knowledge to others... \u2022 Respects the rights of other anglers and property owners... \u2022 Supports local conservation efforts.\n\n32 - BASIC FISHING",
+      "keywords": [
+        "attach",
+        "quickly",
+        "line;",
+        "predators",
+        "used",
+        "small",
+        "fishing",
+        "lures",
+        "tied",
+        "onto",
+        "snap-swivel",
+        "device",
+        "metal",
+        "reduces",
+        "line",
+        "number",
+        "swivel",
+        "snap",
+        "fish"
+      ],
+      "length": 981,
+      "preview": "of predators or reduces number of small fish.\n\nsnap, swivel or snap-swivel - a small metal device ti..."
+    },
+    {
+      "chunk_id": 46,
+      "text": "angling and boating skills and passes knowledge to others... \u2022 Respects the rights of other anglers and property owners... \u2022 Supports local conservation efforts.\n\n32 - BASIC FISHING",
+      "keywords": [
+        "respects",
+        "owners",
+        "boating",
+        "property",
+        "rights",
+        "anglers",
+        "supports",
+        "angling",
+        "skills",
+        "fishing",
+        "efforts",
+        "others",
+        "knowledge",
+        "local",
+        "conservation",
+        "other",
+        "basic",
+        "passes"
+      ],
+      "length": 181,
+      "preview": "angling and boating skills and passes knowledge to others... \u2022 Respects the rights of other anglers ..."
+    }
+  ],
+  "keyword_lookup": {
+    "kentucky": [
+      0,
+      3
+    ],
+    "some": [
+      0,
+      18,
+      37
+    ],
+    "anglers": [
+      0,
+      7,
+      8,
+      9,
+      46
+    ],
+    "about": [
+      0,
+      33
+    ],
+    "thousands": [
+      0
+    ],
+    "fever": [
+      0
+    ],
+    "ranks": [
+      0
+    ],
+    "join": [
+      0
+    ],
+    "welcome": [
+      0
+    ],
+    "catch": [
+      0,
+      6,
+      23
+    ],
+    "best": [
+      0,
+      36
+    ],
+    "fishing": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      19,
+      24,
+      26,
+      30,
+      32,
+      34,
+      38,
+      39,
+      44,
+      45,
+      46
+    ],
+    "department": [
+      0,
+      2
+    ],
+    "basic": [
+      0,
+      4,
+      7,
+      12,
+      14,
+      15,
+      16,
+      19,
+      20,
+      24,
+      26,
+      32,
+      34,
+      38,
+      39,
+      46
+    ],
+    "wildlife": [
+      0,
+      32
+    ],
+    "like-minded": [
+      0
+    ],
+    "world": [
+      0,
+      1
+    ],
+    "resources": [
+      0,
+      2,
+      3
+    ],
+    "fish": [
+      0,
+      6,
+      22,
+      23,
+      25,
+      26,
+      27,
+      28,
+      29,
+      32,
+      35,
+      36,
+      37,
+      41,
+      43,
+      44,
+      45
+    ],
+    "also": [
+      1,
+      25,
+      29
+    ],
+    "better": [
+      1
+    ],
+    "spent": [
+      1
+    ],
+    "food": [
+      1,
+      29
+    ],
+    "treasure": [
+      1
+    ],
+    "family": [
+      1
+    ],
+    "healthy": [
+      1
+    ],
+    "you": [
+      1
+    ],
+    "factor": [
+      1
+    ],
+    "today\u2019s": [
+      1
+    ],
+    "with": [
+      1,
+      7,
+      10,
+      16,
+      18,
+      19,
+      20,
+      22,
+      23,
+      27,
+      35,
+      37,
+      38,
+      43
+    ],
+    "stress": [
+      1
+    ],
+    "relief": [
+      1
+    ],
+    "time": [
+      1
+    ],
+    "major": [
+      1
+    ],
+    "darr": [
+      2
+    ],
+    "coordinator": [
+      2
+    ],
+    "fisheries": [
+      2
+    ],
+    "nelson": [
+      2
+    ],
+    "lonnie": [
+      2
+    ],
+    "originally": [
+      2
+    ],
+    "freshwater": [
+      2
+    ],
+    "aquatic": [
+      2
+    ],
+    "revised": [
+      2
+    ],
+    "education": [
+      2
+    ],
+    "alabama": [
+      2
+    ],
+    "doug": [
+      2
+    ],
+    "www.conservation.alabama.gov/agfd": [
+      2
+    ],
+    "visit": [
+      2
+    ],
+    "natural": [
+      2,
+      3
+    ],
+    "created": [
+      2
+    ],
+    "conservation": [
+      2,
+      46
+    ],
+    "from": [
+      3,
+      8,
+      30,
+      32,
+      33,
+      35,
+      40,
+      41
+    ],
+    "state": [
+      3,
+      31,
+      32
+    ],
+    "thankful": [
+      3
+    ],
+    "received": [
+      3
+    ],
+    "stew-": [
+      3
+    ],
+    "ardship": [
+      3
+    ],
+    "passions": [
+      3
+    ],
+    "employees": [
+      3
+    ],
+    "national": [
+      3
+    ],
+    "that": [
+      3,
+      10,
+      13,
+      29,
+      37,
+      41,
+      42,
+      44
+    ],
+    "restricted": [
+      3
+    ],
+    "version": [
+      3
+    ],
+    "fellow": [
+      3
+    ],
+    "guidance": [
+      3
+    ],
+    "fact": [
+      3
+    ],
+    "agency": [
+      3,
+      32
+    ],
+    "intended": [
+      4,
+      13
+    ],
+    "here": [
+      4,
+      6
+    ],
+    "click": [
+      4
+    ],
+    "contents": [
+      4
+    ],
+    "table": [
+      4
+    ],
+    "erial": [
+      4
+    ],
+    "organizations": [
+      4
+    ],
+    "more": [
+      4,
+      14,
+      21,
+      28,
+      29
+    ],
+    "used": [
+      4,
+      11,
+      22,
+      26,
+      30,
+      43,
+      45
+    ],
+    "foreword": [
+      4
+    ],
+    "information": [
+      4
+    ],
+    "not-for-profit": [
+      4
+    ],
+    "----------------------------------------------------------------": [
+      4
+    ],
+    "--------------------------------------------": [
+      5
+    ],
+    "appropriate": [
+      5,
+      10,
+      30
+    ],
+    "position": [
+      5,
+      17,
+      19,
+      27
+    ],
+    "section": [
+      5,
+      6
+    ],
+    "beginning": [
+      5
+    ],
+    "advanced": [
+      5
+    ],
+    "---------------------------": [
+      5
+    ],
+    "choosing": [
+      5,
+      6
+    ],
+    "----------------------------------------------------": [
+      5
+    ],
+    "casting": [
+      5,
+      11,
+      13,
+      17,
+      19,
+      20
+    ],
+    "--------------------------------": [
+      5
+    ],
+    "---------------": [
+      5
+    ],
+    "body": [
+      5,
+      17,
+      39
+    ],
+    "practice": [
+      5,
+      12
+    ],
+    "techniques": [
+      5,
+      9
+    ],
+    "bait": [
+      6,
+      26
+    ],
+    "---------------------------------------": [
+      6
+    ],
+    "live": [
+      6,
+      34
+    ],
+    "where": [
+      6
+    ],
+    "caring": [
+      6
+    ],
+    "------------------------": [
+      6
+    ],
+    "---------------------------------------------------": [
+      6
+    ],
+    "what": [
+      6
+    ],
+    "-------------------------------------------------": [
+      6
+    ],
+    "------------------------------------": [
+      6
+    ],
+    "think": [
+      6
+    ],
+    "safety": [
+      6
+    ],
+    "designed": [
+      7
+    ],
+    "course": [
+      7
+    ],
+    "short": [
+      7
+    ],
+    "stimulate": [
+      7
+    ],
+    "introduction": [
+      7
+    ],
+    "this": [
+      7,
+      17,
+      19,
+      25,
+      29
+    ],
+    "experience": [
+      7,
+      9
+    ],
+    "fish-": [
+      7
+    ],
+    "knowledge": [
+      7,
+      46
+    ],
+    "those": [
+      7
+    ],
+    "give": [
+      7
+    ],
+    "limited": [
+      7
+    ],
+    "strongly": [
+      8
+    ],
+    "mended": [
+      8
+    ],
+    "near": [
+      8,
+      33,
+      43
+    ],
+    "portant": [
+      8
+    ],
+    "when": [
+      8,
+      12,
+      25
+    ],
+    "recom-": [
+      8
+    ],
+    "swift": [
+      8
+    ],
+    "equally": [
+      8
+    ],
+    "pfds": [
+      8
+    ],
+    "shore": [
+      8
+    ],
+    "deep": [
+      8
+    ],
+    "boat": [
+      8,
+      30
+    ],
+    "leading": [
+      8,
+      14,
+      15
+    ],
+    "they": [
+      8,
+      17,
+      42
+    ],
+    "water": [
+      8,
+      28,
+      29,
+      35,
+      36
+    ],
+    "after": [
+      9,
+      20,
+      27
+    ],
+    "knot": [
+      9,
+      13,
+      15,
+      16
+    ],
+    "equipment": [
+      9,
+      20,
+      36
+    ],
+    "tackle": [
+      9
+    ],
+    "tying": [
+      9,
+      13
+    ],
+    "line": [
+      9,
+      10,
+      11,
+      14,
+      15,
+      26,
+      43,
+      44,
+      45
+    ],
+    "stringing": [
+      9
+    ],
+    "types": [
+      9
+    ],
+    "learning": [
+      9
+    ],
+    "will": [
+      9,
+      35
+    ],
+    "simple": [
+      9
+    ],
+    "assemble": [
+      9
+    ],
+    "experiences": [
+      9
+    ],
+    "budding": [
+      9
+    ],
+    "each": [
+      10,
+      20
+    ],
+    "selection": [
+      10
+    ],
+    "goes": [
+      10
+    ],
+    "holds": [
+      10,
+      44
+    ],
+    "reel": [
+      10,
+      11,
+      19,
+      24,
+      44
+    ],
+    "named": [
+      10
+    ],
+    "poles": [
+      10
+    ],
+    "lack": [
+      10
+    ],
+    "type": [
+      10,
+      20
+    ],
+    "spinning": [
+      11
+    ],
+    "index": [
+      11
+    ],
+    "heavy": [
+      11
+    ],
+    "release": [
+      11
+    ],
+    "gear": [
+      11
+    ],
+    "exposed": [
+      11
+    ],
+    "vari-": [
+      11
+    ],
+    "baitcast": [
+      11
+    ],
+    "very": [
+      11
+    ],
+    "light": [
+      11
+    ],
+    "lures": [
+      11,
+      21,
+      34,
+      45
+    ],
+    "finger": [
+      11
+    ],
+    "control": [
+      11
+    ],
+    "training": [
+      12
+    ],
+    "takes": [
+      12
+    ],
+    "ifficult": [
+      12
+    ],
+    "pole": [
+      12,
+      14,
+      15,
+      18,
+      25
+    ],
+    "figures": [
+      12,
+      37
+    ],
+    "learn": [
+      12
+    ],
+    "requires": [
+      12
+    ],
+    "1-5": [
+      12
+    ],
+    "assembly": [
+      12
+    ],
+    "properly": [
+      12
+    ],
+    "usually": [
+      12,
+      33
+    ],
+    "normally": [
+      12,
+      31
+    ],
+    "learned": [
+      13
+    ],
+    "hook": [
+      13,
+      14,
+      21,
+      26,
+      33,
+      34,
+      43
+    ],
+    "should": [
+      13,
+      21,
+      22,
+      29,
+      30
+    ],
+    "skill": [
+      13
+    ],
+    "connects": [
+      13
+    ],
+    "lure": [
+      13,
+      26
+    ],
+    "single": [
+      13
+    ],
+    "knots": [
+      13
+    ],
+    "quality": [
+      13
+    ],
+    "most": [
+      13,
+      21,
+      37
+    ],
+    "important": [
+      13
+    ],
+    "standing": [
+      14,
+      15
+    ],
+    "make": [
+      14,
+      17
+    ],
+    "lighter": [
+      14
+    ],
+    "around": [
+      14
+    ],
+    "end:": [
+      14,
+      15
+    ],
+    "five": [
+      14
+    ],
+    "turns": [
+      14
+    ],
+    "back": [
+      14,
+      15,
+      35
+    ],
+    "against": [
+      15,
+      25
+    ],
+    "remember": [
+      15
+    ],
+    "tight": [
+      15
+    ],
+    "pull": [
+      15,
+      16
+    ],
+    "eye": [
+      15
+    ],
+    "moisten": [
+      15
+    ],
+    "doubled": [
+      16
+    ],
+    "through": [
+      16,
+      33
+    ],
+    "hold": [
+      16,
+      19
+    ],
+    "both": [
+      16,
+      39
+    ],
+    "again": [
+      16
+    ],
+    "bring": [
+      16,
+      33,
+      34
+    ],
+    "tighten": [
+      16,
+      24
+    ],
+    "stand-": [
+      16
+    ],
+    "overhand": [
+      16
+    ],
+    "loop": [
+      16
+    ],
+    "once": [
+      16
+    ],
+    "keep": [
+      17,
+      22
+    ],
+    "accurate": [
+      17
+    ],
+    "sure": [
+      17
+    ],
+    "thumb": [
+      17,
+      19
+    ],
+    "square": [
+      17
+    ],
+    "desired": [
+      17
+    ],
+    "hit": [
+      17
+    ],
+    "lease": [
+      17
+    ],
+    "their": [
+      17
+    ],
+    "ball": [
+      17
+    ],
+    "hand": [
+      17,
+      18
+    ],
+    "action": [
+      17
+    ],
+    "similar": [
+      17
+    ],
+    "shoulders": [
+      17
+    ],
+    "hands": [
+      18
+    ],
+    "holding": [
+      18
+    ],
+    "youth": [
+      18
+    ],
+    "horizon": [
+      18
+    ],
+    "shing": [
+      18
+    ],
+    "comfortably": [
+      18
+    ],
+    "held": [
+      18,
+      25
+    ],
+    "have": [
+      18,
+      37,
+      42
+    ],
+    "object": [
+      18
+    ],
+    "two": [
+      18
+    ],
+    "dif-": [
+      18
+    ],
+    "ficulty": [
+      18
+    ],
+    "waist": [
+      18
+    ],
+    "concen-": [
+      19
+    ],
+    "button": [
+      19
+    ],
+    "push": [
+      19
+    ],
+    "trate": [
+      19
+    ],
+    "cast": [
+      19,
+      20
+    ],
+    "arm": [
+      19
+    ],
+    "momentarily": [
+      19
+    ],
+    "ing": [
+      20
+    ],
+    "easiest": [
+      20
+    ],
+    "start": [
+      20
+    ],
+    "needs": [
+      20
+    ],
+    "overhead": [
+      20
+    ],
+    "angler": [
+      20,
+      25,
+      27,
+      44
+    ],
+    "which": [
+      20
+    ],
+    "mastering": [
+      20
+    ],
+    "baitcast-": [
+      20
+    ],
+    "however": [
+      20,
+      36
+    ],
+    "nibbles": [
+      21
+    ],
+    "them": [
+      21,
+      42
+    ],
+    "using": [
+      21
+    ],
+    "swivels": [
+      21
+    ],
+    "effective": [
+      21
+    ],
+    "size": [
+      21,
+      28,
+      33
+    ],
+    "smaller": [
+      21
+    ],
+    "catching": [
+      21
+    ],
+    "snaps": [
+      21
+    ],
+    "hooks": [
+      21
+    ],
+    "dependent": [
+      21
+    ],
+    "without": [
+      21,
+      42
+    ],
+    "switch": [
+      21
+    ],
+    "detecting": [
+      22
+    ],
+    "ngler": [
+      22
+    ],
+    "job;": [
+      22
+    ],
+    "just": [
+      22
+    ],
+    "assist": [
+      22
+    ],
+    "large": [
+      22,
+      27
+    ],
+    "enough": [
+      22
+    ],
+    "floats": [
+      22
+    ],
+    "bottom": [
+      22
+    ],
+    "baits": [
+      22
+    ],
+    "bite": [
+      22
+    ],
+    "float": [
+      22
+    ],
+    "sharp": [
+      23
+    ],
+    "spines": [
+      23
+    ],
+    "catfish": [
+      23,
+      37
+    ],
+    "musky": [
+      23
+    ],
+    "sauger": [
+      23
+    ],
+    "your": [
+      23,
+      24,
+      32,
+      41
+    ],
+    "such": [
+      23,
+      31
+    ],
+    "cooler": [
+      23,
+      36
+    ],
+    "fresh": [
+      23
+    ],
+    "thin": [
+      23
+    ],
+    "teeth": [
+      23
+    ],
+    "keeps": [
+      23
+    ],
+    "walleye": [
+      23
+    ],
+    "adjust": [
+      24
+    ],
+    "find": [
+      24,
+      32
+    ],
+    "until": [
+      24
+    ],
+    "drag": [
+      24
+    ],
+    "there": [
+      24,
+      42
+    ],
+    "toward": [
+      24,
+      27,
+      40
+    ],
+    "adjustment": [
+      24
+    ],
+    "adjusting": [
+      24
+    ],
+    "ways": [
+      24
+    ],
+    "diagram": [
+      24
+    ],
+    "sign": [
+      24
+    ],
+    "allows": [
+      25
+    ],
+    "place": [
+      25
+    ],
+    "end": [
+      25,
+      33
+    ],
+    "greater": [
+      25
+    ],
+    "butt": [
+      25
+    ],
+    "belt": [
+      25
+    ],
+    "fight": [
+      25
+    ],
+    "than": [
+      25,
+      28
+    ],
+    "behind": [
+      25,
+      34
+    ],
+    "point": [
+      25,
+      28,
+      33,
+      34
+    ],
+    "depends": [
+      26
+    ],
+    "species": [
+      26,
+      28,
+      32
+    ],
+    "into": [
+      26
+    ],
+    "quickly": [
+      26,
+      35,
+      45
+    ],
+    "needed": [
+      26
+    ],
+    "rod": [
+      26,
+      27
+    ],
+    "force": [
+      26
+    ],
+    "pulled": [
+      26,
+      27
+    ],
+    "must": [
+      27,
+      37
+    ],
+    "pumping": [
+      27
+    ],
+    "moved": [
+      27
+    ],
+    "move": [
+      27
+    ],
+    "pulling": [
+      27
+    ],
+    "tion;": [
+      27
+    ],
+    "repeatedly": [
+      27
+    ],
+    "o\u2019clock": [
+      27
+    ],
+    "water\u2019s": [
+      28
+    ],
+    "productive": [
+      28
+    ],
+    "present": [
+      28
+    ],
+    "greener": [
+      28
+    ],
+    "water;": [
+      28
+    ],
+    "unproductive": [
+      28
+    ],
+    "productivity": [
+      28
+    ],
+    "resting": [
+      29
+    ],
+    "actively": [
+      29
+    ],
+    "feed": [
+      29
+    ],
+    "tions": [
+      29
+    ],
+    "begins": [
+      29
+    ],
+    "areas": [
+      29,
+      30
+    ],
+    "carry": [
+      29
+    ],
+    "area": [
+      29,
+      41
+    ],
+    "rise": [
+      29
+    ],
+    "congregate": [
+      29
+    ],
+    "times": [
+      30
+    ],
+    "year": [
+      30
+    ],
+    "caution": [
+      30
+    ],
+    "including": [
+      30
+    ],
+    "life": [
+      30
+    ],
+    "these": [
+      30,
+      36
+    ],
+    "maintain": [
+      30
+    ],
+    "specific": [
+      30
+    ],
+    "jackets": [
+      30
+    ],
+    "distance": [
+      30
+    ],
+    "ity": [
+      31
+    ],
+    "immediately": [
+      31
+    ],
+    "army": [
+      31
+    ],
+    "tennessee": [
+      31
+    ],
+    "managed": [
+      31
+    ],
+    "owner": [
+      31
+    ],
+    "larger": [
+      31
+    ],
+    "public": [
+      31
+    ],
+    "entities": [
+      31
+    ],
+    "engineers": [
+      31
+    ],
+    "problems": [
+      31
+    ],
+    "corps": [
+      31
+    ],
+    "author-": [
+      31
+    ],
+    "lakes": [
+      31
+    ],
+    "valley": [
+      31
+    ],
+    "waters": [
+      31
+    ],
+    "identification": [
+      32
+    ],
+    "proper": [
+      32
+    ],
+    "booklet": [
+      32
+    ],
+    "habitat": [
+      32
+    ],
+    "bass": [
+      32
+    ],
+    "check": [
+      32
+    ],
+    "given": [
+      32
+    ],
+    "opposite": [
+      33
+    ],
+    "inch": [
+      33
+    ],
+    "worm": [
+      33
+    ],
+    "inside": [
+      33
+    ],
+    "under": [
+      34
+    ],
+    "want": [
+      34
+    ],
+    "head": [
+      34,
+      40
+    ],
+    "cricket": [
+      34
+    ],
+    "sheath": [
+      34
+    ],
+    "artificial": [
+      34
+    ],
+    "return": [
+      35
+    ],
+    "possible": [
+      35
+    ],
+    "forth": [
+      35
+    ],
+    "help": [
+      35
+    ],
+    "moving": [
+      35
+    ],
+    "entering": [
+      35
+    ],
+    "mouth": [
+      35
+    ],
+    "recover": [
+      35
+    ],
+    "warmer": [
+      35,
+      36
+    ],
+    "many": [
+      36
+    ],
+    "plan": [
+      36
+    ],
+    "baskets": [
+      36
+    ],
+    "stringers;": [
+      36
+    ],
+    "work": [
+      36,
+      42
+    ],
+    "floating": [
+      36
+    ],
+    "kept": [
+      36
+    ],
+    "tend": [
+      36
+    ],
+    "weather": [
+      36
+    ],
+    "other": [
+      36,
+      37,
+      46
+    ],
+    "24": [
+      37
+    ],
+    "skin": [
+      37,
+      38
+    ],
+    "eaten": [
+      37
+    ],
+    "edible": [
+      37
+    ],
+    "portion": [
+      37
+    ],
+    "bones": [
+      37,
+      43
+    ],
+    "cannot": [
+      37
+    ],
+    "like": [
+      37
+    ],
+    "left": [
+      37
+    ],
+    "removed": [
+      37
+    ],
+    "side": [
+      38
+    ],
+    "meat": [
+      38,
+      40
+    ],
+    "fillet": [
+      38,
+      39,
+      41
+    ],
+    "figure": [
+      38,
+      39,
+      40
+    ],
+    "over": [
+      38
+    ],
+    "down": [
+      38
+    ],
+    "sawing": [
+      38
+    ],
+    "motion": [
+      38
+    ],
+    "insert": [
+      38
+    ],
+    "blade": [
+      38
+    ],
+    "flip": [
+      38
+    ],
+    "between": [
+      38
+    ],
+    "dull": [
+      39
+    ],
+    "remove": [
+      39,
+      40
+    ],
+    "sides": [
+      39
+    ],
+    "along": [
+      39
+    ],
+    "knife": [
+      39
+    ],
+    "aler": [
+      39
+    ],
+    "spoon": [
+      39
+    ],
+    "scales": [
+      39
+    ],
+    "dorsal": [
+      39
+    ],
+    "tail": [
+      40
+    ],
+    "break": [
+      40
+    ],
+    "away": [
+      40
+    ],
+    "backbone": [
+      40
+    ],
+    "internal": [
+      40
+    ],
+    "organs": [
+      40
+    ],
+    "ready": [
+      40,
+      41
+    ],
+    "skillet": [
+      40
+    ],
+    "finished": [
+      40
+    ],
+    "product": [
+      40
+    ],
+    "working": [
+      40
+    ],
+    "trim": [
+      41
+    ],
+    "yellow": [
+      41
+    ],
+    "advisories": [
+      41
+    ],
+    "eating": [
+      41,
+      43
+    ],
+    "even": [
+      41
+    ],
+    "white": [
+      41
+    ],
+    "fry": [
+      41
+    ],
+    "listed": [
+      41
+    ],
+    "fat": [
+      41
+    ],
+    "fillets": [
+      42
+    ],
+    "numerous": [
+      42
+    ],
+    "bags": [
+      42
+    ],
+    "sealed": [
+      42
+    ],
+    "leaking": [
+      42
+    ],
+    "variety": [
+      42
+    ],
+    "recipes": [
+      42
+    ],
+    "methods": [
+      42
+    ],
+    "plastic": [
+      42
+    ],
+    "freezer": [
+      42
+    ],
+    "cookbooks": [
+      42
+    ],
+    "well": [
+      42
+    ],
+    "cover": [
+      42
+    ],
+    "attach": [
+      43,
+      45
+    ],
+    "complete": [
+      43
+    ],
+    "prepared": [
+      43
+    ],
+    "day": [
+      43
+    ],
+    "dropper": [
+      43
+    ],
+    "tied": [
+      43,
+      45
+    ],
+    "onto": [
+      43,
+      45
+    ],
+    "dressed": [
+      43
+    ],
+    "weight": [
+      43
+    ],
+    "main": [
+      43
+    ],
+    "separate": [
+      43
+    ],
+    "retrieves": [
+      44
+    ],
+    "multifilament": [
+      44
+    ],
+    "device": [
+      44,
+      45
+    ],
+    "together": [
+      44
+    ],
+    "landed": [
+      44
+    ],
+    "process": [
+      44
+    ],
+    "strands": [
+      44
+    ],
+    "several": [
+      44
+    ],
+    "bringing": [
+      44
+    ],
+    "woven": [
+      44
+    ],
+    "playing": [
+      44
+    ],
+    "line;": [
+      45
+    ],
+    "predators": [
+      45
+    ],
+    "small": [
+      45
+    ],
+    "snap-swivel": [
+      45
+    ],
+    "metal": [
+      45
+    ],
+    "reduces": [
+      45
+    ],
+    "number": [
+      45
+    ],
+    "swivel": [
+      45
+    ],
+    "snap": [
+      45
+    ],
+    "respects": [
+      46
+    ],
+    "owners": [
+      46
+    ],
+    "boating": [
+      46
+    ],
+    "property": [
+      46
+    ],
+    "rights": [
+      46
+    ],
+    "supports": [
+      46
+    ],
+    "angling": [
+      46
+    ],
+    "skills": [
+      46
+    ],
+    "efforts": [
+      46
+    ],
+    "others": [
+      46
+    ],
+    "local": [
+      46
+    ],
+    "passes": [
+      46
+    ]
+  },
+  "search_config": {
+    "min_keyword_length": 3,
+    "max_results": 10,
+    "relevance_threshold": 0.1
+  },
+  "ios_integration": {
+    "swift_compatible": true,
+    "core_ml_ready": true,
+    "memory_efficient": true
+  }
+}

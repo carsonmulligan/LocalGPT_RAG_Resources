@@ -1,0 +1,42 @@
+{
+  "package_id": "first_aid_medical",
+  "name": "First Aid & Medical Emergency Guide",
+  "description": "Red Cross certified first aid, CPR, and AED procedures",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:23:49.078496",
+  "source_pdf": "American-Red-Cross-First-Aid-CPR-AED-Participants-Manual.pdf",
+  "vector_database": {
+    "file": "first_aid_medical.vdb.npz",
+    "size_bytes": 3504760,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "first_aid_medical_ios.index.json",
+    "size_bytes": 1228319,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 633,
+    "embedding_dim": 384,
+    "total_embeddings": 633
+  },
+  "offline_priority": "critical",
+  "category": "medical_emergency",
+  "tags": [
+    "first_aid",
+    "medical",
+    "emergency",
+    "cpr",
+    "aed",
+    "health"
+  ],
+  "checksum": {
+    "vdb": "af80b40fd9c0012c5dd48f64433507db8d115be09c0cf29a28ff88d8f976595c",
+    "index": "96fcad8fd8c6753bb2faea9405751adb9c6cbb9e16199b7363e22083ff57a40c"
+  }
+}
