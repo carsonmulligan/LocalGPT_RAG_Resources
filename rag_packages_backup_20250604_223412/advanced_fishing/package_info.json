@@ -1,0 +1,40 @@
+{
+  "package_id": "advanced_fishing",
+  "name": "Advanced Fishing Techniques",
+  "description": "Comprehensive fishing guide with advanced techniques and strategies",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:12.836631",
+  "source_pdf": "basicfishingbook.pdf",
+  "vector_database": {
+    "file": "advanced_fishing.vdb.npz",
+    "size_bytes": 257594,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "advanced_fishing_ios.index.json",
+    "size_bytes": 92940,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 47,
+    "embedding_dim": 384,
+    "total_embeddings": 47
+  },
+  "offline_priority": "medium",
+  "category": "food_procurement",
+  "tags": [
+    "fishing",
+    "advanced_techniques",
+    "food_procurement",
+    "angling"
+  ],
+  "checksum": {
+    "vdb": "9c39f93d41066632b7966766298d54588d794dbf680ae5297a440dfb2d2ec2a1",
+    "index": "2977de9b191c448a32acf5297cf9ffaeedefbc200eb7ffb573149c99f4a9c980"
+  }
+}

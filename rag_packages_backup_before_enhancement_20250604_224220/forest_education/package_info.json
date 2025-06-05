@@ -1,0 +1,40 @@
+{
+  "package_id": "forest_education",
+  "name": "Forest Education & Awareness",
+  "description": "Educational materials for forest awareness and outdoor education",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:10.413926",
+  "source_pdf": "Forestry%20England_Arts%20Material_Lesson%20Plan.pdf",
+  "vector_database": {
+    "file": "forest_education.vdb.npz",
+    "size_bytes": 73894,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "forest_education_ios.index.json",
+    "size_bytes": 27708,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 14,
+    "embedding_dim": 384,
+    "total_embeddings": 14
+  },
+  "offline_priority": "low",
+  "category": "wilderness_skills",
+  "tags": [
+    "forest",
+    "education",
+    "outdoor_education",
+    "awareness"
+  ],
+  "checksum": {
+    "vdb": "0cbd5c390f759e6b02ab8ccca80ed15049d0e7a912b4970869179afe254e9658",
+    "index": "20453fc33d0aab1d0553e2f71fb397c0f0aa2f7618949b666f863807299462ad"
+  }
+}

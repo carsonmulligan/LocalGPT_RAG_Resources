@@ -2,28 +2,38 @@
   "package_id": "essential_knots",
   "name": "Essential Survival Knots",
   "description": "Step-by-step guide to tying essential survival and utility knots",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:23:36.750794",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:40:45.674608",
   "source_pdf": "Step_By_Step_Basic_Knots.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "essential_knots.vdb.npz",
-    "size_bytes": 10016,
+    "size_bytes": 7254,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "essential_knots_ios.index.json",
-    "size_bytes": 4060,
+    "size_bytes": 5135,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
     "num_chunks": 2,
-    "embedding_dim": 384,
-    "total_embeddings": 2
+    "embedding_dim": 768,
+    "total_embeddings": 2,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "high",
   "category": "technical_skills",
@@ -35,7 +45,7 @@
     "utility"
   ],
   "checksum": {
-    "vdb": "2180e8a2a2ad9f74869990597bc03fc021b6b152b63e428b937bdec84431ad00",
-    "index": "0dd68addc48c73096acbf525fcdeabe1a946bed52adada81bf3f1dfce084338a"
+    "vdb": "255191ee18f498ef5ae7247d1d57f763e002e8771279144cf4876dbbcca56a03",
+    "index": "3b336af533cd23bf4786b839ad21a59d0fd294b6ee277d6c3c475d3f717595fd"
   }
 }

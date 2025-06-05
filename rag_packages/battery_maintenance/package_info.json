@@ -2,28 +2,38 @@
   "package_id": "battery_maintenance",
   "name": "Battery Reconditioning Guide",
   "description": "Techniques for reconditioning and maintaining batteries",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:23:51.337995",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:40:57.190600",
   "source_pdf": "BatteryReconditioning.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "battery_maintenance.vdb.npz",
-    "size_bytes": 241734,
+    "size_bytes": 129975,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "battery_maintenance_ios.index.json",
-    "size_bytes": 85918,
+    "size_bytes": 91015,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 44,
-    "embedding_dim": 384,
-    "total_embeddings": 44
+    "num_chunks": 41,
+    "embedding_dim": 768,
+    "total_embeddings": 41,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "medium",
   "category": "technical_skills",
@@ -35,7 +45,7 @@
     "power"
   ],
   "checksum": {
-    "vdb": "1c85162c6531e40912c2a1d4d58ecb3f8f13750e66f053e163cd79a34aff579d",
-    "index": "bd45d009257c0bcf86a92738f76146e85fb80c3380f519b36c52913699a29bc5"
+    "vdb": "fd2a5d15520edae0d2095a8475db74b7496777380ceb862e2e82cd3a5f4525c2",
+    "index": "7fcc08494067624a0a8a03c40dba8fd2690185740cc2822c5a5061468447132f"
   }
 }

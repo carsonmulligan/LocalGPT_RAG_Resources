@@ -1,0 +1,253 @@
+{
+  "package_id": "advanced_battery_care",
+  "format_version": "1.0",
+  "optimized_for": "ios_swift",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "ODYSSEY\u00ae Battery Reconditioning Charge Procedure\n\nScope:\n\nLead-acid batteries can develop reduced delivered capacity / performance after prolonged periods of storage, especially if the batteries were not periodically boost charged or left on a float / maintenance charger during the time of storage. The cause of this reduced capacity is the development of sulfation of some of the oxide on the plates. Sulfated oxide is discharged oxide and can be challenging to covert back to charged oxide known as lead-dioxide. Left unconverted, this discharged lead sulfate can develop even more hardened sulfate and could be non-reversible.\n\nAction Procedure:\n\nTo hopefully reestablish full deliverable capacity, the following procedure is offered as a \u201creconditioning charge cycle procedure.\u201d\n\n1. Discharge the battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with a hand-held digital volt meter. Once 10.0V is achieved, discon",
+      "keywords": [
+        "after",
+        "capacity",
+        "performance",
+        "odyssey\u00ae",
+        "battery",
+        "develop",
+        "prolonged",
+        "batteries",
+        "were",
+        "procedure",
+        "scope:",
+        "periods",
+        "lead-acid",
+        "reduced",
+        "reconditioning",
+        "charge",
+        "storage",
+        "delivered",
+        "especially"
+      ],
+      "length": 1000,
+      "preview": "ODYSSEY\u00ae Battery Reconditioning Charge Procedure\n\nScope:\n\nLead-acid batteries can develop reduced de..."
+    },
+    {
+      "chunk_id": 1,
+      "text": "e battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with a hand-held digital volt meter. Once 10.0V is achieved, disconnect the electrical load or turn off the headlights or other electrical system or device.\n\n2. Begin recharging with an approved charger as listed at www.odysseybattery.com and with appropriate amperage for the capacity of the battery, minimum 40% amperage of the 10 hour capacity rating of the battery. Utilizing chargers that achieve 14.7V during charge and 13.6V in float are ideal. Monitor the batteries terminal voltage with the charger operating to assure 15.0V is not exceeded at any time. Charge the battery until the charging amperage seems to be near zero amps and if the charger has a 13.6V float, float charge for 8-10 hours.\n\n3. If the battery gets hot to the touch (exceeds 125\u2070F), stop charging and allow to cool. Once cool, begin charging again until charge complete.\n\n4. Charging time",
+      "keywords": [
+        "measured",
+        "using",
+        "some",
+        "load",
+        "vehicle",
+        "electrical",
+        "under",
+        "connecting",
+        "10.0v",
+        "meter",
+        "battery",
+        "digital",
+        "volt",
+        "head",
+        "discharge",
+        "lights",
+        "with",
+        "hand-held"
+      ],
+      "length": 1000,
+      "preview": "e battery using the vehicle head lights or connecting some electrical load to the battery and discha..."
+    },
+    {
+      "chunk_id": 2,
+      "text": "float, float charge for 8-10 hours.\n\n3. If the battery gets hot to the touch (exceeds 125\u2070F), stop charging and allow to cool. Once cool, begin charging again until charge complete.\n\n4. Charging times can be 6-10 hours depending on the charger amperage rating to the amp-hour rating of the battery. As an example, a 10 amp charger on an ODYSSEY PC925 would take approximately 7-8 hours to fully recharge. 5. Performing more than one discharge and recharge cycle is beneficial to increasing restored capacity.\n\nFor questions, please call 660-429-2165 and ask for ODYSSEY Support.\n\nMarch, 2016",
+      "keywords": [
+        "gets",
+        "again",
+        "touch",
+        "cool",
+        "begin",
+        "until",
+        "hours",
+        "charging",
+        "125\u2070f",
+        "stop",
+        "8-10",
+        "float",
+        "battery",
+        "exceeds",
+        "charge",
+        "allow",
+        "once"
+      ],
+      "length": 591,
+      "preview": "float, float charge for 8-10 hours.\n\n3. If the battery gets hot to the touch (exceeds 125\u2070F), stop c..."
+    }
+  ],
+  "keyword_lookup": {
+    "after": [
+      0
+    ],
+    "capacity": [
+      0
+    ],
+    "performance": [
+      0
+    ],
+    "odyssey\u00ae": [
+      0
+    ],
+    "battery": [
+      0,
+      1,
+      2
+    ],
+    "develop": [
+      0
+    ],
+    "prolonged": [
+      0
+    ],
+    "batteries": [
+      0
+    ],
+    "were": [
+      0
+    ],
+    "procedure": [
+      0
+    ],
+    "scope:": [
+      0
+    ],
+    "periods": [
+      0
+    ],
+    "lead-acid": [
+      0
+    ],
+    "reduced": [
+      0
+    ],
+    "reconditioning": [
+      0
+    ],
+    "charge": [
+      0,
+      2
+    ],
+    "storage": [
+      0
+    ],
+    "delivered": [
+      0
+    ],
+    "especially": [
+      0
+    ],
+    "measured": [
+      1
+    ],
+    "using": [
+      1
+    ],
+    "some": [
+      1
+    ],
+    "load": [
+      1
+    ],
+    "vehicle": [
+      1
+    ],
+    "electrical": [
+      1
+    ],
+    "under": [
+      1
+    ],
+    "connecting": [
+      1
+    ],
+    "10.0v": [
+      1
+    ],
+    "meter": [
+      1
+    ],
+    "digital": [
+      1
+    ],
+    "volt": [
+      1
+    ],
+    "head": [
+      1
+    ],
+    "discharge": [
+      1
+    ],
+    "lights": [
+      1
+    ],
+    "with": [
+      1
+    ],
+    "hand-held": [
+      1
+    ],
+    "gets": [
+      2
+    ],
+    "again": [
+      2
+    ],
+    "touch": [
+      2
+    ],
+    "cool": [
+      2
+    ],
+    "begin": [
+      2
+    ],
+    "until": [
+      2
+    ],
+    "hours": [
+      2
+    ],
+    "charging": [
+      2
+    ],
+    "125\u2070f": [
+      2
+    ],
+    "stop": [
+      2
+    ],
+    "8-10": [
+      2
+    ],
+    "float": [
+      2
+    ],
+    "exceeds": [
+      2
+    ],
+    "allow": [
+      2
+    ],
+    "once": [
+      2
+    ]
+  },
+  "search_config": {
+    "min_keyword_length": 3,
+    "max_results": 10,
+    "relevance_threshold": 0.1
+  },
+  "ios_integration": {
+    "swift_compatible": true,
+    "core_ml_ready": true,
+    "memory_efficient": true
+  }
+}

@@ -2,28 +2,38 @@
   "package_id": "scout_knots",
   "name": "Boy Scout Essential Knots",
   "description": "Six fundamental knots every outdoorsman should know",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:23:38.113405",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:40:45.979798",
   "source_pdf": "six_boy_scout_knots.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "scout_knots.vdb.npz",
-    "size_bytes": 27012,
+    "size_bytes": 16886,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "scout_knots_ios.index.json",
-    "size_bytes": 10293,
+    "size_bytes": 11969,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
     "num_chunks": 5,
-    "embedding_dim": 384,
-    "total_embeddings": 5
+    "embedding_dim": 768,
+    "total_embeddings": 5,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "medium",
   "category": "technical_skills",
@@ -34,7 +44,7 @@
     "outdoor_skills"
   ],
   "checksum": {
-    "vdb": "f1cf3d3cd34a27970977ce9164d894fb0dde96d9e5b7c60438867d7f9412ebc3",
-    "index": "85fe21bb2e964c4dd0783c23b246015249b0e7771ecd9ad01affb6b191cc6301"
+    "vdb": "9ae094e0f444c4e74bb9c7b473b09f3bd72d1d85c87ddeab27539aae7e8b058b",
+    "index": "4935a3edb9340fac413891f9239aaa61938d050c13485b24348fc209be951631"
   }
 }

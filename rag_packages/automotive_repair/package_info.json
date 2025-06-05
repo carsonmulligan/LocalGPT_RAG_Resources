@@ -2,28 +2,38 @@
   "package_id": "automotive_repair",
   "name": "Automotive Repair & Maintenance",
   "description": "Vehicle repair and maintenance guide for emergency situations",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:24:22.904531",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:19.442598",
   "source_pdf": "Crawfords_Auto_Repair_Guide.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "automotive_repair.vdb.npz",
-    "size_bytes": 860288,
+    "size_bytes": 440642,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "automotive_repair_ios.index.json",
-    "size_bytes": 301724,
+    "size_bytes": 309861,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 156,
-    "embedding_dim": 384,
-    "total_embeddings": 156
+    "num_chunks": 140,
+    "embedding_dim": 768,
+    "total_embeddings": 140,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "medium",
   "category": "technical_skills",
@@ -35,7 +45,7 @@
     "technical"
   ],
   "checksum": {
-    "vdb": "6b4241ba6c5475e8b329faa66e50fcc3f6e77fdaeffb8417a024be08d1e55965",
-    "index": "83b66729e0f182b36cd3df708a75e5cec297116c99a83e2b1156351aeb67e4a0"
+    "vdb": "1de150ff4c614b265c6366c96d6511ea0c261b033629c4c52701bea1a50c3b57",
+    "index": "d1702c0d4244c2748905e60fc1fb6aed32bd4ffea9fbac325bcaa43d35277c4d"
   }
 }

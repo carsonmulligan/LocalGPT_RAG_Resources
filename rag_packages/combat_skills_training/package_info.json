@@ -2,28 +2,38 @@
   "package_id": "combat_skills_training",
   "name": "Combat Skills Training Manual",
   "description": "Military field manual for combat skills and tactical training",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:24:28.662646",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:23.722538",
   "source_pdf": "Fm21-75_15%2884%29.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "combat_skills_training.vdb.npz",
-    "size_bytes": 1631240,
+    "size_bytes": 844825,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "combat_skills_training_ios.index.json",
-    "size_bytes": 567747,
+    "size_bytes": 593699,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 295,
-    "embedding_dim": 384,
-    "total_embeddings": 295
+    "num_chunks": 267,
+    "embedding_dim": 768,
+    "total_embeddings": 267,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "medium",
   "category": "military_tactical",
@@ -35,7 +45,7 @@
     "field_manual"
   ],
   "checksum": {
-    "vdb": "3c1c322896fe3e70c2a21b28bef95914ffcf5560bab7794b48203198ae05487d",
-    "index": "c922ce8692e6d27658dfa55e25db6bf3d5eb0c8a297e7ed958799e25880f8c91"
+    "vdb": "c4601764d9c708a06d0b647520fa9d4fda16d4b8e3b71604b3e737cf98d55809",
+    "index": "f1dbcdf01dd9efb05989ca95b3452427ebbd7d29e002abc2e4dc686086ad080d"
   }
 }

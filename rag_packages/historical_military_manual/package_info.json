@@ -2,28 +2,38 @@
   "package_id": "historical_military_manual",
   "name": "Historical Military Field Manual",
   "description": "Vintage military field manual with classic survival techniques",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:25:01.718899",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:51.626559",
   "source_pdf": "fm20_20_1960.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "historical_military_manual.vdb.npz",
-    "size_bytes": 1231160,
+    "size_bytes": 663270,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "historical_military_manual_ios.index.json",
-    "size_bytes": 463170,
+    "size_bytes": 466716,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 223,
-    "embedding_dim": 384,
-    "total_embeddings": 223
+    "num_chunks": 209,
+    "embedding_dim": 768,
+    "total_embeddings": 209,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "low",
   "category": "military_tactical",
@@ -34,7 +44,7 @@
     "field_manual"
   ],
   "checksum": {
-    "vdb": "65f79e2b7a6eea72b546ccca2624cb8ba01e9b31f1ab5a0dfdbf2db3be1379c4",
-    "index": "5058c6d8fc20d037e1a9a5fd7f3ca4e1e3051cf9905d0e2e3257d4c9cdd6cc22"
+    "vdb": "73879e7d2832d0d122395fb58387af3ec04e53cbec2d2fde261b382016ef1999",
+    "index": "2c09fdd22cc946946ff3accf82bf2aef319473c79885299975ea19a152d68612"
   }
 }

@@ -1,0 +1,42 @@
+{
+  "package_id": "edible_wild_plants",
+  "name": "Edible Wild Plants Guide",
+  "description": "Army guide to identifying and using edible wild plants for survival",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:16.282860",
+  "source_pdf": "The_Complete_Guide_to_Edible_Wild_Plants_-_Department_of_the_Army.pdf",
+  "vector_database": {
+    "file": "edible_wild_plants.vdb.npz",
+    "size_bytes": 821176,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "edible_wild_plants_ios.index.json",
+    "size_bytes": 290940,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 149,
+    "embedding_dim": 384,
+    "total_embeddings": 149
+  },
+  "offline_priority": "high",
+  "category": "food_procurement",
+  "tags": [
+    "plants",
+    "foraging",
+    "food",
+    "wild_edibles",
+    "survival",
+    "army"
+  ],
+  "checksum": {
+    "vdb": "f978786a2171d476ac0774399036efbd9020f3002683c803605acba3c4cbcdaf",
+    "index": "7bd2a055655e9cdf5a2843444eb52512e8d5477b68828f34b37c4f113eb8471b"
+  }
+}

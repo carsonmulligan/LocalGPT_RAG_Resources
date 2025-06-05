@@ -1,865 +1,988 @@
 {
   "package_id": "emergency_preparedness",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "C\n\nM\n\nY\n\nCM\n\nMY\n\nCY\n\nCMY\n\nK\n\nEmergencyPreparednessChecklist_pg1.pdf 10/12/2006 4:49:58 PM EmergencyPreparednessChecklist_pg1.pdf 10/12/2006 4:49:58 PM\n\n\u2713TORNADO \u2022 FLASH FLOOD \u2022 EARTHQUAKE \u2022 WINTER STORM \u2022 HURRICANE \u2022 FIRE \u2022 HAZARDOUS MATERIALS SPILL\n\nEmergency Preparedness Checklist T\n\nhe next time disaster strikes, you may not have much time to act. Prepare now for\n\nchecklist will help you get started. Discuss these ideas with your family, then prepare an emergency plan. Post the plan where every- one will see it\u2014on the refrigerator or bulletin board.\n\nFor additional information about how to prepare for hazards in your commu- nity, contact your local emergency management or civil defense office and American Red Cross chapter.\n\na sudden emergency.\n\nLearn how to protect your- self and cope with disaster by planning ahead. This\n\nCall Your Emergency Management Office or American Red Cross Chapter \u274f Find out which disasters could\n\noccur in your area.\n\n\u274f Ask how to prepare for each disaster",
+      "text": "TORNADO  FLASH FLOOD  EARTHQUAKE  WINTER STORM  HURRICANE  FIRE  HAZARDOUS MATERIALS SPILL he next time disaster strikes, you may not have much time to act. Prepare now for a sudden emergency. Learn how to protect your- self and cope with disaster by planning ahead. ThisTchecklist will help you get started. Discuss these ideas with your family, then prepare an emergency plan. Post the plan where every- one will see iton the refrigerator or bulletin board.For additional information about how to prepare for hazards in your commu- nity, contact your local emergency management or civil defense office and American Red Cross chapter. Emergency Checklist Prepare a Disaster Supplies Kit Assemble supplies you might need in an evacuation. Store them in an easy-to-carry container such as a backpack or duffle bag. Include: A supply of water (one gallon per person per day). Store water in sealed, unbreakable containers. Identify the storage date and replace every six months.",
       "keywords": [
-        "emergencypreparednesschecklist_pg1.pdf",
-        "preparedness",
-        "earthquake",
-        "checklist",
-        "10/12/2006",
-        "hurricane",
-        "spill",
-        "storm",
-        "materials",
-        "emergency",
+        "one",
+        "earthquak",
+        "next",
+        "per",
+        "may",
         "winter",
-        "fire",
-        "\u2713tornado",
-        "4:49:58",
-        "flood",
-        "hazardous",
-        "flash"
+        "famili",
+        "much",
+        "contain",
+        "disast",
+        "backpack",
+        "identifi",
+        "cope",
+        "hydration",
+        "local",
+        "everi",
+        "suppli",
+        "unbreak",
+        "spark",
+        "day",
+        "ignition",
+        "protect",
+        "manag",
+        "see",
+        "store"
       ],
-      "length": 1000,
-      "preview": "C\n\nM\n\nY\n\nCM\n\nMY\n\nCY\n\nCMY\n\nK\n\nEmergencyPreparednessChecklist_pg1.pdf 10/12/2006 4:49:58 PM EmergencyP..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "fire",
+          "water",
+          "signaling"
+        ]
+      },
+      "length": 976,
+      "preview": "TORNADO  FLASH FLOOD  EARTHQUAKE  WINTER STORM  HURRICANE  FIRE  HAZARDOUS MATERIALS SPILL he next time disaster strikes, you may not have much time t..."
     },
     {
       "chunk_id": 1,
-      "text": "with disaster by planning ahead. This\n\nCall Your Emergency Management Office or American Red Cross Chapter \u274f Find out which disasters could\n\noccur in your area.\n\n\u274f Ask how to prepare for each disaster. \u274f Ask how you would be warned of\n\nan emergency.\n\n\u274f Learn your community\u2019s evacuation routes.\n\n\u274f Ask about special assistance for elderly or disabled persons.\n\nAlso... \u274f Ask your workplace about\n\nemergency plans.\n\n\u274f Learn about emergency plans for your children\u2019s school or day care center.\n\nEmergency Checklist \u274f Discuss what to do about power outages and personal injuries. \u274f Draw a floor plan of your home.\n\nMark two escape routes from each room.\n\n\u274f Show family members how to turn off the water, gas and electricity at main switches when necessary. \u274f Post emergency telephone numbers\n\nnear telephones.\n\n\u274f Teach children how and when to\n\ncall 911, police and fire.\n\n\u274f Instruct household members to turn\n\non the radio for emergency information. \u274f Pick one out-of-state and one local friend or rela",
+      "text": "Identify the storage date and replace every six months. A supply of non-perishable packaged or canned food and a non-electric can opener. A change of clothing, rain gear and sturdy shoes. Blankets or sleeping bags. A first aid kit and prescription medications. An extra pair of glasses. A battery-powered radio, flashlight and plenty of extra batteries. Credit cards and cash. An extra set of car keys. A list of family physicians. A list of important family informa- tion; the style and serial number of medical devices such as pacemakers. Special items for infants, elderly or disabled family members.Find out which disasters could occur in your area. Ask how to prepare for each disaster. Ask how you would be warned of an emergency. Learn your communitys evacuation routes. Ask about special assistance for elderly or disabled persons. Also... Ask your workplace about emergency plans. Learn about emergency plans for your childrens school or day care center.",
       "keywords": [
-        "disasters",
-        "which",
-        "cross",
-        "area",
-        "management",
-        "american",
-        "with",
-        "call",
-        "disaster",
-        "chapter",
-        "find",
-        "your",
-        "office",
-        "occur",
-        "planning",
+        "flashlight",
+        "item",
+        "number",
+        "assist",
+        "serial",
+        "treatment",
+        "cloth",
+        "list",
+        "famili",
+        "disast",
+        "ration",
+        "identifi",
+        "cash",
+        "import",
+        "everi",
+        "workplac",
+        "suppli",
+        "children",
+        "card",
         "could",
-        "this",
-        "emergency",
-        "ahead"
+        "day",
+        "credit",
+        "school",
+        "care",
+        "first"
       ],
-      "length": 1000,
-      "preview": "with disaster by planning ahead. This\n\nCall Your Emergency Management Office or American Red Cross C..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "food"
+        ]
+      },
+      "length": 963,
+      "preview": "Identify the storage date and replace every six months. A supply of non-perishable packaged or canned food and a non-electric can opener. A change of ..."
     },
     {
       "chunk_id": 2,
-      "text": "hones.\n\n\u274f Teach children how and when to\n\ncall 911, police and fire.\n\n\u274f Instruct household members to turn\n\non the radio for emergency information. \u274f Pick one out-of-state and one local friend or relative for family members to call if separated during a disaster (it is often easier to call out-of-state than within the affected area). \u274f Teach children your out-of-state contact\u2019s phone numbers.\n\nPrepare a Disaster Supplies Kit Assemble supplies you might need in an evacuation. Store them in an easy-to-carry container such as a backpack or duffle bag.\n\nInclude: \u274f A supply of water (one gallon per person per day). Store water in sealed, unbreakable containers. Identify the storage date and replace every six months.\n\n\u274f A supply of non-perishable packaged or canned food and a non-electric can opener.\n\n\u274f A change of clothing, rain gear and\n\nsturdy shoes.\n\n\u274f Blankets or sleeping bags. \u274f A first aid kit and prescription\n\nmedications.\n\n\u274f An extra pair of glasses. \u274f A battery-powered radio, flash",
+      "text": "Learn about emergency plans for your childrens school or day care center. Create an Emergency Plan Meet with household members to discuss the dangers of fire, severe weather, earthquakes and other emergencies. Explain how to respond to each. Find the safe spots in your home for each type of disaster.Discuss what to do about power outages and personal injuries. Draw a floor plan of your home. Mark two escape routes from each room. Show family members how to turn off the water, gas and electricity at main switches when necessary. Post emergency telephone numbers near telephones. Teach children how and when to call 911, police and fire. Instruct household members to turn on the radio for emergency information. Pick one out-of-state and one local friend or relative for family members to call if separated during a disaster (it is often easier to call out-of-state than within the affected area). Teach children your out-of-state contacts phone numbers. Pick two emergency meeting places.",
       "keywords": [
-        "members",
-        "friend",
-        "911",
-        "out-of-state",
-        "relative",
-        "hones",
-        "children",
-        "pick",
-        "call",
-        "instruct",
-        "household",
-        "fire",
-        "turn",
-        "information",
-        "police",
-        "when",
-        "radio",
-        "emergency",
+        "emerg",
+        "one",
+        "earthquak",
+        "mark",
+        "number",
+        "find",
+        "famili",
+        "power",
+        "disast",
+        "weather",
+        "member",
+        "outofst",
+        "hydration",
         "local",
-        "teach"
+        "children",
+        "spark",
+        "day",
+        "ignition",
+        "school",
+        "care",
+        "near",
+        "danger",
+        "respond",
+        "fire",
+        "household"
       ],
-      "length": 1000,
-      "preview": "hones.\n\n\u274f Teach children how and when to\n\ncall 911, police and fire.\n\n\u274f Instruct household members t..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "fire",
+          "water"
+        ]
+      },
+      "length": 994,
+      "preview": "Learn about emergency plans for your childrens school or day care center. Create an Emergency Plan Meet with household members to discuss the dangers ..."
     },
     {
       "chunk_id": 3,
-      "text": "ener.\n\n\u274f A change of clothing, rain gear and\n\nsturdy shoes.\n\n\u274f Blankets or sleeping bags. \u274f A first aid kit and prescription\n\nmedications.\n\n\u274f An extra pair of glasses. \u274f A battery-powered radio, flashlight and plenty of extra batteries.\n\nCreate an Emergency Plan \u274f Meet with household members to discuss the dangers of fire, severe weather, earthquakes and other emergencies. Explain how to respond to each.\n\n\u274f Find the safe spots in your home\n\n\u274f Pick two emergency meeting places. 1) A place near your home in case\n\nof a fire.\n\n2) A place outside your neighbor- hood in case you cannot return home after a disaster.\n\n\u274f Take a basic first aid and CPR class. \u274f Keep family records in a water and\n\n\u274f Credit cards and cash. \u274f An extra set of car keys. \u274f A list of family physicians. \u274f A list of important family informa- tion; the style and serial number of medical devices such as pacemakers. \u274f Special items for infants, elderly or\n\ndisabled family members.\n\nfor each type of disaster.\n\nfire-proof con",
+      "text": "Pick two emergency meeting places. 1)A place near your home in case of a fire. 2)A place outside your neighbor- hood in case you cannot return home after a disaster. Take a basic first aid and CPR class. Keep family records in a water and fire-proof container.Emergency Preparedness Checklist Call Your Emergency Management Office or American Red Cross ChapterC M Y CM MY CY CMY KEmergencyPreparednessChecklist_pg1.pdf 10122006 4:49:58 PMEmergencyPreparednessChecklist_pg1.pdf 10122006 4:49:58 PM Escape Plan n a fire or other emergency, you may need to evacuate your house, apartment or mobile home on a moments notice. You should be ready to get out fast. Develop an escape plan by drawing a floor plan of your residence. Using a black or blue pen, show the location of doors, windows, stairways, and large furniture. Indicate the location of emergency supplies (Disaster Supplies Kit), fire extinguishers, smoke detectors, collapsible ladders, first aid kits and utility shut off points.",
       "keywords": [
-        "rain",
-        "sleeping",
-        "clothing",
-        "ener",
-        "blankets",
-        "bags",
-        "prescription",
-        "shoes",
-        "plenty",
-        "medications",
-        "pair",
-        "change",
-        "battery-powered",
-        "glasses",
-        "flashlight",
+        "prepared",
+        "may",
+        "famili",
+        "disast",
+        "hydration",
+        "outsid",
+        "notic",
+        "suppli",
+        "window",
+        "spark",
+        "take",
+        "ignition",
+        "cmi",
+        "hood",
+        "manag",
+        "near",
         "first",
-        "radio",
-        "extra",
-        "sturdy",
-        "gear"
+        "pen",
+        "fire",
+        "cpr",
+        "purification",
+        "use",
+        "critical",
+        "resid",
+        "keep"
       ],
-      "length": 1000,
-      "preview": "ener.\n\n\u274f A change of clothing, rain gear and\n\nsturdy shoes.\n\n\u274f Blankets or sleeping bags. \u274f A first ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "fire",
+          "water",
+          "knots"
+        ]
+      },
+      "length": 990,
+      "preview": "Pick two emergency meeting places. 1)A place near your home in case of a fire. 2)A place outside your neighbor- hood in case you cannot return home af..."
     },
     {
       "chunk_id": 4,
-      "text": "t family informa- tion; the style and serial number of medical devices such as pacemakers. \u274f Special items for infants, elderly or\n\ndisabled family members.\n\nfor each type of disaster.\n\nfire-proof container.\n\nC\n\nM\n\nY\n\nCM\n\nMY\n\nCY\n\nCMY\n\nK\n\nEmergencyPreparednessChecklist_pg2.pdf 10/12/2006 4:56:52 PM EmergencyPreparednessChecklist_pg2.pdf 10/12/2006 4:56:52 PM\n\nEmergency Plan Out-of-State Contact\n\nName\n\nCity\n\nTelephone (Day)\n\n(Evening)\n\nLocal Contact\n\nName\n\nTelephone (Day)\n\n(Evening)\n\nNearest Relative\n\nName\n\nCity\n\nTelephone(Day)\n\n(Evening)\n\nFamily Work Numbers\n\nFather\n\nMother\n\nOther\n\nEmergency Telephone Numbers In a life threatening emergency, dial 911 or the local emergency medical services system number\n\nPolice Department\n\nFire Department\n\nHospital\n\nFamily Physicians\n\nName\n\nTelephone\n\nName\n\nTelephone\n\nName\n\nTelephone\n\nReunion Locations\n\n1. Right outside your home\n\n2. Away from the neighborhood, in case you cannot return home\n\nAddress\n\nTelephone\n\nRoute to try first\n\nEscape Plan I\n\nn a fi",
+      "text": "Indicate the location of emergency supplies (Disaster Supplies Kit), fire extinguishers, smoke detectors, collapsible ladders, first aid kits and utility shut off points. Next, use a colored pen to draw a broken line charting at least two escape routes from each room. Finally, mark a place outside of the home where household members should meet in case of fire. Be sure to include important points outside such as garages, patios, stairways, elevators, driveways and porches. If your home has more than two floors, use an additional sheet of paper.",
       "keywords": [
-        "informa-",
-        "members",
-        "pacemakers",
-        "serial",
-        "each",
-        "medical",
-        "devices",
-        "disaster",
-        "infants",
-        "elderly",
-        "style",
-        "special",
-        "family",
-        "such",
-        "items",
-        "disabled",
-        "number",
-        "tion;",
-        "type"
+        "broken",
+        "next",
+        "mark",
+        "least",
+        "fire",
+        "util",
+        "household",
+        "use",
+        "crisis",
+        "smoke",
+        "urgent",
+        "critical",
+        "draw",
+        "tinder",
+        "driveway",
+        "floor",
+        "addit",
+        "emergency",
+        "disast",
+        "patio",
+        "escap",
+        "paper",
+        "two",
+        "meet",
+        "locat"
       ],
-      "length": 1000,
-      "preview": "t family informa- tion; the style and serial number of medical devices such as pacemakers. \u274f Special..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "fire"
+        ]
+      },
+      "length": 550,
+      "preview": "Indicate the location of emergency supplies (Disaster Supplies Kit), fire extinguishers, smoke detectors, collapsible ladders, first aid kits and util..."
     },
     {
       "chunk_id": 5,
-      "text": "Telephone\n\nName\n\nTelephone\n\nReunion Locations\n\n1. Right outside your home\n\n2. Away from the neighborhood, in case you cannot return home\n\nAddress\n\nTelephone\n\nRoute to try first\n\nEscape Plan I\n\nn a fire or other emergency, you may need to evacuate your house, apartment or mobile home on a moment\u2019s notice. You should be ready to get out fast. Develop an escape plan by drawing a floor plan of your residence. Using a black or blue pen, show the location of doors, windows, stairways, and large furniture. Indicate the location of emergency supplies (Disaster Supplies Kit), fire extinguishers, smoke detectors, collapsible ladders, first aid kits and utility shut off points. Next, use a colored pen to draw a broken line charting at least two escape routes from each room. Finally, mark a place outside of the home where household members should meet in case of fire. Be sure to include important points outside such as garages, patios, stairways, elevators, driveways and porches. If your home has",
+      "text": "If your home has more than two floors, use an additional sheet of paper. Practice emergency evacuation drills with all household members at least two times each year.Emergency Plan Out-of-State Con tact Name City Telephone(Day) (Evening) Local Con tact Name Telephone (Day) (Evening) Neare st Relative Name City Telephone(Day) (Evening) Family Work Numbers Father Mother Other Emergency Telephone Numbers In a life threatening emergency, dial 911 or the local emergency medical services system number Police Department Fire Department Hospital Family Physicians Name Telephone Name Telephone Name Telephone Reunion Locations 1. Right outside your home 2.",
       "keywords": [
-        "home",
-        "return",
-        "from",
-        "case",
-        "first",
-        "cannot",
-        "your",
-        "neighborhood",
-        "address",
-        "name",
-        "telephone",
-        "outside",
-        "reunion",
-        "route",
+        "depart",
+        "servic",
+        "drill",
+        "least",
+        "fire",
+        "household",
+        "crisis",
+        "use",
+        "practic",
+        "number",
+        "health",
+        "urgent",
+        "critical",
+        "treatment",
+        "tinder",
+        "even",
+        "healing",
+        "famili",
+        "floor",
+        "addit",
         "right",
-        "locations",
-        "away"
+        "emergency",
+        "medicine",
+        "paper",
+        "citi"
       ],
-      "length": 999,
-      "preview": "Telephone\n\nName\n\nTelephone\n\nReunion Locations\n\n1. Right outside your home\n\n2. Away from the neighbor..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "fire"
+        ]
+      },
+      "length": 654,
+      "preview": "If your home has more than two floors, use an additional sheet of paper. Practice emergency evacuation drills with all household members at least two ..."
     },
     {
       "chunk_id": 6,
-      "text": "side of the home where household members should meet in case of fire. Be sure to include important points outside such as garages, patios, stairways, elevators, driveways and porches. If your home has more than two floors, use an additional sheet of paper. Practice emergency evacuation drills with all household members at least two times each year.\n\nExample: Floor one\n\nC\n\nM\n\nY\n\nCM\n\nMY\n\nCY\n\nCMY\n\nK\n\nEmergencyPreparednessChecklist_pg3.pdf 10/12/2006 4:59:19 PM EmergencyPreparednessChecklist_pg3.pdf 10/12/2006 4:59:19 PM\n\nFloor Plan\n\nFloor One\n\nFloor Two\n\nNormal Exit Route\n\nEmergency Exit Routes\n\nFire Extinguisher\n\nSmoke Detectors\n\nDisaster Supplies Kit\n\nDoors\n\nCollapsible Ladder\n\nReunion Location (Outside)\n\nStairways\n\nUtility Shut Off\n\nWindows\n\nFirst Aid Kit\n\nC\n\nM\n\nY\n\nCM\n\nMY\n\nCY\n\nCMY\n\nK\n\nEmergencyPreparednessChecklist_pg4.pdf 10/13/2006 3:33:23 PM EmergencyPreparednessChecklist_pg4.pdf 10/13/2006 3:33:23 PM\n\nHome Hazard Hunt In a disaster, ordinary items in the home can cause injury and d",
+      "text": "Right outside your home 2. Away from the neighborhood, in case you cannot return home Address Telephone Route to try firstExample: Floor oneI C M Y CM MY CY CMY KEmergencyPreparednessChecklist_pg2.pdf 10122006 4:56:52 PMEmergencyPreparednessChecklist_pg2.pdf 10122006 4:56:52 PM Floor One Floor TwoFloor Plan Stairways Utility Shut Off Windo ws First Aid KitDisaster Supplies Kit Doors Collapsible Ladder Reunion Location (Outside)Normal Exit Route Emergency Exit Routes Fire Extinguisher Smoke DetectorsC M Y CM MY CY CMY KEmergencyPreparednessChecklist_pg3.pdf 10122006 4:59:19 PMEmergencyPreparednessChecklist_pg3.pdf 10122006 4:59:19 PM Maps, Shovel, Flares Tire repair kit and pump Fire Safety Plan two escape routes out of each room. Practice fire drills at least twice a year. Teach family members to stay low to the ground when escaping from a fire. Teach family members never to open doors that are hot. In a fire, feel the bottom of the door with the palm of your hand.",
       "keywords": [
-        "side",
-        "home",
-        "should",
-        "driveways",
-        "members",
-        "sure",
-        "include",
-        "outside",
-        "case",
-        "important",
-        "patios",
-        "household",
-        "where",
+        "one",
+        "practic",
+        "kemergencypreparednesschecklist_pg3pdf",
+        "firstexampl",
+        "famili",
+        "member",
+        "outsid",
+        "hot",
+        "flare",
+        "suppli",
+        "tire",
+        "spark",
+        "neighborhood",
+        "ignition",
+        "low",
+        "cmi",
+        "first",
+        "shovel",
+        "twice",
+        "pmemergencypreparednesschecklist_pg3pdf",
         "fire",
-        "points",
-        "stairways",
-        "elevators",
-        "meet",
-        "such",
-        "garages"
+        "critical",
+        "normal",
+        "right",
+        "escap"
       ],
-      "length": 1000,
-      "preview": "side of the home where household members should meet in case of fire. Be sure to include important p..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "fire",
+          "navigation"
+        ]
+      },
+      "length": 979,
+      "preview": "Right outside your home 2. Away from the neighborhood, in case you cannot return home Address Telephone Route to try firstExample: Floor oneI C M Y CM..."
     },
     {
       "chunk_id": 7,
-      "text": "gencyPreparednessChecklist_pg4.pdf 10/13/2006 3:33:23 PM EmergencyPreparednessChecklist_pg4.pdf 10/13/2006 3:33:23 PM\n\nHome Hazard Hunt In a disaster, ordinary items in the home can cause injury and damage. Anything that can move, fall, break or cause a fire is a potential hazard. \u274f Repair defective electrical wiring and leaky gas connections. \u274f Fasten shelves securely and brace\n\noverhead light fixtures.\n\n\u274f Place large, heavy objects on lower\n\nshelves.\n\n\u274f Hang pictures and mirrors away\n\nfrom beds.\n\n\u274f Strap water heater to wall studs. \u274f Repair cracks in ceilings or\n\nfoundations.\n\n\u274f Store weed killers, pesticides and flammable products away from heat sources.\n\n\u274f Place oily polishing rags or waste in\n\ncovered metal cans.\n\n\u274f Clean and repair chimneys, flue\n\npipes, vent connectors and gas vents.\n\nIf You Need to Evacuate \u274f Listen to a battery powered radio for the location of emergency shelters. Follow instructions of local officials.\n\n\u274f Wear protective clothing and\n\nsturdy shoes.\n\n\u274f Take yo",
+      "text": "In a fire, feel the bottom of the door with the palm of your hand. If it is hot, do not open the door. Find another way out. Install smoke detectors on every level ofyour home. Clean and test them at least once a month. Change batteries at least once a year. Keep a whistle in each bedroom to awaken household in case of fire. Check electrical outlets. Do not overload outlets. Purchase and learn how to use a fire extinguisher (5 lb., A-B-C type). Have a collapsible ladder on each upper floor of your house. Consider installing home sprinklers.Prepare an Emergency Car Kit Include: Battery powered radio, flashlight and extra batteries Blanket Booster cables Fire extinguisher (5 lb., A-B-C type) First aid kit and manual Bottled water and non-perishable high energy foods such as granola bars, raisins and peanut butterHome Hazard Hunt In a disaster, ordinary items in the home can cause injury and damage. Anything that can move, fall, break or cause a fire is a potential hazard.",
       "keywords": [
-        "home",
-        "that",
-        "hazard",
-        "disaster",
-        "cause",
-        "gencypreparednesschecklist_pg4.pdf",
-        "damage",
-        "items",
-        "fall",
-        "move",
+        "flashlight",
+        "item",
+        "find",
+        "whistl",
         "hunt",
-        "injury",
-        "anything",
-        "3:33:23",
-        "10/13/2006",
-        "ordinary",
-        "emergencypreparednesschecklist_pg4.pdf"
+        "anoth",
+        "high",
+        "power",
+        "peanut",
+        "disast",
+        "ration",
+        "hydration",
+        "hot",
+        "everi",
+        "caus",
+        "bedroom",
+        "ordinari",
+        "spark",
+        "consid",
+        "ignition",
+        "first",
+        "fire",
+        "household",
+        "purification",
+        "use"
       ],
-      "length": 1000,
-      "preview": "gencyPreparednessChecklist_pg4.pdf 10/13/2006 3:33:23 PM EmergencyPreparednessChecklist_pg4.pdf 10/1..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "fire",
+          "water",
+          "food"
+        ]
+      },
+      "length": 984,
+      "preview": "In a fire, feel the bottom of the door with the palm of your hand. If it is hot, do not open the door. Find another way out. Install smoke detectors o..."
     },
     {
       "chunk_id": 8,
-      "text": ".\n\nIf You Need to Evacuate \u274f Listen to a battery powered radio for the location of emergency shelters. Follow instructions of local officials.\n\n\u274f Wear protective clothing and\n\nsturdy shoes.\n\n\u274f Take your Disaster Supplies Kit. \u274f Lock your house. \u274f Use travel routes specified by local\n\nofficials.\n\nIf you are sure you have time ... \u274f Shut off water, gas and electricity, if\n\ninstructed to do so.\n\n\u274f Let others know when you left and\n\nwhere you are going.\n\n\u274f Make arrangements for pets. Animals may not be allowed in public shelters.\n\nPrepare an Emergency Car Kit Include: \u274f Battery powered radio, flashlight and\n\nextra batteries\n\n\u274f Blanket \u274f Booster cables \u274f Fire extinguisher (5 lb., A-B-C type) \u274f First aid kit and manual \u274f Bottled water and non-perishable high energy foods such as granola bars, raisins and peanut butter\n\n\u274f Maps, Shovel, Flares \u274f Tire repair kit and pump Fire Safety \u274f Plan two escape routes out of each\n\nroom.\n\n\u274f Practice fire drills at least twice a year. \u274f Teach family members",
+      "text": "Anything that can move, fall, break or cause a fire is a potential hazard. Repair defective electrical wiring andleaky gas connections. Fasten shelves securely and brace overhead light fixtures. Place large, heavy objects on lower shelves. Hang pictures and mirrors away from beds. Strap water heater to wall studs. Repair cracks in ceilings or foundations. Store weed killers, pesticides and flammable products away from heat sources. Place oily polishing rags or waste in covered metal cans. Clean and repair chimneys, flue pipes, vent connectors and gas vents.Wear protective clothing and sturdy shoes. Take your Disaster Supplies Kit. Lock your house. Use travel routes specified by local officials. If you are sure you have time ... Shut off water, gas and electricity, if instructed to do so. Let others know when you left and where you are going. Make arrangements for pets. Animals may not be allowed in public shelters.",
       "keywords": [
-        "instructions",
-        "clothing",
-        "battery",
-        "listen",
-        "shoes",
-        "take",
-        "officials",
-        "location",
-        "powered",
-        "protective",
-        "need",
-        "your",
-        "follow",
-        "radio",
-        "wear",
-        "emergency",
-        "evacuate",
+        "fasten",
+        "weed",
+        "object",
+        "strap",
+        "may",
+        "fixtur",
+        "cloth",
+        "brace",
+        "pictur",
+        "disast",
+        "travel",
+        "hydration",
+        "product",
         "local",
-        "sturdy",
-        "shelters"
+        "oili",
+        "caus",
+        "suppli",
+        "specifi",
+        "spark",
+        "take",
+        "ignition",
+        "protect",
+        "killer",
+        "can",
+        "sure"
       ],
-      "length": 1000,
-      "preview": ".\n\nIf You Need to Evacuate \u274f Listen to a battery powered radio for the location of emergency shelter..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "fire",
+          "water",
+          "shelter"
+        ]
+      },
+      "length": 928,
+      "preview": "Anything that can move, fall, break or cause a fire is a potential hazard. Repair defective electrical wiring andleaky gas connections. Fasten shelves..."
     },
     {
       "chunk_id": 9,
-      "text": "isins and peanut butter\n\n\u274f Maps, Shovel, Flares \u274f Tire repair kit and pump Fire Safety \u274f Plan two escape routes out of each\n\nroom.\n\n\u274f Practice fire drills at least twice a year. \u274f Teach family members to stay low to the ground when escaping from a fire. \u274f Teach family members never to open doors that are hot. In a fire, feel the bottom of the door with the palm of your hand. If it is hot, do not open the door. Find another way out. \u274f Install smoke detectors on every level ofyour home. Clean and test them at least once a month. Change batteries at least once a year. \u274f Keep a whistle in each bedroom to awaken household in case of fire. \u274f Check electrical outlets. Do not\n\noverload outlets.\n\n\u274f Purchase and learn how to use a fire extinguisher (5 lb., A-B-C type). \u274f Have a collapsible ladder on each upper floor of your house.\n\n\u274f Consider installing home sprinklers.\n\nInformation in this brochure was developed by the Federal Emergency Management Agency\u2019s Community and Family Preparedness Prog",
+      "text": "Animals may not be allowed in public shelters. If You Need to Evacuate Listen to a battery powered radio for the location of emergency shelters. Follow instructions of local officials. Information in this brochure was developed by the Federal Emergency Management Agencys Community and Family Preparedness Program and the American Red Cross Community Disaster Education Program. www.denver-redcross.org 303.722.7474 C M Y CM MY CY CMY KEmergencyPreparednessChecklist_pg4.pdf 10132006 3:33:23 PMEmergencyPreparednessChecklist_pg4.pdf 10132006 3:33:23 PM",
       "keywords": [
-        "peanut",
-        "least",
-        "isins",
-        "drills",
-        "safety",
-        "tire",
-        "each",
-        "repair",
-        "plan",
-        "butter",
-        "fire",
-        "practice",
-        "pump",
-        "flares",
-        "maps",
-        "shovel",
-        "room",
-        "escape",
-        "routes"
-      ],
-      "length": 1000,
-      "preview": "isins and peanut butter\n\n\u274f Maps, Shovel, Flares \u274f Tire repair kit and pump Fire Safety \u274f Plan two es..."
-    },
-    {
-      "chunk_id": 10,
-      "text": "each upper floor of your house.\n\n\u274f Consider installing home sprinklers.\n\nInformation in this brochure was developed by the Federal Emergency Management Agency\u2019s Community and Family Preparedness Program and the American Red Cross Community Disaster Education Program.\n\nwww.denver-redcross.org 303.722.7474",
-      "keywords": [
-        "home",
-        "developed",
-        "agency\u2019s",
-        "preparedness",
-        "management",
-        "each",
-        "community",
-        "sprinklers",
-        "brochure",
-        "installing",
-        "floor",
-        "your",
-        "information",
-        "federal",
-        "this",
-        "family",
-        "house",
-        "upper",
+        "cover",
+        "instruct",
+        "wwwdenverredcrossorg",
+        "prepared",
+        "crisis",
+        "refuge",
+        "urgent",
+        "may",
+        "critical",
+        "feder",
+        "follow",
+        "red",
+        "shelter",
+        "educ",
+        "famili",
+        "housing",
         "emergency",
-        "consider"
+        "power",
+        "disast",
+        "kemergencypreparednesschecklist_pg4pdf",
+        "program",
+        "inform",
+        "locat",
+        "disaster",
+        "commun"
       ],
-      "length": 305,
-      "preview": "each upper floor of your house.\n\n\u274f Consider installing home sprinklers.\n\nInformation in this brochur..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "shelter"
+        ]
+      },
+      "length": 552,
+      "preview": "Animals may not be allowed in public shelters. If You Need to Evacuate Listen to a battery powered radio for the location of emergency shelters. Follo..."
     }
   ],
   "keyword_lookup": {
-    "emergencypreparednesschecklist_pg1.pdf": [
-      0
-    ],
-    "preparedness": [
+    "one": [
       0,
-      10
-    ],
-    "earthquake": [
-      0
-    ],
-    "checklist": [
-      0
-    ],
-    "10/12/2006": [
-      0
-    ],
-    "hurricane": [
-      0
-    ],
-    "spill": [
-      0
-    ],
-    "storm": [
-      0
-    ],
-    "materials": [
-      0
-    ],
-    "emergency": [
-      0,
-      1,
       2,
+      6
+    ],
+    "earthquak": [
+      0,
+      2
+    ],
+    "next": [
+      0,
+      4
+    ],
+    "per": [
+      0
+    ],
+    "may": [
+      0,
+      3,
       8,
-      10
+      9
     ],
     "winter": [
       0
     ],
-    "fire": [
+    "famili": [
       0,
+      1,
       2,
+      3,
+      5,
       6,
       9
     ],
-    "\u2713tornado": [
+    "much": [
       0
     ],
-    "4:49:58": [
+    "contain": [
       0
     ],
-    "flood": [
-      0
-    ],
-    "hazardous": [
-      0
-    ],
-    "flash": [
-      0
-    ],
-    "disasters": [
-      1
-    ],
-    "which": [
-      1
-    ],
-    "cross": [
-      1
-    ],
-    "area": [
-      1
-    ],
-    "management": [
+    "disast": [
+      0,
       1,
-      10
+      2,
+      3,
+      4,
+      7,
+      8,
+      9
     ],
-    "american": [
+    "backpack": [
+      0
+    ],
+    "identifi": [
+      0,
       1
     ],
-    "with": [
-      1
+    "cope": [
+      0
     ],
-    "call": [
+    "hydration": [
+      0,
+      2,
+      3,
+      7,
+      8
+    ],
+    "local": [
+      0,
+      2,
+      8
+    ],
+    "everi": [
+      0,
+      1,
+      7
+    ],
+    "suppli": [
+      0,
+      1,
+      3,
+      6,
+      8
+    ],
+    "unbreak": [
+      0
+    ],
+    "spark": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "day": [
+      0,
       1,
       2
     ],
-    "disaster": [
+    "ignition": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "protect": [
+      0,
+      8
+    ],
+    "manag": [
+      0,
+      3
+    ],
+    "see": [
+      0
+    ],
+    "store": [
+      0
+    ],
+    "flashlight": [
       1,
-      4,
       7
     ],
-    "chapter": [
-      1
-    ],
-    "find": [
-      1
-    ],
-    "your": [
+    "item": [
       1,
-      5,
-      8,
-      10
+      7
     ],
-    "office": [
+    "number": [
+      1,
+      2,
+      5
+    ],
+    "assist": [
       1
     ],
-    "occur": [
+    "serial": [
       1
     ],
-    "planning": [
+    "treatment": [
+      1,
+      5
+    ],
+    "cloth": [
+      1,
+      8
+    ],
+    "list": [
+      1
+    ],
+    "ration": [
+      1,
+      7
+    ],
+    "cash": [
+      1
+    ],
+    "import": [
+      1
+    ],
+    "workplac": [
+      1
+    ],
+    "children": [
+      1,
+      2
+    ],
+    "card": [
       1
     ],
     "could": [
       1
     ],
-    "this": [
-      1,
-      10
-    ],
-    "ahead": [
+    "credit": [
       1
     ],
-    "members": [
+    "school": [
+      1,
+      2
+    ],
+    "care": [
+      1,
+      2
+    ],
+    "first": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "emerg": [
+      2
+    ],
+    "mark": [
       2,
-      4,
+      4
+    ],
+    "find": [
+      2,
+      7
+    ],
+    "power": [
+      2,
+      7,
+      9
+    ],
+    "weather": [
+      2
+    ],
+    "member": [
+      2,
       6
     ],
-    "friend": [
+    "outofst": [
       2
     ],
-    "911": [
+    "near": [
+      2,
+      3
+    ],
+    "danger": [
       2
     ],
-    "out-of-state": [
+    "respond": [
       2
     ],
-    "relative": [
-      2
-    ],
-    "hones": [
-      2
-    ],
-    "children": [
-      2
-    ],
-    "pick": [
-      2
-    ],
-    "instruct": [
-      2
+    "fire": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "household": [
       2,
-      6
-    ],
-    "turn": [
-      2
-    ],
-    "information": [
-      2,
-      10
-    ],
-    "police": [
-      2
-    ],
-    "when": [
-      2
-    ],
-    "radio": [
-      2,
-      3,
-      8
-    ],
-    "local": [
-      2,
-      8
-    ],
-    "teach": [
-      2
-    ],
-    "rain": [
-      3
-    ],
-    "sleeping": [
-      3
-    ],
-    "clothing": [
-      3,
-      8
-    ],
-    "ener": [
-      3
-    ],
-    "blankets": [
-      3
-    ],
-    "bags": [
-      3
-    ],
-    "prescription": [
-      3
-    ],
-    "shoes": [
-      3,
-      8
-    ],
-    "plenty": [
-      3
-    ],
-    "medications": [
-      3
-    ],
-    "pair": [
-      3
-    ],
-    "change": [
-      3
-    ],
-    "battery-powered": [
-      3
-    ],
-    "glasses": [
-      3
-    ],
-    "flashlight": [
-      3
-    ],
-    "first": [
-      3,
-      5
-    ],
-    "extra": [
-      3
-    ],
-    "sturdy": [
-      3,
-      8
-    ],
-    "gear": [
-      3
-    ],
-    "informa-": [
-      4
-    ],
-    "pacemakers": [
-      4
-    ],
-    "serial": [
-      4
-    ],
-    "each": [
       4,
-      9,
-      10
-    ],
-    "medical": [
-      4
-    ],
-    "devices": [
-      4
-    ],
-    "infants": [
-      4
-    ],
-    "elderly": [
-      4
-    ],
-    "style": [
-      4
-    ],
-    "special": [
-      4
-    ],
-    "family": [
-      4,
-      10
-    ],
-    "such": [
-      4,
-      6
-    ],
-    "items": [
-      4,
+      5,
       7
     ],
-    "disabled": [
-      4
+    "prepared": [
+      3,
+      9
     ],
-    "number": [
-      4
+    "outsid": [
+      3,
+      6
     ],
-    "tion;": [
-      4
+    "notic": [
+      3
     ],
-    "type": [
-      4
+    "window": [
+      3
     ],
-    "home": [
+    "take": [
+      3,
+      8
+    ],
+    "cmi": [
+      3,
+      6
+    ],
+    "hood": [
+      3
+    ],
+    "pen": [
+      3
+    ],
+    "cpr": [
+      3
+    ],
+    "purification": [
+      3,
+      7
+    ],
+    "use": [
+      3,
+      4,
+      5,
+      7
+    ],
+    "critical": [
+      3,
+      4,
       5,
       6,
-      7,
-      10
+      9
     ],
-    "return": [
+    "resid": [
+      3
+    ],
+    "keep": [
+      3
+    ],
+    "broken": [
+      4
+    ],
+    "least": [
+      4,
       5
     ],
-    "from": [
+    "util": [
+      4
+    ],
+    "crisis": [
+      4,
+      5,
+      9
+    ],
+    "smoke": [
+      4
+    ],
+    "urgent": [
+      4,
+      5,
+      9
+    ],
+    "draw": [
+      4
+    ],
+    "tinder": [
+      4,
       5
     ],
-    "case": [
+    "driveway": [
+      4
+    ],
+    "floor": [
+      4,
+      5
+    ],
+    "addit": [
+      4,
+      5
+    ],
+    "emergency": [
+      4,
+      5,
+      9
+    ],
+    "patio": [
+      4
+    ],
+    "escap": [
+      4,
+      6
+    ],
+    "paper": [
+      4,
+      5
+    ],
+    "two": [
+      4
+    ],
+    "meet": [
+      4
+    ],
+    "locat": [
+      4,
+      9
+    ],
+    "depart": [
+      5
+    ],
+    "servic": [
+      5
+    ],
+    "drill": [
+      5
+    ],
+    "practic": [
       5,
       6
     ],
-    "cannot": [
+    "health": [
       5
     ],
-    "neighborhood": [
+    "even": [
       5
     ],
-    "address": [
-      5
-    ],
-    "name": [
-      5
-    ],
-    "telephone": [
-      5
-    ],
-    "outside": [
-      5,
-      6
-    ],
-    "reunion": [
-      5
-    ],
-    "route": [
+    "healing": [
       5
     ],
     "right": [
+      5,
+      6
+    ],
+    "medicine": [
       5
     ],
-    "locations": [
+    "citi": [
       5
     ],
-    "away": [
-      5
-    ],
-    "side": [
+    "kemergencypreparednesschecklist_pg3pdf": [
       6
     ],
-    "should": [
+    "firstexampl": [
       6
     ],
-    "driveways": [
-      6
-    ],
-    "sure": [
-      6
-    ],
-    "include": [
-      6
-    ],
-    "important": [
-      6
-    ],
-    "patios": [
-      6
-    ],
-    "where": [
-      6
-    ],
-    "points": [
-      6
-    ],
-    "stairways": [
-      6
-    ],
-    "elevators": [
-      6
-    ],
-    "meet": [
-      6
-    ],
-    "garages": [
-      6
-    ],
-    "that": [
+    "hot": [
+      6,
       7
     ],
-    "hazard": [
-      7
+    "flare": [
+      6
     ],
-    "cause": [
-      7
+    "tire": [
+      6
     ],
-    "gencypreparednesschecklist_pg4.pdf": [
-      7
+    "neighborhood": [
+      6
     ],
-    "damage": [
-      7
+    "low": [
+      6
     ],
-    "fall": [
-      7
+    "shovel": [
+      6
     ],
-    "move": [
+    "twice": [
+      6
+    ],
+    "pmemergencypreparednesschecklist_pg3pdf": [
+      6
+    ],
+    "normal": [
+      6
+    ],
+    "whistl": [
       7
     ],
     "hunt": [
       7
     ],
-    "injury": [
+    "anoth": [
       7
     ],
-    "anything": [
+    "high": [
       7
-    ],
-    "3:33:23": [
-      7
-    ],
-    "10/13/2006": [
-      7
-    ],
-    "ordinary": [
-      7
-    ],
-    "emergencypreparednesschecklist_pg4.pdf": [
-      7
-    ],
-    "instructions": [
-      8
-    ],
-    "battery": [
-      8
-    ],
-    "listen": [
-      8
-    ],
-    "take": [
-      8
-    ],
-    "officials": [
-      8
-    ],
-    "location": [
-      8
-    ],
-    "powered": [
-      8
-    ],
-    "protective": [
-      8
-    ],
-    "need": [
-      8
-    ],
-    "follow": [
-      8
-    ],
-    "wear": [
-      8
-    ],
-    "evacuate": [
-      8
-    ],
-    "shelters": [
-      8
     ],
     "peanut": [
+      7
+    ],
+    "caus": [
+      7,
+      8
+    ],
+    "bedroom": [
+      7
+    ],
+    "ordinari": [
+      7
+    ],
+    "consid": [
+      7
+    ],
+    "fasten": [
+      8
+    ],
+    "weed": [
+      8
+    ],
+    "object": [
+      8
+    ],
+    "strap": [
+      8
+    ],
+    "fixtur": [
+      8
+    ],
+    "brace": [
+      8
+    ],
+    "pictur": [
+      8
+    ],
+    "travel": [
+      8
+    ],
+    "product": [
+      8
+    ],
+    "oili": [
+      8
+    ],
+    "specifi": [
+      8
+    ],
+    "killer": [
+      8
+    ],
+    "can": [
+      8
+    ],
+    "sure": [
+      8
+    ],
+    "cover": [
       9
     ],
-    "least": [
+    "instruct": [
       9
     ],
-    "isins": [
+    "wwwdenverredcrossorg": [
       9
     ],
-    "drills": [
+    "refuge": [
       9
     ],
-    "safety": [
+    "feder": [
       9
     ],
-    "tire": [
+    "follow": [
       9
     ],
-    "repair": [
+    "red": [
       9
     ],
-    "plan": [
+    "shelter": [
       9
     ],
-    "butter": [
+    "educ": [
       9
     ],
-    "practice": [
+    "housing": [
       9
     ],
-    "pump": [
+    "kemergencypreparednesschecklist_pg4pdf": [
       9
     ],
-    "flares": [
+    "program": [
       9
     ],
-    "maps": [
+    "inform": [
       9
     ],
-    "shovel": [
+    "disaster": [
       9
     ],
-    "room": [
+    "commun": [
       9
-    ],
-    "escape": [
-      9
-    ],
-    "routes": [
-      9
-    ],
-    "developed": [
-      10
-    ],
-    "agency\u2019s": [
-      10
-    ],
-    "community": [
-      10
-    ],
-    "sprinklers": [
-      10
-    ],
-    "brochure": [
-      10
-    ],
-    "installing": [
-      10
-    ],
-    "floor": [
-      10
-    ],
-    "federal": [
-      10
-    ],
-    "house": [
-      10
-    ],
-    "upper": [
-      10
-    ],
-    "consider": [
-      10
     ]
+  },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
   },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

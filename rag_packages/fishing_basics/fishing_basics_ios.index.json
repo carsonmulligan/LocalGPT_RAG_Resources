@@ -1,2807 +1,3337 @@
 {
   "package_id": "fishing_basics",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "A Beginner\u2019s Guide to Fishing South Carolina Department of Natural Resources\n\nLife\u2019s Better Outdoors\n\nwww.dnr.sc.gov\n\nTable of Contents Angler Ethics ...................................................... 1\n\nSafety ............................................................... 1\n\nEquipment Overview ........................................... 2\n\nKnot Tying ......................................................... 5\n\nRigging ............................................................. 6\n\nCasting ............................................................. 7\n\nBaits & Artificial Lures .......................................... 9\n\nFish Anatomy .................................................... 11\n\nRules & Regulations ............................................ 12\n\nInvasive Species ................................................. 13\n\nIdentifying Good Fishing Spots .............................. 14\n\nSetting the Hook ................................................. 15\n\nHow to Handle Fi",
+      "text": "South Carolina Department of Natural ResourcesA Beginners Guide to Fishing www.dnr.sc.govLifes Better Outdoors Table of Contents Angler Ethics ...................................................... 1 Safety ............................................................... 1 Equipment Overview ........................................... 2 Knot Tying ......................................................... 5 Rigging ............................................................. 6 Casting ............................................................. 7 Baits  Artificial Lures .......................................... 9 Fish Anatomy .................................................... 11 Rules  Regulations ............................................ 12 Invasive Species ................................................. 13 Identifying Good Fishing Spots .............................. 14 Setting the Hook ................................................. 15 How to Handle Fish .............................................. 15How to Clean Your Catch ...................................... 17 References .........................................................17Angler Ethics What are ethics?",
       "keywords": [
-        "beginner\u2019s",
-        "",
-        "equipment",
-        "carolina",
-        "outdoors",
-        "south",
-        "safety",
-        "table",
-        "better",
         "fishing",
-        "department",
-        "life\u2019s",
-        "ethics",
+        "set",
+        "depart",
+        "refer",
+        "invas",
+        "bait",
+        "carolina",
+        "handl",
+        "17angler",
+        "content",
+        "safety",
+        "wwwdnrscgovlif",
+        "speci",
+        "equipment",
+        "outdoor",
+        "cordage",
+        "overview",
+        "natur",
         "angler",
-        "www.dnr.sc.gov",
-        "natural",
-        "contents",
-        "resources",
-        "guide"
+        "identifi",
+        "binding",
+        "hook",
+        "tabl",
+        "catch",
+        "rope"
       ],
-      "length": 1000,
-      "preview": "A Beginner\u2019s Guide to Fishing South Carolina Department of Natural Resources\n\nLife\u2019s Better Outdoors..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "food",
+          "knots"
+        ]
+      },
+      "length": 1197,
+      "preview": "South Carolina Department of Natural ResourcesA Beginners Guide to Fishing www.dnr.sc.govLifes Better Outdoors Table of Contents Angler Ethics .........."
     },
     {
       "chunk_id": 1,
-      "text": ".......................................... 13\n\nIdentifying Good Fishing Spots .............................. 14\n\nSetting the Hook ................................................. 15\n\nHow to Handle Fish .............................................. 15\n\nHow to Clean Your Catch ...................................... 17\n\nReferences .........................................................17\n\nAngler Ethics\n\nWhat are ethics? \t \u2022\t Rules\tand\tvalues\tthat\tchange\tyour\tbehavior,\tcausing\tyou\tto\tdo\tthe\tright\tthing.\n\nTo determine if something is ethical, ask yourself three questions \t \u2022\t Is\tit\tlegal? \t \u2022\t Would\tit\tstill\tbe\tok\tif\teveryone\twas\tdoing\tit? \t \u2022\t Would\tit\tmake\tyou\tor\tpeople\twho\tknow\tyou\tproud?\n\nEthical Anglers: \u2022\t Are\tconsiderate\tof\tone\tanother,\trespecting\tother\tanglers\u2019\tspace\tand\tbeing\tquiet\tso\n\nas\tto\tnot\tdisturb\tothers.\n\nAlways\tleave\ttheir\tfishing\tarea\tcleaner\tthan\twhen\tthey\tarrived\tso\tas\tto\tprotect\tthe resource.\n\nAbide\tby\tall\trules\tand\tregulations.\t\t \t \u2022\t Practice\tCatch\t&\tRelease\tFishi",
+      "text": "Rules and values that change your behavior, causing you to do the right thing. To determine if something is ethical, ask yourself three questions  Is it legal? Would it still be ok if everyone was doing it? Would it make you or people who know you proud? Ethical Anglers:  Are considerate of one another, respecting other anglers space and being quiet so as to not disturb others. Always leave their fishing area cleaner than when they arrived so as to protect the resource. Abide by all rules and regulations. Practice Catch  Release Fishing o Use barbless or circle hooks and needlenose pliers or forceps to reduce injury and handling time of the fish. o Land the fish as quickly as possible to minimize the fishs fighting time. o Use wet hands when handling a fish and minimize the time out of water to 20 to 30 seconds. o When returning a fish back to the water, point the fish into the current or cradle it in your hands loosely under the water until the fish swims away on its own.",
       "keywords": [
-        "",
-        "handle",
-        "17",
-        "identifying",
-        "hook",
-        "clean",
-        "catch",
-        "your",
-        "angler",
+        "one",
+        "peopl",
+        "practic",
+        "anoth",
+        "alway",
+        "wet",
+        "hydration",
+        "three",
+        "consider",
+        "caus",
+        "behavior",
+        "quiet",
+        "ethic",
+        "rule",
+        "leav",
+        "protect",
+        "would",
         "fishing",
-        "spots",
-        "references",
-        "setting",
-        "good",
-        "ethics",
-        "fish"
+        "legal",
+        "make",
+        "purification",
+        "barbless",
+        "use",
+        "handl",
+        "right"
       ],
-      "length": 1000,
-      "preview": ".......................................... 13\n\nIdentifying Good Fishing Spots ........................."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water",
+          "food"
+        ]
+      },
+      "length": 987,
+      "preview": "Rules and values that change your behavior, causing you to do the right thing. To determine if something is ethical, ask yourself three questions  Is ..."
     },
     {
       "chunk_id": 2,
-      "text": "so\n\nas\tto\tnot\tdisturb\tothers.\n\nAlways\tleave\ttheir\tfishing\tarea\tcleaner\tthan\twhen\tthey\tarrived\tso\tas\tto\tprotect\tthe resource.\n\nAbide\tby\tall\trules\tand\tregulations.\t\t \t \u2022\t Practice\tCatch\t&\tRelease\tFishing\n\no\t Use\tbarbless\tor\tcircle\thooks\tand\tneedlenose\tpliers\tor\tforceps\tto\treduce\tinjury\n\nand\thandling\ttime\tof\tthe\tfish.\n\no\t Land\tthe\tfish\tas\tquickly\tas\tpossible\tto\tminimize\tthe\tfish\u2019s\tfighting\ttime. o\t Use\twet\thands\twhen\thandling\ta\tfish\tand\tminimize\tthe\ttime\tout\tof\twater\tto\t20\n\nto\t30\tseconds.\n\no\t When\treturning\ta\tfish\tback\tto\tthe\twater,\tpoint\tthe\tfish\tinto\tthe\tcurrent\tor\n\no\n\ncradle\tit\tin\tyour\thands\tloosely\tunder\tthe\twater\tuntil\tthe\tfish\tswims\taway\ton\t\t its\town.\t\t If\ta\tfish\tis\tlanded\tand\tthe\thook\thas\tbeen\tswallowed,\tcut\tthe\tline\tas\tfar\tdown\t in\tthe\tfish\u2019s\tmouth\tas\tpossible.\n\nRelease\tand\thandle\tfish\tproperly\n\no\t Sunfish\t&\tSmall\tCrappie:\t\tcomb\tdown\tthe\tsharp\tdorsal\tfin\tas\tyou\tslide\tyour\n\nhand\tover\tthe\tback\tof\tthe\tfish.\n\no\t Bass,\tLarge\tCrappie/Sunfish:\t\tgrab\tby\tbottom\tlip,\tyou\u2019ll\tfeel\tthe\tsmall",
+      "text": "o When returning a fish back to the water, point the fish into the current or cradle it in your hands loosely under the water until the fish swims away on its own. o If a fish is landed and the hook has been swallowed, cut the line as far down in the fishs mouth as possible. Release and handle fish properly o Sunfish  Small Crappie: comb down the sharp dorsal fin as you slide your hand over the back of the fish. o Bass, Large CrappieSunfish: grab by bottom lip, youll feel the small sandpaper-like teeth. o Catfish  Bullhead: be aware of the dorsal and pectoral spines which can cause a painful wound. Slide hands up the ventral or bottom side of the fish under the pectoral fins or armpit-like area of the fish. Safety  Keep at least one rods length between you and the next angler before, during and after you cast. Always look behind you and to the side before casting to prevent hooking power lines, trees, or a person.",
       "keywords": [
-        "regulations",
-        "disturb",
-        "abide",
-        "rules",
-        "area",
-        "resource",
-        "always",
-        "cleaner",
-        "arrived",
-        "catch",
-        "fishing",
-        "than",
-        "their",
-        "protect",
-        "they",
-        "practice",
-        "leave",
-        "when",
-        "others",
-        "release"
+        "back",
+        "one",
+        "cast",
+        "wound",
+        "slide",
+        "youll",
+        "releas",
+        "next",
+        "bass",
+        "least",
+        "behind",
+        "tree",
+        "sharp",
+        "handl",
+        "sunfish",
+        "purification",
+        "safety",
+        "sandpaperlik",
+        "armpitlik",
+        "comb",
+        "teeth",
+        "loos",
+        "look",
+        "alway",
+        "liquid"
       ],
-      "length": 998,
-      "preview": "so\n\nas\tto\tnot\tdisturb\tothers.\n\nAlways\tleave\ttheir\tfishing\tarea\tcleaner\tthan\twhen\tthey\tarrived\tso\tas\t..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "medical",
+          "water",
+          "knots"
+        ]
+      },
+      "length": 927,
+      "preview": "o When returning a fish back to the water, point the fish into the current or cradle it in your hands loosely under the water until the fish swims awa..."
     },
     {
       "chunk_id": 3,
-      "text": "sh\tproperly\n\no\t Sunfish\t&\tSmall\tCrappie:\t\tcomb\tdown\tthe\tsharp\tdorsal\tfin\tas\tyou\tslide\tyour\n\nhand\tover\tthe\tback\tof\tthe\tfish.\n\no\t Bass,\tLarge\tCrappie/Sunfish:\t\tgrab\tby\tbottom\tlip,\tyou\u2019ll\tfeel\tthe\tsmall\n\nsandpaper-like\tteeth.\n\no\t Catfish\t&\tBullhead:\t\tbe\taware\tof\tthe\tdorsal\t and\tpectoral\tspines\twhich\tcan\tcause\ta\t\t painful\twound.\tSlide\thands\tup\tthe\tventral\tor\t bottom\tside\tof\tthe\tfish\tunder\tthe\tpectoral\t fins\tor\tarmpit-like\tarea\tof\tthe\tfish.\n\nSafety\n\nKeep\tat\tleast\tone\trod\u2019s\tlength\tbetween\tyou\tand\tthe\tnext\tangler\tbefore,\tduring\tand after\tyou\tcast.\n\nAlways\tlook\tbehind\tyou\tand\tto\tthe\tside\tbefore\tcasting\tto\tprevent\thooking\tpower lines,\ttrees,\tor\ta\tperson.\n\nWear\tsunglasses,\tsunscreen,\tbug\tspray\tand\tother\tprotection\tfrom\tthe\tnatural elements.\n\nAlways\tbe\taware\tof\tyour\tsurroundings\tand\tbe\ton\tthe\talert\tfor\tant\tmounds\tand snakes.\tAvoid\tthick\tgrassy\tareas\twhere\tyou\tcan\u2019t\tsee\tyour\tfeet.\n\nBe\tvery\tcareful\taround\twater\tand\tmake\tsure\tyou\thave\ta\tfishing\tbuddy\twith\tyou.\t\tIf fishing\tfrom\ta\tboat,\talways\twear\ta",
+      "text": "Always look behind you and to the side before casting to prevent hooking power lines, trees, or a person. Wear sunglasses, sunscreen, bug spray and other protection from the natural elements. Always be aware of your surroundings and be on the alert for ant mounds and snakes. Avoid thick grassy areas where you cant see your feet. Be very careful around water and make sure you have a fishing buddy with you. If fishing from a boat, always wear a life jacket or PFD (personal floatation device). A Beginners Guide to Fishing 1 Equipment Overview Basic Fishing Tackle or Terminal Tackle  Hooks o Come in a variety of sizes and shapes. Size 10 is big to 12, which is very small. For hook sizes 32 to 1, the larger the number the smaller the hook. For hook sizes from 10 (called one aught) to 190 the larger the number the larger the hook size. Popular hook styles: treble, Kirby, octopus, wide gap, OShaughness, baitholder, circle and weedless.",
       "keywords": [
-        "crappie:",
-        "crappie/sunfish:",
-        "grab",
-        "small",
-        "lip",
-        "down",
-        "properly",
-        "slide",
-        "bottom",
-        "bass",
-        "sharp",
-        "hand",
-        "sunfish",
-        "your",
-        "large",
-        "back",
-        "dorsal",
-        "comb",
-        "over",
-        "fish"
+        "one",
+        "varieti",
+        "number",
+        "alway",
+        "boat",
+        "power",
+        "shape",
+        "feet",
+        "hydration",
+        "life",
+        "ant",
+        "popular",
+        "element",
+        "big",
+        "protect",
+        "care",
+        "see",
+        "sure",
+        "floatat",
+        "oshaugh",
+        "avoid",
+        "fishing",
+        "make",
+        "smaller",
+        "buddi"
       ],
-      "length": 999,
-      "preview": "sh\tproperly\n\no\t Sunfish\t&\tSmall\tCrappie:\t\tcomb\tdown\tthe\tsharp\tdorsal\tfin\tas\tyou\tslide\tyour\n\nhand\tove..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "water",
+          "shelter",
+          "food"
+        ]
+      },
+      "length": 942,
+      "preview": "Always look behind you and to the side before casting to prevent hooking power lines, trees, or a person. Wear sunglasses, sunscreen, bug spray and ot..."
     },
     {
       "chunk_id": 4,
-      "text": "or\tant\tmounds\tand snakes.\tAvoid\tthick\tgrassy\tareas\twhere\tyou\tcan\u2019t\tsee\tyour\tfeet.\n\nBe\tvery\tcareful\taround\twater\tand\tmake\tsure\tyou\thave\ta\tfishing\tbuddy\twith\tyou.\t\tIf fishing\tfrom\ta\tboat,\talways\twear\ta\tlife\tjacket\tor\tPFD\t(personal\tfloatation\tdevice).\n\nA Beginner\u2019s Guide to Fishing 1\n\nEquipment Overview\n\nBasic Fishing Tackle or Terminal Tackle \u2022\t Hooks\n\no\t Come\tin\ta\tvariety\tof\tsizes\tand\tshapes.\t\tSize\t1/0\tis\tbig\tto\t12,\twhich\tis\tvery\n\nsmall.\t\tFor\thook\tsizes\t32\tto\t1,\tthe\tlarger\tthe\tnumber\tthe\tsmaller\tthe\thook.\t\t For\thook\tsizes\tfrom\t1/0\t(called\tone\taught)\t\tto\t19/0\tthe\tlarger\tthe\tnumber\tthe\t larger\tthe\thook\tsize.\t\tPopular\thook\tstyles:\t\ttreble,\tKirby,\toctopus,\twide\tgap,\t O\u2019Shaughness,\tbaitholder,\tcircle\tand\tweedless.\n\no\t To\tdetermine\twhat\thook\tsize\tto\tuse,\tpicture\tthe\tspecies\tyou\u2019d\tlike\tto\tcatch\tand\n\nlook\tat\tits\tmouth\tand\twhat\tthey\tlike\tto\teat.\n\no\t Hook\tanatomy\n\n\u25ca\t Point:\t\tthe\tsharp\tend\tthat\tpunctures\tthe\tfish\u2019s\tmouth;\n\nthere\tare\tmany\tdifferent\tpoint\ttypes\tsuch\tas\tspear,\thollow\t or\trolled\tin.",
+      "text": "Popular hook styles: treble, Kirby, octopus, wide gap, OShaughness, baitholder, circle and weedless. o To determine what hook size to use, picture the species youd like to catch and look at its mouth and what they like to eat. o Hook anatomy  Point: the sharp end that punctures the fishs mouth; there are many different point types such as spear, hollow or rolled in. Barb: extension of the point that projects backwards to keep the fish from unhooking. Eye: just like an eye of a needle, the eye of the hook is the loop at the top of the hook used to connect the hook to the line; there are many types of eyes and they can be positioned in many ways on the shank (up-turned, down-turned, straight, ringed or lopped). Bend  Shank: portion that connects point to the eye; the hook shank can be straight or have curves, kinks, bends and offsets which allow for easier setting of the hook, better fly imitation or bait holding.",
       "keywords": [
-        "avoid",
-        "sure",
-        "around",
-        "water",
-        "mounds",
-        "snakes",
-        "careful",
-        "thick",
-        "fishing",
-        "have",
-        "areas",
-        "grassy",
-        "with",
-        "feet",
-        "make",
-        "where",
-        "your",
-        "can\u2019t",
-        "buddy",
-        "very"
+        "way",
+        "set",
+        "bait",
+        "size",
+        "use",
+        "sharp",
+        "portion",
+        "differ",
+        "curv",
+        "top",
+        "speci",
+        "upturn",
+        "offset",
+        "easier",
+        "pictur",
+        "kink",
+        "look",
+        "weedless",
+        "keep",
+        "posit",
+        "roll",
+        "gap",
+        "downturn",
+        "hook",
+        "imit"
       ],
-      "length": 998,
-      "preview": "or\tant\tmounds\tand snakes.\tAvoid\tthick\tgrassy\tareas\twhere\tyou\tcan\u2019t\tsee\tyour\tfeet.\n\nBe\tvery\tcareful\ta..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 925,
+      "preview": "Popular hook styles: treble, Kirby, octopus, wide gap, OShaughness, baitholder, circle and weedless. o To determine what hook size to use, picture the..."
     },
     {
       "chunk_id": 5,
-      "text": "d\n\nlook\tat\tits\tmouth\tand\twhat\tthey\tlike\tto\teat.\n\no\t Hook\tanatomy\n\n\u25ca\t Point:\t\tthe\tsharp\tend\tthat\tpunctures\tthe\tfish\u2019s\tmouth;\n\nthere\tare\tmany\tdifferent\tpoint\ttypes\tsuch\tas\tspear,\thollow\t or\trolled\tin.\n\n\u25ca\t Barb:\t\textension\tof\tthe\tpoint\tthat\tprojects\tbackwards\tto\n\nkeep\tthe\tfish\tfrom\tunhooking.\n\n\u25ca\t Eye:\t\tjust\tlike\tan\teye\tof\ta\tneedle,\tthe\teye\tof\tthe\thook\tis\n\nthe\tloop\tat\tthe\ttop\tof\tthe\thook\tused\tto\tconnect\tthe\thook\t to\tthe\tline;\tthere\tare\tmany\ttypes\tof\teyes\tand\tthey\tcan\tbe\t positioned\tin\tmany\tways\ton\tthe\tshank\t(up-turned,\tdown- turned,\tstraight,\tringed\tor\tlopped).\n\n\u25ca\t Bend\t&\tShank:\t\tportion\tthat\tconnects\tpoint\tto\tthe\teye;\tthe\t hook\tshank\tcan\tbe\tstraight\tor\thave\tcurves,\tkinks,\tbends\t and\toffsets\twhich\tallow\tfor\teasier\tsetting\tof\tthe\thook,\t better\tfly\timitation\tor\tbait\tholding.\n\nMonofilament\tLine\n\no\t Like\tthe\thooks,\tthe\tline\tcomes\tin\ta\tvariety\tof\tweights\tfor\n\ndifferent\tspecies.\n\no\t Measured\tin\t\u201cpound\ttest\u201d\tmeaning\tthe\tamount\tof\tweight\t required\tto\tbreak\tthe\tline.\t\t10\tpound\ttest\tline\tis\tstronger",
+      "text": "Monofilament Line o Like the hooks, the line comes in a variety of weights for different species. o Measured in pound test meaning the amount of weight required to break the line. 10 pound test line is stronger and thicker than 6 pound test line. o When choosing the right pound test, it is always best to match the line to the capabilities or size of your rod and reel and to take into account the luresbait youre using and the species you want to catch. o Always discard properly or recycle your monofilament line as it can cause harm to wildlife. Sinkers o Come in a variety of weights (measured in ounces) and shapes. o Allow you to cast your bait and take it down to the bottom. o Popular sinker types: bank, pyramid, split shot, egg, bell and bullet. Bobbers, Corks, or Floats o Keep your bait at the depth where the fish are. o Serve as a strike indicator, letting you know when youre getting a bite by bobbing down in a quick jerky motion.",
       "keywords": [
-        "many",
-        "hook",
-        "fish\u2019s",
-        "what",
-        "there",
-        "look",
-        "point:",
-        "anatomy",
-        "different",
-        "point",
-        "they",
-        "sharp",
-        "mouth;",
-        "like",
-        "eat",
-        "that",
-        "such",
-        "types",
-        "punctures",
-        "mouth"
+        "cast",
+        "varieti",
+        "reel",
+        "bait",
+        "size",
+        "use",
+        "harm",
+        "differ",
+        "cork",
+        "speci",
+        "measur",
+        "monofila",
+        "thicker",
+        "alway",
+        "bobber",
+        "your",
+        "properli",
+        "keep",
+        "amount",
+        "right",
+        "account",
+        "test",
+        "pound",
+        "float",
+        "wildlif"
       ],
-      "length": 1000,
-      "preview": "d\n\nlook\tat\tits\tmouth\tand\twhat\tthey\tlike\tto\teat.\n\no\t Hook\tanatomy\n\n\u25ca\t Point:\t\tthe\tsharp\tend\tthat\tpunc..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 947,
+      "preview": "Monofilament Line o Like the hooks, the line comes in a variety of weights for different species. o Measured in pound test meaning the amount of weigh..."
     },
     {
       "chunk_id": 6,
-      "text": "o\t Like\tthe\thooks,\tthe\tline\tcomes\tin\ta\tvariety\tof\tweights\tfor\n\ndifferent\tspecies.\n\no\t Measured\tin\t\u201cpound\ttest\u201d\tmeaning\tthe\tamount\tof\tweight\t required\tto\tbreak\tthe\tline.\t\t10\tpound\ttest\tline\tis\tstronger\t and\tthicker\tthan\t6\tpound\ttest\tline.\n\no\t When\tchoosing\tthe\tright\tpound\ttest,\tit\tis\talways\tbest\tto\n\nmatch\tthe\tline\tto\tthe\tcapabilities\tor\tsize\tof\tyour\trod\tand\treel\tand\tto\ttake\tinto\t account\tthe\tlures/bait\tyou\u2019re\tusing\tand\tthe\tspecies\tyou\twant\tto\tcatch.\t\t o\t Always\tdiscard\tproperly\tor\trecycle\tyour\tmonofilament\tline\tas\tit\tcan\tcause\n\nharm\tto\twildlife.\n\nSinkers\n\no\t Come\tin\ta\tvariety\tof\tweights\t(measured\tin\tounces)\tand\tshapes. o\t Allow\tyou\tto\tcast\tyour\tbait\tand\ttake\tit\tdown\tto\tthe\tbottom. o\t Popular\tsinker\ttypes:\t\tbank,\tpyramid,\tsplit\tshot,\tegg,\tbell\tand\n\nbullet. \t \u2022\t Bobbers,\tCorks,\tor\tFloats\n\no\t Keep\tyour\tbait\tat\tthe\tdepth\twhere\tthe\tfish\tare. \t o\t Serve\tas\ta\tstrike\tindicator,\tletting\tyou\tknow\twhen\tyou\u2019re\tgetting\ta\tbite\n\nby\tbobbing\tdown\tin\ta\tquick\tjerky\tmotion.\n\no\t Bobbers\tcome\tweighted/unweig",
+      "text": "o Serve as a strike indicator, letting you know when youre getting a bite by bobbing down in a quick jerky motion. o Bobbers come weightedunweighted and in many different shapes and sizes.Rods  Reels  Rod Types o Cane Pole: a pole with fishing line tied to it; mainly used for shoreline fishing. o Spincasting  Baitcasting: a rod with small guides for line to move through on topside of the rod; handle with a finger grip; reel mounts on the topside. o Spinning : a rod with large guides for line to move through that decrease in size as they get closer to the rod tip; no finger grip on the handle and reel mounts on the bottom. o Fly: a rod that is very flexible with guides and reel mount on the bottom . What to Look for in a Rod o Type of rod chosen depends on the fish you plan to catch and the type of bait or lure youll be using. o Length: a longer rod is better for distance casting and controlling the lure.",
       "keywords": [
-        "comes",
-        "measured",
-        "meaning",
-        "break",
-        "species",
-        "test\u201d",
-        "weight",
-        "like",
-        "line",
-        "test",
-        "hooks",
-        "amount",
-        "variety",
-        "\u201cpound",
-        "pound",
-        "different",
-        "weights",
-        "required"
+        "topsid",
+        "fishing",
+        "tip",
+        "depend",
+        "youll",
+        "reel",
+        "sizesrod",
+        "bait",
+        "decreas",
+        "use",
+        "handl",
+        "size",
+        "differ",
+        "spin",
+        "closer",
+        "look",
+        "bobber",
+        "your",
+        "distanc",
+        "finger",
+        "spincast",
+        "cane",
+        "indic",
+        "shape",
+        "rod"
       ],
-      "length": 1000,
-      "preview": "o\t Like\tthe\thooks,\tthe\tline\tcomes\tin\ta\tvariety\tof\tweights\tfor\n\ndifferent\tspecies.\n\no\t Measured\tin\t\u201cp..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "food",
+          "knots"
+        ]
+      },
+      "length": 917,
+      "preview": "o Serve as a strike indicator, letting you know when youre getting a bite by bobbing down in a quick jerky motion. o Bobbers come weightedunweighted a..."
     },
     {
       "chunk_id": 7,
-      "text": "Keep\tyour\tbait\tat\tthe\tdepth\twhere\tthe\tfish\tare. \t o\t Serve\tas\ta\tstrike\tindicator,\tletting\tyou\tknow\twhen\tyou\u2019re\tgetting\ta\tbite\n\nby\tbobbing\tdown\tin\ta\tquick\tjerky\tmotion.\n\no\t Bobbers\tcome\tweighted/unweighted\tand\tin\tmany\tdifferent\tshapes\tand\n\nsizes.\n\n2 A Beginner\u2019s Guide to Fishing\n\nRods & Reels \t \u2022\t Rod\tTypes\n\no\t Cane\tPole:\t\ta\tpole\twith\n\nfishing\tline\ttied\tto\tit;\tmainly\t used\tfor\tshoreline\tfishing.\n\no\t Spincasting\t&\tBaitcasting:\t\t a\trod\twith\tsmall\tguides\t for\tline\tto\tmove\tthrough\t on\ttopside\tof\tthe\trod;\t handle\twith\ta\tfinger\tgrip;\treel\tmounts\ton\tthe\ttopside.\n\no\t Spinning:\t\ta\trod\twith\tlarge\t guides\tfor\tline\tto\tmove\t through\tthat\tdecrease\t in\tsize\tas\tthey\tget\tcloser\tto\tthe\trod\ttip;\tno\tfinger\tgrip\ton\tthe\thandle\tand\treel\t mounts\ton\tthe\tbottom.\n\no\t Fly:\t\ta\trod\tthat\tis\tvery\n\nflexible\twith\tguides\tand\t reel\tmount\ton\tthe\tbottom.\n\nWhat\tto\tLook\tfor\tin\ta\tRod\n\no\t Type\tof\trod\tchosen\tdepends\ton\tthe\tfish\tyou\tplan\tto\tcatch\tand\tthe\ttype\tof\tbait\n\nor\tlure\tyou\u2019ll\tbe\tusing.\n\no\t Length:\t\ta\tlonger\trod\tis\tbetter\tf",
+      "text": "o Length: a longer rod is better for distance casting and controlling the lure. o Action: refers to the portion of the rod at which it bends; measured as slow, medium, fast:  Fast Action: rod bends mainly near the tip; good for surface lures or detecting subtle strikes when jigging. Medium Action : rod bends over the front half or \u00be the way up the rod; good for live bait fishing. Slow Action: rod bends over the entire length or at the halfway point; good for absorbing pressure when fighting a big fish so as not to break the line. o Power: similar to rod action; refers to the amount of force required to bend a rod; measured as light, medium,  heavy or on a scale of 1 to 10 where 1 is the lightest; light rods easily bend under the weight of a lure so heavy rods are needed for heavy lures. Reel Types o Spincast: also known as push button or closed face reels; easiest reel to use and great for beginners.",
       "keywords": [
-        "strike",
-        "bobbing",
-        "keep",
-        "indicator",
-        "jerky",
-        "down",
-        "getting",
-        "serve",
+        "way",
+        "slow",
+        "medium",
+        "tip",
+        "refer",
+        "fishing",
+        "easili",
+        "push",
+        "face",
         "bait",
-        "where",
-        "your",
-        "depth",
-        "you\u2019re",
-        "bite",
-        "know",
-        "quick",
-        "are",
-        "when",
-        "letting",
-        "fish"
+        "action",
+        "reel",
+        "use",
+        "portion",
+        "live",
+        "measur",
+        "easiest",
+        "scale",
+        "entir",
+        "amount",
+        "halfway",
+        "half",
+        "distanc",
+        "power",
+        "spincast"
       ],
-      "length": 1000,
-      "preview": "Keep\tyour\tbait\tat\tthe\tdepth\twhere\tthe\tfish\tare. \t o\t Serve\tas\ta\tstrike\tindicator,\tletting\tyou\tknow\tw..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "food"
+        ]
+      },
+      "length": 913,
+      "preview": "o Length: a longer rod is better for distance casting and controlling the lure. o Action: refers to the portion of the rod at which it bends; measured..."
     },
     {
       "chunk_id": 8,
-      "text": "reel\tmount\ton\tthe\tbottom.\n\nWhat\tto\tLook\tfor\tin\ta\tRod\n\no\t Type\tof\trod\tchosen\tdepends\ton\tthe\tfish\tyou\tplan\tto\tcatch\tand\tthe\ttype\tof\tbait\n\nor\tlure\tyou\u2019ll\tbe\tusing.\n\no\t Length:\t\ta\tlonger\trod\tis\tbetter\tfor\tdistance\tcasting\tand\tcontrolling\tthe\tlure.\n\no\t Action:\t\trefers\tto\tthe\tportion\tof\tthe\trod\tat\twhich\tit\tbends;\tmeasured\tas\tslow,\n\nmedium,\tfast:\n\n\u25ca\n\nFast\tAction:\t\trod\tbends\tmainly\tnear\tthe\ttip;\tgood\tfor\tsurface\t lures\tor\tdetecting\tsubtle\tstrikes\twhen\tjigging.\n\n\u25ca\t Medium\tAction:\t\trod\tbends\tover\tthe\tfront\thalf\tor\t\u00be\tthe\tway\tup\n\n\u25ca\n\nthe\trod;\tgood\tfor\tlive\tbait\tfishing. Slow\tAction:\t\trod\tbends\tover\tthe\tentire\tlength\tor\tat\tthe\t halfway\tpoint;\tgood\tfor\tabsorbing\tpressure\twhen\tfighting\ta\tbig\t fish\tso\tas\tnot\tto\t\tbreak\tthe\tline.\n\no\t Power:\t\tsimilar\tto\trod\taction;\trefers\tto\tthe\tamount\tof\tforce\trequired\tto\tbend\t a\trod;\tmeasured\tas\tlight,\tmedium,\t&\theavy\tor\ton\ta\tscale\tof\t1\tto\t10\twhere\t1\t is\tthe\tlightest;\tlight\trods\teasily\tbend\tunder\tthe\tweight\tof\ta\tlure\tso\theavy\trods\t are\tneeded\tfor\theavy\tlures.\n\nReel\tTy",
+      "text": "Reel Types o Spincast: also known as push button or closed face reels; easiest reel to use and great for beginners. o Spinning: also known as an open face reel; line spools off quickly casting line farther than a spincast reel; suitable for light lures for saltwater and freshwater. o Baitcast: most difficult reel to master; line spools during the cast which is controlled by the anglers thumb (if timing isnt just right, line on the reels will backlash and tangle); designed to cast large lures or bait long distances. o Fly: primarily used for fly fishing; the reel is only used to hold the line; casting is done by projecting the line out versus casting with other reels which project or cast based on the weight of the lure. A Beginners Guide to Fishing 3 2 A Beginners Guide to Fishing Knot Tying  One of the most important steps in fishing is tying knots. Without a strong knot or a properly tied knot, your fish could get away.",
       "keywords": [
-        "what",
-        "longer",
-        "distance",
-        "look",
-        "better",
-        "using",
-        "catch",
-        "lure",
-        "you\u2019ll",
-        "bottom",
-        "mount",
-        "plan",
-        "bait",
+        "one",
+        "fishing",
+        "push",
+        "isnt",
+        "face",
         "reel",
-        "length:",
-        "chosen",
-        "depends",
-        "fish",
-        "type"
+        "bait",
+        "use",
+        "spin",
+        "done",
+        "easiest",
+        "suitabl",
+        "hold",
+        "properli",
+        "difficult",
+        "open",
+        "cordage",
+        "right",
+        "distanc",
+        "spincast",
+        "button",
+        "farther",
+        "quickli",
+        "also",
+        "angler"
       ],
-      "length": 998,
-      "preview": "reel\tmount\ton\tthe\tbottom.\n\nWhat\tto\tLook\tfor\tin\ta\tRod\n\no\t Type\tof\trod\tchosen\tdepends\ton\tthe\tfish\tyou\t..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "food",
+          "knots"
+        ]
+      },
+      "length": 935,
+      "preview": "Reel Types o Spincast: also known as push button or closed face reels; easiest reel to use and great for beginners. o Spinning: also known as an open ..."
     },
     {
       "chunk_id": 9,
-      "text": "bend\t a\trod;\tmeasured\tas\tlight,\tmedium,\t&\theavy\tor\ton\ta\tscale\tof\t1\tto\t10\twhere\t1\t is\tthe\tlightest;\tlight\trods\teasily\tbend\tunder\tthe\tweight\tof\ta\tlure\tso\theavy\trods\t are\tneeded\tfor\theavy\tlures.\n\nReel\tTypes\n\no\t Spincast:\t\talso\tknown\tas\tpush\tbutton\tor\tclosed\tface\t reels;\teasiest\treel\tto\tuse\tand\tgreat\tfor\tbeginners.\n\no\t Spinning:\t\talso\tknown\tas\tan\topen\tface\treel;\tline\tspools\toff\tquickly\t casting\tline\tfarther\tthan\ta\tspincast\treel;\tsuitable\tfor\tlight\tlures\tfor\t saltwater\tand\tfreshwater. \to\t Baitcast:\t\tmost\tdifficult\treel\tto\tmaster;\tline\tspools\tduring\tthe\tcast\twhich\t is\tcontrolled\t\tby\tthe\tangler\u2019s\tthumb\t(if\ttiming\tisn\u2019t\tjust\tright,\tline\ton\tthe\t reels\twill\tbacklash\tand\ttangle);\tdesigned\tto\tcast\tlarge\tlures\tor\tbait\tlong\t distances.\n\no\t\t\t\t\tFly:\t\tprimarily\tused\tfor\tfly\tfishing;\tthe\treel\tis\tonly\tused\tto\thold\tthe\tline;\n\ncasting\tis\tdone\tby\tprojecting\tthe\tline\tout\tversus\tcasting\twith\tother\treels\t which\tproject\tor\tcast\tbased\ton\tthe\tweight\tof\tthe\tlure. A Beginner\u2019s Guide to Fishing 3\n\nHow to Pack your T",
+      "text": "Without a strong knot or a properly tied knot, your fish could get away. Knot Tips o When cinching or tightening down your knot, always wet your line by licking it. This helps reduce the friction in the line and helps prevent creating weak spots. o When clipping the free end or tag end of your knot, leave about a \u00bc inch of line hanging. Some knots under pressure will slip just a little and leaving the extra line will allow the knot to slide but not come undone. Hook to Line Knots o Palomar Knot 1. Double 4 inches of line and pass the loop through the eye of the hook. Let the hook hang loose. 2. Tie an overhand knot in the doubled line (like the first step of tying your shoes). Dont twist or tighten the line. 3. Pull the end of the loop down passing it over the hook. 4. Wet the line. 5. Hold the hook carefully and pull the ends of the line to cinch down or tighten the knot. 6. Trim the excess line or tag end to leave about \u00bc inch of line.",
       "keywords": [
-        "lightest;",
-        "measured",
-        "heavy",
-        "medium",
-        "lure",
-        "where",
-        "weight",
-        "under",
-        "bend",
-        "light",
-        "easily",
-        "rod;",
-        "needed",
-        "scale",
-        "rods"
+        "palomar",
+        "tip",
+        "slide",
+        "pass",
+        "clip",
+        "trim",
+        "loos",
+        "littl",
+        "alway",
+        "hold",
+        "properli",
+        "cordage",
+        "wet",
+        "twist",
+        "slip",
+        "binding",
+        "hook",
+        "lick",
+        "end",
+        "free",
+        "overhand",
+        "rope",
+        "weak",
+        "undon",
+        "like"
       ],
-      "length": 1000,
-      "preview": "bend\t a\trod;\tmeasured\tas\tlight,\tmedium,\t&\theavy\tor\ton\ta\tscale\tof\t1\tto\t10\twhere\t1\t is\tthe\tlightest;\tl..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "signaling",
+          "knots"
+        ]
+      },
+      "length": 951,
+      "preview": "Without a strong knot or a properly tied knot, your fish could get away. Knot Tips o When cinching or tightening down your knot, always wet your line ..."
     },
     {
       "chunk_id": 10,
-      "text": "o\thold\tthe\tline;\n\ncasting\tis\tdone\tby\tprojecting\tthe\tline\tout\tversus\tcasting\twith\tother\treels\t which\tproject\tor\tcast\tbased\ton\tthe\tweight\tof\tthe\tlure. A Beginner\u2019s Guide to Fishing 3\n\nHow to Pack your Tackle Box\n\nPliers Nail\tclippers Hooks\t(various\tsizes)\n\nBobbers Weights\t(various\tsizes\t&\ttypes) Snap\tswivels Artificial\tLures Stringer\tfor\tkeeping\tfish\tyou\tplan\tto\teat Measuring\ttape Rules\t&\tRegulations Fish\tIdentification\tguide\n\nBackup\tspools\tof\t monofilament\t line First\tAid\tKit\n\nBug\tSpray Sunscreen 4 A Beginner\u2019s Guide to Fishing\n\nKnot Tying\n\nOne\tof\tthe\tmost\timportant\tsteps\tin\tfishing\tis\ttying\tknots.\t\tWithout\ta\tstrong\tknot\tor a\tproperly\ttied\tknot,\tyour\tfish\tcould\tget\taway.\n\nKnot\tTips\n\no\t When\tcinching\tor\ttightening\tdown\tyour\tknot,\talways\twet\tyour\tline\tby\tlicking\t it.\tThis\thelps\treduce\tthe\tfriction\tin\tthe\tline\tand\thelps\tprevent\tcreating\tweak\t spots.\n\no\t When\tclipping\tthe\tfree\tend\tor\ttag\tend\tof\tyour\tknot,\tleave\tabout\ta\t\u00bc\tinch\tof\t line\thanging.\t\tSome\tknots\tunder\tpressure\twill\tslip\tjust\ta\tlit",
+      "text": "Trim the excess line or tag end to leave about \u00bc inch of line. o Improved Clinch Knot (also called the fishermans knot) 1. Pass the line through the eye of the hook and twist to make 5 to 6 turns. 2. Take the loose or tag end of the line and put it through the loop that formed at the hook above the eye. 3. Bring the tag end through the second loop that formed by completing step 2. 4. Wet the line. 5. While holding the line and tag end in separate hands, tighten the knot slowly so that it moves securely against the eye of the hook. 6. Trim the excess line or tag end to leave about \u00bc inch of line. How to Pack your Tackle Box Pliers Nail clippersHooks (various sizes) BobbersWeights (various sizes  types)Snap swivelsArtificial Lures Stringer for keeping fish you plan to eatMeasuring tapeRules  RegulationsFish Identification guide Backup spools of monofilament line First Aid Kit Bug Spray Sunscreen A Beginners Guide to Fishing 5 4 A Beginners Guide to Fishing 1. 2.3. 6.4. 2. 6.1. 4. 5. 5. 3.",
       "keywords": [
-        "beginner\u2019s",
-        "which",
-        "line;",
-        "casting",
-        "done",
-        "projecting",
-        "project",
-        "lure",
-        "versus",
         "fishing",
-        "with",
-        "reels",
-        "weight",
-        "based",
-        "cast",
-        "other",
-        "hold",
-        "line",
-        "guide"
+        "fisherman",
+        "make",
+        "improv",
+        "backup",
+        "bobbersweight",
+        "pass",
+        "size",
+        "swivelsartifici",
+        "clippershook",
+        "bring",
+        "taperul",
+        "trim",
+        "loos",
+        "form",
+        "monofila",
+        "keep",
+        "cordage",
+        "plier",
+        "wet",
+        "twist",
+        "identif",
+        "stringer",
+        "also",
+        "binding"
       ],
-      "length": 1000,
-      "preview": "o\thold\tthe\tline;\n\ncasting\tis\tdone\tby\tprojecting\tthe\tline\tout\tversus\tcasting\twith\tother\treels\t which\t..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "medical",
+          "food",
+          "knots"
+        ]
+      },
+      "length": 1001,
+      "preview": "Trim the excess line or tag end to leave about \u00bc inch of line. o Improved Clinch Knot (also called the fishermans knot) 1. Pass the line through the e..."
     },
     {
       "chunk_id": 11,
-      "text": "ction\tin\tthe\tline\tand\thelps\tprevent\tcreating\tweak\t spots.\n\no\t When\tclipping\tthe\tfree\tend\tor\ttag\tend\tof\tyour\tknot,\tleave\tabout\ta\t\u00bc\tinch\tof\t line\thanging.\t\tSome\tknots\tunder\tpressure\twill\tslip\tjust\ta\tlittle\tand\tleaving\tthe\t extra\tline\twill\tallow\tthe\tknot\tto\tslide\tbut\tnot\tcome\tundone.\n\nHook to Line Knots\n\no\t Palomar\tKnot\n\n1.\t Double\t4\tinches\tof\tline\tand\tpass\tthe\tloop\tthrough\tthe\teye\tof\tthe\thook.\tLet the\thook\thang\tloose.\n\n2.\t Tie\tan\toverhand\tknot\tin\tthe\tdoubled\tline\t(like\tthe\tfirst\tstep\tof\ttying\tyour shoes).\t\tDon\u2019t\t\ttwist\tor\ttighten\tthe\tline.\n\n3.\t Pull\tthe\tend\tof\tthe\tloop\tdown\tpassing\tit\tover\tthe\thook. \t\t\t\t\t\t\t4.\t Wet\tthe\tline.\t\t \t\t\t\t\t\t\t5.\t Hold\tthe\thook\tcarefully\tand\tpull\tthe\tends\tof\tthe\tline\tto\tcinch\tdown\tor tighten\tthe\tknot.\n\n6.\t Trim\tthe\texcess\tline\tor\ttag\tend\tto\tleave\tabout\t\u00bc\tinch\tof\tline.\n\n1.\n\n3.\n\n5.\n\n2.\n\n4.\n\n6.\n\no\n\nImproved\tClinch\tKnot\t(also\tcalled\tthe\tfisherman\u2019s\tknot)\n\n1.\t Pass\tthe\tline\tthrough\tthe\teye\tof\tthe\thook\tand\ttwist\tto\tmake\t5\tto\t6\tturns. 2.\t Take\tthe\tloose\tor\ttag\tend\tof\tthe",
+      "text": "3. Casting Spin-casting Technique 1. Grasp the rods handle with one hand with your index finger above the point on the rod handle. Push the reels button down with your thumb and HOLD it to keep line from coming off the reel. Remember a spin-cast or closed face reel will face upward toward you. 2. Face the area you desire to cast and aim the rod tip toward the target area about level with your eyes. Line to Reel Knot o Arbor Knot 1. Loop the line around the reel spool (also called arbor). 2. Tie an overhand knot around the main or standing line to form a loose slip knot. 3. Tie a second overhand knot in the free end or tag end. 4. Wet the line. 5. Cinch the knot in the tag end tight. 6. Trim the excess line. 7. Cinch down the first overhand knot on the reel. Rigging Rigging refers to the way that you tie together your terminal tackle (hooks, swivels,  sinkers, bobbers, etc.) and bait andor lures with your line.The most popular and most often used rig of all is the bobber rig.",
       "keywords": [
-        "some",
-        "about",
-        "under",
-        "spots",
-        "weak",
-        "free",
-        "helps",
-        "your",
-        "inch",
-        "knot",
-        "leave",
-        "when",
-        "ction",
-        "hanging",
-        "line",
-        "creating",
-        "prevent",
-        "clipping",
-        "knots"
+        "one",
+        "reel",
+        "trim",
+        "wet",
+        "slip",
+        "finger",
+        "button",
+        "toward",
+        "arbor",
+        "desir",
+        "etc",
+        "popular",
+        "eye",
+        "rememb",
+        "first",
+        "rig",
+        "sinker",
+        "tag",
+        "hold",
+        "stand",
+        "face",
+        "use",
+        "handl",
+        "lineth",
+        "form"
       ],
-      "length": 999,
-      "preview": "ction\tin\tthe\tline\tand\thelps\tprevent\tcreating\tweak\t spots.\n\no\t When\tclipping\tthe\tfree\tend\tor\ttag\tend\t..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 989,
+      "preview": "3. Casting Spin-casting Technique 1. Grasp the rods handle with one hand with your index finger above the point on the rod handle. Push the reels butt..."
     },
     {
       "chunk_id": 12,
-      "text": "1.\n\n3.\n\n5.\n\n2.\n\n4.\n\n6.\n\no\n\nImproved\tClinch\tKnot\t(also\tcalled\tthe\tfisherman\u2019s\tknot)\n\n1.\t Pass\tthe\tline\tthrough\tthe\teye\tof\tthe\thook\tand\ttwist\tto\tmake\t5\tto\t6\tturns. 2.\t Take\tthe\tloose\tor\ttag\tend\tof\tthe\tline\tand\tput\tit\tthrough\tthe\tloop\tthat formed\tat\tthe\thook\tabove\tthe\teye.\n\n3.\t Bring\tthe\ttag\tend\tthrough\tthe\tsecond\tloop\tthat\tformed\tby\tcompleting step\t2.\n\n4.\t Wet\tthe\tline. 5.\t While\tholding\tthe\tline\tand\ttag\tend\tin\tseparate\thands,\ttighten\tthe\tknot\n\nslowly\tso\tthat\tit\tmoves\tsecurely\tagainst\tthe\teye\tof\tthe\thook. 6.\t Trim\tthe\texcess\tline\tor\ttag\tend\tto\tleave\tabout\t\u00bc\tinch\tof\tline.\n\n2.\n\n1.\n\n4.\n\n3.\n\n5.\n\n6.\n\nA Beginner\u2019s Guide to Fishing 5\n\nLine to Reel Knot\n\no\t\t\t\t\tArbor\tKnot\n\n1.\t\t\t\t\tLoop\tthe\tline\taround\tthe\treel\tspool\t(also\tcalled\tarbor). \t\t\t\t\t\t\t2.\t \t Tie\tan\toverhand\tknot\taround\tthe\tmain\tor\tstanding\tline\tto\tform\ta\tloose slip\tknot.\n\n3.\t\t\t\t\tTie\ta\tsecond\toverhand\tknot\tin\tthe\tfree\tend\tor\ttag\tend. \t\t\t\t\t\t\t4.\t\t\t\t\tWet\tthe\tline. \t\t\t\t\t\t\t5.\t\t\t\t\tCinch\tthe\tknot\tin\tthe\ttag\tend\ttight.\t\t \t\t\t\t\t\t\t6.\t\t\t\t\tTrim\tthe\texc",
+      "text": "and bait andor lures with your line.The most popular and most often used rig of all is the bobber rig. This involves  placing a bobber on your line. The depth of the bobber can differ depending on where and what fish species you are fishing for. Placing the bobber two feet from the end of your line is a good place to start after your hook and sinker or split-shot have been attached. The key to the bobber rig is to make sure after you cast, your line is tight so that fish biting at your bait will be noticeable.Another easy-to-use rig is a bottom or standard rig. For this rig, just tie on a hook,  attach some live bait and enough split shot to sink it to the bottom. Hold your line tight as you would if you were fishing a bobber rig, but be careful not to move it. Let the fish come to your bait. If you dont get a bite after 15 minutes, then reel in and cast again in a new spot. 6 A Beginners Guide to Fishing A Beginners Guide to Fishing 7 3.",
       "keywords": [
-        "also",
-        "through",
-        "knot",
-        "take",
-        "fisherman\u2019s",
-        "pass",
-        "hook",
-        "clinch",
+        "would",
+        "fishing",
+        "cast",
         "make",
-        "that",
-        "improved",
-        "loop",
-        "line",
-        "loose",
-        "twist",
-        "called",
-        "turns"
+        "depend",
+        "standard",
+        "bait",
+        "tight",
+        "reel",
+        "use",
+        "andor",
+        "involv",
+        "differ",
+        "lineth",
+        "live",
+        "sink",
+        "speci",
+        "bobber",
+        "sure",
+        "two",
+        "tie",
+        "often",
+        "depth",
+        "hook",
+        "end"
       ],
-      "length": 999,
-      "preview": "1.\n\n3.\n\n5.\n\n2.\n\n4.\n\n6.\n\no\n\nImproved\tClinch\tKnot\t(also\tcalled\tthe\tfisherman\u2019s\tknot)\n\n1.\t Pass\tthe\tlin..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "food",
+          "knots"
+        ]
+      },
+      "length": 952,
+      "preview": "and bait andor lures with your line.The most popular and most often used rig of all is the bobber rig. This involves  placing a bobber on your line. T..."
     },
     {
       "chunk_id": 13,
-      "text": "ne\tto\tform\ta\tloose slip\tknot.\n\n3.\t\t\t\t\tTie\ta\tsecond\toverhand\tknot\tin\tthe\tfree\tend\tor\ttag\tend. \t\t\t\t\t\t\t4.\t\t\t\t\tWet\tthe\tline. \t\t\t\t\t\t\t5.\t\t\t\t\tCinch\tthe\tknot\tin\tthe\ttag\tend\ttight.\t\t \t\t\t\t\t\t\t6.\t\t\t\t\tTrim\tthe\texcess\tline.\t\t \t\t\t\t\t\t\t7.\t\t\t\t\tCinch\tdown\tthe\tfirst\toverhand\tknot\ton\tthe\treel.\n\nRigging\n\n\n\n\n\n\n\nRigging\trefers\tto\tthe\tway\tthat\tyou\ttie\ttogether\tyour\tterminal\ttackle\t(hooks,\tswivels,\t sinkers,\tbobbers,\tetc.)\tand\tbait\tand/or\tlures\twith\tyour\tline. The\tmost\tpopular\tand\tmost\toften\tused\trig\tof\tall\tis\tthe\tbobber\trig.\t\tThis\tinvolves\t placing\ta\tbobber\ton\tyour\tline.\t\tThe\tdepth\tof\tthe\tbobber\tcan\tdiffer\tdepending\ton\t where\tand\twhat\tfish\tspecies\tyou\tare\tfishing\tfor.\t\tPlacing\tthe\tbobber\ttwo\tfeet\tfrom\t the\tend\tof\tyour\tline\tis\ta\tgood\tplace\tto\tstart\tafter\tyour\thook\tand\tsinker\tor\tsplit-shot\t have\tbeen\tattached.\t\tThe\tkey\tto\tthe\tbobber\trig\tis\tto\tmake\tsure\tafter\tyou\tcast,\tyour\t line\tis\ttight\tso\tthat\tfish\tbiting\tat\tyour\tbait\twill\tbe\tnoticeable. Another\teasy-to-use\trig\tis\ta\tbottom\tor\tstandard\trig.\t\tFor\tthis\trig,\tjust",
+      "text": "6 A Beginners Guide to Fishing A Beginners Guide to Fishing 7 3. Bend your arm at the elbow, raising your hand with the rod until it reaches about the 10 oclock position over your shoulder or until your hand holding the rod is right to the side of your face. 4. Bring the rod forward with a smooth motion and release the button when the rod is at a 12 oclock position. o If the lurecasting plug landed close in front of you, you released the thumb button too late. If the lure casting plug went more or less straight up, you released the thumb button too early. Practice is the key to good casting! Spinning Technique 1. Grasp the rods handle with one hand. Place the connection or stem where the reel attaches to the rod between your second and third fingers. Put your pointer finger or first finger over the line. Then open the reels bail (little bar over the reel) with your other hand. Remember a spinning or open faced reel will face away from you or below the rod. 2.",
       "keywords": [
-        "knot",
-        "end",
-        "trim",
-        "first",
-        "form",
-        "excess",
-        "down",
-        "line",
-        "cinch",
-        "tight",
-        "loose",
-        "second",
-        "overhand",
-        "slip",
-        "free"
+        "one",
+        "fishing",
+        "late",
+        "reach",
+        "face",
+        "releas",
+        "lurecast",
+        "reel",
+        "practic",
+        "handl",
+        "spin",
+        "bring",
+        "littl",
+        "open",
+        "right",
+        "posit",
+        "stem",
+        "finger",
+        "bail",
+        "smooth",
+        "button",
+        "elbow",
+        "close",
+        "rod",
+        "plug"
       ],
-      "length": 999,
-      "preview": "ne\tto\tform\ta\tloose slip\tknot.\n\n3.\t\t\t\t\tTie\ta\tsecond\toverhand\tknot\tin\tthe\tfree\tend\tor\ttag\tend. \t\t\t\t\t\t\t..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "food"
+        ]
+      },
+      "length": 973,
+      "preview": "6 A Beginners Guide to Fishing A Beginners Guide to Fishing 7 3. Bend your arm at the elbow, raising your hand with the rod until it reaches about the..."
     },
     {
       "chunk_id": 14,
-      "text": "key\tto\tthe\tbobber\trig\tis\tto\tmake\tsure\tafter\tyou\tcast,\tyour\t line\tis\ttight\tso\tthat\tfish\tbiting\tat\tyour\tbait\twill\tbe\tnoticeable. Another\teasy-to-use\trig\tis\ta\tbottom\tor\tstandard\trig.\t\tFor\tthis\trig,\tjust\ttie\ton\ta\thook,\t attach\tsome\tlive\tbait\tand\tenough\tsplit\tshot\tto\tsink\tit\tto\tthe\tbottom.\t\tHold\tyour\tline\t tight\tas\tyou\twould\tif\tyou\twere\tfishing\ta\tbobber\trig,\tbut\tbe\tcareful\tnot\tto\tmove\tit.\t\t Let\tthe\tfish\tcome\tto\tyour\tbait.\t\tIf\tyou\tdon\u2019t\tget\ta\tbite\tafter\t15\tminutes,\tthen\treel\tin\t and\tcast\tagain\tin\ta\tnew\tspot.\n\n6 A Beginner\u2019s Guide to Fishing\n\nCasting\n\nSpin-casting Technique\n\n1.\t Grasp\tthe\trod\u2019s\thandle\twith\tone\thand\twith\t your\tindex\tfinger\tabove\tthe\tpoint\ton\tthe\t rod\thandle.\tPush\tthe\treel\u2019s\tbutton\tdown\t with\tyour\tthumb\tand\tHOLD\tit\tto\tkeep\t line\tfrom\tcoming\toff\tthe\treel.\tRemember\t a\tspin-cast\tor\tclosed\tface\treel\twill\tface\t upward\ttoward\tyou.\n\n2.\t Face\tthe\tarea\tyou\tdesire\tto\tcast\tand\taim\t the\trod\ttip\ttoward\tthe\ttarget\tarea\tabout\t level\twith\tyour\teyes.\n\n3.\n\nBend\tyour\tarm\tat\tthe\telbow,\traising\tyou",
+      "text": "2. Face the area you desire to cast in and aim the rod tip toward the target area about level with your eyes. 3. Bend your arm at the elbow, raising your hand with the rod until it reaches the 10 oclock position over your shoulder or almost at eye level. 4. When the rod reaches the almost straight up and down or 12 oclock position, bring your forearm forward with a slight wrist movement. 5. Straighten your index finger to release the line when the rod reaches eye level. o If the lurecasting plug landed close in front of you, you released your index finger too late. If the lurecasting plug went more or less straight up, you released your index finger too early. Practice is the key to good casting! Common Freshwater Live Bait  Worms come in a variety of choicesearthworms, red worms and nightcrawlers. Anglers can create their own compost pile or worm bed to house worms for use.",
       "keywords": [
-        "another",
-        "after",
-        "noticeable",
-        "sure",
-        "easy-to-use",
-        "will",
-        "bobber",
-        "standard",
-        "tight",
-        "rig",
-        "bottom",
+        "target",
+        "late",
+        "tip",
+        "aim",
+        "reach",
+        "face",
+        "straighten",
+        "releas",
+        "lurecast",
         "bait",
-        "biting",
-        "make",
-        "your",
-        "that",
-        "line",
-        "cast",
-        "fish"
+        "varieti",
+        "wrist",
+        "practic",
+        "hous",
+        "worm",
+        "live",
+        "use",
+        "bring",
+        "almost",
+        "red",
+        "compost",
+        "posit",
+        "finger",
+        "choicesearthworm",
+        "angler"
       ],
-      "length": 1000,
-      "preview": "key\tto\tthe\tbobber\trig\tis\tto\tmake\tsure\tafter\tyou\tcast,\tyour\t line\tis\ttight\tso\tthat\tfish\tbiting\tat\tyou..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water"
+        ]
+      },
+      "length": 887,
+      "preview": "2. Face the area you desire to cast in and aim the rod tip toward the target area about level with your eyes. 3. Bend your arm at the elbow, raising y..."
     },
     {
       "chunk_id": 15,
-      "text": "osed\tface\treel\twill\tface\t upward\ttoward\tyou.\n\n2.\t Face\tthe\tarea\tyou\tdesire\tto\tcast\tand\taim\t the\trod\ttip\ttoward\tthe\ttarget\tarea\tabout\t level\twith\tyour\teyes.\n\n3.\n\nBend\tyour\tarm\tat\tthe\telbow,\traising\tyour\thand\twith\t the\trod\tuntil\tit\treaches\tabout\tthe\t10\to\u2019clock\tposition\t over\tyour\tshoulder\tor\tuntil\tyour\thand\tholding\tthe\trod\t is\tright\tto\tthe\tside\tof\tyour\tface.\n\n4.\t Bring\tthe\trod\tforward\twith\ta\tsmooth\tmotion\tand\t release\tthe\tbutton\twhen\tthe\trod\tis\tat\ta\t12\to\u2019clock\t position. o If\tthe\tlure/casting\tplug\tlanded\tclose\tin\tfront\t of\tyou,\tyou\treleased\tthe\tthumb\tbutton\ttoo\t late.\t\tIf\tthe\tlure\tcasting\tplug\twent\tmore\tor\t less\tstraight\tup,\tyou\treleased\tthe\tthumb\t button\ttoo\tearly.\t\tPractice is the key to good casting!\n\nA Beginner\u2019s Guide to Fishing 7\n\nSpinning Technique\n\n1.\t Grasp\tthe\trod\u2019s\thandle\twith\tone\thand.\t\t Place\tthe\tconnection\tor\tstem\twhere\tthe\t reel\tattaches\tto\tthe\trod\tbetween\tyour\t second\tand\tthird\tfingers.\t\tPut\tyour\tpointer\t finger\tor\tfirst\tfinger\tover\tthe\tline.\t\tThen\t open\tthe\treel\u2019s\tbail\t(",
+      "text": "Anglers can create their own compost pile or worm bed to house worms for use. When you purchase worms from the store, leftover worms after your fishing trip can be stored in the refrigerator for a couple of days until the next fishing outing. When placing a worm on your hook, make sure to loop the worm through the hook 2-4 times and to leave some of the worm dangling from the bottom of the hook. Dont leave more than an inch of worm dangling below the hook or else fish will nibble away at the worm without biting the hook. Crickets and Grasshoppers are excellent bait for sunfish, bass and catfish. These insects can be purchased from most local bait and tackle shops and placed into a specially designed cricket cage. To prolong the life of your crickets, place a moist paper towel into the cricket cage. Just be careful that the paper towel doesnt aid your crickets in escaping. To properly bait your hook with a cricket, the hook should be inserted behind the crickets head under the collar.",
       "keywords": [
-        "upward",
-        "desire",
-        "level",
-        "osed",
-        "about",
-        "your",
-        "reel",
-        "toward",
-        "you",
-        "will",
-        "with",
-        "cast",
-        "face",
-        "area",
-        "eyes",
-        "target"
+        "fishing",
+        "outing",
+        "make",
+        "els",
+        "store",
+        "next",
+        "dangl",
+        "moist",
+        "bait",
+        "bass",
+        "behind",
+        "hous",
+        "use",
+        "cricket",
+        "worm",
+        "sunfish",
+        "shop",
+        "insert",
+        "coupl",
+        "cage",
+        "prolong",
+        "properli",
+        "compost",
+        "head",
+        "trip"
       ],
-      "length": 1000,
-      "preview": "osed\tface\treel\twill\tface\t upward\ttoward\tyou.\n\n2.\t Face\tthe\tarea\tyou\tdesire\tto\tcast\tand\taim\t the\trod\t..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "food",
+          "knots"
+        ]
+      },
+      "length": 998,
+      "preview": "Anglers can create their own compost pile or worm bed to house worms for use. When you purchase worms from the store, leftover worms after your fishin..."
     },
     {
       "chunk_id": 16,
-      "text": "hand.\t\t Place\tthe\tconnection\tor\tstem\twhere\tthe\t reel\tattaches\tto\tthe\trod\tbetween\tyour\t second\tand\tthird\tfingers.\t\tPut\tyour\tpointer\t finger\tor\tfirst\tfinger\tover\tthe\tline.\t\tThen\t open\tthe\treel\u2019s\tbail\t(little\tbar\tover\tthe\t reel)\twith\tyour\tother\thand.\tRemember\ta\t spinning\tor\topen\tfaced\treel\twill\tface\taway\t from\tyou\tor\tbelow\tthe\trod.\n\n2.\n\nFace\tthe\tarea\tyou\tdesire\tto\tcast\tin\tand\t aim\tthe\trod\ttip\ttoward\tthe\ttarget\tarea\t about\tlevel\twith\tyour\teyes.\n\n3.\t\t\t\t\tBend\tyour\tarm\tat\tthe\telbow,\traising\tyour\t hand\twith\tthe\trod\tuntil\tit\treaches\tthe\t10\t o\u2019clock\tposition\tover\tyour\tshoulder\tor\t almost\tat\teye\tlevel.\n\n4.\t\t\t\t\tWhen\tthe\trod\treaches\tthe\talmost\tstraight\t up\tand\tdown\tor\t12\to\u2019clock\tposition,\tbring\t your\tforearm\tforward\twith\ta\tslight\twrist\t movement.\n\n5.\t\t\t\t\tStraighten\tyour\tindex\tfinger\tto\trelease the\tline\twhen\tthe\trod\treaches\teye\tlevel.\t o\t If\tthe\tlure/casting\tplug\tlanded\tclose\t in\tfront\tof\tyou,\tyou\treleased\tyour\t index\tfinger\ttoo\tlate.\tIf\tthe\tlure/ casting\tplug\twent\tmore\tor\tless\t straight\tup,\tyou\tre",
+      "text": "To properly bait your hook with a cricket, the hook should be inserted behind the crickets head under the collar. Minnows is a loosely used term by anglers to mean baitfish. Minnows are technically members of a specific family. Fish used as bait typically include shiners, chubs and dace as well as minnows. Minnows will live longer in an aerated minnow bucket where the minnows arent crowded. Baiting your hook with a minnow involves hooking them through the lips or under their dorsal fin. Avoid hooking the fish through the backbone when hooking under their dorsal fin to prevent killing the minnow. Tip: make sure to always present the bait on your hook as natural as possible and hook your bait in way to keep it alive longer. 8 A Beginners Guide to Fishing A Beginners Guide to Fishing 9 Artificial Lures  Plugs were originally lures carved of wood, but now they are made of various materials such as plastic and cork.",
       "keywords": [
-        "place",
-        "hand",
-        "attaches",
-        "fingers",
-        "first",
-        "where",
-        "your",
-        "reel",
-        "line",
-        "pointer",
-        "third",
-        "stem",
-        "second",
-        "finger",
-        "connection",
-        "over",
-        "between",
-        "then"
+        "way",
+        "insert",
+        "fishing",
+        "arent",
+        "behind",
+        "tip",
+        "make",
+        "bait",
+        "dace",
+        "aerat",
+        "cricket",
+        "use",
+        "involv",
+        "kill",
+        "live",
+        "cork",
+        "technic",
+        "well",
+        "loos",
+        "minnow",
+        "origin",
+        "alway",
+        "keep",
+        "properli",
+        "famili"
       ],
-      "length": 999,
-      "preview": "hand.\t\t Place\tthe\tconnection\tor\tstem\twhere\tthe\t reel\tattaches\tto\tthe\trod\tbetween\tyour\t second\tand\tth..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "food",
+          "knots"
+        ]
+      },
+      "length": 924,
+      "preview": "To properly bait your hook with a cricket, the hook should be inserted behind the crickets head under the collar. Minnows is a loosely used term by an..."
     },
     {
       "chunk_id": 17,
-      "text": "e\twhen\tthe\trod\treaches\teye\tlevel.\t o\t If\tthe\tlure/casting\tplug\tlanded\tclose\t in\tfront\tof\tyou,\tyou\treleased\tyour\t index\tfinger\ttoo\tlate.\tIf\tthe\tlure/ casting\tplug\twent\tmore\tor\tless\t straight\tup,\tyou\treleased\tyour\tindex\t finger\ttoo\tearly.\tPractice is the key to good casting!\n\n8 A Beginner\u2019s Guide to Fishing\n\nCommon Freshwater Live Bait\n\nWorms\tcome\tin\ta\tvariety\tof\tchoices\u2014earthworms,\tred\tworms\tand\tnightcrawlers.\t\t Anglers\tcan\tcreate\ttheir\town\tcompost\tpile\tor\tworm\tbed\tto\thouse\tworms\tfor\tuse.\t When\tyou\tpurchase\tworms\tfrom\tthe\tstore,\tleftover\tworms\tafter\tyour\tfishing\ttrip\t can\tbe\tstored\tin\tthe\trefrigerator\tfor\ta\tcouple\tof\tdays\tuntil\tthe\tnext\tfishing\touting.\t\t When\tplacing\ta\tworm\ton\tyour\thook,\tmake\t sure\tto\tloop\tthe\tworm\tthrough\tthe\thook\t 2-4\ttimes\tand\tto\tleave\tsome\tof\tthe\tworm\t dangling\tfrom\tthe\tbottom\tof\tthe\thook.\t\tDon\u2019t\t leave\tmore\tthan\tan\tinch\tof\tworm\tdangling\t below\tthe\thook\tor\telse\tfish\twill\tnibble\taway\t at\tthe\tworm\twithout\tbiting\tthe\thook.\n\nCrickets\tand\tGrasshoppers\tare\texcellent\tbait",
+      "text": "8 A Beginners Guide to Fishing A Beginners Guide to Fishing 9 Artificial Lures  Plugs were originally lures carved of wood, but now they are made of various materials such as plastic and cork. Plugs are further separated into different types such as surface and subsurface plugs. Surface plugs include stickbaits, propbaits, crawlers and chuggers. Subsurface plugs include crankbaits, minnow plugs, trolling plugs and jerkbaits. Plugs have either two or three treble hooks attached to cover the fishs striking area. The fish to target with plugs include black and white crappie and white, spotted, smallmouth, striped, largemouth and hybrid bass. Spinnerbaits have one or more blades that spin or rotate around a straight wire or safety pin-looking shaft. Most spinnerbaits have tails and bodies made of rubber, animal hair, soft plastic, feathers or other materials. The fish to target with spinnerbaits include all bass species, trout and crappie.",
       "keywords": [
-        "reaches",
-        "close",
-        "landed",
-        "plug",
-        "casting",
-        "less",
-        "released",
-        "lure/casting",
-        "index",
-        "late",
-        "finger",
-        "lure/",
-        "your",
-        "front",
-        "when",
-        "level",
-        "you",
-        "more",
-        "went"
+        "target",
+        "cover",
+        "fishing",
+        "one",
+        "pinlook",
+        "hybrid",
+        "bass",
+        "spinnerbait",
+        "chugger",
+        "differ",
+        "safety",
+        "cork",
+        "spin",
+        "propbait",
+        "jerkbait",
+        "speci",
+        "minnow",
+        "origin",
+        "stripe",
+        "smallmouth",
+        "tail",
+        "stickbait",
+        "materi",
+        "two",
+        "hook"
       ],
-      "length": 999,
-      "preview": "e\twhen\tthe\trod\treaches\teye\tlevel.\t o\t If\tthe\tlure/casting\tplug\tlanded\tclose\t in\tfront\tof\tyou,\tyou\tre..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter",
+          "food"
+        ]
+      },
+      "length": 949,
+      "preview": "8 A Beginners Guide to Fishing A Beginners Guide to Fishing 9 Artificial Lures  Plugs were originally lures carved of wood, but now they are made of v..."
     },
     {
       "chunk_id": 18,
-      "text": "bottom\tof\tthe\thook.\t\tDon\u2019t\t leave\tmore\tthan\tan\tinch\tof\tworm\tdangling\t below\tthe\thook\tor\telse\tfish\twill\tnibble\taway\t at\tthe\tworm\twithout\tbiting\tthe\thook.\n\nCrickets\tand\tGrasshoppers\tare\texcellent\tbait\tfor\t sunfish,\tbass\tand\tcatfish.\t\tThese\tinsects\tcan\tbe\t purchased\tfrom\tmost\tlocal\tbait\tand\ttackle\tshops\t and\tplaced\tinto\ta\tspecially\tdesigned\tcricket\tcage.\t To\tprolong\tthe\tlife\tof\tyour\tcrickets,\tplace\ta\tmoist\t paper\ttowel\tinto\tthe\tcricket\tcage.\t\tJust\tbe\tcareful\t that\tthe\tpaper\ttowel\tdoesn\u2019t\taid\tyour\tcrickets\t in\tescaping.\t\tTo\tproperly\tbait\tyour\thook\twith\ta\t cricket,\tthe\thook\tshould\tbe\tinserted\tbehind\tthe\t cricket\u2019s\thead\tunder\tthe\tcollar.\n\nMinnows\tis\ta\tloosely\tused\tterm\tby\tanglers\t to\tmean\tbaitfish.\tMinnows\tare\ttechnically\t members\tof\ta\tspecific\tfamily.\t\tFish\tused\tas\tbait\t typically\tinclude\tshiners,\tchubs\tand\tdace\tas\t well\tas\tminnows.\tMinnows\twill\tlive\tlonger\tin\tan\t aerated\tminnow\t\tbucket\twhere\tthe\tminnows\taren\u2019t\tcrowded.\t\tBaiting\tyour\thook with\ta\tminnow\tinvolves\thooking\tthem\tthrough\tthe\t li",
+      "text": "The fish to target with spinnerbaits include all bass species, trout and crappie. Soft Plastics are flexible lures made into the shapes of what fish eat such as worms, grubs, lizards, crayfish and minnows. They are found in a variety of sizes, colors and some have a fish-attracting scent. The fish to target with the soft plastics include all bass species. Jigs are made of a weighted metal or lead head with a body and tail made of rubber, feather, soft plastics or animal hair. They are found in a variety of sizes, colors and patterns. The fish to target with these lures include all bass species, sunfish (such as redbreast, bluegill, redear, etc. ), crappie and yellow perch. Spoons are metal, spoon-shaped lures made to resemble a swimming or injured baitfish. These lures can be used with many techniques such as jigging, rolling or just casting them out and reeling them in. The fish to target with these lures include all bass species.",
       "keywords": [
-        "leave",
-        "biting",
-        "hook",
-        "else",
-        "dangling",
-        "than",
-        "nibble",
-        "without",
-        "inch",
-        "bottom",
-        "below",
-        "more",
-        "don\u2019t",
-        "will",
+        "target",
+        "spoon",
+        "scent",
+        "varieti",
+        "bass",
+        "reel",
+        "size",
+        "use",
+        "spinnerbait",
+        "sunfish",
         "worm",
-        "away",
-        "fish"
+        "perch",
+        "speci",
+        "baitfish",
+        "minnow",
+        "tail",
+        "injur",
+        "head",
+        "roll",
+        "fishattract",
+        "resembl",
+        "crappi",
+        "flexibl",
+        "shape",
+        "techniqu"
       ],
-      "length": 999,
-      "preview": "bottom\tof\tthe\thook.\t\tDon\u2019t\t leave\tmore\tthan\tan\tinch\tof\tworm\tdangling\t below\tthe\thook\tor\telse\tfish\twi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 945,
+      "preview": "The fish to target with spinnerbaits include all bass species, trout and crappie. Soft Plastics are flexible lures made into the shapes of what fish e..."
     },
     {
       "chunk_id": 19,
-      "text": "ers,\tchubs\tand\tdace\tas\t well\tas\tminnows.\tMinnows\twill\tlive\tlonger\tin\tan\t aerated\tminnow\t\tbucket\twhere\tthe\tminnows\taren\u2019t\tcrowded.\t\tBaiting\tyour\thook with\ta\tminnow\tinvolves\thooking\tthem\tthrough\tthe\t lips\tor\tunder\ttheir\tdorsal\tfin.\tAvoid\thooking\tthe\t fish\tthrough\tthe\tbackbone\twhen\thooking\tunder\t their\tdorsal\tfin\tto\tprevent\tkilling\tthe\tminnow.\n\nTip:\t\tmake\tsure\tto\talways\tpresent\tthe\tbait\ton\tyour\thook\tas\tnatural\tas\tpossible\tand hook\tyour\tbait\tin\tway\tto\tkeep\tit\talive\tlonger.\n\nA Beginner\u2019s Guide to Fishing 9\n\nArtificial Lures\n\nPlugs\twere\toriginally\tlures\tcarved\tof\twood,\tbut\tnow\n\nthey\tare\tmade\tof\tvarious\tmaterials\tsuch\tas\tplastic\tand\t cork.\t\tPlugs\tare\tfurther\tseparated\tinto\tdifferent\ttypes\t such\tas\tsurface\tand\tsubsurface\tplugs.\t\tSurface\tplugs\t include\tstickbaits,\tpropbaits,\tcrawlers\tand\tchuggers.\t\t Subsurface\tplugs\tinclude\tcrankbaits,\tminnow\tplugs,\t trolling\tplugs\tand\tjerkbaits.\t\tPlugs\thave\teither\ttwo\tor\t three\ttreble\thooks\tattached\tto\t cover\tthe\tfish\u2019s\tstriking\tarea.\t\tThe\t fish\tto\ttarget\twith",
+      "text": "The fish to target with these lures include all bass species. Tip: Always keep in mind the fish you are targeting, what it eats, how big its mouth is to eat its prey and where they feed (surface, middle or bottom) when choosing the type of lure and lure size. Fish External Anatomy  Senses  The lateral line is a special sensory organ that fish have in addition to the usual senses of seeing, hearing, tasting and smelling. The lateral line is a collection of nerve endings along a fishs side that feels vibrations in the water. It helps the fish determine the speed, direction of movement and even the size of the predator or prey thus helping them find food and avoid being eaten. The lateral line is very important to fish that live in deep water or in murky water. Fish eyesight is similar to ours. They see brightness and color; however, some species have better color vision than others. Fish that live in deep water dont see the full spectrum of colors since water filters out color.",
       "keywords": [
-        "bucket",
-        "hook",
+        "find",
         "live",
-        "baiting",
-        "minnow",
-        "where",
-        "your",
-        "well",
-        "longer",
-        "aren\u2019t",
-        "aerated",
-        "ers",
-        "will",
-        "chubs",
-        "crowded",
-        "with",
-        "minnows",
-        "dace"
+        "alway",
+        "even",
+        "howev",
+        "ration",
+        "direct",
+        "along",
+        "hydration",
+        "eyesight",
+        "import",
+        "dont",
+        "sensori",
+        "big",
+        "murki",
+        "predat",
+        "vibrat",
+        "see",
+        "avoid",
+        "organ",
+        "purification",
+        "speci",
+        "smell",
+        "vision",
+        "keep"
       ],
-      "length": 1000,
-      "preview": "ers,\tchubs\tand\tdace\tas\t well\tas\tminnows.\tMinnows\twill\tlive\tlonger\tin\tan\t aerated\tminnow\t\tbucket\twher..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "food",
+          "navigation",
+          "signaling"
+        ]
+      },
+      "length": 990,
+      "preview": "The fish to target with these lures include all bass species. Tip: Always keep in mind the fish you are targeting, what it eats, how big its mouth is ..."
     },
     {
       "chunk_id": 20,
-      "text": "Subsurface\tplugs\tinclude\tcrankbaits,\tminnow\tplugs,\t trolling\tplugs\tand\tjerkbaits.\t\tPlugs\thave\teither\ttwo\tor\t three\ttreble\thooks\tattached\tto\t cover\tthe\tfish\u2019s\tstriking\tarea.\t\tThe\t fish\tto\ttarget\twith\tplugs\tinclude\t black\tand\twhite\tcrappie\tand\twhite,\tspotted,\tsmallmouth,\tstriped,\t largemouth\tand\thybrid\tbass.\n\nSpinnerbaits\thave\tone\tor\tmore\tblades\tthat\tspin\tor\trotate\t around\ta\tstraight\twire\tor\tsafety\tpin-looking\tshaft.\t\tMost\t spinnerbaits\thave\ttails\tand\tbodies\tmade\tof\trubber,\tanimal\thair,\t soft\tplastic,\tfeathers\tor\tother\tmaterials.\t\tThe\tfish\tto\t\ttarget\t with\tspinnerbaits\tinclude\tall\tbass\tspecies,\ttrout\tand\tcrappie.\n\nSoft\tPlastics\tare\tflexible\tlures\tmade\n\ninto\tthe\tshapes\tof\twhat\tfish\teat\tsuch\tas\tworms,\tgrubs,\t lizards,\tcrayfish\tand\tminnows.\t\tThey\tare\tfound\tin\ta\t variety\tof\tsizes,\tcolors\tand\tsome\thave\ta\tfish-attracting\t scent.\t\tThe\tfish\tto\ttarget\twith\tthe\tsoft\tplastics\tinclude\tall\t bass\tspecies.\n\nJigs\tare\tmade\tof\ta\tweighted\tmetal\tor\tlead\thead\twith\ta\t body\tand\ttail\tmade\tof\trubber,\tfeather,",
+      "text": "Fish that live in deep water dont see the full spectrum of colors since water filters out color. Fish can see up to 100 feet in extremely clear water and in murky water about 10 to 20 feet out in front of them. A fishs field of vision is all directions except for straight down and straight back. Fish can also see above-water objects so anglers should keep a low profile when approaching fishing spots, especially in clear waters. Fish hear with an inner ear with tiny bones that pick up sound. They lack external ears like we have. Fish sense of smell is highly developed. They detect odors by a nasal sac in their mouth. Water comes in through the nare and is passed through the nasal sac and out again. Smells allow fish to return to spawning grounds and alert them to the presence of predators or prey. Taste is a useless sense in most fish, except for catfish and bullheads that have skin and barbels or whiskers that have taste-sensitive cells.",
       "keywords": [
-        "plugs",
-        "jerkbaits",
-        "minnow",
-        "subsurface",
-        "trolling",
-        "fish\u2019s",
-        "have",
-        "treble",
-        "hooks",
-        "three",
-        "either",
-        "attached",
-        "area",
-        "crankbaits",
-        "include",
-        "striking",
-        "cover"
+        "object",
+        "live",
+        "direct",
+        "feet",
+        "hydration",
+        "like",
+        "dont",
+        "useless",
+        "sac",
+        "spawn",
+        "low",
+        "whisker",
+        "murki",
+        "predat",
+        "barbel",
+        "especi",
+        "tastesensit",
+        "see",
+        "tini",
+        "except",
+        "100",
+        "fishing",
+        "bone",
+        "odor",
+        "purification"
       ],
-      "length": 997,
-      "preview": "Subsurface\tplugs\tinclude\tcrankbaits,\tminnow\tplugs,\t trolling\tplugs\tand\tjerkbaits.\t\tPlugs\thave\teither..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "food",
+          "navigation"
+        ]
+      },
+      "length": 951,
+      "preview": "Fish that live in deep water dont see the full spectrum of colors since water filters out color. Fish can see up to 100 feet in extremely clear water ..."
     },
     {
       "chunk_id": 21,
-      "text": "ome\thave\ta\tfish-attracting\t scent.\t\tThe\tfish\tto\ttarget\twith\tthe\tsoft\tplastics\tinclude\tall\t bass\tspecies.\n\nJigs\tare\tmade\tof\ta\tweighted\tmetal\tor\tlead\thead\twith\ta\t body\tand\ttail\tmade\tof\trubber,\tfeather,\tsoft\tplastics\tor\t animal\thair.\t\tThey\tare\tfound\tin\ta\tvariety\tof\tsizes,\tcolors\t and\tpatterns.\t\tThe\tfish\t to\ttarget\twith\tthese\t lures\tinclude\tall\tbass\t species,\tsunfish\t(such\t as\tredbreast,\tbluegill,\t redear,\tetc.),\tcrappie\t and\tyellow\tperch.\n\nSpoons\tare\tmetal,\tspoon-shaped\tlures\tmade\tto\tresemble\ta\tswimming\tor\tinjured baitfish.\t\tThese\tlures\tcan\tbe\tused\twith\tmany\ttechniques\tsuch\tas\tjigging,\trolling\t or\tjust\tcasting\tthem\tout\tand\treeling\tthem\tin.\t\tThe\tfish\tto\ttarget\twith\tthese\tlures\t include\tall\tbass\tspecies.\n\nTip:\t\tAlways\tkeep\tin\tmind\tthe\tfish\tyou\tare\ttargeting,\twhat\tit\teats,\thow\tbig\tits\tmouth is\tto\teat\tits\tprey\tand\twhere\tthey\tfeed\t(surface,\tmiddle\tor\tbottom)\twhen\tchoosing\t the\ttype\tof\tlure\tand\tlure\tsize.\n\n10 A Beginner\u2019s Guide to Fishing\n\nFish External Anatomy & Senses\n\nThe\tlateral\tline\tis\ta\ts",
+      "text": "Taste is a useless sense in most fish, except for catfish and bullheads that have skin and barbels or whiskers that have taste-sensitive cells. These fish can use their sense of taste to help track down food sources. 10 A Beginners Guide to Fishing A Beginners Guide to Fishing 11 Dorsal Fin Caudal Fin Anal Fin Pectoral Fin Pelvic FinGillsMouthNaresEyeLateral LineLargemouth Bass Why Do We Have Rules  Regulations? People! Along with natural pressures such as predators and competition for food and space, fish have to worry about pressures we put on them. Those pressures include pollution, in the forms of litter and runoff which damage water quality and cause loss of adequate habitat, and overfishing. Overfishing is the unnecessary harvest of too many fish or the harvesting of fish that are too small or havent had the opportunity to breed.",
       "keywords": [
-        "plastics",
-        "species",
-        "jigs",
-        "made",
-        "include",
-        "lead",
-        "have",
-        "with",
-        "weighted",
+        "competit",
+        "harvest",
+        "fishing",
+        "track",
+        "peopl",
+        "havent",
+        "damag",
         "bass",
-        "target",
-        "scent",
-        "tail",
-        "soft",
-        "body",
-        "fish-attracting",
-        "metal",
-        "head",
-        "fish"
+        "purification",
+        "use",
+        "unnecessari",
+        "opportun",
+        "hunting",
+        "fingillsmouthnareseyelater",
+        "form",
+        "liquid",
+        "food",
+        "nutrition",
+        "natur",
+        "sens",
+        "litter",
+        "ration",
+        "skin",
+        "H2O",
+        "linelargemouth"
       ],
-      "length": 1000,
-      "preview": "ome\thave\ta\tfish-attracting\t scent.\t\tThe\tfish\tto\ttarget\twith\tthe\tsoft\tplastics\tinclude\tall\t bass\tspec..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water",
+          "food",
+          "signaling"
+        ]
+      },
+      "length": 847,
+      "preview": "Taste is a useless sense in most fish, except for catfish and bullheads that have skin and barbels or whiskers that have taste-sensitive cells. These ..."
     },
     {
       "chunk_id": 22,
-      "text": "o\teat\tits\tprey\tand\twhere\tthey\tfeed\t(surface,\tmiddle\tor\tbottom)\twhen\tchoosing\t the\ttype\tof\tlure\tand\tlure\tsize.\n\n10 A Beginner\u2019s Guide to Fishing\n\nFish External Anatomy & Senses\n\nThe\tlateral\tline\tis\ta\tspecial\tsensory\torgan\tthat\tfish\thave\tin\taddition\tto\tthe\tusual\t senses\tof\tseeing,\thearing,\ttasting\tand\tsmelling.\t\tThe\tlateral\tline\tis\ta\tcollection\tof\t nerve\tendings\talong\ta\tfish\u2019s\tside\tthat\tfeels\tvibrations\tin\tthe\twater.\t\tIt\thelps\tthe\tfish\t determine\tthe\tspeed,\tdirection\tof\tmovement\tand\teven\tthe\tsize\tof\tthe\tpredator\t or\tprey\tthus\thelping\tthem\tfind\tfood\tand\tavoid\tbeing\teaten.\tThe\tlateral\tline\tis\tvery\t important\tto\tfish\tthat\tlive\tin\tdeep\twater\tor\tin\tmurky\twater.\n\nFish\teyesight\tis\tsimilar\tto\tours.\t\tThey\tsee\tbrightness\tand\tcolor;\thowever,\tsome species\thave\tbetter\tcolor\tvision\tthan\tothers.\t\tFish\tthat\tlive\tin\tdeep\twater\tdon\u2019t\tsee\t the\tfull\tspectrum\tof\tcolors\tsince\twater\tfilters\tout\tcolor.\t\tFish\tcan\tsee\tup\tto\t100\tfeet\t in\textremely\tclear\twater\tand\tin\tmurky\twater\tabout\t10\tto\t20\tfeet\tout\tin\tfront\tof",
+      "text": "Overfishing is the unnecessary harvest of too many fish or the harvesting of fish that are too small or havent had the opportunity to breed. Management takes place in the form of the following: o daily bag or creel limits on the amount of fish an angler can catch and possess in a day; o slot or size limits on fish to allow fish to reach sexual maturity and reproduce; and o restrictions on what type of gear can be used to harvest or catch certain fish game versus non-game. Frequently Asked Questions about Fishing Regulations o Where do I find all fish and wildlife regulations for the state of South Carolina? The Rules and Regulations are available at every location that sells licenses. They are also found on the website at dnr.sc.govregulations. o At what age do I need to purchase a fishing license? When you turn 16, you must have a fishing license in order to fish legally in public waters. o How often do I need to renew my fishing license?",
       "keywords": [
-        "beginner\u2019s",
-        "external",
-        "lure",
-        "size",
+        "harvest",
         "fishing",
-        "surface",
-        "bottom",
-        "anatomy",
-        "they",
-        "where",
-        "senses",
-        "middle",
-        "feed",
-        "when",
-        "prey",
-        "choosing",
-        "guide",
-        "fish",
-        "type"
+        "legal",
+        "reach",
+        "havent",
+        "nongam",
+        "limit",
+        "question",
+        "size",
+        "use",
+        "find",
+        "unnecessari",
+        "opportun",
+        "carolina",
+        "reproduc",
+        "age",
+        "websit",
+        "follow",
+        "form",
+        "liquid",
+        "amount",
+        "bag",
+        "avail",
+        "angler",
+        "certain"
       ],
-      "length": 999,
-      "preview": "o\teat\tits\tprey\tand\twhere\tthey\tfeed\t(surface,\tmiddle\tor\tbottom)\twhen\tchoosing\t the\ttype\tof\tlure\tand\tl..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "water",
+          "food"
+        ]
+      },
+      "length": 953,
+      "preview": "Overfishing is the unnecessary harvest of too many fish or the harvesting of fish that are too small or havent had the opportunity to breed. Managemen..."
     },
     {
       "chunk_id": 23,
-      "text": "live\tin\tdeep\twater\tdon\u2019t\tsee\t the\tfull\tspectrum\tof\tcolors\tsince\twater\tfilters\tout\tcolor.\t\tFish\tcan\tsee\tup\tto\t100\tfeet\t in\textremely\tclear\twater\tand\tin\tmurky\twater\tabout\t10\tto\t20\tfeet\tout\tin\tfront\tof\t them.\t\tA\tfish\u2019s\tfield\tof\tvision\tis\tall\tdirections\texcept\tfor\tstraight\tdown\tand\tstraight\t back.\t\tFish\tcan\talso\tsee\tabove-water\tobjects\tso\tanglers\tshould\tkeep\ta\tlow\tprofile\t when\tapproaching\tfishing\tspots,\tespecially\tin\tclear\twaters.\n\nFish\thear\twith\tan\tinner\tear\twith\ttiny\tbones\tthat\tpick\tup\tsound.\tThey\tlack\texternal ears\tlike\twe\thave.\n\nFish\tsense\tof\tsmell\tis\thighly\tdeveloped.\t\tThey\tdetect\todors\tby\ta\tnasal\tsac\tin\ttheir\t mouth.\tWater\tcomes\tin\tthrough\tthe\tnare\tand\tis\tpassed\tthrough\tthe\tnasal\tsac\tand\t out\tagain.\t\tSmells\tallow\tfish\tto\treturn\tto\tspawning\tgrounds\tand\talert\tthem\tto\tthe\t presence\tof\tpredators\tor\tprey.\n\nTaste\tis\ta\tuseless\tsense\tin\tmost\tfish,\texcept\tfor\tcatfish\tand\tbullheads\tthat\thave\tskin\t and\tbarbels\tor\twhiskers\tthat\thave\ttaste-sensitive\tcells.\t\tThese\tfish\tcan\tuse\ttheir\t sense\tof\tta",
+      "text": "o How often do I need to renew my fishing license? A fishing license is good from July 1st to June 30th. o Do I need a fishing license to fish from my private property? Yes, you will need a license to fish in public waters (such as lakes or rivers) even if youre on private land. You dont need a license to fish on private property in a private pond unless you are fishing in a commercial pay pond. You dont need a license to fish in a commercial pay pond when the pond is permitted by DNR. o Where do I go to buy a license? You can visit any of the 700 license agents throughout the state at the nearest local bait and tackle store, or at a DNR office in Charleston, Clemson, Columbia and Florence between 8:30 am-5:00 pm Monday through Friday, or call 1-866-714-3611 7 days a week 24 hours a day, or on the web at www.dnr.sc.govpurchase . What Are Invasive Or Nuisance Aquatic Species? These are species that are non-native and lack natural predators and diseases to keep their growth in check.",
       "keywords": [
-        "live",
-        "colors",
-        "since",
-        "extremely",
-        "about",
-        "full",
-        "color",
-        "filters",
-        "murky",
-        "feet",
-        "clear",
-        "don\u2019t",
-        "deep",
-        "spectrum",
-        "fish",
-        "water"
+        "fishing",
+        "check",
+        "store",
+        "wwwdnrscgovpurchas",
+        "invas",
+        "bait",
+        "purification",
+        "properti",
+        "lake",
+        "visit",
+        "week",
+        "agent",
+        "buy",
+        "speci",
+        "liquid",
+        "even",
+        "keep",
+        "your",
+        "pond",
+        "natur",
+        "friday",
+        "unless",
+        "web",
+        "renew",
+        "often"
       ],
-      "length": 999,
-      "preview": "live\tin\tdeep\twater\tdon\u2019t\tsee\t the\tfull\tspectrum\tof\tcolors\tsince\twater\tfilters\tout\tcolor.\t\tFish\tcan\ts..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water",
+          "food",
+          "knots"
+        ]
+      },
+      "length": 996,
+      "preview": "o How often do I need to renew my fishing license? A fishing license is good from July 1st to June 30th. o Do I need a fishing license to fish from my..."
     },
     {
       "chunk_id": 24,
-      "text": "dators\tor\tprey.\n\nTaste\tis\ta\tuseless\tsense\tin\tmost\tfish,\texcept\tfor\tcatfish\tand\tbullheads\tthat\thave\tskin\t and\tbarbels\tor\twhiskers\tthat\thave\ttaste-sensitive\tcells.\t\tThese\tfish\tcan\tuse\ttheir\t sense\tof\ttaste\tto\thelp\ttrack\tdown\tfood\tsources.\n\nLargemouth Bass\n\nDorsal Fin\n\nLateral Line\n\nCaudal Fin\n\nEye\n\nNares\n\nMouth\n\nGills\n\nAnal Fin\n\nPectoral Fin\n\nPelvic Fin\n\nA Beginner\u2019s Guide to Fishing 11\n\nWhy Do We Have Rules & Regulations?\n\nPeople!\t\tAlong\twith\tnatural\tpressures\tsuch\tas\tpredators\tand\tcompetition\tfor\tfood\t and\t\tspace,\tfish\thave\tto\tworry\tabout\tpressures\twe\tput\ton\tthem.\t\tThose\tpressures\t include\tpollution,\tin\tthe\tforms\tof\tlitter\tand\trunoff\twhich\tdamage\twater\tquality\tand\t cause\tloss\tof\tadequate\thabitat,\tand\toverfishing.\t\tOverfishing\tis\tthe\tunnecessary\t harvest\tof\ttoo\tmany\tfish\tor\tthe\tharvesting\tof\tfish\tthat\tare\ttoo\tsmall\tor\thaven\u2019t\thad\t the\topportunity\tto\tbreed.\n\nManagement\ttakes\tplace\tin\tthe\tform\tof\tthe\tfollowing:\n\no\t daily\tbag\tor\tcreel\tlimits\ton\tthe\tamount\tof\tfish\tan\tangler\tcan\tcatch\tand\tpo",
+      "text": "These are species that are non-native and lack natural predators and diseases to keep their growth in check. Some common, invasive plants in South Carolina include hydrilla, Didymo algae, water hyacinth, giant salvinia, water primrose, phragmites and alligatorweed. These plants can grow very dense, covering large areas, degrading water quality, displacing native plant species and making recreation and boating impossible. Animals can also be nuisance species. Species of concern include green mussels, zebra mussels, mud snails, flathead catfish, spotted bass, Asian carp and lionfish. The larvae (immature form) of animals can be so tiny they are not visible to the naked eye. These animal larvae can live in mud, dirt, sand and on plant fragments. To avoid further damage from exotic species, anglers should never take resource management into their own hands.",
       "keywords": [
-        "except",
-        "barbels",
-        "that",
-        "cells",
-        "useless",
-        "skin",
-        "bullheads",
-        "prey",
-        "catfish",
-        "whiskers",
-        "have",
-        "these",
-        "dators",
-        "sense",
-        "taste-sensitive",
-        "most",
-        "fish",
-        "taste"
+        "hyacinth",
+        "snail",
+        "live",
+        "displac",
+        "boat",
+        "hydration",
+        "common",
+        "sand",
+        "eye",
+        "take",
+        "predat",
+        "south",
+        "manag",
+        "tini",
+        "avoid",
+        "make",
+        "concern",
+        "carolina",
+        "purification",
+        "phragmit",
+        "speci",
+        "grow",
+        "form",
+        "keep",
+        "natur"
       ],
-      "length": 1000,
-      "preview": "dators\tor\tprey.\n\nTaste\tis\ta\tuseless\tsense\tin\tmost\tfish,\texcept\tfor\tcatfish\tand\tbullheads\tthat\thave\ts..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "shelter"
+        ]
+      },
+      "length": 865,
+      "preview": "These are species that are non-native and lack natural predators and diseases to keep their growth in check. Some common, invasive plants in South Car..."
     },
     {
       "chunk_id": 25,
-      "text": "f\tfish\tthat\tare\ttoo\tsmall\tor\thaven\u2019t\thad\t the\topportunity\tto\tbreed.\n\nManagement\ttakes\tplace\tin\tthe\tform\tof\tthe\tfollowing:\n\no\t daily\tbag\tor\tcreel\tlimits\ton\tthe\tamount\tof\tfish\tan\tangler\tcan\tcatch\tand\tpossess\n\nin\ta\tday;\n\no\t slot\tor\tsize\tlimits\ton\tfish\tto\tallow\tfish\tto\treach\tsexual\tmaturity\tand\treproduce;\tand restrictions\ton\twhat\ttype\tof\tgear\tcan\tbe\tused\tto\tharvest\tor\tcatch\tcertain\tfish\u2014 o\t game\tversus\tnon-game.\n\nFrequently\tAsked\tQuestions\tabout\tFishing\tRegulations\n\no\t Where\tdo\tI\tfind\tall\tfish\tand\twildlife\tregulations\tfor\tthe\tstate\tof\tSouth\tCarolina? \u25ca\tThe\tRules\tand\tRegulations\tare\tavailable\tat\tevery\tlocation\tthat\tsells\tlicenses.\n\nThey\tare\talso\tfound\ton\tthe\twebsite\tat\tdnr.sc.gov/regulations.\n\no\t At\twhat\tage\tdo\tI\tneed\tto\tpurchase\ta\tfishing\tlicense?\n\n\u25ca\tWhen\tyou\tturn\t16,\tyou\tmust\thave\ta\tfishing\tlicense\tin\torder\tto\tfish\tlegally\tin\n\npublic\twaters.\n\no\t How\toften\tdo\tI\tneed\tto\trenew\tmy\tfishing\tlicense?\n\n\u25ca\tA\tfishing\tlicense\tis\tgood\tfrom\tJuly\t1st\tto\tJune\t30th.\n\no\t Do\tI\tneed\ta\tfishing\tlicense\tto\tfish",
+      "text": "To avoid further damage from exotic species, anglers should never take resource management into their own hands. Unplanned stocking of fish, other aquatic animals or plants by anglers can disrupt the natural balance in an aquatic ecosystem causing damage to the established fishery, fish habitat and prey base. How Can You Help? When you leave a body of water: o Remove any visible mud, plants, fish, or animals before transporting equipment. Preventing the occurrence of these invasive species can save millions of public and private dollars in control costs. South Carolina law also includes fines up to 500 andor imprisonment for persons spreading nuisance aquatic weeds. o Eliminate water from equipment before transporting. o Anglers using wading gear should thoroughly clean it after use. They can wait for the gear to dry 100 and allow it to remain dry for 5 days before using again or dip wading gear in a 3 bleach solution, rinse well (as chlorine can be harmful to gear) and dry thoroughly.",
       "keywords": [
-        "place",
-        "haven\u2019t",
-        "possess",
-        "following:",
-        "opportunity",
-        "small",
-        "management",
-        "catch",
-        "daily",
-        "form",
-        "angler",
-        "amount",
-        "takes",
-        "that",
-        "breed",
-        "creel",
-        "day;",
-        "limits",
-        "fish"
+        "save",
+        "weed",
+        "well",
+        "remain",
+        "cost",
+        "spread",
+        "dollar",
+        "dri",
+        "elimin",
+        "hydration",
+        "caus",
+        "unplan",
+        "day",
+        "aquat",
+        "take",
+        "million",
+        "rins",
+        "leav",
+        "south",
+        "manag",
+        "law",
+        "fisheri",
+        "chlorin",
+        "balanc",
+        "avoid"
       ],
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "signaling"
+        ]
+      },
       "length": 1000,
-      "preview": "f\tfish\tthat\tare\ttoo\tsmall\tor\thaven\u2019t\thad\t the\topportunity\tto\tbreed.\n\nManagement\ttakes\tplace\tin\tthe\tf..."
+      "preview": "To avoid further damage from exotic species, anglers should never take resource management into their own hands. Unplanned stocking of fish, other aqu..."
     },
     {
       "chunk_id": 26,
-      "text": "icense\tin\torder\tto\tfish\tlegally\tin\n\npublic\twaters.\n\no\t How\toften\tdo\tI\tneed\tto\trenew\tmy\tfishing\tlicense?\n\n\u25ca\tA\tfishing\tlicense\tis\tgood\tfrom\tJuly\t1st\tto\tJune\t30th.\n\no\t Do\tI\tneed\ta\tfishing\tlicense\tto\tfish\tfrom\tmy\tprivate\tproperty?\n\n\u25ca\tYes,\tyou\twill\tneed\ta\tlicense\tto\tfish\tin\tpublic\twaters\t(such\tas\tlakes\tor\trivers)\t even\tif\tyou\u2019re\ton\tprivate\tland.\t\tYou\tdon\u2019t\tneed\t a\tlicense\tto\tfish\ton\tprivate\tproperty\tin\ta\tprivate\t pond\tunless\tyou\tare\tfishing\tin\ta\tcommercial\t pay\tpond.\tYou\tdon\u2019t\tneed\ta\tlicense\tto\tfish\tin\t a\tcommercial\tpay\tpond\twhen\tthe\tpond\tis\t permitted\tby\tDNR.\t o\t Where\tdo\tI\tgo\tto\tbuy\ta\tlicense?\t\t \u25ca\tYou\tcan\tvisit\tany\tof\tthe\t700\tlicense\t agents\tthroughout\tthe\tstate\tat\tthe\t nearest\tlocal\tbait\tand\ttackle\tstore,\tor\t at\ta\tDNR\toffice\tin\tCharleston,\tClemson,\t Columbia\tand\tFlorence\tbetween\t8:30\t am-5:00\tpm\tMonday\tthrough\tFriday,\tor\t call\t1-866-714-3611\t7\tdays\ta\tweek\t24\t hours\ta\tday,\tor\ton\tthe\tweb\tat\twww.dnr. sc.gov/purchase.\n\n12 A Beginner\u2019s Guide to Fishing\n\nWhat Are Invasive Or Nuisance Aquatic S",
+      "text": "To avoid chlorine damage, anglers can dip their gear in a 100 vinegar solution for 20 minutes or in a 1 salt solution for 20 minutes. o Wash all pets that went into the water with warm water, towel dry and brush well. o Clean and dry anything that comes into contact with water (boats, trailers, equipment, clothing, dogs, etc.). o Never release plants, fish, or animals into a body of water unless they came out of that body of water. o Dispose of bait properly, especially live bait, by placing it in the trash can within a sealed container or saving live bait in a sealed container for later use. 12 A Beginners Guide to Fishing A Beginners Guide to Fishing 13 Even if you think your live bait is native, it has the potential to house nuisance species and disease that can have negative impacts on aquatic ecosystems. o Dispose of shrimp parts and oyster shells properly.",
       "keywords": [
-        "icense",
-        "from",
-        "30th",
-        "often",
-        "need",
-        "renew",
-        "july",
+        "came",
+        "shrimp",
+        "100",
         "fishing",
-        "june",
-        "public",
-        "good",
-        "license",
-        "waters",
-        "legally",
-        "order",
-        "fish"
+        "save",
+        "releas",
+        "damag",
+        "dip",
+        "bait",
+        "purification",
+        "use",
+        "hous",
+        "brush",
+        "live",
+        "neg",
+        "speci",
+        "well",
+        "impact",
+        "cloth",
+        "equipment",
+        "never",
+        "liquid",
+        "trailer",
+        "boat",
+        "properli"
       ],
-      "length": 1000,
-      "preview": "icense\tin\torder\tto\tfish\tlegally\tin\n\npublic\twaters.\n\no\t How\toften\tdo\tI\tneed\tto\trenew\tmy\tfishing\tlicen..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water",
+          "food",
+          "knots"
+        ]
+      },
+      "length": 874,
+      "preview": "To avoid chlorine damage, anglers can dip their gear in a 100 vinegar solution for 20 minutes or in a 1 salt solution for 20 minutes. o Wash all pets ..."
     },
     {
       "chunk_id": 27,
-      "text": "0\tpm\tMonday\tthrough\tFriday,\tor\t call\t1-866-714-3611\t7\tdays\ta\tweek\t24\t hours\ta\tday,\tor\ton\tthe\tweb\tat\twww.dnr. sc.gov/purchase.\n\n12 A Beginner\u2019s Guide to Fishing\n\nWhat Are Invasive Or Nuisance Aquatic Species?\n\nThese\tare\tspecies\tthat\tare\tnon-native\tand\tlack\tnatural\tpredators\tand\tdiseases to\tkeep\ttheir\tgrowth\tin\tcheck.\t\tSome\tcommon,\tinvasive\tplants\tin\tSouth\tCarolina\t include\thydrilla,\tDidymo\talgae,\twater\thyacinth,\tgiant\tsalvinia,\twater\tprimrose,\t phragmites\tand\talligatorweed.\t\tThese\tplants\tcan\tgrow\tvery\tdense,\tcovering\t large\tareas,\tdegrading\twater\tquality,\tdisplacing\tnative\tplant\tspecies\tand\tmaking\n\nrecreation\tand\tboating\timpossible.\t\tAnimals\tcan\talso\t be\tnuisance\tspecies.\tSpecies\tof\tconcern\tinclude\tgreen\t mussels,\tzebra\tmussels,\tmud\tsnails,\tflathead\tcatfish,\t spotted\tbass,\tAsian\tcarp\tand\tlionfish.\t\t\tThe\tlarvae\t (immature\tform)\tof\tanimals\tcan\tbe\tso\ttiny\tthey\tare\tnot\t visible\tto\tthe\tnaked\teye.\t\tThese\tanimal\tlarvae\tcan\tlive\tin\t mud,\tdirt,\tsand\tand\ton\tplant\tfragments.\t\tTo\tavoid\tfurther\t dam",
+      "text": "o Dispose of shrimp parts and oyster shells properly. Shrimp heads and shells need to be disposed of in the trash and not thrown into the water because non-native shrimp parts have the potential to spread disease. Oyster shells can be taken to a nearby oyster recycling facility. o Report aquatic weed problems in public waters to the Aquatic Nuisance Program, SCDNR, by calling (803) 755-2836 . o Visit www.dnr.sc.govwaterenvaffaquaticindex.html or www. protectyourwaters.net to learn more. Finding Good Fishing Spots  The first thing you need to know about finding a good fishing spot is identifying all the things fish need to live. They need food, oxygen, water, shelter and space. Food will vary from fish to fish so know the particular foods the fish you are targeting likes. This will also help you determine the type of lure or bait to use. Fish food can include plants, insects, smaller fish, crayfish and worms. Fish get their required amount of oxygen by using their gills.",
       "keywords": [
-        "beginner\u2019s",
-        "species",
-        "what",
-        "invasive",
-        "days",
+        "weed",
+        "find",
+        "live",
+        "vari",
+        "spread",
+        "amount",
+        "program",
+        "report",
+        "identifi",
+        "ration",
+        "part",
+        "oxygen",
+        "hydration",
+        "like",
+        "recycl",
+        "aquat",
+        "shell",
+        "insect",
+        "first",
+        "trash",
+        "www",
+        "shrimp",
         "fishing",
-        "these",
-        "day",
-        "www.dnr",
-        "1-866-714-3611",
-        "aquatic",
-        "call",
-        "sc.gov/purchase",
-        "friday",
-        "through",
-        "hours",
-        "monday",
-        "week",
-        "guide",
-        "nuisance"
+        "smaller",
+        "purification"
       ],
-      "length": 1000,
-      "preview": "0\tpm\tMonday\tthrough\tFriday,\tor\t call\t1-866-714-3611\t7\tdays\ta\tweek\t24\t hours\ta\tday,\tor\ton\tthe\tweb\tat\t..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water",
+          "shelter",
+          "food",
+          "signaling",
+          "knots"
+        ]
+      },
+      "length": 984,
+      "preview": "o Dispose of shrimp parts and oyster shells properly. Shrimp heads and shells need to be disposed of in the trash and not thrown into the water becaus..."
     },
     {
       "chunk_id": 28,
-      "text": "onfish.\t\t\tThe\tlarvae\t (immature\tform)\tof\tanimals\tcan\tbe\tso\ttiny\tthey\tare\tnot\t visible\tto\tthe\tnaked\teye.\t\tThese\tanimal\tlarvae\tcan\tlive\tin\t mud,\tdirt,\tsand\tand\ton\tplant\tfragments.\t\tTo\tavoid\tfurther\t damage\tfrom\texotic\tspecies,\tanglers\tshould\tnever\ttake\t resource\tmanagement\tinto\ttheir\town\thands.\t\tUnplanned\t stocking\tof\tfish,\tother\taquatic\tanimals\tor\tplants\tby\t anglers\tcan\tdisrupt\tthe\tnatural\tbalance\tin\tan\taquatic\t ecosystem\tcausing\tdamage\tto\tthe\testablished\tfishery,\tfish\t habitat\tand\tprey\tbase.\n\nHow Can You Help?\n\nWhen\tyou\tleave\ta\tbody\tof\twater:\n\no\t Remove\tany\tvisible\tmud,\tplants,\tfish,\tor\tanimals\tbefore\t transporting\tequipment.\tPreventing\tthe\toccurrence\tof\t these\tinvasive\tspecies\tcan\tsave\tmillions\tof\tpublic\tand\t private\tdollars\tin\tcontrol\tcosts.\t\tSouth\tCarolina\tlaw\talso\t\t includes\tfines\tup\tto\t$500\tand/or\timprisonment\tfor\t persons\tspreading\tnuisance\taquatic\tweeds.\n\no\t Eliminate\twater\tfrom\tequipment\tbefore\ttransporting.\t\t o\t Anglers\tusing\twading\tgear\tshould\tthoroughly\tclean\tit\tafter\tuse.\tT",
+      "text": "Fish get their required amount of oxygen by using their gills. Oxygen in the water changes with water temperature, movement and the amount of algae present. Oxygen levels decrease with warmer temperatures, slow moving waters and lots of algae. And as you would guess, oxygen levels increase with colder temperatures, faster moving water, such as near riffles or waterfalls, and with less algae present. For shelter, fish need structures such as rocks, stumps and aquatic plants to provide cover to hide from predators or to hide and wait for food to swim by. Fish also need space. Too many fish using the same resources doesnt work out too well. Good fishing spots can be found near aquatic vegetation, brush piles, sand bottoms, rock and gravel bottoms, fallen trees, boat docks and stumps. How To Tell A Fish Is Biting  Fishing with a bobber allows anglers to know when a fish bites. However, sometimes the movement in the bobbers isnt so obvious.",
       "keywords": [
-        "live",
-        "onfish",
-        "avoid",
-        "dirt",
-        "immature",
-        "animals",
+        "well",
+        "boat",
+        "amount",
+        "howev",
+        "doesnt",
+        "ration",
+        "oxygen",
+        "hydration",
+        "provid",
         "sand",
-        "these",
-        "visible",
-        "they",
-        "fragments",
-        "tiny",
-        "mud",
-        "form",
-        "plant",
-        "eye",
-        "larvae",
-        "naked",
-        "animal"
+        "pile",
+        "aquat",
+        "faster",
+        "predat",
+        "present",
+        "near",
+        "would",
+        "slow",
+        "warmer",
+        "fishing",
+        "dock",
+        "purification",
+        "use",
+        "tell",
+        "brush"
       ],
-      "length": 1000,
-      "preview": "onfish.\t\t\tThe\tlarvae\t (immature\tform)\tof\tanimals\tcan\tbe\tso\ttiny\tthey\tare\tnot\t visible\tto\tthe\tnaked\te..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water",
+          "shelter",
+          "food"
+        ]
+      },
+      "length": 949,
+      "preview": "Fish get their required amount of oxygen by using their gills. Oxygen in the water changes with water temperature, movement and the amount of algae pr..."
     },
     {
       "chunk_id": 29,
-      "text": "o\t$500\tand/or\timprisonment\tfor\t persons\tspreading\tnuisance\taquatic\tweeds.\n\no\t Eliminate\twater\tfrom\tequipment\tbefore\ttransporting.\t\t o\t Anglers\tusing\twading\tgear\tshould\tthoroughly\tclean\tit\tafter\tuse.\tThey\tcan\twait\t for\tthe\tgear\tto\tdry\t100%\tand\tallow\tit\tto\tremain\tdry\tfor\t5\tdays\tbefore\tusing\t again\tor\tdip\twading\tgear\tin\ta\t3%\tbleach\tsolution,\trinse\twell\t(as\tchlorine\tcan\t be\tharmful\tto\tgear)\tand\tdry\tthoroughly.\t\t\tTo\tavoid\tchlorine\tdamage,\tanglers\t can\tdip\ttheir\tgear\tin\ta\t100%\tvinegar\tsolution\tfor\t20\tminutes\tor\tin\ta\t1%\tsalt\t solution\tfor\t20\tminutes.\n\no\t Wash\tall\tpets\tthat\twent\tinto\tthe\twater\twith\twarm\twater,\ttowel\tdry\tand\tbrush\n\nwell.\n\no\t Clean\tand\tdry\tanything\tthat\tcomes\tinto\tcontact\twith\twater\t(boats,\ttrailers,\n\nequipment,\tclothing,\tdogs,\tetc.).\n\no\t Never\trelease\tplants,\tfish,\tor\tanimals\tinto\ta\tbody\tof\twater\tunless\tthey\tcame\n\nout\tof\tthat\tbody\tof\twater.\n\no\t Dispose\tof\tbait\tproperly,\tespecially\tlive\tbait,\tby\tplacing\tit\tin\tthe\ttrash\tcan\n\nwithin\ta\tsealed\tcontainer\tor\tsaving\tlive\tbait\tin\ta\tseal",
+      "text": "However, sometimes the movement in the bobbers isnt so obvious. Sometimes a biting fish will cause the bobber to twitch only a bit or the bobber will start to move across the surface of the water. If you are not using a bobber, the best way to tell when a fish is biting is by watching your line between the rod tip and the water. If your line moves in a twitching or jumping motion, you are getting a bite. Sometimes the bite will be hard enough that you will feel its pull on the rod tip. When fishing without a bobber, you should set the hook or pull on the rod as soon as you feel that you are getting a bite. How To Set The Hook  When you see signs of a fish biting, move your rod tip from pointing towards the water to pointing straight out your belly button and wind up all slack line. Then, quickly pull the rod back to set the hook. Practice makes perfect when it comes to learning the timing of setting the hook.",
       "keywords": [
-        "eliminate",
-        "from",
-        "equipment",
-        "should",
-        "anglers",
-        "and/or",
-        "persons",
-        "water",
-        "using",
-        "before",
-        "aquatic",
-        "wading",
-        "imprisonment",
-        "spreading",
-        "transporting",
-        "weeds",
-        "$500",
-        "thoroughly",
-        "gear",
-        "nuisance"
+        "way",
+        "sometim",
+        "fishing",
+        "isnt",
+        "tip",
+        "watch",
+        "jump",
+        "set",
+        "back",
+        "make",
+        "belli",
+        "purification",
+        "use",
+        "tell",
+        "practic",
+        "soon",
+        "bit",
+        "liquid",
+        "bobber",
+        "twitch",
+        "hard",
+        "howev",
+        "button",
+        "quickli",
+        "hook"
       ],
-      "length": 1000,
-      "preview": "o\t$500\tand/or\timprisonment\tfor\t persons\tspreading\tnuisance\taquatic\tweeds.\n\no\t Eliminate\twater\tfrom\te..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "food"
+        ]
+      },
+      "length": 922,
+      "preview": "However, sometimes the movement in the bobbers isnt so obvious. Sometimes a biting fish will cause the bobber to twitch only a bit or the bobber will ..."
     },
     {
       "chunk_id": 30,
-      "text": "a\tbody\tof\twater\tunless\tthey\tcame\n\nout\tof\tthat\tbody\tof\twater.\n\no\t Dispose\tof\tbait\tproperly,\tespecially\tlive\tbait,\tby\tplacing\tit\tin\tthe\ttrash\tcan\n\nwithin\ta\tsealed\tcontainer\tor\tsaving\tlive\tbait\tin\ta\tsealed\tcontainer\tfor\tlater\tuse.\n\nA Beginner\u2019s Guide to Fishing 13\n\nEven\tif\tyou\tthink\tyour\tlive\tbait\tis\tnative,\tit\thas\tthe\tpotential\tto\thouse\tnuisance\t species\tand\tdisease\tthat\tcan\thave\tnegative\timpacts\ton\taquatic\tecosystems.\t\t o\t Dispose\tof\tshrimp\tparts\tand\toyster\tshells\tproperly.\t\tShrimp\theads\tand\tshells\t need\tto\tbe\tdisposed\tof\tin\tthe\ttrash\tand\tnot\tthrown\tinto\tthe\twater\tbecause\t non-native\tshrimp\tparts\thave\tthe\tpotential\tto\tspread\tdisease.\t\tOyster\tshells\t can\tbe\ttaken\tto\ta\tnearby\toyster\trecycling\tfacility.\n\no\t Report\taquatic\tweed\tproblems\tin\tpublic\twaters\tto\tthe\tAquatic\tNuisance\n\nProgram,\tSCDNR,\tby\tcalling\t(803) 755-2836.\n\no\t Visit\twww.dnr.sc.gov/water/envaff/aquatic/index.html\tor\twww.\n\nprotectyourwaters.net\tto\tlearn\tmore.\n\nFinding Good Fishing Spots\n\nThe\tfirst\tthing\tyou\tneed\tto\tknow\tabout\tfi",
+      "text": "Practice makes perfect when it comes to learning the timing of setting the hook. The feel of setting the hook will vary based on the fish species youre targeting, the lure or bait youre using and the size of your rod, reel and line. After setting the hook, keep a bend in your rod and wait for the fish to make its move. If the fish is pulling against the fishing reel, let him simply pull. DO NOT wind in line if the fish is pulling line off your reel. After the fish quits pulling, begin reeling in, keeping a bend in your rod. Take this process slowly. How To Handle Or Hold Fish  Handling fish properly protects the fish and you. Some fish have sharp fins or teeth that can cut you when not held correctly. Always remember to wet your hands before touching a fish. Wet hands are less likely to damage a fishs protective coating of mucous or slime that protects them from disease. Also, dont allow your fish to flop around on the bank, dock or the floor of a boat.",
       "keywords": [
+        "target",
+        "fishing",
+        "make",
+        "set",
+        "touch",
+        "dock",
+        "damag",
         "bait",
-        "that",
-        "live",
-        "sealed",
-        "dispose",
-        "especially",
-        "placing",
-        "trash",
-        "properly",
-        "came",
-        "container",
-        "unless",
-        "saving",
-        "body",
-        "water",
-        "within",
-        "they"
+        "reel",
+        "size",
+        "use",
+        "practic",
+        "handl",
+        "sharp",
+        "simpli",
+        "vari",
+        "speci",
+        "teeth",
+        "held",
+        "quit",
+        "alway",
+        "keep",
+        "your",
+        "hold",
+        "properli"
       ],
-      "length": 1000,
-      "preview": "a\tbody\tof\twater\tunless\tthey\tcame\n\nout\tof\tthat\tbody\tof\twater.\n\no\t Dispose\tof\tbait\tproperly,\tespeciall..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "food",
+          "knots"
+        ]
+      },
+      "length": 967,
+      "preview": "Practice makes perfect when it comes to learning the timing of setting the hook. The feel of setting the hook will vary based on the fish species your..."
     },
     {
       "chunk_id": 31,
-      "text": "by\tcalling\t(803) 755-2836.\n\no\t Visit\twww.dnr.sc.gov/water/envaff/aquatic/index.html\tor\twww.\n\nprotectyourwaters.net\tto\tlearn\tmore.\n\nFinding Good Fishing Spots\n\nThe\tfirst\tthing\tyou\tneed\tto\tknow\tabout\tfinding\ta\tgood\tfishing\tspot\tis\tidentifying all\tthe\tthings\tfish\tneed\tto\tlive.\t\tThey\tneed\tfood,\toxygen,\twater,\tshelter\tand\tspace.\t\t Food\twill\tvary\tfrom\tfish\tto\tfish\tso\tknow\tthe\tparticular\tfoods\tthe\tfish\tyou\tare\t targeting\tlikes.\t\tThis\twill\talso\thelp\tyou\tdetermine\tthe\ttype\tof\tlure\tor\tbait\tto\tuse.\t\t Fish\tfood\tcan\tinclude\tplants,\tinsects,\tsmaller\tfish,\tcrayfish\tand\tworms.\t\tFish\tget\ttheir\t required\tamount\tof\toxygen\tby\tusing\ttheir\tgills.\t\tOxygen\tin\tthe\twater\tchanges\twith\t water\ttemperature,\tmovement\tand\tthe\tamount\tof\talgae\tpresent.\tOxygen\tlevels\t decrease\twith\twarmer\ttemperatures,\tslow\tmoving\t waters\tand\tlots\tof\talgae.\t\tAnd\tas\tyou\twould\tguess,\t oxygen\tlevels\tincrease\twith\tcolder\ttemperatures,\t faster\tmoving\twater,\tsuch\tas\tnear\triffles\tor\twaterfalls,\t and\twith\tless\talgae\tpresent.\t\tFor\tshelter,\tfish",
+      "text": "Also, dont allow your fish to flop around on the bank, dock or the floor of a boat. If you are keeping fish to eat, you should put them in ice or in a bucket of cool water. Fish that CAN be held by the bottom lip include crappie, sunfish, bass, perch, catfish and bullhead. Youll feel small, dull teeth inside the fishs mouth somewhat like sandpaper. For larger bass, catfish and bullhead, support the body of the fish with your other hand once the hook is removed from the fish. o Crappie o Sunfish o Bass o Perch o Catfish o Bullhead 14 A Beginners Guide to Fishing A Beginners Guide to Fishing 15 Blue Catfish Dorsal Spine Pectoral SpineCatfish  The common way to hold a catfish is from below the catfishs belly, gripping the catfish below both pectoral fins. Be very careful to avoid the fishs spines that are located in the pectoral fins and the dorsal fin. Hold the fishing line in one hand to steady the fish and slide your hands from the belly of the fish upward under the pectoral fins.",
       "keywords": [
-        "finding",
-        "first",
-        "www.dnr.sc.gov/water/envaff/aquatic/index.html",
-        "www",
-        "learn",
-        "need",
-        "755-2836",
+        "somewhat",
+        "larger",
         "fishing",
-        "about",
-        "803",
-        "calling",
-        "spots",
-        "protectyourwaters.net",
-        "thing",
-        "more",
-        "know",
-        "visit",
-        "good"
+        "way",
+        "one",
+        "slide",
+        "youll",
+        "dock",
+        "bass",
+        "belli",
+        "purification",
+        "sunfish",
+        "perch",
+        "sandpap",
+        "held",
+        "teeth",
+        "steadi",
+        "liquid",
+        "keep",
+        "boat",
+        "floor",
+        "lip",
+        "also",
+        "crappi",
+        "hook"
       ],
-      "length": 999,
-      "preview": "by\tcalling\t(803) 755-2836.\n\no\t Visit\twww.dnr.sc.gov/water/envaff/aquatic/index.html\tor\twww.\n\nprotect..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water",
+          "food"
+        ]
+      },
+      "length": 995,
+      "preview": "Also, dont allow your fish to flop around on the bank, dock or the floor of a boat. If you are keeping fish to eat, you should put them in ice or in a..."
     },
     {
       "chunk_id": 32,
-      "text": "nd\tlots\tof\talgae.\t\tAnd\tas\tyou\twould\tguess,\t oxygen\tlevels\tincrease\twith\tcolder\ttemperatures,\t faster\tmoving\twater,\tsuch\tas\tnear\triffles\tor\twaterfalls,\t and\twith\tless\talgae\tpresent.\t\tFor\tshelter,\tfish\tneed\t structures\tsuch\tas\trocks,\tstumps\tand\taquatic\tplants\tto\t provide\tcover\tto\thide\tfrom\tpredators\tor\tto\thide\tand\t wait\tfor\tfood\tto\tswim\tby.\t\tFish\talso\tneed\tspace.\t\tToo\t many\tfish\tusing\tthe\tsame\tresources\tdoesn\u2019t\twork\tout\t too\twell.\n\nGood\tfishing\tspots\tcan\tbe\tfound\tnear\taquatic\n\nvegetation,\tbrush\tpiles,\tsand\tbottoms,\trock\tand\tgravel\tbottoms,\tfallen\ttrees,\tboat\t docks\tand\tstumps.\n\nHow To Tell A Fish Is Biting\n\nFishing\twith\ta\tbobber\tallows\tanglers\tto\tknow\twhen\ta\tfish\tbites.\t\tHowever, sometimes\tthe\tmovement\tin\tthe\tbobbers\tisn\u2019t\tso\tobvious.\t\tSometimes\ta\tbiting\tfish\t will\tcause\tthe\tbobber\tto\ttwitch\tonly\ta\tbit\tor\tthe\tbobber\twill\tstart\tto\tmove\tacross\t the\tsurface\tof\tthe\twater.\t\tIf\tyou\tare\tnot\tusing\ta\tbobber,\t the\tbest\tway\tto\ttell\twhen\ta\tfish\tis\tbiting\tis\tby\twatching\t your\tline\tbetween\tthe\trod\ttip",
+      "text": "Hold the fishing line in one hand to steady the fish and slide your hands from the belly of the fish upward under the pectoral fins. Sunfish  There are two ways to hold a sunfish. One is from the fishs belly, loosely gripping the fish between your four fingers and thumb across the fishs side. The other is from the top of the fishs body over its dorsal fin. Be very careful of the dorsal fin, it has very sharp bones that can hurt you. Perch  Perch should be held under the belly underneath the pectoral fins loosely between your four fingers and thumb across the fishs side. Be very careful of this fishs gill covers because they are very sharp. How To Clean Your Catch  The common catch such as sunfish and bass must first be scaled. To scale a fish, hold it by the tail and scrape from tail to head with a fish scaler, butter knife or tablespoon. Cut directly behind the gill cover. Remove the head with the innards. Then, slice along each side of the dorsal fin and remove.",
       "keywords": [
-        "waterfalls",
-        "near",
-        "lots",
-        "algae",
-        "oxygen",
-        "increase",
-        "guess",
-        "moving",
-        "such",
-        "less",
-        "with",
-        "colder",
-        "levels",
-        "water",
-        "temperatures",
-        "riffles",
-        "would",
-        "faster"
+        "way",
+        "one",
+        "fishing",
+        "cover",
+        "scaler",
+        "bone",
+        "slide",
+        "directli",
+        "behind",
+        "belli",
+        "bass",
+        "sharp",
+        "sunfish",
+        "perch",
+        "top",
+        "steadi",
+        "loos",
+        "held",
+        "scale",
+        "scrape",
+        "gill",
+        "tail",
+        "finger",
+        "head",
+        "slice"
       ],
-      "length": 1000,
-      "preview": "nd\tlots\tof\talgae.\t\tAnd\tas\tyou\twould\tguess,\t oxygen\tlevels\tincrease\twith\tcolder\ttemperatures,\t faster..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "shelter",
+          "food"
+        ]
+      },
+      "length": 978,
+      "preview": "Hold the fishing line in one hand to steady the fish and slide your hands from the belly of the fish upward under the pectoral fins. Sunfish  There ar..."
     },
     {
       "chunk_id": 33,
-      "text": "only\ta\tbit\tor\tthe\tbobber\twill\tstart\tto\tmove\tacross\t the\tsurface\tof\tthe\twater.\t\tIf\tyou\tare\tnot\tusing\ta\tbobber,\t the\tbest\tway\tto\ttell\twhen\ta\tfish\tis\tbiting\tis\tby\twatching\t your\tline\tbetween\tthe\trod\ttip\tand\tthe\twater.\t\tIf\tyour\t line\tmoves\tin\ta\ttwitching\tor\tjumping\tmotion,\tyou\tare\t getting\ta\tbite.\t\tSometimes\tthe\tbite\twill\tbe\thard\tenough\t that\tyou\twill\tfeel\tits\tpull\ton\tthe\trod\ttip.\t\tWhen\tfishing\t without\ta\tbobber,\tyou\tshould\tset\tthe\thook\tor\tpull\ton\t the\trod\tas\tsoon\tas\tyou\tfeel\tthat\tyou\tare\tgetting\ta\tbite.\n\n14 A Beginner\u2019s Guide to Fishing\n\nHow To Set The Hook\n\nWhen\tyou\tsee\tsigns\tof\ta\tfish\tbiting,\tmove\tyour\trod\ttip\tfrom\tpointing\ttowards\tthe\t water\tto\tpointing\tstraight\tout\tyour\tbelly\tbutton\tand\twind\tup\tall\tslack\tline.\t\tThen,\t quickly\tpull\tthe\trod\tback\tto\tset\tthe\thook.\t\tPractice\tmakes\tperfect\twhen\tit\tcomes\tto\t learning\tthe\ttiming\tof\tsetting\tthe\thook.\t\tThe\tfeel\tof\tsetting\tthe\thook\twill\tvary\tbased\t on\tthe\tfish\tspecies\tyou\u2019re\ttargeting,\tthe\tlure\tor\tbait\tyou\u2019re\tusing\tand\tthe\tsize\tof\t your\trod,\tre",
+      "text": "Then, slice along each side of the dorsal fin and remove. Cut along both sides of the anal fin and remove by pulling it toward the tail. Cut the belly from the area where the head was removed to the tail and pull out all the remaining innards. If desired, cut off the tail. Rinse fish quickly and prepare for cooking. Catfish and bullheads must be skinned instead of scaled. Your first cut will start behind the head at the pectoral fin on one side up and over to the other sides pectoral fin. Then, slice down the backbone on one side of the dorsal fin and create another slice on the other side of the dorsal fin to connect the cut just made. Now, use pliers and pull the skin back from the body of the fish while holding the head with one hand. After removing the skin from the catfish, cut the head completely and remove the innards. Prepare for cooking. When filleting a catfish, make sure to cut away all dark red meat along the lateral line as this meat often has a strong flavor.",
       "keywords": [
-        "start",
-        "using",
-        "when",
-        "biting",
-        "watching",
-        "across",
-        "best",
-        "your",
-        "only",
-        "between",
-        "line",
-        "move",
-        "surface",
-        "will",
-        "bobber",
-        "water",
-        "tell",
-        "fish"
+        "back",
+        "one",
+        "meat",
+        "make",
+        "behind",
+        "belli",
+        "use",
+        "anoth",
+        "dark",
+        "remain",
+        "red",
+        "scale",
+        "backbon",
+        "tail",
+        "plier",
+        "fillet",
+        "head",
+        "slice",
+        "quickli",
+        "skin",
+        "often",
+        "toward",
+        "cook",
+        "connect",
+        "must"
       ],
-      "length": 999,
-      "preview": "only\ta\tbit\tor\tthe\tbobber\twill\tstart\tto\tmove\tacross\t the\tsurface\tof\tthe\twater.\t\tIf\tyou\tare\tnot\tusing\t..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 987,
+      "preview": "Then, slice along each side of the dorsal fin and remove. Cut along both sides of the anal fin and remove by pulling it toward the tail. Cut the belly..."
     },
     {
       "chunk_id": 34,
-      "text": "n\tit\tcomes\tto\t learning\tthe\ttiming\tof\tsetting\tthe\thook.\t\tThe\tfeel\tof\tsetting\tthe\thook\twill\tvary\tbased\t on\tthe\tfish\tspecies\tyou\u2019re\ttargeting,\tthe\tlure\tor\tbait\tyou\u2019re\tusing\tand\tthe\tsize\tof\t your\trod,\treel\tand\tline.\n\nAfter\tsetting\tthe\thook,\tkeep\ta\tbend\t in\tyour\trod\tand\twait\tfor\tthe\tfish\tto\t make\tits\tmove.\t\tIf\tthe\tfish\tis\tpulling\t against\tthe\tfishing\treel,\tlet\thim\tsimply\t pull.\t\tDO\tNOT\twind\tin\tline\tif\tthe\tfish\tis\t pulling\tline\toff\tyour\treel.\t\tAfter\tthe\tfish\t quits\tpulling,\tbegin\treeling\tin,\tkeeping\t a\tbend\tin\tyour\trod.\t\tTake\tthis\tprocess\t slowly.\n\nHow To Handle Or Hold Fish\n\nHandling\tfish\tproperly\tprotects\tthe\tfish\tand\tyou.\t\tSome\tfish\thave\tsharp\tfins\tor\tteeth\t that\tcan\tcut\tyou\twhen\tnot\theld\tcorrectly.\t\tAlways\tremember\tto\twet\tyour\thands\t before\ttouching\ta\tfish.\t\tWet\thands\tare\tless\tlikely\tto\tdamage\ta\tfish\u2019s\tprotective\t coating\tof\tmucous\tor\tslime\tthat\tprotects\tthem\tfrom\tdisease.\t\tAlso,\tdon\u2019t\tallow\tyour\t fish\tto\tflop\taround\ton\tthe\tbank,\tdock\tor\tthe\tfloor\tof\ta\tboat.\t\tIf\tyou\tare\tkeeping\tfish\t to",
+      "text": "When filleting a catfish, make sure to cut away all dark red meat along the lateral line as this meat often has a strong flavor. Filleting o ALWAYS CUT AWAY FROM YOURSELF! o Your first cut will be made behind the pectoral fin with the knife angled toward the top of the head, cutting only to the backbone (not all the way through the fish). o Next, cut along one side of the backbone with the knife scraping right above the rib bones without cutting them all the way to the tail. The knife should come out right at the base of the tail. o Lift the piece of meat from the bones. o Turn the fish over and repeat on the other side. o If desired, the skin can be removed from the fish by holding the tail with your fingertips and cutting between the flesh and skin with a sawing motion. Rinse the meat quickly in cold water and prepare for cooking. References Maas, Dave. Kids Gone Fishin . Minnesota: Creative Publishing International Inc., 2001. Maas, Dave, et al.",
       "keywords": [
-        "comes",
-        "bait",
-        "hook",
-        "using",
-        "feel",
-        "vary",
-        "species",
-        "lure",
-        "you\u2019re",
-        "size",
-        "based",
-        "timing",
-        "learning",
-        "setting",
-        "will",
-        "targeting",
-        "fish"
+        "way",
+        "one",
+        "meat",
+        "make",
+        "behind",
+        "next",
+        "bone",
+        "piec",
+        "repeat",
+        "saw",
+        "refer",
+        "purification",
+        "minnesota",
+        "inc",
+        "dark",
+        "top",
+        "red",
+        "creativ",
+        "alway",
+        "scrape",
+        "rib",
+        "backbon",
+        "liquid",
+        "tail",
+        "flesh"
       ],
-      "length": 1000,
-      "preview": "n\tit\tcomes\tto\t learning\tthe\ttiming\tof\tsetting\tthe\thook.\t\tThe\tfeel\tof\tsetting\tthe\thook\twill\tvary\tbase..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "water"
+        ]
+      },
+      "length": 962,
+      "preview": "When filleting a catfish, make sure to cut away all dark red meat along the lateral line as this meat often has a strong flavor. Filleting o ALWAYS CU..."
     },
     {
       "chunk_id": 35,
-      "text": "age\ta\tfish\u2019s\tprotective\t coating\tof\tmucous\tor\tslime\tthat\tprotects\tthem\tfrom\tdisease.\t\tAlso,\tdon\u2019t\tallow\tyour\t fish\tto\tflop\taround\ton\tthe\tbank,\tdock\tor\tthe\tfloor\tof\ta\tboat.\t\tIf\tyou\tare\tkeeping\tfish\t to\teat,\tyou\tshould\tput\tthem\tin\tice\tor\tin\ta\tbucket\tof\tcool\twater.\n\nFish\tthat\tCAN\tbe\theld\tby\tthe\tbottom\tlip\tinclude\tcrappie,\tsunfish,\tbass,\tperch,\tcatfish\t and\tbullhead.\t\tYou\u2019ll\tfeel\tsmall,\tdull\tteeth\tinside\tthe\tfish\u2019s\tmouth\tsomewhat\tlike\t sandpaper.\t\tFor\tlarger\tbass,\tcatfish\tand\tbullhead,\tsupport\tthe\tbody\tof\tthe\tfish\twith\t your\tother\thand\tonce\tthe\thook\tis\tremoved\tfrom\tthe\tfish.\n\no\tCrappie\n\no\tSunfish\n\no\tBass\n\no\tPerch\n\no\tCatfish\n\no\tBullhead\n\nA Beginner\u2019s Guide to Fishing 15\n\nCatfish \u2022\t The\tcommon\tway\tto\thold\ta\tcatfish\tis\tfrom\tbelow\tthe\tcatfish\u2019s\tbelly,\tgripping\tthe\n\ncatfish\tbelow\tboth\tpectoral\tfins.\t\tBe\tvery\tcareful\tto\tavoid\tthe\tfish\u2019s\tspines\tthat\tare\t located\tin\tthe\tpectoral\tfins\tand\tthe\tdorsal\tfin.\t\tHold\tthe\tfishing\tline\tin\tone\thand\tto\t steady\tthe\tfish\tand\tslide\tyour\thands\tfrom\tthe\tbelly\tof\tt",
+      "text": "Maas, Dave, et al. The Complete Guide to Freshwater Fishing . Creative Publishing International Inc., 2002. Texas State. Texas Parks  Wildlife. A Basic Guide for the Beginning Angler . 2008. A special thanks goes to the Texas Parks and Wildlife Department for the use of their artwork. 16 A Beginners Guide to Fishing A Beginners Guide to Fishing 17 Equal opportunity to participate in and benefit from the programs and activities of the South Carolina Department of Natural Resources is available to all individuals regardless of age, race, religion, color, sex, national origin, disability, sexual orientation, status as a parent, and protected genetic information. Please direct any questions to the SCDNR, Chief of Staff, 1000 Assembly Street, Columbia, SC 29201; 803-734-3672 or the U.S. Fish and Wildlife Service, Office of Diversity and Civil Rights, 1875 Century Boulevard, NE, Atlanta, GA 30345; 404-679-70807148. Printed on recycled paper.",
       "keywords": [
-        "mucous",
-        "them",
-        "from",
-        "fish\u2019s",
-        "around",
-        "also",
-        "dock",
-        "bank",
-        "protects",
-        "floor",
-        "protective",
-        "slime",
-        "your",
-        "flop",
-        "don\u2019t",
-        "allow",
-        "disease",
-        "that",
-        "coating",
-        "fish"
+        "depart",
+        "goe",
+        "opportun",
+        "sex",
+        "benefit",
+        "program",
+        "wildlif",
+        "direct",
+        "state",
+        "chief",
+        "publish",
+        "30345",
+        "8037343672",
+        "staff",
+        "columbia",
+        "religion",
+        "recycl",
+        "pleas",
+        "protect",
+        "south",
+        "fishing",
+        "activ",
+        "carolina",
+        "use",
+        "particip"
       ],
-      "length": 1000,
-      "preview": "age\ta\tfish\u2019s\tprotective\t coating\tof\tmucous\tor\tslime\tthat\tprotects\tthem\tfrom\tdisease.\t\tAlso,\tdon\u2019t\tal..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "water",
+          "food",
+          "knots"
+        ]
+      },
+      "length": 949,
+      "preview": "Maas, Dave, et al. The Complete Guide to Freshwater Fishing . Creative Publishing International Inc., 2002. Texas State. Texas Parks  Wildlife. A Basi..."
     },
     {
       "chunk_id": 36,
-      "text": ".\t\tBe\tvery\tcareful\tto\tavoid\tthe\tfish\u2019s\tspines\tthat\tare\t located\tin\tthe\tpectoral\tfins\tand\tthe\tdorsal\tfin.\t\tHold\tthe\tfishing\tline\tin\tone\thand\tto\t steady\tthe\tfish\tand\tslide\tyour\thands\tfrom\tthe\tbelly\tof\tthe\tfish\tupward\tunder\tthe\t pectoral\tfins.\n\nBlue Catfish\n\nDorsal Spine\n\nPectoral Spine\n\nSunfish \t \u2022\t There\tare\ttwo\tways\tto\thold\ta\tsunfish.\t\tOne\tis\tfrom\n\nthe\tfish\u2019s\tbelly,\tloosely\tgripping\tthe\tfish\tbetween\t your\tfour\tfingers\tand\tthumb\tacross\tthe\tfish\u2019s\tside.\t\t The\tother\tis\tfrom\tthe\ttop\tof\tthe\tfish\u2019s\tbody\tover\tits\t dorsal\tfin.\t\tBe\tvery\tcareful\tof\tthe\tdorsal\tfin,\tit\thas\t very\tsharp\tbones\tthat\tcan\thurt\tyou.\n\nPerch \t \u2022\t Perch\tshould\tbe\theld\tunder\tthe\tbelly\t underneath\tthe\tpectoral\tfins\tloosely\t between\tyour\tfour\tfingers\tand\tthumb\tacross\t the\tfish\u2019s\tside.\t\tBe\tvery\tcareful\tof\tthis\tfish\u2019s\t gill\tcovers\tbecause\tthey\tare\tvery\tsharp.\n\n16 A Beginner\u2019s Guide to Fishing\n\nHow To Clean Your Catch\n\nThe\tcommon\tcatch\tsuch\tas\tsunfish\tand\tbass\tmust\tfirst\tbe\tscaled.\t\tTo\tscale\ta\tfish, hold\tit\tby\tthe\ttail\tand\tscrape",
+      "text": "Printed on recycled paper. 08CE6396 Total cost 3,577.00 Total copies 12,000 Cost per copy .30",
       "keywords": [
-        "fins",
-        "fish\u2019s",
-        "avoid",
-        "careful",
-        "spines",
-        "fishing",
-        "slide",
-        "hand",
-        "hands",
-        "your",
-        "dorsal",
-        "fin",
-        "that",
-        "hold",
-        "steady",
-        "pectoral",
-        "line",
-        "very",
-        "located",
-        "fish"
-      ],
-      "length": 1000,
-      "preview": ".\t\tBe\tvery\tcareful\tto\tavoid\tthe\tfish\u2019s\tspines\tthat\tare\t located\tin\tthe\tpectoral\tfins\tand\tthe\tdorsal\t..."
-    },
-    {
-      "chunk_id": 37,
-      "text": "ecause\tthey\tare\tvery\tsharp.\n\n16 A Beginner\u2019s Guide to Fishing\n\nHow To Clean Your Catch\n\nThe\tcommon\tcatch\tsuch\tas\tsunfish\tand\tbass\tmust\tfirst\tbe\tscaled.\t\tTo\tscale\ta\tfish, hold\tit\tby\tthe\ttail\tand\tscrape\tfrom\ttail\tto\thead\twith\ta\tfish\tscaler,\tbutter\tknife\tor\t tablespoon.\t\tCut\tdirectly\tbehind\tthe\tgill\tcover.\t\tRemove\tthe\thead\twith\tthe\tinnards.\t\t Then,\tslice\talong\teach\tside\tof\tthe\tdorsal\tfin\tand\tremove.\t\tCut\talong\tboth\tsides\tof\t the\tanal\tfin\tand\tremove\tby\tpulling\tit\ttoward\tthe\ttail.\t\tCut\tthe\tbelly\tfrom\tthe\tarea\t where\tthe\thead\twas\tremoved\tto\tthe\ttail\tand\tpull\tout\tall\tthe\tremaining\tinnards.\t\tIf\t desired,\tcut\toff\tthe\ttail.\t\tRinse\tfish\tquickly\tand\tprepare\tfor\tcooking.\n\nCatfish\tand\tbullheads\tmust\tbe\tskinned\tinstead\tof\tscaled.\t\tYour\tfirst\tcut\twill\tstart\t behind\tthe\thead\tat\tthe\tpectoral\tfin\ton\tone\tside\tup\tand\tover\tto\tthe\tother\tside\u2019s\t pectoral\tfin.\t\tThen,\tslice\tdown\tthe\tbackbone\ton\tone\tside\tof\tthe\tdorsal\tfin\tand\t create\tanother\tslice\ton\tthe\tother\tside\tof\tthe\tdorsal\tfin\tto\tconnect\tthe\tcut\tjust\t made",
-      "keywords": [
-        "beginner\u2019s",
-        "must",
-        "clean",
-        "catch",
-        "scaled",
-        "fishing",
-        "ecause",
-        "scale",
-        "bass",
-        "they",
-        "sharp",
-        "your",
-        "sunfish",
-        "common",
-        "first",
-        "such",
-        "very",
-        "guide",
-        "fish"
-      ],
-      "length": 1000,
-      "preview": "ecause\tthey\tare\tvery\tsharp.\n\n16 A Beginner\u2019s Guide to Fishing\n\nHow To Clean Your Catch\n\nThe\tcommon\tc..."
-    },
-    {
-      "chunk_id": 38,
-      "text": "up\tand\tover\tto\tthe\tother\tside\u2019s\t pectoral\tfin.\t\tThen,\tslice\tdown\tthe\tbackbone\ton\tone\tside\tof\tthe\tdorsal\tfin\tand\t create\tanother\tslice\ton\tthe\tother\tside\tof\tthe\tdorsal\tfin\tto\tconnect\tthe\tcut\tjust\t made.\t\tNow,\tuse\tpliers\tand\tpull\tthe\tskin\tback\tfrom\tthe\tbody\tof\tthe\tfish\twhile\t holding\tthe\thead\twith\tone\thand.\t\tAfter\tremoving\tthe\tskin\tfrom\tthe\tcatfish,\tcut\tthe\t head\tcompletely\tand\tremove\tthe\tinnards.\t\tPrepare\tfor\tcooking.\t\tWhen\tfilleting\ta\t catfish,\tmake\tsure\tto\tcut\taway\tall\tdark\tred\tmeat\talong\tthe\tlateral\tline\tas\tthis\tmeat\t often\thas\ta\tstrong\tflavor.\n\nFilleting\n\no\t ALWAYS\tCUT\tAWAY\tFROM\tYOURSELF!\t\t o\t Your\tfirst\tcut\twill\tbe\tmade\tbehind\tthe\tpectoral\tfin\twith\tthe\tknife\tangled\n\ntoward\tthe\ttop\tof\tthe\thead,\tcutting\tonly\tto\tthe\tbackbone\t(not\tall\tthe\tway\t through\tthe\tfish).\n\no\t Next,\tcut\talong\tone\tside\tof\tthe\tbackbone\twith\tthe\tknife\tscraping\tright\tabove\t the\trib\tbones\twithout\tcutting\tthem\tall\tthe\tway\tto\tthe\ttail.\t\tThe\tknife\tshould\t come\tout\tright\tat\tthe\tbase\tof\tthe\ttail.\t\t o\t Lift\tthe\tpiece\tof\tmea",
-      "keywords": [
-        "another",
-        "fin",
-        "side",
-        "just",
-        "backbone",
-        "connect",
-        "pectoral",
-        "down",
-        "made",
-        "side\u2019s",
-        "dorsal",
-        "create",
-        "over",
-        "other",
-        "then",
-        "slice"
-      ],
-      "length": 999,
-      "preview": "up\tand\tover\tto\tthe\tother\tside\u2019s\t pectoral\tfin.\t\tThen,\tslice\tdown\tthe\tbackbone\ton\tone\tside\tof\tthe\tdor..."
-    },
-    {
-      "chunk_id": 39,
-      "text": "e\tof\tthe\tbackbone\twith\tthe\tknife\tscraping\tright\tabove\t the\trib\tbones\twithout\tcutting\tthem\tall\tthe\tway\tto\tthe\ttail.\t\tThe\tknife\tshould\t come\tout\tright\tat\tthe\tbase\tof\tthe\ttail.\t\t o\t Lift\tthe\tpiece\tof\tmeat\tfrom\tthe\tbones.\t\t o\t Turn\tthe\tfish\tover\tand\trepeat\ton\tthe\tother\tside.\t\t o\n\nIf\tdesired,\tthe\tskin\tcan\tbe\tremoved\tfrom\tthe\tfish\tby\tholding\tthe\ttail\twith\tyour\t fingertips\tand\tcutting\tbetween\tthe\tflesh\tand\tskin\twith\ta\tsawing\tmotion.\t\tRinse\t the\tmeat\tquickly\tin\tcold\twater\tand\tprepare\tfor\tcooking.\n\nReferences\n\nMaas,\tDave.\tKids Gone Fishin.\tMinnesota:\t\tCreative\tPublishing\tInternational\tInc.,\t2001.\n\nMaas,\tDave,\tet\tal.\tThe Complete Guide to Freshwater Fishing.\tCreative\tPublishing\t International\tInc.,\t2002.\n\nTexas\tState.\tTexas\tParks\t&\tWildlife.\tA Basic Guide for the Beginning Angler.\t2008.\n\nA\tspecial\tthanks\tgoes\tto\tthe\tTexas\tParks\tand\tWildlife\tDepartment\tfor\tthe\tuse\tof\ttheir\t artwork.\n\nA Beginner\u2019s Guide to Fishing 17\n\n08CE6396\n\nPrinted on recycled paper.\n\nTotal cost Total copies Cost per copy\n\n$3,",
-      "keywords": [
-        "tail",
-        "meat",
-        "them",
-        "bones",
-        "knife",
-        "backbone",
-        "should",
-        "base",
-        "lift",
-        "without",
-        "scraping",
-        "with",
-        "right",
-        "cutting",
-        "above",
-        "come",
-        "piece"
-      ],
-      "length": 1000,
-      "preview": "e\tof\tthe\tbackbone\twith\tthe\tknife\tscraping\tright\tabove\t the\trib\tbones\twithout\tcutting\tthem\tall\tthe\twa..."
-    },
-    {
-      "chunk_id": 40,
-      "text": "hanks\tgoes\tto\tthe\tTexas\tParks\tand\tWildlife\tDepartment\tfor\tthe\tuse\tof\ttheir\t artwork.\n\nA Beginner\u2019s Guide to Fishing 17\n\n08CE6396\n\nPrinted on recycled paper.\n\nTotal cost Total copies Cost per copy\n\n$3,577.00 12,000 .30\n\nEqual opportunity to participate in and benefit from the programs and activities of the South Carolina Department of Natural Resources is available to all individuals regardless of age, race, religion, color, sex, national origin, disability, sexual orientation, status as a parent, and protected genetic information. Please direct any questions to the SCDNR, Chief of Staff, 1000 Assembly Street, Columbia, SC 29201; 803-734-3672 or the U.S. Fish and Wildlife Service, Office of Diversity and Civil Rights, 1875 Century Boulevard, NE, Atlanta, GA 30345; 404-679-7080/7148.",
-      "keywords": [
-        "beginner\u2019s",
-        "paper",
         "08ce6396",
-        "texas",
-        "goes",
-        "artwork",
-        "parks",
+        "copi",
         "total",
-        "hanks",
-        "department",
-        "fishing",
-        "copies",
-        "their",
-        "guide",
-        "recycled",
-        "wildlife",
+        "paper",
+        "per",
+        "12000",
+        "357700",
+        "recycl",
         "cost",
-        "printed"
+        "print"
       ],
-      "length": 792,
-      "preview": "hanks\tgoes\tto\tthe\tTexas\tParks\tand\tWildlife\tDepartment\tfor\tthe\tuse\tof\ttheir\t artwork.\n\nA Beginner\u2019s G..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 93,
+      "preview": "Printed on recycled paper. 08CE6396 Total cost 3,577.00 Total copies 12,000 Cost per copy .30"
     }
   ],
   "keyword_lookup": {
-    "beginner\u2019s": [
-      0,
-      10,
-      22,
-      27,
-      37,
-      40
-    ],
-    "": [
-      0,
-      1
-    ],
-    "equipment": [
-      0,
-      29
-    ],
-    "carolina": [
-      0
-    ],
-    "outdoors": [
-      0
-    ],
-    "south": [
-      0
-    ],
-    "safety": [
-      0
-    ],
-    "table": [
-      0
-    ],
-    "better": [
-      0,
-      8
-    ],
     "fishing": [
       0,
       1,
-      2,
-      4,
+      3,
+      6,
+      7,
+      8,
       10,
+      12,
+      13,
+      15,
+      16,
+      17,
+      20,
+      21,
       22,
+      23,
       26,
       27,
+      28,
+      29,
+      30,
       31,
-      36,
-      37,
-      40
+      32,
+      35
     ],
-    "department": [
+    "set": [
       0,
-      40
+      4,
+      29,
+      30
     ],
-    "life\u2019s": [
+    "depart": [
+      0,
+      35
+    ],
+    "refer": [
+      0,
+      7,
+      34
+    ],
+    "invas": [
+      0,
+      23
+    ],
+    "bait": [
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      12,
+      14,
+      15,
+      16,
+      23,
+      26,
+      30
+    ],
+    "carolina": [
+      0,
+      22,
+      24,
+      35
+    ],
+    "handl": [
+      0,
+      1,
+      2,
+      6,
+      11,
+      13,
+      30
+    ],
+    "17angler": [
       0
     ],
-    "ethics": [
+    "content": [
+      0
+    ],
+    "safety": [
       0,
-      1
+      2,
+      17
+    ],
+    "wwwdnrscgovlif": [
+      0
+    ],
+    "speci": [
+      0,
+      4,
+      5,
+      12,
+      17,
+      18,
+      19,
+      23,
+      24,
+      26,
+      30
+    ],
+    "equipment": [
+      0,
+      26
+    ],
+    "outdoor": [
+      0
+    ],
+    "cordage": [
+      0,
+      8,
+      9,
+      10
+    ],
+    "overview": [
+      0
+    ],
+    "natur": [
+      0,
+      21,
+      23,
+      24
     ],
     "angler": [
       0,
-      1,
-      25
+      8,
+      14,
+      22
     ],
-    "www.dnr.sc.gov": [
-      0
-    ],
-    "natural": [
-      0
-    ],
-    "contents": [
-      0
-    ],
-    "resources": [
-      0
-    ],
-    "guide": [
+    "identifi": [
       0,
-      10,
-      22,
-      27,
-      37,
-      40
+      27
     ],
-    "handle": [
-      1
-    ],
-    "17": [
-      1
-    ],
-    "identifying": [
-      1
+    "binding": [
+      0,
+      9,
+      10
     ],
     "hook": [
-      1,
-      5,
+      0,
+      4,
+      9,
       12,
-      18,
-      19,
-      34
+      17,
+      29,
+      31
     ],
-    "clean": [
-      1,
-      37
+    "tabl": [
+      0
     ],
     "catch": [
+      0
+    ],
+    "rope": [
+      0,
+      9
+    ],
+    "one": [
       1,
       2,
-      8,
-      25,
-      37
-    ],
-    "your": [
-      1,
       3,
-      4,
-      7,
+      8,
       11,
-      14,
-      15,
-      16,
+      13,
       17,
-      19,
+      31,
+      32,
       33,
-      35,
-      36,
-      37
-    ],
-    "spots": [
-      1,
-      11,
-      31
-    ],
-    "references": [
-      1
-    ],
-    "setting": [
-      1,
       34
     ],
-    "good": [
+    "peopl": [
       1,
-      26,
-      31
+      21
     ],
-    "fish": [
+    "practic": [
       1,
-      3,
-      7,
-      8,
-      14,
-      18,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      33,
-      34,
-      35,
-      36,
-      37
-    ],
-    "regulations": [
-      2
-    ],
-    "disturb": [
-      2
-    ],
-    "abide": [
-      2
-    ],
-    "rules": [
-      2
-    ],
-    "area": [
-      2,
-      15,
-      20
-    ],
-    "resource": [
-      2
-    ],
-    "always": [
-      2
-    ],
-    "cleaner": [
-      2
-    ],
-    "arrived": [
-      2
-    ],
-    "than": [
-      2,
-      18
-    ],
-    "their": [
-      2,
-      40
-    ],
-    "protect": [
-      2
-    ],
-    "they": [
-      2,
-      5,
-      22,
-      28,
-      30,
-      37
-    ],
-    "practice": [
-      2
-    ],
-    "leave": [
-      2,
-      11,
-      18
-    ],
-    "when": [
-      2,
-      7,
-      11,
-      17,
-      22,
-      33
-    ],
-    "others": [
-      2
-    ],
-    "release": [
-      2
-    ],
-    "crappie:": [
-      3
-    ],
-    "crappie/sunfish:": [
-      3
-    ],
-    "grab": [
-      3
-    ],
-    "small": [
-      3,
-      25
-    ],
-    "lip": [
-      3
-    ],
-    "down": [
-      3,
-      7,
       13,
-      38
-    ],
-    "properly": [
-      3,
+      14,
+      29,
       30
     ],
-    "slide": [
-      3,
-      36
-    ],
-    "bottom": [
-      3,
-      8,
-      14,
-      18,
-      22
-    ],
-    "bass": [
-      3,
-      21,
-      37
-    ],
-    "sharp": [
-      3,
-      5,
-      37
-    ],
-    "hand": [
-      3,
-      16,
-      36
-    ],
-    "sunfish": [
-      3,
-      37
-    ],
-    "large": [
-      3
-    ],
-    "back": [
-      3
-    ],
-    "dorsal": [
-      3,
-      36,
-      38
-    ],
-    "comb": [
-      3
-    ],
-    "over": [
-      3,
-      16,
-      38
-    ],
-    "avoid": [
-      4,
-      28,
-      36
-    ],
-    "sure": [
-      4,
-      14
-    ],
-    "around": [
-      4,
-      35
-    ],
-    "water": [
-      4,
-      23,
-      29,
-      30,
-      32,
+    "anoth": [
+      1,
       33
     ],
-    "mounds": [
-      4
-    ],
-    "snakes": [
-      4
-    ],
-    "careful": [
-      4,
-      36
-    ],
-    "thick": [
-      4
-    ],
-    "have": [
-      4,
-      20,
-      21,
-      24
-    ],
-    "areas": [
-      4
-    ],
-    "grassy": [
-      4
-    ],
-    "with": [
-      4,
-      10,
-      15,
-      19,
-      21,
-      32,
-      39
-    ],
-    "feet": [
-      4,
-      23
-    ],
-    "make": [
-      4,
-      12,
-      14
-    ],
-    "where": [
-      4,
-      7,
+    "alway": [
+      1,
+      2,
+      3,
+      5,
       9,
       16,
       19,
-      22
+      30,
+      34
     ],
-    "can\u2019t": [
-      4
+    "wet": [
+      1,
+      9,
+      10,
+      11
     ],
-    "buddy": [
-      4
-    ],
-    "very": [
-      4,
-      36,
-      37
-    ],
-    "many": [
-      5
-    ],
-    "fish\u2019s": [
-      5,
+    "hydration": [
+      1,
+      3,
+      19,
       20,
-      35,
-      36
-    ],
-    "what": [
-      5,
-      8,
-      27
-    ],
-    "there": [
-      5
-    ],
-    "look": [
-      5,
-      8
-    ],
-    "point:": [
-      5
-    ],
-    "anatomy": [
-      5,
-      22
-    ],
-    "different": [
-      5,
-      6
-    ],
-    "point": [
-      5
-    ],
-    "mouth;": [
-      5
-    ],
-    "like": [
-      5,
-      6
-    ],
-    "eat": [
-      5
-    ],
-    "that": [
-      5,
-      12,
-      14,
       24,
       25,
-      30,
-      35,
-      36
-    ],
-    "such": [
-      5,
-      32,
-      37
-    ],
-    "types": [
-      5
-    ],
-    "punctures": [
-      5
-    ],
-    "mouth": [
-      5
-    ],
-    "comes": [
-      6,
-      34
-    ],
-    "measured": [
-      6,
-      9
-    ],
-    "meaning": [
-      6
-    ],
-    "break": [
-      6
-    ],
-    "species": [
-      6,
-      21,
       27,
+      28
+    ],
+    "three": [
+      1
+    ],
+    "consider": [
+      1
+    ],
+    "caus": [
+      1,
+      25
+    ],
+    "behavior": [
+      1
+    ],
+    "quiet": [
+      1
+    ],
+    "ethic": [
+      1
+    ],
+    "rule": [
+      1
+    ],
+    "leav": [
+      1,
+      25
+    ],
+    "protect": [
+      1,
+      3,
+      35
+    ],
+    "would": [
+      1,
+      12,
+      28
+    ],
+    "legal": [
+      1,
+      22
+    ],
+    "make": [
+      1,
+      3,
+      10,
+      12,
+      15,
+      16,
+      24,
+      29,
+      30,
+      33,
       34
     ],
-    "test\u201d": [
+    "purification": [
+      1,
+      2,
+      19,
+      20,
+      21,
+      23,
+      24,
+      26,
+      27,
+      28,
+      29,
+      31,
+      34
+    ],
+    "barbless": [
+      1
+    ],
+    "use": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      21,
+      22,
+      26,
+      28,
+      29,
+      30,
+      33,
+      35
+    ],
+    "right": [
+      1,
+      5,
+      8,
+      13
+    ],
+    "back": [
+      2,
+      29,
+      33
+    ],
+    "cast": [
+      2,
+      5,
+      12
+    ],
+    "wound": [
+      2
+    ],
+    "slide": [
+      2,
+      9,
+      31,
+      32
+    ],
+    "youll": [
+      2,
+      6,
+      31
+    ],
+    "releas": [
+      2,
+      13,
+      14,
+      26
+    ],
+    "next": [
+      2,
+      15,
+      34
+    ],
+    "bass": [
+      2,
+      15,
+      17,
+      18,
+      21,
+      31,
+      32
+    ],
+    "least": [
+      2
+    ],
+    "behind": [
+      2,
+      15,
+      16,
+      32,
+      33,
+      34
+    ],
+    "tree": [
+      2
+    ],
+    "sharp": [
+      2,
+      4,
+      30,
+      32
+    ],
+    "sunfish": [
+      2,
+      15,
+      18,
+      31,
+      32
+    ],
+    "sandpaperlik": [
+      2
+    ],
+    "armpitlik": [
+      2
+    ],
+    "comb": [
+      2
+    ],
+    "teeth": [
+      2,
+      30,
+      31
+    ],
+    "loos": [
+      2,
+      9,
+      10,
+      16,
+      32
+    ],
+    "look": [
+      2,
+      4,
       6
     ],
-    "weight": [
-      6,
-      9,
-      10
+    "liquid": [
+      2,
+      21,
+      22,
+      23,
+      26,
+      29,
+      31,
+      34
     ],
-    "line": [
+    "varieti": [
+      3,
+      5,
+      14,
+      18
+    ],
+    "number": [
+      3
+    ],
+    "boat": [
+      3,
+      24,
+      26,
+      28,
+      31
+    ],
+    "power": [
+      3,
+      7
+    ],
+    "shape": [
+      3,
+      6,
+      18
+    ],
+    "feet": [
+      3,
+      20
+    ],
+    "life": [
+      3
+    ],
+    "ant": [
+      3
+    ],
+    "popular": [
+      3,
+      11
+    ],
+    "element": [
+      3
+    ],
+    "big": [
+      3,
+      19
+    ],
+    "care": [
+      3
+    ],
+    "see": [
+      3,
+      19,
+      20
+    ],
+    "sure": [
+      3,
+      12
+    ],
+    "floatat": [
+      3
+    ],
+    "oshaugh": [
+      3
+    ],
+    "avoid": [
+      3,
+      19,
+      24,
+      25
+    ],
+    "smaller": [
+      3,
+      27
+    ],
+    "buddi": [
+      3
+    ],
+    "way": [
+      4,
+      7,
+      16,
+      29,
+      31,
+      32,
+      34
+    ],
+    "size": [
+      4,
+      5,
       6,
       10,
+      18,
+      22,
+      30
+    ],
+    "portion": [
+      4,
+      7
+    ],
+    "differ": [
+      4,
+      5,
+      6,
+      12,
+      17
+    ],
+    "curv": [
+      4
+    ],
+    "top": [
+      4,
+      32,
+      34
+    ],
+    "upturn": [
+      4
+    ],
+    "offset": [
+      4
+    ],
+    "easier": [
+      4
+    ],
+    "pictur": [
+      4
+    ],
+    "kink": [
+      4
+    ],
+    "weedless": [
+      4
+    ],
+    "keep": [
+      4,
+      5,
+      10,
+      16,
+      19,
+      23,
+      24,
+      30,
+      31
+    ],
+    "posit": [
+      4,
+      13,
+      14
+    ],
+    "roll": [
+      4,
+      18
+    ],
+    "gap": [
+      4
+    ],
+    "downturn": [
+      4
+    ],
+    "imit": [
+      4
+    ],
+    "reel": [
+      5,
+      6,
+      7,
+      8,
       11,
       12,
       13,
-      14,
+      18,
+      30
+    ],
+    "harm": [
+      5
+    ],
+    "cork": [
+      5,
       16,
-      33,
-      36
-    ],
-    "test": [
-      6
-    ],
-    "hooks": [
-      6,
-      20
-    ],
-    "amount": [
-      6,
-      25
-    ],
-    "variety": [
-      6
-    ],
-    "\u201cpound": [
-      6
-    ],
-    "pound": [
-      6
-    ],
-    "weights": [
-      6
-    ],
-    "required": [
-      6
-    ],
-    "strike": [
-      7
-    ],
-    "bobbing": [
-      7
-    ],
-    "keep": [
-      7
-    ],
-    "indicator": [
-      7
-    ],
-    "jerky": [
-      7
-    ],
-    "getting": [
-      7
-    ],
-    "serve": [
-      7
-    ],
-    "bait": [
-      7,
-      8,
-      14,
-      30,
-      34
-    ],
-    "depth": [
-      7
-    ],
-    "you\u2019re": [
-      7,
-      34
-    ],
-    "bite": [
-      7
-    ],
-    "know": [
-      7,
-      31
-    ],
-    "quick": [
-      7
-    ],
-    "are": [
-      7
-    ],
-    "letting": [
-      7
-    ],
-    "longer": [
-      8,
-      19
-    ],
-    "distance": [
-      8
-    ],
-    "using": [
-      8,
-      29,
-      33,
-      34
-    ],
-    "lure": [
-      8,
-      9,
-      10,
-      22,
-      34
-    ],
-    "you\u2019ll": [
-      8
-    ],
-    "mount": [
-      8
-    ],
-    "plan": [
-      8
-    ],
-    "reel": [
-      8,
-      15,
-      16
-    ],
-    "length:": [
-      8
-    ],
-    "chosen": [
-      8
-    ],
-    "depends": [
-      8
-    ],
-    "type": [
-      8,
-      22
-    ],
-    "lightest;": [
-      9
-    ],
-    "heavy": [
-      9
-    ],
-    "medium": [
-      9
-    ],
-    "under": [
-      9,
-      11
-    ],
-    "bend": [
-      9
-    ],
-    "light": [
-      9
-    ],
-    "easily": [
-      9
-    ],
-    "rod;": [
-      9
-    ],
-    "needed": [
-      9
-    ],
-    "scale": [
-      9,
-      37
-    ],
-    "rods": [
-      9
-    ],
-    "which": [
-      10
-    ],
-    "line;": [
-      10
-    ],
-    "casting": [
-      10,
       17
     ],
-    "done": [
+    "measur": [
+      5,
+      7
+    ],
+    "monofila": [
+      5,
       10
     ],
-    "projecting": [
-      10
+    "thicker": [
+      5
     ],
-    "project": [
-      10
+    "bobber": [
+      5,
+      6,
+      12,
+      29
     ],
-    "versus": [
-      10
-    ],
-    "reels": [
-      10
-    ],
-    "based": [
-      10,
-      34
-    ],
-    "cast": [
-      10,
-      14,
-      15
-    ],
-    "other": [
-      10,
-      38
-    ],
-    "hold": [
-      10,
-      36
-    ],
-    "some": [
-      11
-    ],
-    "about": [
-      11,
-      15,
+    "your": [
+      5,
+      6,
       23,
-      31
+      30
     ],
-    "weak": [
-      11
+    "properli": [
+      5,
+      8,
+      9,
+      15,
+      16,
+      26,
+      30
     ],
-    "free": [
-      11,
-      13
+    "amount": [
+      5,
+      7,
+      22,
+      27,
+      28
     ],
-    "helps": [
-      11
+    "account": [
+      5
     ],
-    "inch": [
-      11,
-      18
+    "test": [
+      5
     ],
-    "knot": [
-      11,
-      12,
-      13
+    "pound": [
+      5
     ],
-    "ction": [
-      11
+    "float": [
+      5
     ],
-    "hanging": [
-      11
-    ],
-    "creating": [
-      11
-    ],
-    "prevent": [
-      11
-    ],
-    "clipping": [
-      11
-    ],
-    "knots": [
-      11
-    ],
-    "also": [
-      12,
+    "wildlif": [
+      5,
       35
     ],
-    "through": [
+    "topsid": [
+      6
+    ],
+    "tip": [
+      6,
+      7,
+      9,
+      14,
+      16,
+      29
+    ],
+    "depend": [
+      6,
+      12
+    ],
+    "sizesrod": [
+      6
+    ],
+    "decreas": [
+      6
+    ],
+    "spin": [
+      6,
+      8,
+      13,
+      17
+    ],
+    "closer": [
+      6
+    ],
+    "distanc": [
+      6,
+      7,
+      8
+    ],
+    "finger": [
+      6,
+      11,
+      13,
+      14,
+      32
+    ],
+    "spincast": [
+      6,
+      7,
+      8
+    ],
+    "cane": [
+      6
+    ],
+    "indic": [
+      6
+    ],
+    "rod": [
+      6,
+      13
+    ],
+    "slow": [
+      7,
+      28
+    ],
+    "medium": [
+      7
+    ],
+    "easili": [
+      7
+    ],
+    "push": [
+      7,
+      8
+    ],
+    "face": [
+      7,
+      8,
+      11,
+      13,
+      14
+    ],
+    "action": [
+      7
+    ],
+    "live": [
+      7,
       12,
+      14,
+      16,
+      19,
+      20,
+      24,
+      26,
       27
     ],
-    "take": [
-      12
+    "easiest": [
+      7,
+      8
     ],
-    "fisherman\u2019s": [
-      12
+    "scale": [
+      7,
+      32,
+      33
+    ],
+    "entir": [
+      7
+    ],
+    "halfway": [
+      7
+    ],
+    "half": [
+      7
+    ],
+    "isnt": [
+      8,
+      29
+    ],
+    "done": [
+      8
+    ],
+    "suitabl": [
+      8
+    ],
+    "hold": [
+      8,
+      9,
+      11,
+      30
+    ],
+    "difficult": [
+      8
+    ],
+    "open": [
+      8,
+      13
+    ],
+    "button": [
+      8,
+      11,
+      13,
+      29
+    ],
+    "farther": [
+      8
+    ],
+    "quickli": [
+      8,
+      29,
+      33
+    ],
+    "also": [
+      8,
+      10,
+      31
+    ],
+    "palomar": [
+      9
     ],
     "pass": [
-      12
+      9,
+      10
     ],
-    "clinch": [
-      12
+    "clip": [
+      9
     ],
-    "improved": [
-      12
+    "trim": [
+      9,
+      10,
+      11
     ],
-    "loop": [
-      12
-    ],
-    "loose": [
-      12,
+    "littl": [
+      9,
       13
     ],
     "twist": [
-      12
-    ],
-    "called": [
-      12
-    ],
-    "turns": [
-      12
-    ],
-    "end": [
-      13
-    ],
-    "trim": [
-      13
-    ],
-    "first": [
-      13,
-      16,
-      31,
-      37
-    ],
-    "form": [
-      13,
-      25,
-      28
-    ],
-    "excess": [
-      13
-    ],
-    "cinch": [
-      13
-    ],
-    "tight": [
-      13,
-      14
-    ],
-    "second": [
-      13,
-      16
-    ],
-    "overhand": [
-      13
+      9,
+      10
     ],
     "slip": [
+      9,
+      11
+    ],
+    "lick": [
+      9
+    ],
+    "end": [
+      9,
+      12
+    ],
+    "free": [
+      9
+    ],
+    "overhand": [
+      9
+    ],
+    "weak": [
+      9
+    ],
+    "undon": [
+      9
+    ],
+    "like": [
+      9,
+      20,
+      27
+    ],
+    "fisherman": [
+      10
+    ],
+    "improv": [
+      10
+    ],
+    "backup": [
+      10
+    ],
+    "bobbersweight": [
+      10
+    ],
+    "swivelsartifici": [
+      10
+    ],
+    "clippershook": [
+      10
+    ],
+    "bring": [
+      10,
+      13,
+      14
+    ],
+    "taperul": [
+      10
+    ],
+    "form": [
+      10,
+      11,
+      21,
+      22,
+      24
+    ],
+    "plier": [
+      10,
+      33
+    ],
+    "identif": [
+      10
+    ],
+    "stringer": [
+      10
+    ],
+    "toward": [
+      11,
+      33
+    ],
+    "arbor": [
+      11
+    ],
+    "desir": [
+      11
+    ],
+    "etc": [
+      11
+    ],
+    "eye": [
+      11,
+      24
+    ],
+    "rememb": [
+      11
+    ],
+    "first": [
+      11,
+      27
+    ],
+    "rig": [
+      11
+    ],
+    "sinker": [
+      11
+    ],
+    "tag": [
+      11
+    ],
+    "stand": [
+      11
+    ],
+    "lineth": [
+      11,
+      12
+    ],
+    "standard": [
+      12
+    ],
+    "tight": [
+      12
+    ],
+    "andor": [
+      12
+    ],
+    "involv": [
+      12,
+      16
+    ],
+    "sink": [
+      12
+    ],
+    "two": [
+      12,
+      17
+    ],
+    "tie": [
+      12
+    ],
+    "often": [
+      12,
+      23,
+      33
+    ],
+    "depth": [
+      12
+    ],
+    "late": [
+      13,
+      14
+    ],
+    "reach": [
+      13,
+      14,
+      22
+    ],
+    "lurecast": [
+      13,
+      14
+    ],
+    "stem": [
       13
     ],
-    "another": [
+    "bail": [
+      13
+    ],
+    "smooth": [
+      13
+    ],
+    "elbow": [
+      13
+    ],
+    "close": [
+      13
+    ],
+    "plug": [
+      13
+    ],
+    "target": [
       14,
-      38
+      17,
+      18,
+      30
     ],
-    "after": [
+    "aim": [
       14
     ],
-    "noticeable": [
+    "straighten": [
       14
     ],
-    "easy-to-use": [
+    "wrist": [
       14
     ],
-    "will": [
+    "hous": [
       14,
       15,
-      18,
-      19,
+      26
+    ],
+    "worm": [
+      14,
+      15,
+      18
+    ],
+    "almost": [
+      14
+    ],
+    "red": [
+      14,
       33,
       34
     ],
-    "bobber": [
+    "compost": [
       14,
-      33
+      15
     ],
-    "standard": [
+    "choicesearthworm": [
       14
     ],
-    "rig": [
-      14
-    ],
-    "biting": [
-      14,
-      18,
-      33
-    ],
-    "upward": [
+    "outing": [
       15
     ],
-    "desire": [
+    "els": [
       15
     ],
-    "level": [
+    "store": [
       15,
-      17
+      23
     ],
-    "osed": [
+    "dangl": [
       15
     ],
-    "toward": [
+    "moist": [
       15
     ],
-    "you": [
+    "cricket": [
       15,
-      17
+      16
     ],
-    "face": [
+    "shop": [
       15
     ],
-    "eyes": [
-      15
-    ],
-    "target": [
+    "insert": [
       15,
-      21
-    ],
-    "place": [
-      16,
-      25
-    ],
-    "attaches": [
       16
     ],
-    "fingers": [
-      16
+    "coupl": [
+      15
     ],
-    "pointer": [
-      16
+    "cage": [
+      15
     ],
-    "third": [
-      16
-    ],
-    "stem": [
-      16
-    ],
-    "finger": [
-      16,
-      17
-    ],
-    "connection": [
-      16
-    ],
-    "between": [
-      16,
-      33
-    ],
-    "then": [
-      16,
-      38
-    ],
-    "reaches": [
-      17
-    ],
-    "close": [
-      17
-    ],
-    "landed": [
-      17
-    ],
-    "plug": [
-      17
-    ],
-    "less": [
-      17,
-      32
-    ],
-    "released": [
-      17
-    ],
-    "lure/casting": [
-      17
-    ],
-    "index": [
-      17
-    ],
-    "late": [
-      17
-    ],
-    "lure/": [
-      17
-    ],
-    "front": [
-      17
-    ],
-    "more": [
-      17,
-      18,
-      31
-    ],
-    "went": [
-      17
-    ],
-    "else": [
-      18
-    ],
-    "dangling": [
-      18
-    ],
-    "nibble": [
-      18
-    ],
-    "without": [
-      18,
-      39
-    ],
-    "below": [
-      18
-    ],
-    "don\u2019t": [
-      18,
-      23,
-      35
-    ],
-    "worm": [
-      18
-    ],
-    "away": [
-      18
-    ],
-    "bucket": [
-      19
-    ],
-    "live": [
-      19,
-      23,
-      28,
-      30
-    ],
-    "baiting": [
-      19
-    ],
-    "minnow": [
-      19,
-      20
-    ],
-    "well": [
-      19
-    ],
-    "aren\u2019t": [
-      19
-    ],
-    "aerated": [
-      19
-    ],
-    "ers": [
-      19
-    ],
-    "chubs": [
-      19
-    ],
-    "crowded": [
-      19
-    ],
-    "minnows": [
-      19
-    ],
-    "dace": [
-      19
-    ],
-    "plugs": [
-      20
-    ],
-    "jerkbaits": [
-      20
-    ],
-    "subsurface": [
-      20
-    ],
-    "trolling": [
-      20
-    ],
-    "treble": [
-      20
-    ],
-    "three": [
-      20
-    ],
-    "either": [
-      20
-    ],
-    "attached": [
-      20
-    ],
-    "crankbaits": [
-      20
-    ],
-    "include": [
-      20,
-      21
-    ],
-    "striking": [
-      20
-    ],
-    "cover": [
-      20
-    ],
-    "plastics": [
-      21
-    ],
-    "jigs": [
-      21
-    ],
-    "made": [
-      21,
-      38
-    ],
-    "lead": [
-      21
-    ],
-    "weighted": [
-      21
-    ],
-    "scent": [
-      21
-    ],
-    "tail": [
-      21,
-      39
-    ],
-    "soft": [
-      21
-    ],
-    "body": [
-      21,
-      30
-    ],
-    "fish-attracting": [
-      21
-    ],
-    "metal": [
-      21
+    "prolong": [
+      15
     ],
     "head": [
-      21
-    ],
-    "external": [
-      22
-    ],
-    "size": [
-      22,
-      34
-    ],
-    "surface": [
-      22,
+      15,
+      18,
+      32,
       33
     ],
-    "senses": [
-      22
+    "trip": [
+      15
     ],
-    "middle": [
-      22
+    "arent": [
+      16
     ],
-    "feed": [
-      22
+    "dace": [
+      16
     ],
-    "prey": [
+    "aerat": [
+      16
+    ],
+    "kill": [
+      16
+    ],
+    "technic": [
+      16
+    ],
+    "well": [
+      16,
+      25,
+      26,
+      28
+    ],
+    "minnow": [
+      16,
+      17,
+      18
+    ],
+    "origin": [
+      16,
+      17
+    ],
+    "famili": [
+      16
+    ],
+    "cover": [
+      17,
+      32
+    ],
+    "pinlook": [
+      17
+    ],
+    "hybrid": [
+      17
+    ],
+    "spinnerbait": [
+      17,
+      18
+    ],
+    "chugger": [
+      17
+    ],
+    "propbait": [
+      17
+    ],
+    "jerkbait": [
+      17
+    ],
+    "stripe": [
+      17
+    ],
+    "smallmouth": [
+      17
+    ],
+    "tail": [
+      17,
+      18,
+      32,
+      33,
+      34
+    ],
+    "stickbait": [
+      17
+    ],
+    "materi": [
+      17
+    ],
+    "spoon": [
+      18
+    ],
+    "scent": [
+      18
+    ],
+    "perch": [
+      18,
+      31,
+      32
+    ],
+    "baitfish": [
+      18
+    ],
+    "injur": [
+      18
+    ],
+    "fishattract": [
+      18
+    ],
+    "resembl": [
+      18
+    ],
+    "crappi": [
+      18,
+      31
+    ],
+    "flexibl": [
+      18
+    ],
+    "techniqu": [
+      18
+    ],
+    "find": [
+      19,
       22,
-      24
+      27
     ],
-    "choosing": [
-      22
-    ],
-    "colors": [
+    "even": [
+      19,
       23
     ],
-    "since": [
-      23
+    "howev": [
+      19,
+      28,
+      29
     ],
-    "extremely": [
-      23
+    "ration": [
+      19,
+      21,
+      27,
+      28
     ],
-    "full": [
-      23
+    "direct": [
+      19,
+      20,
+      35
     ],
-    "color": [
-      23
+    "along": [
+      19
     ],
-    "filters": [
-      23
+    "eyesight": [
+      19
     ],
-    "murky": [
-      23
+    "import": [
+      19
     ],
-    "clear": [
-      23
+    "dont": [
+      19,
+      20
     ],
-    "deep": [
-      23
+    "sensori": [
+      19
     ],
-    "spectrum": [
-      23
+    "murki": [
+      19,
+      20
     ],
-    "except": [
-      24
+    "predat": [
+      19,
+      20,
+      24,
+      28
     ],
-    "barbels": [
-      24
+    "vibrat": [
+      19
     ],
-    "cells": [
-      24
+    "organ": [
+      19
+    ],
+    "smell": [
+      19
+    ],
+    "vision": [
+      19
+    ],
+    "object": [
+      20
     ],
     "useless": [
+      20
+    ],
+    "sac": [
+      20
+    ],
+    "spawn": [
+      20
+    ],
+    "low": [
+      20
+    ],
+    "whisker": [
+      20
+    ],
+    "barbel": [
+      20
+    ],
+    "especi": [
+      20
+    ],
+    "tastesensit": [
+      20
+    ],
+    "tini": [
+      20,
       24
+    ],
+    "except": [
+      20
+    ],
+    "100": [
+      20,
+      26
+    ],
+    "bone": [
+      20,
+      32,
+      34
+    ],
+    "odor": [
+      20
+    ],
+    "competit": [
+      21
+    ],
+    "harvest": [
+      21,
+      22
+    ],
+    "track": [
+      21
+    ],
+    "havent": [
+      21,
+      22
+    ],
+    "damag": [
+      21,
+      26,
+      30
+    ],
+    "unnecessari": [
+      21,
+      22
+    ],
+    "opportun": [
+      21,
+      22,
+      35
+    ],
+    "hunting": [
+      21
+    ],
+    "fingillsmouthnareseyelater": [
+      21
+    ],
+    "food": [
+      21
+    ],
+    "nutrition": [
+      21
+    ],
+    "sens": [
+      21
+    ],
+    "litter": [
+      21
     ],
     "skin": [
-      24
+      21,
+      33
     ],
-    "bullheads": [
-      24
+    "H2O": [
+      21
     ],
-    "catfish": [
-      24
+    "linelargemouth": [
+      21
     ],
-    "whiskers": [
-      24
+    "nongam": [
+      22
     ],
-    "these": [
-      24,
-      27,
-      28
+    "limit": [
+      22
     ],
-    "dators": [
-      24
+    "question": [
+      22
     ],
-    "sense": [
-      24
+    "reproduc": [
+      22
     ],
-    "taste-sensitive": [
-      24
+    "age": [
+      22
     ],
-    "most": [
-      24
+    "websit": [
+      22
     ],
-    "taste": [
-      24
+    "follow": [
+      22
     ],
-    "haven\u2019t": [
-      25
+    "bag": [
+      22
     ],
-    "possess": [
-      25
+    "avail": [
+      22
     ],
-    "following:": [
-      25
+    "certain": [
+      22
     ],
-    "opportunity": [
-      25
+    "check": [
+      23
     ],
-    "management": [
-      25
+    "wwwdnrscgovpurchas": [
+      23
     ],
-    "daily": [
-      25
+    "properti": [
+      23
     ],
-    "takes": [
-      25
-    ],
-    "breed": [
-      25
-    ],
-    "creel": [
-      25
-    ],
-    "day;": [
-      25
-    ],
-    "limits": [
-      25
-    ],
-    "icense": [
-      26
-    ],
-    "from": [
-      26,
-      29,
-      35
-    ],
-    "30th": [
-      26
-    ],
-    "often": [
-      26
-    ],
-    "need": [
-      26,
-      31
-    ],
-    "renew": [
-      26
-    ],
-    "july": [
-      26
-    ],
-    "june": [
-      26
-    ],
-    "public": [
-      26
-    ],
-    "license": [
-      26
-    ],
-    "waters": [
-      26
-    ],
-    "legally": [
-      26
-    ],
-    "order": [
-      26
-    ],
-    "invasive": [
-      27
-    ],
-    "days": [
-      27
-    ],
-    "day": [
-      27
-    ],
-    "www.dnr": [
-      27
-    ],
-    "1-866-714-3611": [
-      27
-    ],
-    "aquatic": [
-      27,
-      29
-    ],
-    "call": [
-      27
-    ],
-    "sc.gov/purchase": [
-      27
-    ],
-    "friday": [
-      27
-    ],
-    "hours": [
-      27
-    ],
-    "monday": [
-      27
-    ],
-    "week": [
-      27
-    ],
-    "nuisance": [
-      27,
-      29
-    ],
-    "onfish": [
-      28
-    ],
-    "dirt": [
-      28
-    ],
-    "immature": [
-      28
-    ],
-    "animals": [
-      28
-    ],
-    "sand": [
-      28
-    ],
-    "visible": [
-      28
-    ],
-    "fragments": [
-      28
-    ],
-    "tiny": [
-      28
-    ],
-    "mud": [
-      28
-    ],
-    "plant": [
-      28
-    ],
-    "eye": [
-      28
-    ],
-    "larvae": [
-      28
-    ],
-    "naked": [
-      28
-    ],
-    "animal": [
-      28
-    ],
-    "eliminate": [
-      29
-    ],
-    "should": [
-      29,
-      39
-    ],
-    "anglers": [
-      29
-    ],
-    "and/or": [
-      29
-    ],
-    "persons": [
-      29
-    ],
-    "before": [
-      29
-    ],
-    "wading": [
-      29
-    ],
-    "imprisonment": [
-      29
-    ],
-    "spreading": [
-      29
-    ],
-    "transporting": [
-      29
-    ],
-    "weeds": [
-      29
-    ],
-    "$500": [
-      29
-    ],
-    "thoroughly": [
-      29
-    ],
-    "gear": [
-      29
-    ],
-    "sealed": [
-      30
-    ],
-    "dispose": [
-      30
-    ],
-    "especially": [
-      30
-    ],
-    "placing": [
-      30
-    ],
-    "trash": [
-      30
-    ],
-    "came": [
-      30
-    ],
-    "container": [
-      30
-    ],
-    "unless": [
-      30
-    ],
-    "saving": [
-      30
-    ],
-    "within": [
-      30
-    ],
-    "finding": [
-      31
-    ],
-    "www.dnr.sc.gov/water/envaff/aquatic/index.html": [
-      31
-    ],
-    "www": [
-      31
-    ],
-    "learn": [
-      31
-    ],
-    "755-2836": [
-      31
-    ],
-    "803": [
-      31
-    ],
-    "calling": [
-      31
-    ],
-    "protectyourwaters.net": [
-      31
-    ],
-    "thing": [
-      31
+    "lake": [
+      23
     ],
     "visit": [
-      31
+      23
     ],
-    "waterfalls": [
-      32
+    "week": [
+      23
     ],
-    "near": [
-      32
+    "agent": [
+      23
     ],
-    "lots": [
-      32
+    "buy": [
+      23
     ],
-    "algae": [
-      32
+    "pond": [
+      23
     ],
-    "oxygen": [
-      32
+    "friday": [
+      23
     ],
-    "increase": [
-      32
+    "unless": [
+      23
     ],
-    "guess": [
-      32
+    "web": [
+      23
     ],
-    "moving": [
-      32
+    "renew": [
+      23
     ],
-    "colder": [
-      32
+    "hyacinth": [
+      24
     ],
-    "levels": [
-      32
+    "snail": [
+      24
     ],
-    "temperatures": [
-      32
-    ],
-    "riffles": [
-      32
-    ],
-    "would": [
-      32
-    ],
-    "faster": [
-      32
-    ],
-    "start": [
-      33
-    ],
-    "watching": [
-      33
-    ],
-    "across": [
-      33
-    ],
-    "best": [
-      33
-    ],
-    "only": [
-      33
-    ],
-    "move": [
-      33
-    ],
-    "tell": [
-      33
-    ],
-    "feel": [
-      34
-    ],
-    "vary": [
-      34
-    ],
-    "timing": [
-      34
-    ],
-    "learning": [
-      34
-    ],
-    "targeting": [
-      34
-    ],
-    "mucous": [
-      35
-    ],
-    "them": [
-      35,
-      39
-    ],
-    "dock": [
-      35
-    ],
-    "bank": [
-      35
-    ],
-    "protects": [
-      35
-    ],
-    "floor": [
-      35
-    ],
-    "protective": [
-      35
-    ],
-    "slime": [
-      35
-    ],
-    "flop": [
-      35
-    ],
-    "allow": [
-      35
-    ],
-    "disease": [
-      35
-    ],
-    "coating": [
-      35
-    ],
-    "fins": [
-      36
-    ],
-    "spines": [
-      36
-    ],
-    "hands": [
-      36
-    ],
-    "fin": [
-      36,
-      38
-    ],
-    "steady": [
-      36
-    ],
-    "pectoral": [
-      36,
-      38
-    ],
-    "located": [
-      36
-    ],
-    "must": [
-      37
-    ],
-    "scaled": [
-      37
-    ],
-    "ecause": [
-      37
+    "displac": [
+      24
     ],
     "common": [
-      37
+      24
     ],
-    "side": [
-      38
+    "sand": [
+      24,
+      28
     ],
-    "just": [
-      38
+    "take": [
+      24,
+      25
     ],
-    "backbone": [
-      38,
-      39
+    "south": [
+      24,
+      25,
+      35
     ],
-    "connect": [
-      38
+    "manag": [
+      24,
+      25
     ],
-    "side\u2019s": [
-      38
+    "concern": [
+      24
     ],
-    "create": [
-      38
+    "phragmit": [
+      24
     ],
-    "slice": [
-      38
+    "grow": [
+      24
     ],
-    "meat": [
-      39
+    "save": [
+      25,
+      26
     ],
-    "bones": [
-      39
+    "weed": [
+      25,
+      27
     ],
-    "knife": [
-      39
-    ],
-    "base": [
-      39
-    ],
-    "lift": [
-      39
-    ],
-    "scraping": [
-      39
-    ],
-    "right": [
-      39
-    ],
-    "cutting": [
-      39
-    ],
-    "above": [
-      39
-    ],
-    "come": [
-      39
-    ],
-    "piece": [
-      39
-    ],
-    "paper": [
-      40
-    ],
-    "08ce6396": [
-      40
-    ],
-    "texas": [
-      40
-    ],
-    "goes": [
-      40
-    ],
-    "artwork": [
-      40
-    ],
-    "parks": [
-      40
-    ],
-    "total": [
-      40
-    ],
-    "hanks": [
-      40
-    ],
-    "copies": [
-      40
-    ],
-    "recycled": [
-      40
-    ],
-    "wildlife": [
-      40
+    "remain": [
+      25,
+      33
     ],
     "cost": [
-      40
+      25,
+      36
     ],
-    "printed": [
-      40
+    "spread": [
+      25,
+      27
+    ],
+    "dollar": [
+      25
+    ],
+    "dri": [
+      25
+    ],
+    "elimin": [
+      25
+    ],
+    "unplan": [
+      25
+    ],
+    "day": [
+      25
+    ],
+    "aquat": [
+      25,
+      27,
+      28
+    ],
+    "million": [
+      25
+    ],
+    "rins": [
+      25
+    ],
+    "law": [
+      25
+    ],
+    "fisheri": [
+      25
+    ],
+    "chlorin": [
+      25
+    ],
+    "balanc": [
+      25
+    ],
+    "came": [
+      26
+    ],
+    "shrimp": [
+      26,
+      27
+    ],
+    "dip": [
+      26
+    ],
+    "brush": [
+      26,
+      28
+    ],
+    "neg": [
+      26
+    ],
+    "impact": [
+      26
+    ],
+    "cloth": [
+      26
+    ],
+    "never": [
+      26
+    ],
+    "trailer": [
+      26
+    ],
+    "vari": [
+      27,
+      30
+    ],
+    "program": [
+      27,
+      35
+    ],
+    "report": [
+      27
+    ],
+    "part": [
+      27
+    ],
+    "oxygen": [
+      27,
+      28
+    ],
+    "recycl": [
+      27,
+      35,
+      36
+    ],
+    "shell": [
+      27
+    ],
+    "insect": [
+      27
+    ],
+    "trash": [
+      27
+    ],
+    "www": [
+      27
+    ],
+    "doesnt": [
+      28
+    ],
+    "provid": [
+      28
+    ],
+    "pile": [
+      28
+    ],
+    "faster": [
+      28
+    ],
+    "present": [
+      28
+    ],
+    "near": [
+      28
+    ],
+    "warmer": [
+      28
+    ],
+    "dock": [
+      28,
+      30,
+      31
+    ],
+    "tell": [
+      28,
+      29
+    ],
+    "sometim": [
+      29
+    ],
+    "watch": [
+      29
+    ],
+    "jump": [
+      29
+    ],
+    "belli": [
+      29,
+      31,
+      32,
+      33
+    ],
+    "soon": [
+      29
+    ],
+    "bit": [
+      29
+    ],
+    "twitch": [
+      29
+    ],
+    "hard": [
+      29
+    ],
+    "touch": [
+      30
+    ],
+    "simpli": [
+      30
+    ],
+    "held": [
+      30,
+      31,
+      32
+    ],
+    "quit": [
+      30
+    ],
+    "somewhat": [
+      31
+    ],
+    "larger": [
+      31
+    ],
+    "sandpap": [
+      31
+    ],
+    "steadi": [
+      31,
+      32
+    ],
+    "floor": [
+      31
+    ],
+    "lip": [
+      31
+    ],
+    "scaler": [
+      32
+    ],
+    "directli": [
+      32
+    ],
+    "scrape": [
+      32,
+      34
+    ],
+    "gill": [
+      32
+    ],
+    "slice": [
+      32,
+      33
+    ],
+    "meat": [
+      33,
+      34
+    ],
+    "dark": [
+      33,
+      34
+    ],
+    "backbon": [
+      33,
+      34
+    ],
+    "fillet": [
+      33
+    ],
+    "cook": [
+      33
+    ],
+    "connect": [
+      33
+    ],
+    "must": [
+      33
+    ],
+    "piec": [
+      34
+    ],
+    "repeat": [
+      34
+    ],
+    "saw": [
+      34
+    ],
+    "minnesota": [
+      34
+    ],
+    "inc": [
+      34
+    ],
+    "creativ": [
+      34
+    ],
+    "rib": [
+      34
+    ],
+    "flesh": [
+      34
+    ],
+    "goe": [
+      35
+    ],
+    "sex": [
+      35
+    ],
+    "benefit": [
+      35
+    ],
+    "state": [
+      35
+    ],
+    "chief": [
+      35
+    ],
+    "publish": [
+      35
+    ],
+    "30345": [
+      35
+    ],
+    "8037343672": [
+      35
+    ],
+    "staff": [
+      35
+    ],
+    "columbia": [
+      35
+    ],
+    "religion": [
+      35
+    ],
+    "pleas": [
+      35
+    ],
+    "activ": [
+      35
+    ],
+    "particip": [
+      35
+    ],
+    "08ce6396": [
+      36
+    ],
+    "copi": [
+      36
+    ],
+    "total": [
+      36
+    ],
+    "paper": [
+      36
+    ],
+    "per": [
+      36
+    ],
+    "12000": [
+      36
+    ],
+    "357700": [
+      36
+    ],
+    "print": [
+      36
     ]
+  },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
   },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

@@ -1,0 +1,41 @@
+{
+  "package_id": "battery_maintenance",
+  "name": "Battery Reconditioning Guide",
+  "description": "Techniques for reconditioning and maintaining batteries",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:23:51.337995",
+  "source_pdf": "BatteryReconditioning.pdf",
+  "vector_database": {
+    "file": "battery_maintenance.vdb.npz",
+    "size_bytes": 241734,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "battery_maintenance_ios.index.json",
+    "size_bytes": 85918,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 44,
+    "embedding_dim": 384,
+    "total_embeddings": 44
+  },
+  "offline_priority": "medium",
+  "category": "technical_skills",
+  "tags": [
+    "battery",
+    "maintenance",
+    "technical",
+    "reconditioning",
+    "power"
+  ],
+  "checksum": {
+    "vdb": "1c85162c6531e40912c2a1d4d58ecb3f8f13750e66f053e163cd79a34aff579d",
+    "index": "bd45d009257c0bcf86a92738f76146e85fb80c3380f519b36c52913699a29bc5"
+  }
+}

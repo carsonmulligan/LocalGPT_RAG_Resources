@@ -1,0 +1,40 @@
+{
+  "package_id": "historical_military_manual",
+  "name": "Historical Military Field Manual",
+  "description": "Vintage military field manual with classic survival techniques",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:25:01.718899",
+  "source_pdf": "fm20_20_1960.pdf",
+  "vector_database": {
+    "file": "historical_military_manual.vdb.npz",
+    "size_bytes": 1231160,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "historical_military_manual_ios.index.json",
+    "size_bytes": 463170,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 223,
+    "embedding_dim": 384,
+    "total_embeddings": 223
+  },
+  "offline_priority": "low",
+  "category": "military_tactical",
+  "tags": [
+    "military",
+    "historical",
+    "vintage",
+    "field_manual"
+  ],
+  "checksum": {
+    "vdb": "65f79e2b7a6eea72b546ccca2624cb8ba01e9b31f1ab5a0dfdbf2db3be1379c4",
+    "index": "5058c6d8fc20d037e1a9a5fd7f3ca4e1e3051cf9905d0e2e3257d4c9cdd6cc22"
+  }
+}

@@ -2,28 +2,38 @@
   "package_id": "military_operations",
   "name": "Military Operations Manual",
   "description": "Field manual for military operations and procedures",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:24:56.904127",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:47.436269",
   "source_pdf": "fm3-19-17.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "military_operations.vdb.npz",
-    "size_bytes": 2091980,
+    "size_bytes": 1062075,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "military_operations_ios.index.json",
-    "size_bytes": 736741,
+    "size_bytes": 754473,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 378,
-    "embedding_dim": 384,
-    "total_embeddings": 378
+    "num_chunks": 336,
+    "embedding_dim": 768,
+    "total_embeddings": 336,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "low",
   "category": "military_tactical",
@@ -34,7 +44,7 @@
     "tactical"
   ],
   "checksum": {
-    "vdb": "5596ebcb5c1512996d6e6c103408b43b611944b6a4b64e54a5ec0ad6654ff359",
-    "index": "14c85a5efe87189b551277438ddc560e85fc773670fc02039add48b90b8d3dfc"
+    "vdb": "3227c1097a67c94a5c6575abb7d8c5cb32e49e637f58202345d7d069e8662609",
+    "index": "9bb63fa2c97b623d90c2e6a2546a38a83a6d663b5560ccba1da9c88ac5e5527d"
   }
 }

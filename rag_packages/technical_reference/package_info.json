@@ -2,28 +2,38 @@
   "package_id": "technical_reference",
   "name": "Technical Reference Manual",
   "description": "Technical reference for equipment and procedures",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:25:03.137438",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:52.036785",
   "source_pdf": "WK3-GE-MC3-PVintro.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "technical_reference.vdb.npz",
-    "size_bytes": 86110,
+    "size_bytes": 43257,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "technical_reference_ios.index.json",
-    "size_bytes": 34644,
+    "size_bytes": 31190,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 16,
-    "embedding_dim": 384,
-    "total_embeddings": 16
+    "num_chunks": 13,
+    "embedding_dim": 768,
+    "total_embeddings": 13,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "low",
   "category": "technical_skills",
@@ -34,7 +44,7 @@
     "procedures"
   ],
   "checksum": {
-    "vdb": "b06de9047421c5e514e08d16d9858b9ae12d99c74cba6cb6d4d608eedc6902bf",
-    "index": "a158c0043b1ab6859da71e79dd9f3a201712c17880115a9b474572997ea839a8"
+    "vdb": "a19e606b0a1f1f7f40feeea7efb6267d72d82494141ad39b5c2c0d3d43d2f191",
+    "index": "38ebbcaadd6956c932ed26ffcf0e7d80237a45ae40d122e63f23e343156a1ea4"
   }
 }

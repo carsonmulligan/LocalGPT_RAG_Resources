@@ -1,0 +1,41 @@
+{
+  "package_id": "army_survival_manual",
+  "name": "US Army Survival Manual",
+  "description": "Complete military survival guide covering all environments and situations",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:45.760825",
+  "source_pdf": "FM21-76_SurvivalManual.pdf",
+  "vector_database": {
+    "file": "army_survival_manual.vdb.npz",
+    "size_bytes": 3674068,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "army_survival_manual_ios.index.json",
+    "size_bytes": 1262235,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 664,
+    "embedding_dim": 384,
+    "total_embeddings": 664
+  },
+  "offline_priority": "critical",
+  "category": "comprehensive_survival",
+  "tags": [
+    "military",
+    "survival",
+    "comprehensive",
+    "field_manual",
+    "essential"
+  ],
+  "checksum": {
+    "vdb": "7d045627a0b8e4fe4ff583ccad8bd49e5ecc5e5a503474c67d194c8788741dae",
+    "index": "b705580c42f685d8ca27b4f8c262bb8c193740d87d29d2319d0ba10daf221b39"
+  }
+}

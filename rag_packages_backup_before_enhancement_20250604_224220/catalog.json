@@ -1,0 +1,887 @@
+{
+  "catalog_version": "1.0",
+  "created_date": "2025-06-04T01:25:06.951700",
+  "total_packages": 20,
+  "total_size_bytes": 27850423,
+  "total_size_mb": 26.56,
+  "packages": [
+    {
+      "package_id": "emergency_preparedness",
+      "name": "Emergency Preparedness Checklist",
+      "description": "Complete checklist for emergency preparedness and disaster planning",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:31.567036",
+      "source_pdf": "EmergencyPreparednessChecklist.pdf",
+      "vector_database": {
+        "file": "emergency_preparedness.vdb.npz",
+        "size_bytes": 58790,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "emergency_preparedness_ios.index.json",
+        "size_bytes": 23931,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 11,
+        "embedding_dim": 384,
+        "total_embeddings": 11
+      },
+      "offline_priority": "high",
+      "category": "emergency_preparedness",
+      "tags": [
+        "emergency",
+        "preparedness",
+        "checklist",
+        "disaster",
+        "planning"
+      ],
+      "checksum": {
+        "vdb": "ae1dd6edc3df724643ff640db83680cc022919bbe594dd82db49223fd25b1c4e",
+        "index": "2c62a8b538b9a1daf1fd6c1bf99607e8ce1fa300dbdd1c34a9dfd9e4efa8ca10"
+      }
+    },
+    {
+      "package_id": "readiness_checklist",
+      "name": "Readiness & Planning Checklist",
+      "description": "Comprehensive readiness checklist for various emergency scenarios",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:33.649844",
+      "source_pdf": "ready_checklist.pdf",
+      "vector_database": {
+        "file": "readiness_checklist.vdb.npz",
+        "size_bytes": 19636,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "readiness_checklist_ios.index.json",
+        "size_bytes": 8487,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 4,
+        "embedding_dim": 384,
+        "total_embeddings": 4
+      },
+      "offline_priority": "medium",
+      "category": "emergency_preparedness",
+      "tags": [
+        "readiness",
+        "checklist",
+        "planning",
+        "emergency"
+      ],
+      "checksum": {
+        "vdb": "08e7033c2f7a1090daa995edeacb4e277246fb13d0720e31289ef260b7a65d48",
+        "index": "ff7c9af43cea0cdce7a25e252a21c0a4436d5dc4f531ca55876856e86e71e0d4"
+      }
+    },
+    {
+      "package_id": "outdoor_skills_nature",
+      "name": "Outdoor Skills & Nature Connection",
+      "description": "Connecting with nature and developing outdoor awareness skills",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:35.380715",
+      "source_pdf": "outdoor-art-natural-connections.pdf",
+      "vector_database": {
+        "file": "outdoor_skills_nature.vdb.npz",
+        "size_bytes": 124974,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "outdoor_skills_nature_ios.index.json",
+        "size_bytes": 46841,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 23,
+        "embedding_dim": 384,
+        "total_embeddings": 23
+      },
+      "offline_priority": "low",
+      "category": "wilderness_skills",
+      "tags": [
+        "outdoor",
+        "nature",
+        "awareness",
+        "connection",
+        "skills"
+      ],
+      "checksum": {
+        "vdb": "b753a5327701e28d02124653c92d4e9bfc2edb514089ed4aa090314c2d4994e4",
+        "index": "27b4f754db50e74fb9a2ab17829784bde9dfc83f38bff983b0dd0ef7fcd31b59"
+      }
+    },
+    {
+      "package_id": "essential_knots",
+      "name": "Essential Survival Knots",
+      "description": "Step-by-step guide to tying essential survival and utility knots",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:36.750794",
+      "source_pdf": "Step_By_Step_Basic_Knots.pdf",
+      "vector_database": {
+        "file": "essential_knots.vdb.npz",
+        "size_bytes": 10016,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "essential_knots_ios.index.json",
+        "size_bytes": 4060,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 2,
+        "embedding_dim": 384,
+        "total_embeddings": 2
+      },
+      "offline_priority": "high",
+      "category": "technical_skills",
+      "tags": [
+        "knots",
+        "rope",
+        "technical_skills",
+        "step_by_step",
+        "utility"
+      ],
+      "checksum": {
+        "vdb": "2180e8a2a2ad9f74869990597bc03fc021b6b152b63e428b937bdec84431ad00",
+        "index": "0dd68addc48c73096acbf525fcdeabe1a946bed52adada81bf3f1dfce084338a"
+      }
+    },
+    {
+      "package_id": "scout_knots",
+      "name": "Boy Scout Essential Knots",
+      "description": "Six fundamental knots every outdoorsman should know",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:38.113405",
+      "source_pdf": "six_boy_scout_knots.pdf",
+      "vector_database": {
+        "file": "scout_knots.vdb.npz",
+        "size_bytes": 27012,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "scout_knots_ios.index.json",
+        "size_bytes": 10293,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 5,
+        "embedding_dim": 384,
+        "total_embeddings": 5
+      },
+      "offline_priority": "medium",
+      "category": "technical_skills",
+      "tags": [
+        "knots",
+        "scouting",
+        "basics",
+        "outdoor_skills"
+      ],
+      "checksum": {
+        "vdb": "f1cf3d3cd34a27970977ce9164d894fb0dde96d9e5b7c60438867d7f9412ebc3",
+        "index": "85fe21bb2e964c4dd0783c23b246015249b0e7771ecd9ad01affb6b191cc6301"
+      }
+    },
+    {
+      "package_id": "first_aid_medical",
+      "name": "First Aid & Medical Emergency Guide",
+      "description": "Red Cross certified first aid, CPR, and AED procedures",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:49.078496",
+      "source_pdf": "American-Red-Cross-First-Aid-CPR-AED-Participants-Manual.pdf",
+      "vector_database": {
+        "file": "first_aid_medical.vdb.npz",
+        "size_bytes": 3504760,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "first_aid_medical_ios.index.json",
+        "size_bytes": 1228319,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 633,
+        "embedding_dim": 384,
+        "total_embeddings": 633
+      },
+      "offline_priority": "critical",
+      "category": "medical_emergency",
+      "tags": [
+        "first_aid",
+        "medical",
+        "emergency",
+        "cpr",
+        "aed",
+        "health"
+      ],
+      "checksum": {
+        "vdb": "af80b40fd9c0012c5dd48f64433507db8d115be09c0cf29a28ff88d8f976595c",
+        "index": "96fcad8fd8c6753bb2faea9405751adb9c6cbb9e16199b7363e22083ff57a40c"
+      }
+    },
+    {
+      "package_id": "battery_maintenance",
+      "name": "Battery Reconditioning Guide",
+      "description": "Techniques for reconditioning and maintaining batteries",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:23:51.337995",
+      "source_pdf": "BatteryReconditioning.pdf",
+      "vector_database": {
+        "file": "battery_maintenance.vdb.npz",
+        "size_bytes": 241734,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "battery_maintenance_ios.index.json",
+        "size_bytes": 85918,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 44,
+        "embedding_dim": 384,
+        "total_embeddings": 44
+      },
+      "offline_priority": "medium",
+      "category": "technical_skills",
+      "tags": [
+        "battery",
+        "maintenance",
+        "technical",
+        "reconditioning",
+        "power"
+      ],
+      "checksum": {
+        "vdb": "1c85162c6531e40912c2a1d4d58ecb3f8f13750e66f053e163cd79a34aff579d",
+        "index": "bd45d009257c0bcf86a92738f76146e85fb80c3380f519b36c52913699a29bc5"
+      }
+    },
+    {
+      "package_id": "survival_evasion_recovery",
+      "name": "Survival, Evasion & Recovery",
+      "description": "Military survival, evasion, resistance, and escape procedures",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:06.279384",
+      "source_pdf": "fm3-05-70.pdf",
+      "vector_database": {
+        "file": "survival_evasion_recovery.vdb.npz",
+        "size_bytes": 5415480,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "survival_evasion_recovery_ios.index.json",
+        "size_bytes": 1888754,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 978,
+        "embedding_dim": 384,
+        "total_embeddings": 978
+      },
+      "offline_priority": "high",
+      "category": "military_tactical",
+      "tags": [
+        "survival",
+        "evasion",
+        "military",
+        "sere",
+        "escape"
+      ],
+      "checksum": {
+        "vdb": "d7946b3fd863db249510f88e098b02be3898115a913eb2f295d3298441e3a356",
+        "index": "55df8664f034e75fce15197b1a05512de01f8d27587c02d0f75a65021be41417"
+      }
+    },
+    {
+      "package_id": "forest_education",
+      "name": "Forest Education & Awareness",
+      "description": "Educational materials for forest awareness and outdoor education",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:10.413926",
+      "source_pdf": "Forestry%20England_Arts%20Material_Lesson%20Plan.pdf",
+      "vector_database": {
+        "file": "forest_education.vdb.npz",
+        "size_bytes": 73894,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "forest_education_ios.index.json",
+        "size_bytes": 27708,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 14,
+        "embedding_dim": 384,
+        "total_embeddings": 14
+      },
+      "offline_priority": "low",
+      "category": "wilderness_skills",
+      "tags": [
+        "forest",
+        "education",
+        "outdoor_education",
+        "awareness"
+      ],
+      "checksum": {
+        "vdb": "0cbd5c390f759e6b02ab8ccca80ed15049d0e7a912b4970869179afe254e9658",
+        "index": "20453fc33d0aab1d0553e2f71fb397c0f0aa2f7618949b666f863807299462ad"
+      }
+    },
+    {
+      "package_id": "advanced_fishing",
+      "name": "Advanced Fishing Techniques",
+      "description": "Comprehensive fishing guide with advanced techniques and strategies",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:12.836631",
+      "source_pdf": "basicfishingbook.pdf",
+      "vector_database": {
+        "file": "advanced_fishing.vdb.npz",
+        "size_bytes": 257594,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "advanced_fishing_ios.index.json",
+        "size_bytes": 92940,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 47,
+        "embedding_dim": 384,
+        "total_embeddings": 47
+      },
+      "offline_priority": "medium",
+      "category": "food_procurement",
+      "tags": [
+        "fishing",
+        "advanced_techniques",
+        "food_procurement",
+        "angling"
+      ],
+      "checksum": {
+        "vdb": "9c39f93d41066632b7966766298d54588d794dbf680ae5297a440dfb2d2ec2a1",
+        "index": "2977de9b191c448a32acf5297cf9ffaeedefbc200eb7ffb573149c99f4a9c980"
+      }
+    },
+    {
+      "package_id": "edible_wild_plants",
+      "name": "Edible Wild Plants Guide",
+      "description": "Army guide to identifying and using edible wild plants for survival",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:16.282860",
+      "source_pdf": "The_Complete_Guide_to_Edible_Wild_Plants_-_Department_of_the_Army.pdf",
+      "vector_database": {
+        "file": "edible_wild_plants.vdb.npz",
+        "size_bytes": 821176,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "edible_wild_plants_ios.index.json",
+        "size_bytes": 290940,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 149,
+        "embedding_dim": 384,
+        "total_embeddings": 149
+      },
+      "offline_priority": "high",
+      "category": "food_procurement",
+      "tags": [
+        "plants",
+        "foraging",
+        "food",
+        "wild_edibles",
+        "survival",
+        "army"
+      ],
+      "checksum": {
+        "vdb": "f978786a2171d476ac0774399036efbd9020f3002683c803605acba3c4cbcdaf",
+        "index": "7bd2a055655e9cdf5a2843444eb52512e8d5477b68828f34b37c4f113eb8471b"
+      }
+    },
+    {
+      "package_id": "fishing_basics",
+      "name": "Fishing Basics & Techniques",
+      "description": "Essential fishing techniques, knot tying, and equipment guide",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:19.845421",
+      "source_pdf": "fishingguide1.pdf",
+      "vector_database": {
+        "file": "fishing_basics.vdb.npz",
+        "size_bytes": 226858,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "fishing_basics_ios.index.json",
+        "size_bytes": 90385,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 41,
+        "embedding_dim": 384,
+        "total_embeddings": 41
+      },
+      "offline_priority": "high",
+      "category": "food_procurement",
+      "tags": [
+        "fishing",
+        "knots",
+        "survival",
+        "food_procurement"
+      ],
+      "checksum": {
+        "vdb": "4e3ad70f62af145fa8f0958900a2af4d2254b8580e4b0f5fa5c2980e90520664",
+        "index": "feca0caa49a64db86ecf7d4f70b4dc27cbc105f04ae1e451373f112d60e99218"
+      }
+    },
+    {
+      "package_id": "automotive_repair",
+      "name": "Automotive Repair & Maintenance",
+      "description": "Vehicle repair and maintenance guide for emergency situations",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:22.904531",
+      "source_pdf": "Crawfords_Auto_Repair_Guide.pdf",
+      "vector_database": {
+        "file": "automotive_repair.vdb.npz",
+        "size_bytes": 860288,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "automotive_repair_ios.index.json",
+        "size_bytes": 301724,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 156,
+        "embedding_dim": 384,
+        "total_embeddings": 156
+      },
+      "offline_priority": "medium",
+      "category": "technical_skills",
+      "tags": [
+        "automotive",
+        "repair",
+        "maintenance",
+        "vehicle",
+        "technical"
+      ],
+      "checksum": {
+        "vdb": "6b4241ba6c5475e8b329faa66e50fcc3f6e77fdaeffb8417a024be08d1e55965",
+        "index": "83b66729e0f182b36cd3df708a75e5cec297116c99a83e2b1156351aeb67e4a0"
+      }
+    },
+    {
+      "package_id": "combat_skills_training",
+      "name": "Combat Skills Training Manual",
+      "description": "Military field manual for combat skills and tactical training",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:28.662646",
+      "source_pdf": "Fm21-75_15%2884%29.pdf",
+      "vector_database": {
+        "file": "combat_skills_training.vdb.npz",
+        "size_bytes": 1631240,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "combat_skills_training_ios.index.json",
+        "size_bytes": 567747,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 295,
+        "embedding_dim": 384,
+        "total_embeddings": 295
+      },
+      "offline_priority": "medium",
+      "category": "military_tactical",
+      "tags": [
+        "military",
+        "combat",
+        "tactical",
+        "training",
+        "field_manual"
+      ],
+      "checksum": {
+        "vdb": "3c1c322896fe3e70c2a21b28bef95914ffcf5560bab7794b48203198ae05487d",
+        "index": "c922ce8692e6d27658dfa55e25db6bf3d5eb0c8a297e7ed958799e25880f8c91"
+      }
+    },
+    {
+      "package_id": "army_survival_manual",
+      "name": "US Army Survival Manual",
+      "description": "Complete military survival guide covering all environments and situations",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:45.760825",
+      "source_pdf": "FM21-76_SurvivalManual.pdf",
+      "vector_database": {
+        "file": "army_survival_manual.vdb.npz",
+        "size_bytes": 3674068,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "army_survival_manual_ios.index.json",
+        "size_bytes": 1262235,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 664,
+        "embedding_dim": 384,
+        "total_embeddings": 664
+      },
+      "offline_priority": "critical",
+      "category": "comprehensive_survival",
+      "tags": [
+        "military",
+        "survival",
+        "comprehensive",
+        "field_manual",
+        "essential"
+      ],
+      "checksum": {
+        "vdb": "7d045627a0b8e4fe4ff583ccad8bd49e5ecc5e5a503474c67d194c8788741dae",
+        "index": "b705580c42f685d8ca27b4f8c262bb8c193740d87d29d2319d0ba10daf221b39"
+      }
+    },
+    {
+      "package_id": "military_operations",
+      "name": "Military Operations Manual",
+      "description": "Field manual for military operations and procedures",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:24:56.904127",
+      "source_pdf": "fm3-19-17.pdf",
+      "vector_database": {
+        "file": "military_operations.vdb.npz",
+        "size_bytes": 2091980,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "military_operations_ios.index.json",
+        "size_bytes": 736741,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 378,
+        "embedding_dim": 384,
+        "total_embeddings": 378
+      },
+      "offline_priority": "low",
+      "category": "military_tactical",
+      "tags": [
+        "military",
+        "operations",
+        "field_manual",
+        "tactical"
+      ],
+      "checksum": {
+        "vdb": "5596ebcb5c1512996d6e6c103408b43b611944b6a4b64e54a5ec0ad6654ff359",
+        "index": "14c85a5efe87189b551277438ddc560e85fc773670fc02039add48b90b8d3dfc"
+      }
+    },
+    {
+      "package_id": "historical_military_manual",
+      "name": "Historical Military Field Manual",
+      "description": "Vintage military field manual with classic survival techniques",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:25:01.718899",
+      "source_pdf": "fm20_20_1960.pdf",
+      "vector_database": {
+        "file": "historical_military_manual.vdb.npz",
+        "size_bytes": 1231160,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "historical_military_manual_ios.index.json",
+        "size_bytes": 463170,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 223,
+        "embedding_dim": 384,
+        "total_embeddings": 223
+      },
+      "offline_priority": "low",
+      "category": "military_tactical",
+      "tags": [
+        "military",
+        "historical",
+        "vintage",
+        "field_manual"
+      ],
+      "checksum": {
+        "vdb": "65f79e2b7a6eea72b546ccca2624cb8ba01e9b31f1ab5a0dfdbf2db3be1379c4",
+        "index": "5058c6d8fc20d037e1a9a5fd7f3ca4e1e3051cf9905d0e2e3257d4c9cdd6cc22"
+      }
+    },
+    {
+      "package_id": "technical_reference",
+      "name": "Technical Reference Manual",
+      "description": "Technical reference for equipment and procedures",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:25:03.137438",
+      "source_pdf": "WK3-GE-MC3-PVintro.pdf",
+      "vector_database": {
+        "file": "technical_reference.vdb.npz",
+        "size_bytes": 86110,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "technical_reference_ios.index.json",
+        "size_bytes": 34644,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 16,
+        "embedding_dim": 384,
+        "total_embeddings": 16
+      },
+      "offline_priority": "low",
+      "category": "technical_skills",
+      "tags": [
+        "technical",
+        "reference",
+        "equipment",
+        "procedures"
+      ],
+      "checksum": {
+        "vdb": "b06de9047421c5e514e08d16d9858b9ae12d99c74cba6cb6d4d608eedc6902bf",
+        "index": "a158c0043b1ab6859da71e79dd9f3a201712c17880115a9b474572997ea839a8"
+      }
+    },
+    {
+      "package_id": "advanced_battery_care",
+      "name": "Advanced Battery Care & Charging",
+      "description": "Professional battery care, charging, and reconditioning procedures",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:25:04.928346",
+      "source_pdf": "ODYSSEY_Battery_Reconditioning_Charge_Procedure.pdf",
+      "vector_database": {
+        "file": "advanced_battery_care.vdb.npz",
+        "size_bytes": 15612,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "advanced_battery_care_ios.index.json",
+        "size_bytes": 6355,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 3,
+        "embedding_dim": 384,
+        "total_embeddings": 3
+      },
+      "offline_priority": "low",
+      "category": "technical_skills",
+      "tags": [
+        "battery",
+        "charging",
+        "technical",
+        "maintenance",
+        "odyssey"
+      ],
+      "checksum": {
+        "vdb": "e50a90318b6b8adfc5857ed40b43f66adbadd68dd0bb08dd5a894ac4a5da016c",
+        "index": "f8094764999ed2fd46110d8e3b4480cf121f3cc4d7f502e2b6aad56ff7d27a89"
+      }
+    },
+    {
+      "package_id": "beginners_survival_guide",
+      "name": "Beginner's Survival Guide",
+      "description": "Complete beginner's guide to survival skills and techniques",
+      "version": "1.0",
+      "created_date": "2025-06-04T01:25:06.951009",
+      "source_pdf": "Beginner-s-Guide_Ver20_01082020.pdf",
+      "vector_database": {
+        "file": "beginners_survival_guide.vdb.npz",
+        "size_bytes": 226218,
+        "format": "mlx_npz",
+        "compression": "auto"
+      },
+      "ios_index": {
+        "file": "beginners_survival_guide_ios.index.json",
+        "size_bytes": 80631,
+        "format": "json",
+        "optimized_for": "swift_integration"
+      },
+      "embeddings": {
+        "embedding_model": "BAAI/bge-small-en",
+        "chunk_size": 1000,
+        "overlap": 200,
+        "num_chunks": 41,
+        "embedding_dim": 384,
+        "total_embeddings": 41
+      },
+      "offline_priority": "high",
+      "category": "comprehensive_survival",
+      "tags": [
+        "beginner",
+        "survival",
+        "basics",
+        "getting_started",
+        "comprehensive"
+      ],
+      "checksum": {
+        "vdb": "b38a344adff5980f5507fe81e682e624cc099ef259f2acb4f601add9bc069e4b",
+        "index": "8e869865ce01fdfd527e9bf6bf288043c52d6d3de11b9c546347f46a5d9e0713"
+      }
+    }
+  ],
+  "ios_requirements": {
+    "min_ios_version": "14.0",
+    "required_mlx": true,
+    "required_storage_mb": 39.8,
+    "swift_package_manager": true
+  },
+  "download_strategy": {
+    "recommended_order": [
+      "first_aid_medical",
+      "army_survival_manual",
+      "emergency_preparedness",
+      "essential_knots",
+      "survival_evasion_recovery",
+      "edible_wild_plants",
+      "fishing_basics",
+      "beginners_survival_guide",
+      "readiness_checklist",
+      "scout_knots",
+      "battery_maintenance",
+      "advanced_fishing",
+      "automotive_repair",
+      "combat_skills_training",
+      "outdoor_skills_nature",
+      "forest_education",
+      "military_operations",
+      "historical_military_manual",
+      "technical_reference",
+      "advanced_battery_care"
+    ],
+    "bundle_options": {
+      "essential": [
+        "emergency_preparedness",
+        "essential_knots",
+        "first_aid_medical",
+        "survival_evasion_recovery",
+        "edible_wild_plants",
+        "fishing_basics",
+        "army_survival_manual",
+        "beginners_survival_guide"
+      ],
+      "complete": [
+        "emergency_preparedness",
+        "readiness_checklist",
+        "outdoor_skills_nature",
+        "essential_knots",
+        "scout_knots",
+        "first_aid_medical",
+        "battery_maintenance",
+        "survival_evasion_recovery",
+        "forest_education",
+        "advanced_fishing",
+        "edible_wild_plants",
+        "fishing_basics",
+        "automotive_repair",
+        "combat_skills_training",
+        "army_survival_manual",
+        "military_operations",
+        "historical_military_manual",
+        "technical_reference",
+        "advanced_battery_care",
+        "beginners_survival_guide"
+      ]
+    }
+  }
+}

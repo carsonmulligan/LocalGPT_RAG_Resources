@@ -1,2797 +1,3378 @@
 {
   "package_id": "battery_maintenance",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "The Complete Battery Reconditioning Report\n\nby The Battery Geek\n\nCopyright Kevin Dixon Inc. 2006 This ebook is not to be resold or given away or any of the content copied and published in anyway.\n\nTable of Contents\n\nIntroduction Who am I and why am I Qualified Tips to Prolong the Life of NiCd or NiMh Batteries Tips to Prolong the Life of Lithium-based Batteries Investing in a Good Smart Charger Why Batteries Need to be Reconditioned How to Test your Battery with a Voltmeter How to Test your Batteries with a Battery Analyzer How to Recondition a Battery without a Battery Analyzer How to Recondition a Battery with a Battery Analyzer (The Best Way) How to Rejuvenate a Battery How to Revert a Reversed Cell Appendix Glossary of Common Battery Terms\n\nDisclaimer\n\nThis is an informational product only. We are not responsible for any injury or damage that may occur. All procedures in this ebook should be done with a pair of safety goggles and a pair of high voltage gloves. Also, it is very impo",
+      "text": "The Complete Battery Reconditioning Report by The Battery Geek Copyright Kevin Dixon Inc. 2006 This ebook is not to be resold or given away or any of the content copied and published in anyway. Table of Contents Introduction Who am I and why am I Qualified Tips to Prolong the Life of NiCd or NiMh Batteries Tips to Prolong the Life of Lithium-based Batteries Investing in a Good Smart Charger Why Batteries Need to be Reconditioned How to Test your Battery with a Voltmeter How to Test your Batteries with a Battery Analyzer How to Recondition a Battery without a Battery Analyzer How to Recondition a Battery with a Battery Analyzer (The Best Way) How to Rejuvenate a Battery How to Revert a Reversed Cell Appendix Glossary of Common Battery Terms Disclaimer This is an informational product only. We are not responsible for any injury or damage that may occur. All procedures in this ebook should be done with a pair of safety goggles and a pair of high voltage gloves.",
       "keywords": [
-        "complete",
-        "battery",
+        "way",
+        "nimh",
+        "invest",
+        "tip",
+        "glossari",
+        "damag",
+        "analyz",
         "kevin",
-        "dixon",
-        "given",
-        "content",
-        "report",
-        "ebook",
-        "anyway",
-        "published",
-        "geek",
-        "resold",
-        "copied",
+        "inc",
         "2006",
-        "reconditioning",
-        "this",
-        "copyright",
-        "away",
-        "inc"
+        "content",
+        "voltmet",
+        "may",
+        "introduct",
+        "safety",
+        "done",
+        "high",
+        "disclaim",
+        "nicd",
+        "given",
+        "prolong",
+        "recondit",
+        "test",
+        "report",
+        "inform"
       ],
-      "length": 1000,
-      "preview": "The Complete Battery Reconditioning Report\n\nby The Battery Geek\n\nCopyright Kevin Dixon Inc. 2006 Thi..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 972,
+      "preview": "The Complete Battery Reconditioning Report by The Battery Geek Copyright Kevin Dixon Inc. 2006 This ebook is not to be resold or given away or any of ..."
     },
     {
       "chunk_id": 1,
-      "text": "only. We are not responsible for any injury or damage that may occur. All procedures in this ebook should be done with a pair of safety goggles and a pair of high voltage gloves. Also, it is very important that you not wear any jewelry while dealing with batteries.\n\nAlthough these principles can be used with car batteries or any other Lead Acid batteries This ebook does not consider them throughout. Take extra precaution when dealing with them. These batteries must be charged and discharged in a well ventilated area. Use goggles and acid gloves and aprons when handling these types of batteries.\n\nDanger Never connect a battery\u2019s negative terminal to another batteries positive terminal and then also connect the other 2 terminals. An explosion and/or a fire could occur as a result.\n\nNever connect a battery in reverse polarity to any instrument that was not designed to do so.\n\nIntroduction\n\nI have tried to write this informational ebook in a way that anybody can understand. You don't have",
+      "text": "All procedures in this ebook should be done with a pair of safety goggles and a pair of high voltage gloves. Also, it is very important that you not wear any jewelry while dealing with batteries. Although these principles can be used with car batteries or any other Lead Acid batteries This ebook does not consider them throughout. Take extra precaution when dealing with them. These batteries must be charged and discharged in a well ventilated area. Use goggles and acid gloves and aprons when handling these types of batteries. Danger Never connect a batterys negative terminal to another batteries positive terminal and then also connect the other 2 terminals. An explosion andor a fire could occur as a result. Never connect a battery in reverse pola rity to any instrument that was not designed to do so. Introduction I have tried to write this informational ebook in a way that anybody can understand. You dont have to be a geek to understand what Im talking about. Im the geek - not you.",
       "keywords": [
-        "should",
-        "done",
+        "way",
+        "ventil",
+        "write",
+        "fire",
+        "use",
+        "handl",
+        "andor",
         "safety",
-        "also",
-        "ebook",
-        "voltage",
-        "responsible",
-        "procedures",
-        "with",
-        "gloves",
-        "pair",
+        "neg",
         "high",
-        "damage",
-        "injury",
-        "goggles",
+        "anoth",
+        "instrument",
+        "done",
+        "well",
+        "introduct",
+        "never",
+        "tinder",
+        "posit",
         "occur",
-        "that",
-        "this",
-        "only"
+        "also",
+        "jewelri",
+        "inform",
+        "anybodi",
+        "talk",
+        "discharg"
       ],
-      "length": 999,
-      "preview": "only. We are not responsible for any injury or damage that may occur. All procedures in this ebook s..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "fire"
+        ]
+      },
+      "length": 995,
+      "preview": "All procedures in this ebook should be done with a pair of safety goggles and a pair of high voltage gloves. Also, it is very important that you not w..."
     },
     {
       "chunk_id": 2,
-      "text": "nect a battery in reverse polarity to any instrument that was not designed to do so.\n\nIntroduction\n\nI have tried to write this informational ebook in a way that anybody can understand. You don't have to be a geek to understand what I'm talking about. I'm the geek - not you.\n\nI try not to use a term that a non-geek would understand but sometimes this is impossible. So I have provided a Glossary of Common Battery Terms in the Appendix.\n\nSo if you find something confusing, please let me know so that first of all I can explain it so that you understand but also so that I can make the changes and others can understand it as well. Email me for any questions here.\n\nIf you are a geek like me, let me greet you in geek speak \u2013 \u201cLive long and prosper\u201d. I hope that you will find this report useful information. If not, let me know how to improve it by emailing me here.\n\nOK. So now you have bought this report and you are ready to recondition your batteries. Right? That may be correct IF you already",
+      "text": "Im the geek - not you. I try not to use a term that a non-geek would understand but sometimes this is impossible. So I have provided a Glossary of Common Battery Terms in the Appendix. So if you find something confusing, please let me know so that first of all I can explain it so that you understand but also so that I can make the changes and others can understand it as well. Email me for any questions here . If you are a geek like me, let me greet you in geek speak   Live long and prosper . I hope that you will find this report useful information. If not, let me know how to improve it by emailing me here. OK. So now you have bought this report and you are ready to recondition your batteries. Right? That may be correct IF you already have a battery analyzer like the CBAII. However, if you dont have this yet, dont fret. You could possibly get one in have it in 2-6 days if you dont delay and order within 24 hours.",
       "keywords": [
-        "polarity",
-        "that",
-        "designed",
-        "informational",
-        "write",
-        "ebook",
-        "introduction",
-        "this",
-        "reverse",
-        "have",
-        "don't",
-        "anybody",
-        "battery",
-        "understand",
-        "geek",
-        "tried",
-        "nect",
-        "instrument"
+        "would",
+        "sometim",
+        "one",
+        "email",
+        "glossari",
+        "make",
+        "improv",
+        "question",
+        "nongeek",
+        "use",
+        "find",
+        "analyz",
+        "live",
+        "may",
+        "other",
+        "well",
+        "hope",
+        "recondit",
+        "speak",
+        "right",
+        "cbaii",
+        "howev",
+        "delay",
+        "long",
+        "report"
       ],
-      "length": 999,
-      "preview": "nect a battery in reverse polarity to any instrument that was not designed to do so.\n\nIntroduction\n\n..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 925,
+      "preview": "Im the geek - not you. I try not to use a term that a non-geek would understand but sometimes this is impossible. So I have provided a Glossary of Com..."
     },
     {
       "chunk_id": 3,
-      "text": "ormation. If not, let me know how to improve it by emailing me here.\n\nOK. So now you have bought this report and you are ready to recondition your batteries. Right? That may be correct IF you already have a battery analyzer like the CBAII. However, if you don't have this yet, don't fret. You could possibly get one in have it in 2-6 days if you don't delay and order within 24 hours.\n\nI know that I hate it when I buy information like you did here and you find out that there are additional hidden costs in achieving the results that was presented to you. So that is why I told you upfront that the only other thing that you need is a battery analyzer that can be bought for about $120.\n\nWe sell a battery analyzer that is very cost effective and works very well. The Computer Battery Analyzer II or CBAII measures and records a graphical display of your batteries performance on your computer. All you need is a USB port.\n\nIt will test any kind of battery. Test at up to 40 amps, 150 watts or 48 vo",
+      "text": "You could possibly get one in have it in 2-6 days if you dont delay and order within 24 hours. I know that I hate it when I buy information like you did here and you find out that there are additional hidden costs in achieving the results that was presented to you. So that is why I told you upfront that the only other thing that you need is a battery analyzer that can be bought for about 120. We sell a battery analyzer that is very cost effective and works very well. The Computer Battery Analyzer II or CBAII measures and records a graphical display of your batteries performance on your computer. All you need is a USB port. It will test any kind of battery. Test at up to 40 amps, 150 watts or 48 volts, whichever is higher. So if you still need to order one, do it now. You order via our webpage on the internet.",
       "keywords": [
-        "battery",
-        "batteries",
-        "here",
-        "report",
-        "ormation",
-        "have",
-        "already",
-        "not",
-        "correct",
-        "your",
-        "know",
-        "emailing",
-        "that",
-        "ready",
-        "recondition",
-        "this",
-        "bought",
-        "improve",
-        "right"
+        "one",
+        "effect",
+        "perform",
+        "analyz",
+        "find",
+        "buy",
+        "upfront",
+        "well",
+        "measur",
+        "watt",
+        "cost",
+        "addit",
+        "cbaii",
+        "internet",
+        "port",
+        "delay",
+        "test",
+        "hidden",
+        "inform",
+        "hour",
+        "volt",
+        "amp",
+        "higher",
+        "order",
+        "bought"
       ],
-      "length": 1000,
-      "preview": "ormation. If not, let me know how to improve it by emailing me here.\n\nOK. So now you have bought thi..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 820,
+      "preview": "You could possibly get one in have it in 2-6 days if you dont delay and order within 24 hours. I know that I hate it when I buy information like you d..."
     },
     {
       "chunk_id": 4,
-      "text": "CBAII measures and records a graphical display of your batteries performance on your computer. All you need is a USB port.\n\nIt will test any kind of battery. Test at up to 40 amps, 150 watts or 48 volts, whichever is higher.\n\nSo if you still need to order one, do it now. You order via our webpage on the internet. You can read this while you wait:\n\nhttp://www.Battery-Reconditioning.com/CBA.htm (You must be connected to the internet)\n\nSo I am assuming you are alright with this situation and that I won't get any angry customers that didn't know. There is a way to recondition your batteries without a battery analyzer if you can learn how to build a circuit and use a voltmeter.\n\nYou will also be pleasantly surprised that there are all sorts of tips and common things that you can do to help improve the charge capacity of your battery and help you increase the life of your batteries in this ebook as well.\n\nIn addition there are links in various locations throughout this ebook to refer to add",
+      "text": "You order via our webpage on the internet. You can read this while you wait: http:www.Battery-Reconditioning.comCBA.htm (You must be connected to the internet) So I am assuming you are alright with this situation and that I wont get any angry customers that didnt know. There is a way to recondition your batteries without a battery analyzer if you can learn how to build a circuit and use a voltmeter. You will also be pleasantly surprised that there are all sorts of tips and common things that you can do to help improve the charge capacity of your battery and help you increase the life of your batteries in this ebook as well. In addition there are links in various locations throughout this ebook to refer to additional information or to third partys website. You must be conn ected to the internet for these to work. Who am I and why am I Qualified The short answer is - I am an electronic technician with additional experience in the power tool industry.",
       "keywords": [
-        "measures",
-        "performance",
-        "port",
-        "need",
-        "kind",
-        "your",
-        "graphical",
-        "cbaii",
-        "watts",
-        "amps",
-        "test",
-        "battery",
-        "computer",
-        "will",
-        "records",
-        "volts",
-        "batteries",
-        "display"
+        "way",
+        "link",
+        "tip",
+        "read",
+        "improv",
+        "refer",
+        "analyz",
+        "use",
+        "voltmet",
+        "well",
+        "websit",
+        "recondit",
+        "sort",
+        "addit",
+        "internet",
+        "assum",
+        "increas",
+        "power",
+        "conn",
+        "custom",
+        "also",
+        "inform",
+        "locat",
+        "parti",
+        "alright"
       ],
-      "length": 999,
-      "preview": "CBAII measures and records a graphical display of your batteries performance on your computer. All y..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 962,
+      "preview": "You order via our webpage on the internet. You can read this while you wait: http:www.Battery-Reconditioning.comCBA.htm (You must be connected to the ..."
     },
     {
       "chunk_id": 5,
-      "text": "rove the charge capacity of your battery and help you increase the life of your batteries in this ebook as well.\n\nIn addition there are links in various locations throughout this ebook to refer to additional information or to third party\u2019s website. You must be conn ected to the internet for these to work.\n\nWho am I and why am I Qualified\n\nThe short answer is - I am an electronic technician with additional experience in the power tool industry. I received my Associate of Applied Science in Electronics degree in 1989. Since then I have worked at a company that manufactured pacemakers and implantable defibrillators. I worked at NASA and I worked for Texas Instruments. All as an electronic technician.\n\nDuring this time I went a step further and achieved certifications as a Biomedical Electronic Technician and an Industrial Electronic Technician. After 15 years in the industry, I reached the top of my pay grade and worked on starting my own business.\n\nSo I started selling Bosch and Skil Pow",
+      "text": "Who am I and why am I Qualified The short answer is - I am an electronic technician with additional experience in the power tool industry. I received my Associate of Applied Science in Electronics degree in 1989. Since then I have worked at a company that manufactured pacemakers and implantable defibrillators. I worked at N ASA and I worked for Texas Instruments. All as an electronic technician. During this time I went a step further and achieved certifications as a Biomedical Electronic Technician and an Industrial Electronic Technician. After 15 years in the industry, I reached the top of my pay grade and worked on starting my own business. So I started selling Bosch and Skil Power Tools on the internet and I noticed a trend in power tool batteries - its fairly obvious and common to everybody rechargeable batteries dont last forever and they need to be replaced .",
       "keywords": [
-        "links",
-        "various",
-        "capacity",
-        "ebook",
-        "rove",
-        "your",
-        "help",
-        "increase",
-        "life",
-        "this",
-        "well",
-        "there",
-        "addition",
-        "throughout",
-        "battery",
-        "locations",
-        "charge",
-        "batteries"
+        "appli",
+        "scienc",
+        "bosch",
+        "associ",
+        "reach",
+        "degre",
+        "fairli",
+        "instrument",
+        "1989",
+        "top",
+        "trend",
+        "recharg",
+        "replac",
+        "addit",
+        "internet",
+        "forev",
+        "grade",
+        "power",
+        "last",
+        "skil",
+        "defibril",
+        "compani",
+        "manufactur",
+        "short",
+        "start"
       ],
-      "length": 1000,
-      "preview": "rove the charge capacity of your battery and help you increase the life of your batteries in this eb..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "medical"
+        ]
+      },
+      "length": 877,
+      "preview": "Who am I and why am I Qualified The short answer is - I am an electronic technician with additional experience in the power tool industry. I received ..."
     },
     {
       "chunk_id": 6,
-      "text": "c Technician and an Industrial Electronic Technician. After 15 years in the industry, I reached the top of my pay grade and worked on starting my own business.\n\nSo I started selling Bosch and Skil Power Tools on the internet and I noticed a trend in power tool batteries - it's fairly obvious and common to everybody\u2026 rechargeable batteries don't last forever and they need to be replaced.\n\nAlso, another factor contributing to this problem is that batteries are most often THE most expensive component in the power tool. So trying to attack this problem has become my goal.\n\nTips to Prolong the Life of NiCd or NiMh Batteries\n\n(cid:190) Do not leave a nickel-based battery (Ni-Cad & Ni-MH) in a charger for\n\nmore than a day after full charge is reached \u2013 This will result in overcharging and that is bad for your battery\u2019s longevity.\n\n(cid:190) Apply a monthly full discharge cycle. Running the battery down in the\n\nequipment may do this sufficiently -This exercises the battery which helps prevent",
+      "text": "Also, another factor contributing to this problem is that batteries are most often THE most expensive component in the power tool. So trying to attack this problem has become my goal. Tips to Prolong the Life of NiCd or NiMh Batteries \u00be Do not leave a nickel-based battery (Ni-Cad  Ni-MH) in a charger for more than a day after full charge is reached  This will result in overcharging and that is bad for your batterys longevity. \u00be Apply a monthly full discharge cycle. Running the battery down in the equipment may do this sufficiently -This exercises the battery which helps prevent the memory effect. \u00be Do not discharge the battery before each recharge - This would put undue stress on the battery. \u00be Avoid elevated temperature - A charger should only raise the battery temperature for a short time at full charge, and then the battery should cool off - Room temperature is ideal. \u00be Use quality chargers to charge batteries.",
       "keywords": [
-        "after",
-        "grade",
-        "starting",
-        "skil",
-        "internet",
-        "business",
-        "years",
-        "technician",
-        "selling",
-        "electronic",
-        "bosch",
-        "industry",
-        "noticed",
-        "industrial",
-        "started",
-        "tools",
-        "reached",
+        "nickelbas",
+        "appli",
+        "nimh",
+        "bad",
+        "contribut",
+        "tip",
+        "monthli",
+        "reach",
+        "cycl",
+        "effect",
+        "nicad",
+        "use",
+        "anoth",
+        "may",
+        "exercis",
+        "would",
+        "overcharg",
+        "equipment",
+        "recharg",
+        "nicd",
+        "prolong",
+        "temperatur",
         "power",
-        "worked"
+        "compon",
+        "also"
       ],
-      "length": 999,
-      "preview": "c Technician and an Industrial Electronic Technician. After 15 years in the industry, I reached the ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 927,
+      "preview": "Also, another factor contributing to this problem is that batteries are most often THE most expensive component in the power tool. So trying to attack..."
     },
     {
       "chunk_id": 7,
-      "text": "bad for your battery\u2019s longevity.\n\n(cid:190) Apply a monthly full discharge cycle. Running the battery down in the\n\nequipment may do this sufficiently -This exercises the battery which helps prevent the \"memory effect\".\n\n(cid:190) Do not discharge the battery before each recharge - This would put undue\n\nstress on the battery.\n\n(cid:190) Avoid elevated temperature - A charger should only raise the battery\n\ntemperature for a short time at full charge, and then the battery should cool off - Room temperature is ideal.\n\n(cid:190) Use quality chargers to charge batteries.\n\nTips to Prolong the Life of Lithium-based Batteries\n\n(cid:190) Charge the Li-ion often, except before a long storage. Avoid repeated\n\ndeep discharges.\n\n(cid:190) Keep the Li-ion battery cool. Prevent storage in a hot car. Never freeze a\n\nbattery.\n\n(cid:190) If your laptop is capable of running without a battery and fixed power is used most of the time, remove the battery and store it in a cool place.\n\n(cid:190) Avoid purc",
+      "text": "\u00be Use quality chargers to charge batteries. Tips to Prolong the Life of Lithium-based Batteries \u00be Charge the Li-ion often, except before a long storage. Avoid repeated deep discharges. \u00be Keep the Li-ion battery cool. Prevent storage in a hot car. Never freeze a battery. \u00be If your laptop is capable of running without a battery and fixed power is used most of the time, remove the battery and store it in a cool place. \u00be Avoid purchasing spare Li-ion batteries for later use. Observe manufacturing date when purchasing. Do not buy old stock, even if sold at clearance prices. Investing in a Good Smart Charger A smart charger is a charger that can sense when a battery is fully charged and then revert to a trickle charge that keeps the battery topped off. These usually come in charge times of 1 hour and some charge in 30 minutes even in15 minutes. These all have the electronics to sense a fully charged battery. Thats why they cost a little more or alot more depending on your perspective.",
       "keywords": [
-        "equipment",
-        "-this",
-        "sufficiently",
-        "which",
-        "apply",
-        "full",
-        "battery",
-        "discharge",
-        "cycle",
-        "down",
-        "monthly",
-        "battery\u2019s",
-        "helps",
-        "your",
-        "exercises",
-        "this",
-        "longevity",
-        "running",
-        "cid:190"
+        "freez",
+        "invest",
+        "tip",
+        "in15",
+        "store",
+        "depend",
+        "repeat",
+        "laptop",
+        "use",
+        "old",
+        "deep",
+        "storag",
+        "top",
+        "buy",
+        "never",
+        "littl",
+        "cost",
+        "liion",
+        "prolong",
+        "keep",
+        "even",
+        "sold",
+        "that",
+        "sens",
+        "power"
       ],
-      "length": 999,
-      "preview": "bad for your battery\u2019s longevity.\n\n(cid:190) Apply a monthly full discharge cycle. Running the batte..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 993,
+      "preview": "\u00be Use quality chargers to charge batteries. Tips to Prolong the Life of Lithium-based Batteries \u00be Charge the Li-ion often, except before a long storag..."
     },
     {
       "chunk_id": 8,
-      "text": "er freeze a\n\nbattery.\n\n(cid:190) If your laptop is capable of running without a battery and fixed power is used most of the time, remove the battery and store it in a cool place.\n\n(cid:190) Avoid purchasing spare Li-ion batteries for later use. Observe\n\nmanufacturing date when purchasing. Do not buy old stock, even if sold at clearance prices.\n\nInvesting in a Good Smart Charger\n\nA smart charger is a charger that can sense when a battery is fully charged and then revert to a trickle charge that keeps the battery topped off. These usually come in charge times of 1 hour and some charge in 30 minutes even in15 minutes. These all have the electronics to sense a fully charged battery. That's why they cost a little more or alot more depending on your perspective.\n\nA non-smart charger usually has a 3 hour charge time or more. They usually have a lower charge current and therefore, take longer to charge a battery. However, most of these have no way to sense a full battery so that it can revert",
+      "text": "Thats why they cost a little more or alot more depending on your perspective. A non-smart charger usually has a 3 hour charge time or more. They usually have a lower charge current and therefore, take longer to charge a battery. However, most of these have no way to sense a full battery so that it can revert to a trickle charge. So what it does is continue to charge at the same rate when the battery is fully charged. This results in an overcharge condition and can seriously reduce the life of a battery and even damage the battery after an extended time on charger. This is typically evident in batteries whose users like to have the battery sitting on the charger all the time so that when they need it, it will always be fully charged. Unbeknownst to the user, he is slowly reducing the life of the battery and sometimes it doesnt take all that long. Sometimes weeks, sometimes months. A smart charger will make your batteries last longer mainly because it does not overcharge the battery.",
       "keywords": [
-        "laptop",
-        "place",
-        "remove",
-        "cool",
-        "your",
-        "store",
-        "running",
-        "cid:190",
-        "freeze",
-        "power",
-        "battery",
-        "without",
-        "capable",
-        "used",
-        "fixed",
-        "most",
-        "time"
+        "way",
+        "sometim",
+        "make",
+        "depend",
+        "damag",
+        "user",
+        "week",
+        "overcharg",
+        "littl",
+        "cost",
+        "whose",
+        "even",
+        "alway",
+        "that",
+        "sens",
+        "howev",
+        "lower",
+        "doesnt",
+        "last",
+        "trickl",
+        "long",
+        "fulli",
+        "hour",
+        "therefor",
+        "serious"
       ],
-      "length": 999,
-      "preview": "er freeze a\n\nbattery.\n\n(cid:190) If your laptop is capable of running without a battery and fixed po..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 996,
+      "preview": "Thats why they cost a little more or alot more depending on your perspective. A non-smart charger usually has a 3 hour charge time or more. They usual..."
     },
     {
       "chunk_id": 9,
-      "text": "a 3 hour charge time or more. They usually have a lower charge current and therefore, take longer to charge a battery. However, most of these have no way to sense a full battery so that it can revert to a trickle charge. So what it does is continue to charge at the same rate when the battery is fully charged. This results in an overcharge condition and can seriously reduce the life of a battery and even damage the battery after an extended time on charger.\n\nThis is typically evident in batteries whose users like to have the battery sitting on the charger all the time so that when they need it, it will always be fully charged. Unbeknownst to the user, he is slowly reducing the life of the battery and sometimes it doesn't take all that long. Sometimes weeks, sometimes months.\n\nA smart charger will make your batteries last longer mainly because it does not overcharge the battery. These type of chargers would allow one to leave a battery on the charger for when it comes time to use it. How",
+      "text": "A smart charger will make your batteries last longer mainly because it does not overcharge the battery. These type of chargers would allow one to leave a battery on the charger for when it comes time to use it. However, I recommend that you dont do this for days. Letting sit on the charger overnight would be fine. Then store the battery in room temperature, out of sunlight and in a dry place. Notice that all batteries discharge themselves very slowly. This is called the self- discharge rate . Something like how a balloon deflates slowly over time. You will need to recharge it eventually. Also note that battery manufacturers have discovered that charging batteries and storing them at about 40 is the optimum near long term storage capacity. They want, and conversely the consumer wants the optimal battery condition when they receive it. Why Batteries Need to be Reconditioned Rechargeable batteries do NOT last forever. There are only so many times that you can charge and recharge them.",
       "keywords": [
-        "hour",
-        "usually",
-        "take",
-        "therefore",
-        "current",
-        "longer",
-        "have",
-        "lower",
-        "these",
-        "sense",
-        "battery",
-        "more",
-        "most",
-        "charge",
-        "time",
-        "they",
-        "however"
+        "would",
+        "one",
+        "make",
+        "store",
+        "note",
+        "eventu",
+        "use",
+        "sunlight",
+        "smart",
+        "storag",
+        "overcharg",
+        "recharg",
+        "self",
+        "temperatur",
+        "balloon",
+        "optim",
+        "recondit",
+        "forev",
+        "howev",
+        "convers",
+        "dri",
+        "last",
+        "long",
+        "also",
+        "discov"
       ],
-      "length": 1000,
-      "preview": "a 3 hour charge time or more. They usually have a lower charge current and therefore, take longer to..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter"
+        ]
+      },
+      "length": 996,
+      "preview": "A smart charger will make your batteries last longer mainly because it does not overcharge the battery. These type of chargers would allow one to leav..."
     },
     {
       "chunk_id": 10,
-      "text": "r will make your batteries last longer mainly because it does not overcharge the battery. These type of chargers would allow one to leave a battery on the charger for when it comes time to use it. However, I recommend that you don't do this for days. Letting sit on the charger overnight would be fine. Then store the battery in room temperature, out of sunlight and in a dry place.\n\nNotice that all batteries discharge themselves very slowly. This is called the self- discharge rate. Something like how a balloon deflates slowly over time. You will need to recharge it eventually.\n\nAlso note that battery manufacturers have discovered that charging batteries and storing them at about 40% is the optimum near long term storage capacity. They want, and conversely the consumer wants the optimal battery condition when they receive it.\n\nWhy Batteries Need to be Reconditioned\n\nRechargeable batteries do NOT last forever. There are only so many times that you can charge and recharge them. First they s",
+      "text": "There are only so many times that you can charge and recharge them. First they start to lose power and you find that there is less and less usable time that you have before you must charge again. Some people have termed this the memory effect. The term memory basically is described as the battery remembers its usual discharge point and superficially needs a charge whenever it hits that point. In other words, if you have a NiCd that always gets discharged to only 50 of its capacity, it will eventually not run belo w that 50 mark if you ever wanted to discharge it to a lower point. In a new NiCd battery the active cadmium is present in finely divided crystals. The memory effect develops as these crystals grow and reduce the effective surface area of the cadmium. See the figures below. This an example of a new NiCd cell. The cadmium consists of fine grains. The surface area is maximized. This is an example of the cadmium in a NiCd that has developed some large crystals.",
       "keywords": [
-        "mainly",
-        "battery",
-        "will",
-        "longer",
-        "batteries",
-        "would",
-        "these",
-        "make",
-        "your",
-        "overcharge",
-        "charger",
-        "chargers",
-        "does",
-        "leave",
-        "when",
-        "last",
-        "because",
-        "allow",
-        "type"
+        "word",
+        "effect",
+        "activ",
+        "peopl",
+        "mark",
+        "eventu",
+        "grain",
+        "find",
+        "lose",
+        "grow",
+        "basic",
+        "recharg",
+        "nicd",
+        "alway",
+        "power",
+        "lower",
+        "whenev",
+        "exampl",
+        "usabl",
+        "ever",
+        "discharg",
+        "must",
+        "charg",
+        "capac",
+        "start"
       ],
-      "length": 1000,
-      "preview": "r will make your batteries last longer mainly because it does not overcharge the battery. These type..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 981,
+      "preview": "There are only so many times that you can charge and recharge them. First they start to lose power and you find that there is less and less usable tim..."
     },
     {
       "chunk_id": 11,
-      "text": "ry condition when they receive it.\n\nWhy Batteries Need to be Reconditioned\n\nRechargeable batteries do NOT last forever. There are only so many times that you can charge and recharge them. First they start to lose power and you find that there is less and less usable time that you have before you must charge again.\n\nSome people have termed this the memory effect. The term \"memory\" basically is described as the battery \"remembers\" its usual discharge point and superficially \"needs\" a charge whenever it hits that point.\n\nIn other words, if you have a NiCd that always gets discharged to only 50% of its capacity, it will eventually not run below that 50% mark if you ever wanted to discharge it to a lower point.\n\nIn a new NiCd battery the active cadmium is present in finely divided crystals. The memory effect develops as these crystals grow and reduce the effective surface area of the cadmium. See the figures below.\n\nThis an example of a new NiCd cell. The cadmium consists of fine grains. Th",
+      "text": "This is an example of the cadmium in a NiCd that has developed some large crystals. This effectively reduces the surface area of the cadmium and reduces the charge capacity. Pictures courtesy of Isidor Buchmanns  Batteries in a Portable World  This results in voltage depression which leads to a loss in capacity. Advanced crystal formation can lead to sharp edges piercing the separator between the plates and causing a high self discharge rate or an electrical short. Many people who do not know about this effect just throw away the battery because they think it is dead. More than likely, the battery can be revived providing that the battery isnt completely damaged (i.e. from years of memory buildup). Basically rejuvenation and reconditioning of the batteries can break down this crystal formation as long as they are not so ingrained from years of memory buildup. NiMh is also affected by this memory condition but not as pronounced. So these procedures can apply to them as well.",
       "keywords": [
-        "many",
-        "rechargeable",
-        "them",
-        "forever",
-        "there",
-        "batteries",
-        "reconditioned",
-        "times",
-        "recharge",
-        "receive",
-        "they",
-        "need",
-        "charge",
-        "that",
-        "condition",
-        "when",
-        "first",
-        "last",
-        "only"
+        "isidor",
+        "nimh",
+        "effect",
+        "isnt",
+        "appli",
+        "peopl",
+        "damag",
+        "sharp",
+        "buildup",
+        "high",
+        "well",
+        "pictur",
+        "basic",
+        "nicd",
+        "self",
+        "affect",
+        "recondit",
+        "electr",
+        "exampl",
+        "plate",
+        "long",
+        "also",
+        "dead",
+        "loss",
+        "discharg"
       ],
-      "length": 1000,
-      "preview": "ry condition when they receive it.\n\nWhy Batteries Need to be Reconditioned\n\nRechargeable batteries d..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 988,
+      "preview": "This is an example of the cadmium in a NiCd that has developed some large crystals. This effectively reduces the surface area of the cadmium and reduc..."
     },
     {
       "chunk_id": 12,
-      "text": "memory effect develops as these crystals grow and reduce the effective surface area of the cadmium. See the figures below.\n\nThis an example of a new NiCd cell. The cadmium consists of fine grains. The surface area is maximized.\n\nThis is an example of the cadmium in a NiCd that has developed some large crystals. This effectively reduces the surface area of the cadmium and reduces the charge capacity.\n\nPictures courtesy of Isidor Buchmann's \"Batteries in a Portable World\"\n\nThis results in voltage depression which leads to a loss in capacity. Advanced crystal formation can lead to sharp edges piercing the separator between the plates and causing a high self discharge rate or an electrical short.\n\nMany people who do not know about this effect just throw away the battery because they think it is dead. More than likely, the battery can be revived providing that the battery isn't completely damaged (i.e. from years of memory buildup).\n\nBasically rejuvenation and reconditioning of the batteri",
+      "text": "So these procedures can apply to them as well. Lithium and lead based batteries do NOT suffer from the memory effect but plate oxidation on the lithium and sulfation and corrosion on the lead acid systems cause reduced charge capacity as well. Lithium batteries are non correctable but lead acid can be corrected with a combination of electrolyte replacement and reconditioning. Check out the Battery Doctors on how to do this. How to Test your Battery with a Voltmeter The following test is not an absolute test. Measuring voltage can only give you an indication if the battery is bad. For complete testing see How to Test your Batteries with a Battery Analyzer. The bolded words are for emphasis. Make sure that you follow the instructions closely and remember to wear your safety goggles. 1) Find the positive () and negative terminals (-) on your battery. They should be marked somewhere.",
       "keywords": [
-        "effective",
-        "crystals",
-        "cell",
-        "grow",
-        "area",
-        "figures",
-        "nicd",
-        "these",
-        "surface",
-        "below",
-        "develops",
-        "cadmium",
-        "memory",
-        "consists",
-        "fine",
+        "appli",
+        "combin",
         "effect",
-        "reduce",
-        "this",
-        "example"
+        "bad",
+        "word",
+        "make",
+        "instruct",
+        "mark",
+        "somewher",
+        "analyz",
+        "bold",
+        "find",
+        "voltmet",
+        "safety",
+        "neg",
+        "suffer",
+        "sulfat",
+        "well",
+        "measur",
+        "non",
+        "follow",
+        "replac",
+        "recondit",
+        "posit",
+        "lithium"
       ],
-      "length": 999,
-      "preview": "memory effect develops as these crystals grow and reduce the effective surface area of the cadmium. ..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 892,
+      "preview": "So these procedures can apply to them as well. Lithium and lead based batteries do NOT suffer from the memory effect but plate oxidation on the lithiu..."
     },
     {
       "chunk_id": 13,
-      "text": "is dead. More than likely, the battery can be revived providing that the battery isn't completely damaged (i.e. from years of memory buildup).\n\nBasically rejuvenation and reconditioning of the batteries can break down this crystal formation as long as they are not so ingrained from years of memory buildup.\n\nNiMh is also affected by this memory condition but not as pronounced. So these procedures can apply to them as well.\n\nLithium and lead based batteries do NOT suffer from the memory effect but plate oxidation on the lithium and sulfation and corrosion on the lead acid systems cause reduced charge capacity as well.\n\nLithium batteries are non correctable but lead acid can be corrected with a combination of electrolyte replacement and reconditioning. Check out the Battery Doctors on how to do this.\n\nHow to Test your Battery with a Voltmeter\n\nThe following test is not an absolute test. Measuring voltage can only give you an indication if the battery is bad. For complete testing see How t",
+      "text": "They should be marked somewhere. 2) Place your Red Lead () on the positive () battery terminal and the Black Lead on the negative (-) battery terminal. 3) Take a reading on your Battery in question in DC volts. Write down the reading. Refer to this table for an explanation and suggestions: 0 volts This battery is completely dead. It may be rejuvenated. 0 ohms (direct short) All cells in this battery are internally shorted or there is another short with the wiring. It may be rejuvenated by exercise extreme caution as there will be sparks. If its a direct short, nothing can be done other than disassembling the battery and looking for the shorted connections. Otherwise a technician will nee to do this. See Batteries Plus if you need this type of help. Open, infinite ohms (OL) The battery is dead or there is a bad connection somewhere (it could be in the battery). Try the below procedure to see if there is voltage. If not, you can try rejuvenating it.",
       "keywords": [
-        "from",
-        "likely",
-        "battery",
-        "isn't",
-        "rejuvenation",
-        "years",
-        "than",
-        "memory",
-        "buildup",
-        "revived",
-        "damaged",
-        "completely",
-        "i.e",
-        "dead",
-        "reconditioning",
-        "that",
-        "basically",
-        "more",
-        "providing"
+        "bad",
+        "somewher",
+        "read",
+        "mark",
+        "write",
+        "refer",
+        "extrem",
+        "question",
+        "neg",
+        "may",
+        "anoth",
+        "exercis",
+        "done",
+        "otherwis",
+        "red",
+        "look",
+        "caution",
+        "open",
+        "nee",
+        "explan",
+        "posit",
+        "infinit",
+        "volt",
+        "black",
+        "direct"
       ],
-      "length": 1000,
-      "preview": "is dead. More than likely, the battery can be revived providing that the battery isn't completely da..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "fire",
+          "signaling"
+        ]
+      },
+      "length": 961,
+      "preview": "They should be marked somewhere. 2) Place your Red Lead () on the positive () battery terminal and the Black Lead on the negative (-) battery terminal..."
     },
     {
       "chunk_id": 14,
-      "text": "do this.\n\nHow to Test your Battery with a Voltmeter\n\nThe following test is not an absolute test. Measuring voltage can only give you an indication if the battery is bad. For complete testing see How to Test your Batteries with a Battery Analyzer. The bolded words are for emphasis. Make sure that you follow the instructions closely and remember to wear your safety goggles.\n\n1) Find the positive (+) and negative terminals (-) on your battery. They should be marked somewhere.\n\n2) Place your Red Lead (+) on the positive (+) battery terminal and the Black Lead on the negative (-) battery terminal.\n\n3) Take a reading on your Battery in question in DC volts. Write down the reading. Refer to this table for an explanation and suggestions:*\n\n0 volts 0 ohms (direct short)\n\nOpen, infinite ohms (OL)\n\nLess than 1 Volt per Cell*\n\nThis battery is completely dead. It may be rejuvenated. All cells in this battery are internally shorted or there is another short with the wiring. It may be rejuvenated by",
+      "text": "If not, you can try rejuvenating it. Less than 1 Volt per Cell Either the battery has been discharged too far and could have caused damage or one or more individual cells within the battery is internally shorted or reversed. Try measuring the batterys capacity first. Then the rejuvenation procedure. Note : See the Nominal voltage table in the appendix. 4) Place battery in A KNOWN GOOD CHARGER for 3 to 5 minutes. 5) Take another reading on the battery, IF it is NOT up to the nominal voltage of the battery, at least one of the cells or more are INTERNALLY SHORTED. It will melt down a charger without current protection. Perform a battery rejuvenation on this battery. Example : An 18.0 volt power tool battery reads 10.5. After 4 minutes of charging on a GOOD Charger, it now reads 11.6. THIS BATTERY IS BAD (It will burn up a charger with no current protection). Same battery after 4 minutes on charger, reads 18.0 volts. This battery is good. Charge it and test the capacity of the battery.",
       "keywords": [
-        "voltage",
-        "indication",
-        "voltmeter",
-        "this",
-        "your",
-        "complete",
-        "absolute",
-        "only",
-        "test",
+        "one",
         "bad",
-        "testing",
-        "battery",
-        "with",
-        "following",
-        "give",
-        "measuring"
+        "read",
+        "note",
+        "damag",
+        "least",
+        "perform",
+        "per",
+        "anoth",
+        "measur",
+        "individu",
+        "180",
+        "nomin",
+        "power",
+        "test",
+        "exampl",
+        "116",
+        "volt",
+        "tabl",
+        "discharg",
+        "rejuven",
+        "short",
+        "revers",
+        "charg",
+        "intern"
       ],
-      "length": 999,
-      "preview": "do this.\n\nHow to Test your Battery with a Voltmeter\n\nThe following test is not an absolute test. Mea..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter"
+        ]
+      },
+      "length": 997,
+      "preview": "If not, you can try rejuvenating it. Less than 1 Volt per Cell Either the battery has been discharged too far and could have caused damage or one or m..."
     },
     {
       "chunk_id": 15,
-      "text": "ess than 1 Volt per Cell*\n\nThis battery is completely dead. It may be rejuvenated. All cells in this battery are internally shorted or there is another short with the wiring. It may be rejuvenated by exercise extreme caution as there will be sparks. If it\u2019s a direct short, nothing can be done other than disassembling the battery and looking for the shorted connections. Otherwise a technician will nee to do this. See Batteries Plus if you need this type of help. The battery is dead or there is a bad connection somewhere (it could be in the battery). Try the below procedure to see if there is voltage. If not, you can try rejuvenating it. Either the battery has been discharged too far and could have caused damage or one or more individual cells within the battery is internally shorted or reversed. Try measuring the battery\u2019s capacity first. Then the rejuvenation procedure.\n\nNote: See the Nominal voltage table in the appendix.\n\n4) Place battery in A KNOWN GOOD CHARGER for 3 to 5 minutes.",
+      "text": "Charge it and test the capacity of the battery. How to Test your Batteries with a Battery Analyzer Make sure that your battery is fully charged before you start this test. If it is not, you will not receive a good measurement of its capacity. 1) First you must install the software that comes with CBAII. Follow the instructions that comes with it. 2) Next you need a set of leads to connect the battery analyzer to the battery to be tested. I used a 1 foot section of speaker wire and attached to sets of color coded alligator clips obtained from Radio Shack. Caution : Use at least a 16 gauge wire - wire too thin can get very hot and even melt. 3) Color code the alligator clips so that you dont cross the wires. 4) Double check this by checking the co ntinuity of each color coded alligator clip. You will need to solder the wire to each alligator clip. However, you may be able to crimp them together.",
       "keywords": [
-        "another",
-        "cells",
-        "shorted",
-        "short",
-        "wiring",
-        "exercise",
-        "completely",
-        "this",
-        "than",
-        "cell*",
-        "there",
-        "volt",
-        "battery",
-        "internally",
-        "with",
-        "dead",
-        "rejuvenated"
+        "check",
+        "make",
+        "instruct",
+        "next",
+        "set",
+        "gaug",
+        "togeth",
+        "least",
+        "solder",
+        "analyz",
+        "use",
+        "clip",
+        "may",
+        "section",
+        "measur",
+        "follow",
+        "caution",
+        "even",
+        "cbaii",
+        "howev",
+        "speaker",
+        "test",
+        "fulli",
+        "thin",
+        "abl"
       ],
-      "length": 998,
-      "preview": "ess than 1 Volt per Cell*\n\nThis battery is completely dead. It may be rejuvenated. All cells in this..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 906,
+      "preview": "Charge it and test the capacity of the battery. How to Test your Batteries with a Battery Analyzer Make sure that your battery is fully charged before..."
     },
     {
       "chunk_id": 16,
-      "text": "rsed. Try measuring the battery\u2019s capacity first. Then the rejuvenation procedure.\n\nNote: See the Nominal voltage table in the appendix.\n\n4) Place battery in A KNOWN GOOD CHARGER for 3 to 5 minutes.\n\n5) Take another reading on the battery, IF it is NOT up to the nominal voltage of the battery, at least one of the cells or more are INTERNALLY SHORTED. It will melt down a charger without current protection. Perform a battery rejuvenation on this battery.\n\nExample: An 18.0 volt power tool battery reads 10.5. After 4 minutes of charging on a GOOD Charger, it now reads 11.6. THIS BATTERY IS BAD (It will burn up a charger with no current protection).\n\nSame battery after 4 minutes on charger, reads 18.0 volts. This battery is good. Charge it and test the capacity of the battery.\n\nHow to Test your Batteries with a Battery Analyzer\n\nMake sure that your battery is fully charged before you start this test. If it is not, you will not receive a good measurement of it's capacity.\n\n1) First you must",
+      "text": "However, you may be able to crimp them together. 5) Connect the Red Lead of the CBAII to the positive () terminal of the battery via the jumper wire. Double check yourself always. 6) Now connect the Black Lead from the CBAII to the negative (-) terminal of the battery via the jumper wire. 7) Give the test a name to save it by. I like to label my batteries and name the tests accordingly so that I never get confused as to which one is which. 8) Select the Battery Type: Lead Acid, NiCd, NiMh, Li-ion, etc. This should be marked on your battery somewhere if you dont know. 9) Select the Capacity of the battery in Amp Hours (ah). If you dont, it may be marked on the battery. If not you may have research this a little. You will not know what percentage of capacity that the battery is at if you dont know what the full capacity is. 10) Now skip the voltage field and type in how many cells are in this battery. You can calculate this by referring to the Nominal Voltage Table in the appendix.",
       "keywords": [
-        "place",
-        "capacity",
-        "battery",
-        "rejuvenation",
-        "table",
-        "measuring",
-        "rsed",
-        "take",
-        "nominal",
-        "voltage",
-        "procedure",
-        "good",
-        "battery\u2019s",
-        "known",
-        "charger",
-        "appendix",
-        "first",
-        "minutes",
-        "note:",
-        "then"
+        "one",
+        "nimh",
+        "togeth",
+        "somewher",
+        "refer",
+        "mark",
+        "save",
+        "neg",
+        "may",
+        "never",
+        "red",
+        "nicd",
+        "alway",
+        "liion",
+        "littl",
+        "cbaii",
+        "nomin",
+        "posit",
+        "howev",
+        "test",
+        "abl",
+        "hour",
+        "black",
+        "amp",
+        "tabl"
       ],
-      "length": 999,
-      "preview": "rsed. Try measuring the battery\u2019s capacity first. Then the rejuvenation procedure.\n\nNote: See the No..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 994,
+      "preview": "However, you may be able to crimp them together. 5) Connect the Red Lead of the CBAII to the positive () terminal of the battery via the jumper wire. ..."
     },
     {
       "chunk_id": 17,
-      "text": "Batteries with a Battery Analyzer\n\nMake sure that your battery is fully charged before you start this test. If it is not, you will not receive a good measurement of it's capacity.\n\n1) First you must install the software that comes with CBAII. Follow the instructions that comes with it.\n\n2) Next you need a set of leads to connect the battery analyzer to the battery to be tested.\n\nI used a 1 foot section of speaker wire and attached to sets of color coded alligator clips obtained from Radio Shack.\n\nCaution: Use at least a 16 gauge wire - wire too thin can get very hot and even melt.\n\n3) Color code the alligator clips so that you don't cross the wires.\n\n4) Double check this by checking the continuity of each color coded alligator clip. You will need to solder the wire to each alligator clip. However, you may be able to crimp them together.\n\n5) Connect the Red Lead of the CBAII to the positive (+) terminal of the battery via the jumper wire. Double check yourself always.\n\n6) Now connect t",
+      "text": "You can calculate this by referring to the Nominal Voltage Table in the appendix. Example : The Nominal Voltage Table tells you that there are 1.2 volts per cell in a NiCd battery and you know that you have a 12 volt battery. Divide 12 by 1.2 and you have 10 cells. (Cells  Nominal Voltage  Volts per cell). 11) Type this number in the Cells field. 12) Test Amps will be set by default to whatever the Capacity is. Leave this alone for now  this is what you want to test at. 13) The Test Cutoff V is set to 0.9 volts per cell. This is the voltage that the test will cut off at. Leave this at 0.9 volts per cell for the test. 14) You will notice that the Voltage field on the right hand side of the window is reading the actual voltage of the battery. 15) If this is already below the Cutoff Voltage. The test can not run as it is already below the cutoff. If this is the case, try rejuvenating the battery and charge it again. Other wise you wont be able to test it.",
       "keywords": [
-        "sure",
-        "battery",
-        "will",
-        "batteries",
-        "before",
-        "charged",
+        "set",
+        "refer",
+        "read",
+        "tell",
+        "per",
+        "number",
+        "default",
+        "nicd",
+        "wise",
+        "right",
+        "nomin",
+        "actual",
         "test",
-        "not",
-        "with",
-        "receive",
-        "start",
-        "make",
-        "your",
-        "measurement",
-        "that",
-        "this",
-        "fully",
-        "analyzer",
-        "good"
+        "exampl",
+        "abl",
+        "volt",
+        "cutoff",
+        "amp",
+        "tabl",
+        "rejuven",
+        "case",
+        "whatev",
+        "charg",
+        "type",
+        "capac"
       ],
-      "length": 999,
-      "preview": "Batteries with a Battery Analyzer\n\nMake sure that your battery is fully charged before you start thi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 966,
+      "preview": "You can calculate this by referring to the Nominal Voltage Table in the appendix. Example : The Nominal Voltage Table tells you that there are 1.2 vol..."
     },
     {
       "chunk_id": 18,
-      "text": "However, you may be able to crimp them together.\n\n5) Connect the Red Lead of the CBAII to the positive (+) terminal of the battery via the jumper wire. Double check yourself always.\n\n6) Now connect the Black Lead from the CBAII to the negative (-) terminal of the battery via the jumper wire.\n\n7) Give the test a name to save it by. I like to label my batteries and name the tests accordingly so that I never get confused as to which one is which.\n\n8) Select the Battery Type: Lead Acid, NiCd, NiMh, Li-ion, etc. This should be marked on your battery somewhere if you don't know.\n\n9) Select the Capacity of the battery in Amp Hours (ah). If you don't, it may be marked on the battery. If not you may have research this a little.\n\nYou will not know what percentage of capacity that the battery is at if you don't know what the full capacity is.\n\n10) Now skip the voltage field and type in how many cells are in this battery. You can calculate this by referring to the Nominal Voltage Table in the app",
+      "text": "Other wise you wont be able to test it. 16) Now press the Start button and the CBAII will do the rest. When it says that it is done, just save the file. 17) The capacity of the tested battery in the graph below is 1.70 Amp Hours. Where the test ends, read the Amp Hours on horizontal scale. 18) Your test should look like this with a graph of Voltage against Amp Hours. 19) You can calculate the batterys measured capacity in percentage by dividing the measured Amp Hours by the batterys full capacity in Amp hours. 20) If it is within 5 of the batterys full capacity, it is practically as good as new. Do nothing more with this battery. If it is anywhere between 50 to 95 you may improve it by reconditioning it. If it less than 20 you may try to rejuvenate it and then recondition it. Note : Ive seen one battery that was completely dead turn around and put out 100 after rejuvenating and reconditioning. On the other hand Ive seen some that get worse. Its really a case by case situation.",
       "keywords": [
-        "double",
-        "always",
-        "them",
-        "able",
-        "connect",
-        "lead",
-        "together",
+        "one",
+        "100",
+        "read",
+        "improv",
+        "save",
+        "horizont",
+        "note",
+        "practic",
+        "may",
+        "seen",
+        "done",
+        "measur",
+        "press",
+        "look",
+        "scale",
+        "wise",
+        "recondit",
+        "realli",
         "cbaii",
-        "jumper",
-        "black",
-        "wire",
-        "positive",
-        "terminal",
-        "battery",
-        "crimp",
-        "check",
-        "yourself",
-        "however"
+        "test",
+        "button",
+        "abl",
+        "hour",
+        "amp",
+        "end"
       ],
-      "length": 999,
-      "preview": "However, you may be able to crimp them together.\n\n5) Connect the Red Lead of the CBAII to the positi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 991,
+      "preview": "Other wise you wont be able to test it. 16) Now press the Start button and the CBAII will do the rest. When it says that it is done, just save the fil..."
     },
     {
       "chunk_id": 19,
-      "text": "if you don't know what the full capacity is.\n\n10) Now skip the voltage field and type in how many cells are in this battery. You can calculate this by referring to the Nominal Voltage Table in the appendix.\n\nExample: The Nominal Voltage Table tells you that there are 1.2 volts per cell in a NiCd battery and you know that you have a 12 volt battery.\n\nDivide 12 by 1.2 and you have 10 cells. (Cells = Nominal Voltage / Volts per cell).\n\n11) Type this number in the Cells field.\n\n12) Test Amps will be set by default to whatever the Capacity is. Leave this alone for now \u2013 this is what you want to test at.\n\n13) The Test Cutoff V is set to 0.9 volts per cell. This is the voltage that the test will cut off at. Leave this at 0.9 volts per cell for the test.\n\n14) You will notice that the Voltage field on the right hand side of the window is reading the actual voltage of the battery.\n\n15) If this is already below the Cutoff Voltage. The test can not run as it is already below the cutoff. If this is",
+      "text": "Its really a case by case situation. How to Recondition a Battery without a Battery Analyzer There is a couple of ways to recondition your battery without using a battery analyzer. One is the Super Easy way but it is not as effective as the little more detailed way. The Super Easy Way (aka. Exercising the battery) This may sound dumb to you because it is so simple but you would be amazed at how many people dont know this. And it can revert a battery that has built up some memory. 1) Discharge your battery by running it through normal operation until it either shuts off or does not operate any longer. For example when your cell phone shuts off by itself or run your drill until it doesnt turn anymore. Note : On a power tool or a battery that is used in a high current application let the drill turn without a load (nothing to impede the turning of the chuck) when you are near the end of the discharge. 2) Then fully charge the battery.",
       "keywords": [
-        "many",
-        "cells",
-        "capacity",
-        "voltage",
-        "nominal",
-        "field",
-        "this",
-        "don't",
-        "full",
-        "what",
-        "appendix",
-        "battery",
-        "referring",
-        "calculate",
-        "know",
-        "skip",
-        "table",
-        "type"
+        "way",
+        "one",
+        "would",
+        "effect",
+        "load",
+        "peopl",
+        "anymor",
+        "drill",
+        "note",
+        "analyz",
+        "use",
+        "chuck",
+        "dumb",
+        "exercis",
+        "may",
+        "high",
+        "imped",
+        "coupl",
+        "littl",
+        "normal",
+        "realli",
+        "recondit",
+        "phone",
+        "applic",
+        "aka"
       ],
-      "length": 1000,
-      "preview": "if you don't know what the full capacity is.\n\n10) Now skip the voltage field and type in how many ce..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 944,
+      "preview": "Its really a case by case situation. How to Recondition a Battery without a Battery Analyzer There is a couple of ways to recondition your battery wit..."
     },
     {
       "chunk_id": 20,
-      "text": "on the right hand side of the window is reading the actual voltage of the battery.\n\n15) If this is already below the Cutoff Voltage. The test can not run as it is already below the cutoff. If this is the case, try rejuvenating the battery and charge it again. Other wise you won't be able to test it.\n\n16) Now press the Start button and the CBAII will do the rest. When it says that it is done, just save the file.\n\n17) The capacity of the tested battery in the graph below is 1.70 Amp Hours. Where the test ends, read the Amp Hours on horizontal scale.\n\n18) Your test should look like this with a graph of Voltage against Amp Hours.\n\n19) You can calculate the battery's measured capacity in percentage by dividing the measured Amp Hours by the battery's full capacity in Amp hours.\n\n20) If it is within 5% of the battery's full capacity, it is practically as good as new. Do nothing more with this battery.\n\nIf it is anywhere between 50% to 95% you may improve it by reconditioning it. If it less t",
+      "text": "2) Then fully charge the battery. 3) You may need to repeat this procedure one or 2 times if you dont notice any difference. Note : You dont want to do this every time because it would cause too much strain on the battery. After you initially notice some improvement from doing the above procedure then do this about once a month to maintain the battery. How to Recondition without a Battery Analyzer (not so simple) 1) You will need a volt meter to measure the voltage of the battery. Then you will need to discharge the battery from normal operation. This may be running the drill until it stops or keeping the cell phone on until it shuts off. 2) Next you will need to calculate the reconditioning current. The current needs to be low so that you can bring down the voltage of the battery to 0.6 volts per cell without damaging the battery. Reconditioning Current  ah  10 Where ah is the amp hour rating of the battery. For example, 2 ah will provide 2 amps of current for one hour.",
       "keywords": [
-        "hand",
-        "side",
-        "voltage",
-        "case",
-        "actual",
-        "this",
-        "cutoff",
-        "already",
-        "test",
-        "rejuvenating",
-        "battery",
-        "window",
-        "below",
-        "reading",
-        "right"
+        "would",
+        "one",
+        "note",
+        "improv",
+        "repeat",
+        "drill",
+        "next",
+        "damag",
+        "analyz",
+        "maintain",
+        "per",
+        "differ",
+        "may",
+        "bring",
+        "measur",
+        "stop",
+        "normal",
+        "keep",
+        "recondit",
+        "phone",
+        "much",
+        "exampl",
+        "fulli",
+        "volt",
+        "hour"
       ],
-      "length": 999,
-      "preview": "on the right hand side of the window is reading the actual voltage of the battery.\n\n15) If this is a..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 985,
+      "preview": "2) Then fully charge the battery. 3) You may need to repeat this procedure one or 2 times if you dont notice any difference. Note : You dont want to d..."
     },
     {
       "chunk_id": 21,
-      "text": "thin 5% of the battery's full capacity, it is practically as good as new. Do nothing more with this battery.\n\nIf it is anywhere between 50% to 95% you may improve it by reconditioning it. If it less than 20% you may try to rejuvenate it and then recondition it.\n\nNote: I've seen one battery that was completely dead turn around and put out 100% after rejuvenating and reconditioning. On the other hand I've seen some that get worse. It's really a case by case situation.\n\nHow to Recondition a Battery without a Battery Analyzer\n\nThere is a couple of ways to recondition your battery without using a battery analyzer. One is the Super Easy way but it is not as effective as the little more detailed way.\n\nThe Super Easy Way (aka. Exercising the battery)\n\nThis may sound dumb to you because it is so simple but you would be amazed at how many people don't know this. And it can revert a battery that has built up some memory.\n\n1) Discharge your battery by running it through normal operation until it e",
+      "text": "For example, 2 ah will provide 2 amps of current for one hour. Conversely, it will provide 1 amp for 2 hours. 3) Calculate the resistance that you will need to discharge the battery: Resistance  V  Reconditioning Current This is the resistance that you will need to do the reconditioning. 4) Now you need to find a resistor or a combination of resistors that will equal this resistance. If you err, error on the higher resistance side. This will cause a slightly lower current which is safer. When dealing with DC voltage connecting resistors in series adds their resistance but you put them in parallel you will need this formula (See diagram below). 5) You must also consider the power in watts when selecting resistors. Calculate power with this formula: Power  Voltage  Reconditioning Current This can vary greatly depending on how big the battery. From 14 watt for a cell phone battery to 10 watts for a large power tool battery. Its better to overestimate here.",
       "keywords": [
-        "rejuvenate",
-        "capacity",
-        "nothing",
-        "thin",
-        "full",
-        "battery",
-        "less",
-        "than",
-        "new",
-        "good",
-        "with",
-        "anywhere",
-        "practically",
-        "battery's",
-        "reconditioning",
-        "this",
-        "improve",
-        "more",
-        "between",
-        "then"
+        "one",
+        "combin",
+        "depend",
+        "greatli",
+        "find",
+        "vari",
+        "watt",
+        "equal",
+        "parallel",
+        "recondit",
+        "phone",
+        "safer",
+        "convers",
+        "lower",
+        "power",
+        "exampl",
+        "err",
+        "hour",
+        "also",
+        "amp",
+        "higher",
+        "discharg",
+        "add",
+        "connect",
+        "must"
       ],
-      "length": 1000,
-      "preview": "thin 5% of the battery's full capacity, it is practically as good as new. Do nothing more with this ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 967,
+      "preview": "For example, 2 ah will provide 2 amps of current for one hour. Conversely, it will provide 1 amp for 2 hours. 3) Calculate the resistance that you wil..."
     },
     {
       "chunk_id": 22,
-      "text": "mple but you would be amazed at how many people don't know this. And it can revert a battery that has built up some memory.\n\n1) Discharge your battery by running it through normal operation until it either shuts off or does not operate any longer. For example when your cell phone shuts off by itself or run your drill until it doesn't turn anymore.*\n\nNote: On a power tool or a battery that is used in a high current application let the drill turn without a load (nothing to impede the turning of the chuck) when you are near the end of the discharge.\n\n2) Then fully charge the battery.\n\n3) You may need to repeat this procedure one or 2 times if you don't notice any difference.*\n\nNote: You don't want to do this every time because it would cause too much strain on the battery. After you initially notice some improvement from doing the above procedure then do this about once a month to maintain the battery.\n\nHow to Recondition without a Battery Analyzer (not so simple)\n\n1) You will need a volt",
+      "text": "Its better to overestimate here. Also, if you are connecting resistors in parallel, you can add the wattages. Caution : These resistors may get hot during reconditioning. 6) This typically takes 3 to 4 hours to complete. However, depending on the condition of the battery, differences in time may be more dramatic. Caution : You must monitor that battery voltage carefully, dont leave it unattended as this can result in permanently damaging your battery. You do NOT want to go below 0.6 volts per cell. 7) When you reach 0.6 volts per cell stop the test. Note : I have indicated 0.6 volts per cell here. In reconditioning with the Battery Analyzer, I say 0.4 volts. This is to allow for any human error. If you were to leave it unattended even for a few seconds and it went below 0.4 volts per cell you could be permanently damaging the battery. How to Recondition a Battery with a Battery Analyzer (The Best Way) 1) First make sure that your battery is discharged to about 1 volt per cell.",
       "keywords": [
-        "many",
-        "some",
-        "battery",
-        "discharge",
-        "would",
-        "built",
-        "revert",
-        "memory",
-        "amazed",
-        "mple",
-        "your",
-        "people",
-        "know",
-        "through",
-        "that",
-        "this",
-        "running",
-        "don't",
-        "normal"
+        "human",
+        "way",
+        "make",
+        "depend",
+        "note",
+        "reach",
+        "damag",
+        "analyz",
+        "per",
+        "differ",
+        "may",
+        "parallel",
+        "stop",
+        "unattend",
+        "caution",
+        "even",
+        "recondit",
+        "sure",
+        "howev",
+        "test",
+        "also",
+        "hour",
+        "volt",
+        "indic",
+        "discharg"
       ],
-      "length": 1000,
-      "preview": "mple but you would be amazed at how many people don't know this. And it can revert a battery that ha..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 991,
+      "preview": "Its better to overestimate here. Also, if you are connecting resistors in parallel, you can add the wattages. Caution : These resistors may get hot du..."
     },
     {
       "chunk_id": 23,
-      "text": "notice some improvement from doing the above procedure then do this about once a month to maintain the battery.\n\nHow to Recondition without a Battery Analyzer (not so simple)\n\n1) You will need a volt meter to measure the voltage of the battery. Then you will need to discharge the battery from normal operation. This may be running the drill until it stops or keeping the cell phone on until it shuts off.\n\n2) Next you will need to calculate the reconditioning current. The current needs to be low so that you can bring down the voltage of the battery to 0.6 volts per cell without damaging the battery.\n\nReconditioning Current = ah / 10\n\nWhere ah is the amp hour rating of the battery. For example, 2 ah will provide 2 amps of current for one hour. Conversely, it will provide 1 amp for 2 hours.\n\n3) Calculate the resistance that you will need to discharge the battery:\n\nResistance = V / Reconditioning Current\n\nThis is the resistance that you will need to do the reconditioning.\n\n4) Now you need t",
+      "text": "How to Recondition a Battery with a Battery Analyzer (The Best Way) 1) First make sure that your battery is discharged to about 1 volt per cell. You can recondition the battery right after you just tested it because then it is discharged. 2) If you just tested the batterys capacity you can skip steps 3 thru 9 here. 3) Next you need a set of leads to connect the battery analyzer to the battery to be tested. I used a 1 foot section of speaker wire and attached to sets of color coded alligator clips obtained from Radio Shack. Caution : Use at least a 16 gauge wire - wire too thin can get very hot and even melt. 4) Color code the alligator clips so that you dont cross the wires. 5) Double check this by checking the co ntinuity of each color coded alligator clip. You will need to solder the wire to each alligator clip. However, you may be able to crimp them together. 6) Connect the Red Lead of the CBAII to the positive () terminal of the battery via the jumper wire.",
       "keywords": [
-        "from",
-        "some",
-        "about",
-        "battery",
-        "once",
-        "procedure",
-        "maintain",
-        "not",
-        "notice",
-        "simple",
-        "above",
-        "month",
-        "recondition",
-        "this",
-        "without",
-        "doing",
-        "analyzer",
-        "then",
-        "improvement"
+        "way",
+        "togeth",
+        "make",
+        "set",
+        "next",
+        "gaug",
+        "least",
+        "solder",
+        "analyz",
+        "per",
+        "use",
+        "clip",
+        "may",
+        "red",
+        "caution",
+        "even",
+        "recondit",
+        "right",
+        "cbaii",
+        "posit",
+        "howev",
+        "speaker",
+        "test",
+        "thin",
+        "volt"
       ],
-      "length": 999,
-      "preview": "notice some improvement from doing the above procedure then do this about once a month to maintain t..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 975,
+      "preview": "How to Recondition a Battery with a Battery Analyzer (The Best Way) 1) First make sure that your battery is discharged to about 1 volt per cell. You c..."
     },
     {
       "chunk_id": 24,
-      "text": ") Calculate the resistance that you will need to discharge the battery:\n\nResistance = V / Reconditioning Current\n\nThis is the resistance that you will need to do the reconditioning.\n\n4) Now you need to find a resistor or a combination of resistors that will equal this resistance. If you err, error on the higher resistance side. This will cause a slightly lower current which is safer.\n\nWhen dealing with DC voltage connecting resistors in series adds their resistance but you put them in parallel you will need this formula (See diagram below).\n\n5) You must also consider the power in watts when selecting resistors. Calculate power with this formula:\n\nPower = Voltage * Reconditioning Current\n\nThis can vary greatly depending on how big the battery. From 1/4 watt for a cell phone battery to 10 watts for a large power tool battery. It's better to overestimate here.\n\nAlso, if you are connecting resistors in parallel, you can add the wattages.\n\nCaution: These resistors may get hot during recondi",
+      "text": "6) Connect the Red Lead of the CBAII to the positive () terminal of the battery via the jumper wire. Double check yourself always. 7) Now connect the Black Lead from the CBAII to the negative (-) terminal of the battery via the jumper wire. 8) Give the test a name to save it by. This time identify the battery label and as a reconditioning cycle. I usually put in Recon somewhere in the name. 9) Select the Battery Type: Lead Acid, NiCd, NiMh, Li-ion, etc. This should be the same as in How to Test your Batteries with a Battery Analyzer above. 10) Select the Capacity of the battery in Amp Hours (ah). This should be the same as in How to Test your Batteries with a Battery Analyzer above. 11) Now skip the voltage field and type in how many cells are in this battery. This should be the same as in How to Test your Batteries with a Battery Analyzer above. 12) Set the Test Amps to 110th to 120th of the batteries Rated Amp Hour Capacity of the battery. Example : for a 12 volt, 1 Amp Hour battery.",
       "keywords": [
-        "discharge",
-        "that",
-        "need",
-        "find",
-        "current",
-        "this",
-        "combination",
-        "resistor",
-        "resistance",
-        "will",
-        "calculate",
-        "reconditioning",
-        "battery:"
+        "cycl",
+        "nimh",
+        "somewher",
+        "set",
+        "save",
+        "analyz",
+        "neg",
+        "red",
+        "nicd",
+        "alway",
+        "liion",
+        "recondit",
+        "cbaii",
+        "posit",
+        "test",
+        "exampl",
+        "identifi",
+        "recon",
+        "hour",
+        "black",
+        "volt",
+        "amp",
+        "acid",
+        "type",
+        "capac"
       ],
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
       "length": 1000,
-      "preview": ") Calculate the resistance that you will need to discharge the battery:\n\nResistance = V / Reconditio..."
+      "preview": "6) Connect the Red Lead of the CBAII to the positive () terminal of the battery via the jumper wire. Double check yourself always. 7) Now connect the ..."
     },
     {
       "chunk_id": 25,
-      "text": "tts for a large power tool battery. It's better to overestimate here.\n\nAlso, if you are connecting resistors in parallel, you can add the wattages.\n\nCaution: These resistors may get hot during reconditioning.\n\n6) This typically takes 3 to 4 hours to complete. However, depending on the condition of the battery, differences in time may be more dramatic.\n\nCaution: You must monitor that battery voltage carefully, don't leave it unattended as this can result in permanently damaging your battery. You do NOT want to go below 0.6 volts per cell.\n\n7) When you reach 0.6 volts per cell stop the test.*\n\nNote: I have indicated 0.6 volts per cell here. In reconditioning with the Battery Analyzer, I say 0.4 volts. This is to allow for any human error. If you were to leave it unattended even for a few seconds and it went below 0.4 volts per cell you could be permanently damaging the battery.\n\nHow to Recondition a Battery with a Battery Analyzer (The Best Way)\n\n1) First make sure that your battery is d",
+      "text": "Example : for a 12 volt, 1 Amp Hour battery. Divide the Rated Amp Hour Capacity by 10. Or for an extra measure of safety (for the battery) and maybe a little more deeper reconditioning divide by 20. 13) Set the Test Cutoff V to 0.4 volts per cell. This is the voltage that the test will cut off at. For example, multiply 0.4 times the number of cells in the battery. 14) Now press the Start button and the CBAII will do the rest. When it says that it is done, just save the file. 15) The Amp Hour reading really is not relevant at this point but you have just performed a reconditioning cycle on your battery. It should look something like this depending on the Nominal Voltage of the battery. This was for a 14.4 volt battery. 16) Now charge the battery to a full charge and test the batterys capacity again.",
       "keywords": [
-        "typically",
-        "battery",
-        "tool",
-        "parallel",
-        "also",
-        "here",
-        "better",
-        "connecting",
-        "these",
-        "overestimate",
-        "during",
-        "large",
-        "it's",
-        "resistors",
-        "reconditioning",
-        "wattages",
-        "caution:",
-        "this",
-        "power"
+        "cycl",
+        "set",
+        "read",
+        "depend",
+        "save",
+        "perform",
+        "number",
+        "per",
+        "safety",
+        "done",
+        "measur",
+        "littl",
+        "press",
+        "look",
+        "realli",
+        "recondit",
+        "cbaii",
+        "nomin",
+        "test",
+        "exampl",
+        "button",
+        "relev",
+        "volt",
+        "hour",
+        "mayb"
       ],
-      "length": 1000,
-      "preview": "tts for a large power tool battery. It's better to overestimate here.\n\nAlso, if you are connecting r..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 809,
+      "preview": "Example : for a 12 volt, 1 Amp Hour battery. Divide the Rated Amp Hour Capacity by 10. Or for an extra measure of safety (for the battery) and maybe a..."
     },
     {
       "chunk_id": 26,
-      "text": "onds and it went below 0.4 volts per cell you could be permanently damaging the battery.\n\nHow to Recondition a Battery with a Battery Analyzer (The Best Way)\n\n1) First make sure that your battery is discharged to about 1 volt per cell. You can recondition the battery right after you just tested it because then it is discharged.\n\n2) If you just tested the battery's capacity you can skip steps 3 thru 9 here.\n\n3) Next you need a set of leads to connect the battery analyzer to the battery to be tested.\n\nI used a 1 foot section of speaker wire and attached to sets of color coded alligator clips obtained from Radio Shack.\n\nCaution: Use at least a 16 gauge wire - wire too thin can get very hot and even melt.\n\n4) Color code the alligator clips so that you don't cross the wires.\n\n5) Double check this by checking the continuity of each color coded alligator clip. You will need to solder the wire to each alligator clip. However, you may be able to crimp them together.\n\n6) Connect the Red Lead of",
+      "text": "16) Now charge the battery to a full charge and test the batterys capacity again. 17) Usually about 75 of the batterys improvement would have shown on the test after the first reconditioning cycle but you can perform this test up to 2 more times if you find that you are improving the capacity with each reconditioning cycle. Warning : Dont perform more than 3 reconditioning cycles within one months timeframe as you will burning up precious charge cycles on just reconditioning. Remember the point of reconditioning is to get more usable life out of the battery. How to Rejuvenate a Battery There are 2 ways to rejuvenate a battery. One way is easy but not as effective (isnt this how it usually works?). If your battery contains screws that allows you to easily open the casing of the battery you will have better results by following the normal battery rejuvenation procedure below.",
       "keywords": [
-        "first",
-        "could",
-        "recondition",
-        "cell",
-        "the",
-        "best",
-        "make",
-        "damaging",
+        "would",
+        "cycl",
+        "one",
         "way",
-        "permanently",
-        "sure",
-        "battery",
-        "below",
-        "with",
-        "went",
-        "analyzer",
-        "volts",
-        "onds"
+        "effect",
+        "isnt",
+        "improv",
+        "easili",
+        "perform",
+        "find",
+        "follow",
+        "normal",
+        "timefram",
+        "recondit",
+        "open",
+        "contain",
+        "test",
+        "usabl",
+        "rejuven",
+        "case",
+        "charg",
+        "capac",
+        "procedur",
+        "batteri",
+        "within"
       ],
-      "length": 999,
-      "preview": "onds and it went below 0.4 volts per cell you could be permanently damaging the battery.\n\nHow to Rec..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 886,
+      "preview": "16) Now charge the battery to a full charge and test the batterys capacity again. 17) Usually about 75 of the batterys improvement would have shown on..."
     },
     {
       "chunk_id": 27,
-      "text": "is by checking the continuity of each color coded alligator clip. You will need to solder the wire to each alligator clip. However, you may be able to crimp them together.\n\n6) Connect the Red Lead of the CBAII to the positive (+) terminal of the battery via the jumper wire. Double check yourself always.\n\n7) Now connect the Black Lead from the CBAII to the negative (-) terminal of the battery via the jumper wire.\n\n8) Give the test a name to save it by. This time identify the battery label and as a reconditioning cycle. I usually put in \"Recon\" somewhere in the name.\n\n9) Select the Battery Type: Lead Acid, NiCd, NiMh, Li-ion, etc. This should be the same as in \"How to Test your Batteries with a Battery Analyzer\" above.\n\n10) Select the Capacity of the battery in Amp Hours (ah). This should be the same as in \"How to Test your Batteries with a Battery Analyzer\" above.\n\n11) Now skip the voltage field and type in how many cells are in this battery. This should be the same as in \"How to Test y",
+      "text": "If your battery contains screws that allows you to easily open the casing of the battery you will have better results by following the normal battery rejuvenation procedure below. Normal Battery Rejuvenation Procedure (Need a rejuvenation battery) 1) First you will need a 2 jumper wires with small alligator clips on each end (Can be obtained from Radio Shack). Caution : Use at least a 16 gauge wire - wire too thin can get very hot and even melt. 2) Color code the alligator clips so that you dont cross the wires. 3) Double check this by checking the continuity of each color coded alligator clip. 4) You will need to solder the wire to each alligator clip. However, you may be able to crimp them together. 5) Carefully remove the casing of the battery to be rejuvenated. If it is sealed try the Quick Easy Way. 6) Measure the voltage of each individual cell, making sure that you have the correct polarity. If the voltage is 1 volt or more it should be a good cell.",
       "keywords": [
-        "them",
-        "each",
-        "need",
-        "alligator",
-        "coded",
-        "able",
-        "together",
-        "connect",
-        "color",
+        "way",
+        "togeth",
+        "make",
+        "easili",
+        "gaug",
+        "least",
         "solder",
-        "wire",
+        "use",
         "clip",
-        "continuity",
-        "will",
-        "crimp",
-        "checking",
-        "however"
+        "may",
+        "measur",
+        "follow",
+        "individu",
+        "normal",
+        "caution",
+        "even",
+        "seal",
+        "open",
+        "contain",
+        "howev",
+        "sure",
+        "abl",
+        "volt",
+        "end",
+        "obtain"
       ],
-      "length": 1000,
-      "preview": "is by checking the continuity of each color coded alligator clip. You will need to solder the wire t..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 970,
+      "preview": "If your battery contains screws that allows you to easily open the casing of the battery you will have better results by following the normal battery ..."
     },
     {
       "chunk_id": 28,
-      "text": "the same as in \"How to Test your Batteries with a Battery Analyzer\" above.\n\n11) Now skip the voltage field and type in how many cells are in this battery. This should be the same as in \"How to Test your Batteries with a Battery Analyzer\" above.\n\n12) Set the Test Amps to 1/10th to 1/20th of the batteries Rated Amp Hour Capacity of the battery.\n\nExample: for a 12 volt, 1 Amp Hour battery. Divide the Rated Amp Hour Capacity by 10. Or for an extra measure of safety (for the battery) and maybe a little more deeper reconditioning divide by 20.\n\n13) Set the Test Cutoff V to 0.4 volts per cell. This is the voltage that the test will cut off at. For example, multiply 0.4 times the number of cells in the battery.\n\n14) Now press the Start button and the CBAII will do the rest. When it says that it is done, just save the file.\n\n15) The Amp Hour reading really is not relevant at this point but you have just performed a reconditioning cycle on your battery. It should look something like this depend",
+      "text": "If the voltage is 1 volt or more it should be a good cell. If the voltage is less than 1 volt especially 0 volts and o ohms is a shorted cell (The picture above shows a shorted cell  No voltage  1.8 ohms). 7) Note the bad cell or cells by marking them somehow. 8) Now you need a rejuvenating battery (This will do the rejuvenating). You can use many different batteries for the Resurrection process. I use a 12 volt power tool battery if possible. You could use a 6 volt lantern battery or a 12 volt car battery. 9) Now make sure that you positively note the negative (-) terminal and the positive () terminal of both batteries. 10) Touch negative (-) terminal to negative (-) terminal and positive () to positive () terminal for no more than 3 seconds. 11) New life is back in the cell. 12) Repeat this for each shorted cell. 13) Now check the shorted cell with the volt meter and you will see the short is gone and it is at full voltage.",
       "keywords": [
-        "many",
-        "cells",
-        "\"how",
-        "analyzer\"",
-        "voltage",
-        "field",
-        "this",
-        "your",
-        "should",
-        "test",
-        "battery",
-        "with",
-        "skip",
-        "above",
-        "batteries",
-        "same",
-        "type"
+        "back",
+        "bad",
+        "somehow",
+        "make",
+        "touch",
+        "note",
+        "mark",
+        "repeat",
+        "use",
+        "differ",
+        "neg",
+        "pictur",
+        "show",
+        "lantern",
+        "posit",
+        "power",
+        "resurrect",
+        "volt",
+        "rejuven",
+        "short",
+        "gone",
+        "batteri",
+        "termin",
+        "meter",
+        "life"
       ],
-      "length": 999,
-      "preview": "the same as in \"How to Test your Batteries with a Battery Analyzer\" above.\n\n11) Now skip the voltage..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 939,
+      "preview": "If the voltage is 1 volt or more it should be a good cell. If the voltage is less than 1 volt especially 0 volts and o ohms is a shorted cell (The pic..."
     },
     {
       "chunk_id": 29,
-      "text": "s done, just save the file.\n\n15) The Amp Hour reading really is not relevant at this point but you have just performed a reconditioning cycle on your battery. It should look something like this depending on the Nominal Voltage of the battery. This was for a 14.4 volt battery.\n\n16) Now charge the battery to a full charge and test the battery's capacity again.\n\n17) Usually about 75% of the battery's improvement would have shown on the test after the first reconditioning cycle but you can perform this test up to 2 more times if you find that you are improving the capacity with each reconditioning cycle. Warning: Don't perform more than 3 reconditioning cycles within one month's timeframe as you will burning up precious charge cycles on just\n\nreconditioning. Remember the point of reconditioning is to get more usable life out of the battery.\n\nHow to Rejuvenate a Battery\n\nThere are 2 ways to rejuvenate a battery. One way is easy but not as effective (isn't this how it usually works?). If you",
+      "text": "13) Now check the shorted cell with the volt meter and you will see the short is gone and it is at full voltage. The cell is not fully charged, but the voltage is restored and the short is gone. Note : You might see a tiny spark when doing the rejuvenation and thats ok. If you see a large spark - most likely you have the polarity wrong. 14) Reassemble the battery. Note : You will be amazed at how well a rejuvenated battery will work, but dont expect it to be as good as a brand new battery. Ni-Cad batteries have a life that dwindles each time it is charged. The cells in your battery are used and will eventually need to be rejuvenated again. The Quick Easy Way (but not as effective) 1) You will need a 2 jumper wires and a rejuvenating battery for this procedure. It will be alot easier to use jumper wires with small alligator clips on each end. (Can be obtained from Radio Shack). Caution : Use at least a 16 gauge wire - wire too thin can get very hot and even melt.",
       "keywords": [
-        "save",
-        "just",
-        "should",
-        "really",
-        "battery",
-        "done",
-        "look",
-        "cycle",
-        "have",
-        "reading",
-        "point",
-        "hour",
-        "your",
-        "file",
-        "reconditioning",
-        "performed",
-        "this",
-        "something",
-        "relevant"
+        "tini",
+        "way",
+        "effect",
+        "note",
+        "gaug",
+        "eventu",
+        "least",
+        "nicad",
+        "use",
+        "clip",
+        "restor",
+        "easier",
+        "well",
+        "caution",
+        "even",
+        "dwindl",
+        "that",
+        "fulli",
+        "volt",
+        "amaz",
+        "end",
+        "obtain",
+        "rejuven",
+        "short",
+        "shack"
       ],
-      "length": 1000,
-      "preview": "s done, just save the file.\n\n15) The Amp Hour reading really is not relevant at this point but you h..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "fire"
+        ]
+      },
+      "length": 976,
+      "preview": "13) Now check the shorted cell with the volt meter and you will see the short is gone and it is at full voltage. The cell is not fully charged, but th..."
     },
     {
       "chunk_id": 30,
-      "text": "g is to get more usable life out of the battery.\n\nHow to Rejuvenate a Battery\n\nThere are 2 ways to rejuvenate a battery. One way is easy but not as effective (isn't this how it usually works?). If your battery contains screws that allows you to easily open the casing of the battery you will have better results by following the normal battery rejuvenation procedure below.\n\nNormal Battery Rejuvenation Procedure (Need a rejuvenation battery)\n\n1) First you will need a 2 jumper wires with small alligator clips on each end (Can be obtained from Radio Shack).\n\nCaution: Use at least a 16 gauge wire - wire too thin can get very hot and even melt.\n\n2) Color code the alligator clips so that you don't cross the wires.\n\n3) Double check this by checking the continuity of each color coded alligator clip.\n\n4) You will need to solder the wire to each alligator clip. However, you may be able to crimp them together.\n\n5) Carefully remove the casing of the battery to be rejuvenated. If it is sealed try the",
+      "text": "Caution : Use at least a 16 gauge wire - wire too thin can get very hot and even melt. 2) Color code the alligator clips so that you dont cross the wires. 3) Double check this by checking the co ntinuity of each color coded alligator clip. 4) You will need to solder the wire to each alligator clip. However, you may be able to crimp them together. You will need a rejuvenation battery. This will do the rejuvenating to the bad battery. Note : This battery can be the same voltage or a higher voltage battery. Doubling the voltage is optimum. You can do this by connecting 2 batteries in series like this: I typically use one 24 volt battery to rejuvenate all power tool batteries (See picture below for using a 24 volt rejuvenating battery to a 12 volt battery). 5) It is important to positively identify the positive and negative ends of each battery.",
       "keywords": [
-        "usable",
-        "rejuvenate",
-        "effective",
-        "easy",
-        "this",
-        "your",
-        "screws",
-        "life",
-        "there",
-        "battery",
-        "isn't",
-        "more",
-        "ways",
-        "works",
-        "contains",
-        "usually"
+        "one",
+        "bad",
+        "togeth",
+        "gaug",
+        "note",
+        "least",
+        "solder",
+        "use",
+        "clip",
+        "neg",
+        "may",
+        "pictur",
+        "even",
+        "caution",
+        "posit",
+        "howev",
+        "power",
+        "identifi",
+        "abl",
+        "volt",
+        "higher",
+        "end",
+        "ntinuiti",
+        "rejuven",
+        "batteri"
       ],
-      "length": 1000,
-      "preview": "g is to get more usable life out of the battery.\n\nHow to Rejuvenate a Battery\n\nThere are 2 ways to r..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 853,
+      "preview": "Caution : Use at least a 16 gauge wire - wire too thin can get very hot and even melt. 2) Color code the alligator clips so that you dont cross the wi..."
     },
     {
       "chunk_id": 31,
-      "text": "4) You will need to solder the wire to each alligator clip. However, you may be able to crimp them together.\n\n5) Carefully remove the casing of the battery to be rejuvenated. If it is sealed try the Quick Easy Way.\n\n6) Measure the voltage of each individual cell, making sure that you have the correct polarity.\n\nIf the voltage is 1 volt or more it should be a good cell.\n\nIf the voltage is less than 1 volt especially 0 volts and o ohms is a shorted cell (The picture above shows a shorted cell \u2013 No voltage \u2013 1.8 ohms).\n\n7) Note the bad cell or cells by marking them somehow.\n\n8) Now you need a rejuvenating battery (This will do the rejuvenating). You can use many different batteries for the Resurrection process. I use a 12 volt power tool battery if possible. You could use a 6 volt lantern battery or a 12 volt car battery.\n\n9) Now make sure that you positively note the negative (-) terminal and the positive (+) terminal of both batteries.\n\n10) Touch negative (-) terminal to negative (-)",
+      "text": "5) It is important to positively identify the positive and negative ends of each battery. 6) Hold the negative (-) alligator clip to the negative (-) terminal and tap the positive () alligator clip to the positive () terminal of the bad battery for about 1 second. (Not too long). 7) Tap it about 3 times. 8) Check the voltage on the rejuvenated battery. It should be at or above the nominal voltage. How to Revert a Reversed Cell No batteries are created equal, and what will most likely happen in a multi-cell battery is that one or more of the cells will reverse because they are weaker than the other cells. The reversed cell begins to accept a backwards charge from the other better charged cells around it. This is really bad for a battery if you dont catch it, because chances are it wont charge again while in the pack. If you are going to discharge a pack and you cannot open it to test individual cell voltages, please discharge to approximately 1.2 volts per cell.",
       "keywords": [
-        "them",
-        "battery",
-        "will",
-        "rejuvenated",
-        "each",
-        "sealed",
-        "crimp",
-        "need",
-        "solder",
-        "quick",
-        "however",
-        "carefully",
-        "remove",
-        "alligator",
-        "able",
-        "easy",
-        "together",
-        "casing",
-        "wire",
-        "clip"
+        "one",
+        "bad",
+        "per",
+        "clip",
+        "weaker",
+        "neg",
+        "accept",
+        "equal",
+        "individu",
+        "realli",
+        "tap",
+        "open",
+        "nomin",
+        "posit",
+        "happen",
+        "test",
+        "long",
+        "identifi",
+        "volt",
+        "end",
+        "rejuven",
+        "revers",
+        "backward",
+        "catch",
+        "charg"
       ],
-      "length": 997,
-      "preview": "4) You will need to solder the wire to each alligator clip. However, you may be able to crimp them t..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 975,
+      "preview": "5) It is important to positively identify the positive and negative ends of each battery. 6) Hold the negative (-) alligator clip to the negative (-) ..."
     },
     {
       "chunk_id": 32,
-      "text": "attery or a 12 volt car battery.\n\n9) Now make sure that you positively note the negative (-) terminal and the positive (+) terminal of both batteries.\n\n10) Touch negative (-) terminal to negative (-) terminal and positive (+) to positive (+) terminal for no more than 3 seconds.\n\n11) New life is back in the cell.\n\n12) Repeat this for each shorted cell.\n\n13) Now check the shorted cell with the volt meter and you will see the short is gone and it is at full voltage. The cell is not fully charged, but the voltage is restored and the short is gone.\n\nNote: You might see a tiny spark when doing the rejuvenation and that's ok. If you see a large spark - most likely you have the polarity wrong.\n\n14) Reassemble the battery.\n\nNote: You will be amazed at how well a rejuvenated battery will work, but don't expect it to be as good as a brand new battery. Ni-Cad batteries have a life that dwindles each time it is charged. The cells in your battery are used and will eventually need to be rejuvenated a",
+      "text": "If you are going to discharge a pack and you cannot open it to test individual cell voltages, please discharge to approximately 1.2 volts per cell. This will help prevent reversing cells. If you do reverse a cell and can access each individual cell, I have found that giving that cell about 4.5 volts (up to 1 A current) in the right direction, it will probably set itself straight. Measure the voltage of the cell after the shock charge. If it doesnt improve, try again. If you are still unsuccessful, try a higher voltage. Ive needed 9 volts in some cases to get a cell working again. Once you get the cell at  1.2 volts, immediately put the pack on charge now so that battery wont have time to reverse again. Charge the pack fully for 24 hours on a trickle charge to make sure that the reversed cell(s) have recovered fully. Also note that the once-reversed cell will never be the same.",
       "keywords": [
-        "attery",
-        "that",
-        "both",
-        "touch",
+        "set",
         "make",
-        "sure",
-        "terminal",
-        "positive",
-        "battery",
-        "volt",
-        "positively",
+        "improv",
         "note",
-        "negative",
-        "batteries"
+        "per",
+        "measur",
+        "never",
+        "individu",
+        "recov",
+        "open",
+        "right",
+        "sure",
+        "doesnt",
+        "test",
+        "trickl",
+        "fulli",
+        "volt",
+        "hour",
+        "also",
+        "direct",
+        "higher",
+        "discharg",
+        "revers",
+        "case",
+        "charg"
       ],
-      "length": 1000,
-      "preview": "attery or a 12 volt car battery.\n\n9) Now make sure that you positively note the negative (-) termina..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "shelter",
+          "navigation",
+          "signaling"
+        ]
+      },
+      "length": 889,
+      "preview": "If you are going to discharge a pack and you cannot open it to test individual cell voltages, please discharge to approximately 1.2 volts per cell. Th..."
     },
     {
       "chunk_id": 33,
-      "text": "on't expect it to be as good as a brand new battery. Ni-Cad batteries have a life that dwindles each time it is charged. The cells in your battery are used and will eventually need to be rejuvenated again.\n\nThe Quick Easy Way (but not as effective)\n\n1) You will need a 2 jumper wires and a rejuvenating battery for this procedure. It will be alot easier to use jumper wires with small alligator clips on each end. (Can be obtained from Radio Shack).\n\nCaution: Use at least a 16 gauge wire - wire too thin can get very hot and even melt.\n\n2) Color code the alligator clips so that you don't cross the wires.\n\n3) Double check this by checking the continuity of each color coded alligator clip.\n\n4) You will need to solder the wire to each alligator clip. However, you may be able to crimp them together. You will need a rejuvenation battery. This will do the rejuvenating to the bad battery.\n\nNote: This battery can be the same voltage or a higher voltage battery. Doubling the voltage is optimum. You",
+      "text": "Also note that the once-reversed cell will never be the same. It will now always be the first one to reverse in the pack, so you might want to be aware of that when you try to dischargecycle it in the future. Appendix: Nominal Voltage - The standard voltage used to express the capacity of a particular battery model. It is generally equal to its electromotive force or its approximate voltage during normal operation.",
       "keywords": [
-        "cells",
-        "brand",
-        "ni-cad",
-        "battery",
-        "will",
-        "used",
-        "batteries",
-        "each",
-        "have",
-        "charged",
-        "eventually",
-        "time",
-        "your",
-        "expect",
-        "dwindles",
-        "on't",
-        "that",
-        "life",
-        "good"
+        "one",
+        "note",
+        "standard",
+        "dischargecycl",
+        "use",
+        "particular",
+        "never",
+        "equal",
+        "alway",
+        "normal",
+        "nomin",
+        "also",
+        "awar",
+        "revers",
+        "capac",
+        "pack",
+        "batteri",
+        "forc",
+        "approxim",
+        "want",
+        "cell",
+        "voltag",
+        "express",
+        "oncerevers",
+        "appendix"
       ],
-      "length": 999,
-      "preview": "on't expect it to be as good as a brand new battery. Ni-Cad batteries have a life that dwindles each..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 418,
+      "preview": "Also note that the once-reversed cell will never be the same. It will now always be the first one to reverse in the pack, so you might want to be awar..."
     },
     {
       "chunk_id": 34,
-      "text": ". You will need a rejuvenation battery. This will do the rejuvenating to the bad battery.\n\nNote: This battery can be the same voltage or a higher voltage battery. Doubling the voltage is optimum. You can do this by connecting 2 batteries in series like this:\n\nI typically use one 24 volt battery to rejuvenate all power tool batteries (See picture below for using a 24 volt rejuvenating battery to a 12 volt battery).\n\n5) It is important to positively identify the positive and negative ends of each battery.\n\n6) Hold the negative (-) alligator clip to the negative (-) terminal and tap the positive (+) alligator clip to the positive (+) terminal of the bad battery for about 1 second. (Not too long).\n\n7) Tap it about 3 times.\n\n8) Check the voltage on the rejuvenated battery. It should be at or above the nominal voltage.\n\nHow to Revert a Reversed Cell\n\nNo batteries are created equal, and what will most likely happen in a multi-cell battery is that one or more of the cells will \"reverse\" becaus",
+      "text": "It is generally equal to its electromotive force or its approximate voltage during normal operation. Nominal Voltage Table NiCd and NiMh 1.2 volts per cell Lithium Ion or Lithium Polymer 3.6 or 3.7 volts per cell Lithium Primary 3 volts per cell Sealed Lead Acid (SLA) 2 volts per cell Alkaline and Carbon Zinc 1.5 volts per cell Some Typical Equations: Ohms Law : E  IR (EVolts, IAmps, Rohms) Power : P  EI or P  (II)R (PWatts) Amp-Hours : expected life (hours)Average amps  Amp-Hours Current (Amps)  VoltsResistance Resistance (ohms)  VoltageCurrent Voltage  CurrentResistance Glossary of Common Battery Terms: Battery - a device that converts energy, by chemical reaction or physical reaction, into electric current.",
       "keywords": [
-        "higher",
-        "voltage",
-        "need",
-        "this",
-        "optimum",
-        "rejuvenating",
-        "doubling",
-        "battery",
-        "will",
-        "rejuvenation",
-        "note:",
-        "same"
+        "voltsresist",
+        "nimh",
+        "glossari",
+        "per",
+        "rohm",
+        "energi",
+        "primari",
+        "equal",
+        "nicd",
+        "normal",
+        "alkalin",
+        "seal",
+        "averag",
+        "electr",
+        "nomin",
+        "polym",
+        "power",
+        "lithium",
+        "pwatt",
+        "devic",
+        "reaction",
+        "volt",
+        "amphour",
+        "hour",
+        "amp"
       ],
-      "length": 1000,
-      "preview": ". You will need a rejuvenation battery. This will do the rejuvenating to the bad battery.\n\nNote: Thi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 719,
+      "preview": "It is generally equal to its electromotive force or its approximate voltage during normal operation. Nominal Voltage Table NiCd and NiMh 1.2 volts per..."
     },
     {
       "chunk_id": 35,
-      "text": "ove the nominal voltage.\n\nHow to Revert a Reversed Cell\n\nNo batteries are created equal, and what will most likely happen in a multi-cell battery is that one or more of the cells will \"reverse\" because they are weaker than the other cells.\n\nThe reversed cell begins to accept a \"backwards\" charge from the other better charged cells around it. This is really bad for a battery if you don't catch it, because chances are it won't charge again while in the pack.\n\nIf you are going to discharge a pack and you cannot open it to test individual cell voltages, please discharge to approximately 1.2 volts per cell. This will help prevent reversing cells.\n\nIf you do reverse a cell and can access each individual cell, I have found that giving that cell about 4.5 volts (up to 1 A current) in the right direction, it will probably set itself straight.\n\nMeasure the voltage of the cell after the \"shock\" charge. If it doesn't improve, try again. If you are still unsuccessful, try a higher voltage. I've nee",
+      "text": "Primary Battery - energy is exhausted when active materials are consumed (carbon-zinc dry cell, lithium battery, silver oxide battery, alkaline battery) Secondary Battery - active materials are regenerated by charging (nickel cadmium (NiCd), nickel metal hydride (NiMh), Lithium Ion, Lithium Polymer, Sealed Lead Acid. Series Connection - Connection of a group of battery cells by sequentially interconnecting the terminals of opposite polarity thereby increasing the voltage of the battery group but not increasing capacity (i.e. positive to negative connections). Parallel Connection - Connection of a group of batter cells by interconnecting all terminals of the same polarity, thereby increasing the capacity of the battery group but not increasing the voltage (i.e. positive to positive and negative to negative). Cadmium - Chemical symbol Cd. This metallic element is the chemically active material of a nickel cadmium batterys negative electrode.",
       "keywords": [
-        "cells",
-        "cell",
-        "likely",
-        "what",
-        "battery",
-        "will",
-        "batteries",
-        "nominal",
-        "voltage",
-        "happen",
-        "reversed",
-        "revert",
-        "multi-cell",
-        "most",
-        "that",
-        "created",
-        "equal",
-        "\"reverse\"",
-        "more"
+        "opposit",
+        "nimh",
+        "batter",
+        "activ",
+        "neg",
+        "energi",
+        "primari",
+        "alkalin",
+        "nicd",
+        "group",
+        "hydrid",
+        "therebi",
+        "seal",
+        "parallel",
+        "posit",
+        "polym",
+        "increas",
+        "dri",
+        "lithium",
+        "regener",
+        "materi",
+        "oxid",
+        "exhaust",
+        "acid",
+        "charg"
       ],
-      "length": 1000,
-      "preview": "ove the nominal voltage.\n\nHow to Revert a Reversed Cell\n\nNo batteries are created equal, and what wi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 953,
+      "preview": "Primary Battery - energy is exhausted when active materials are consumed (carbon-zinc dry cell, lithium battery, silver oxide battery, alkaline batter..."
     },
     {
       "chunk_id": 36,
-      "text": "ection, it will probably set itself straight.\n\nMeasure the voltage of the cell after the \"shock\" charge. If it doesn't improve, try again. If you are still unsuccessful, try a higher voltage. I've needed 9 volts in some cases to get a cell working again.\n\nOnce you get the cell at > 1.2 volts, immediately put the pack on charge now so that battery won't have time to reverse again.\n\nCharge the pack fully for 24 hours on a trickle charge to make sure that the reversed cell(s) have recovered fully.\n\nAlso note that the once-reversed cell will never be the same. It will now always be the first one to reverse in the pack, so you might want to be aware of that when you try to discharge/cycle it in the future.\n\nAppendix:\n\nNominal Voltage - The standard voltage used to express the capacity of a particular battery model. It is generally equal to its electromotive force or its approximate voltage during normal operation.\n\nNominal Voltage Table\n\nNiCd and NiMh Lithium Ion or Lithium Polymer Lithium",
+      "text": "This metallic element is the chemically active material of a nickel cadmium batterys negative electrode. When the battery is charged, the negative electrode surface c onsists of cadmium. As the battery discharges, the cadmium progressively changes into cadmium hydroxide (Cd (OH2)). Cadmium Hydroxide - Active material used at the negative electrode of the Nickel-Cadmium Cell. Metal Hydride - A general name for chemical compounds consisting of metal elements and hydrogen. Nickel Hydroxide - The active material in the positive electrode of NiMh and NiCd batteries. Nickel Oxyhydroxide - The chemical name of NiOOH. Indicates that oxidation of Ni (OH)2 has progressed, and that the active material of the positive electrode of an NiCd or NiMh battery is charged.",
       "keywords": [
-        "after",
-        "higher",
+        "nimh",
+        "activ",
+        "use",
+        "neg",
+        "onsist",
+        "nicd",
+        "hydrid",
+        "compound",
+        "posit",
+        "nickelcadmium",
+        "materi",
+        "oh2",
+        "oxid",
+        "indic",
+        "discharg",
+        "charg",
+        "hydroxid",
+        "niooh",
+        "batteri",
+        "progress",
+        "chang",
         "cell",
-        "unsuccessful",
-        "doesn't",
-        "ection",
-        "will",
-        "measure",
-        "voltage",
-        "needed",
-        "\"shock\"",
-        "straight",
-        "probably",
-        "charge",
-        "itself",
-        "still",
-        "again",
-        "improve",
-        "i've"
+        "nickel",
+        "element",
+        "electrod"
       ],
-      "length": 999,
-      "preview": "ection, it will probably set itself straight.\n\nMeasure the voltage of the cell after the \"shock\" cha..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 764,
+      "preview": "This metallic element is the chemically active material of a nickel cadmium batterys negative electrode. When the battery is charged, the negative ele..."
     },
     {
       "chunk_id": 37,
-      "text": "icular battery model. It is generally equal to its electromotive force or its approximate voltage during normal operation.\n\nNominal Voltage Table\n\nNiCd and NiMh Lithium Ion or Lithium Polymer Lithium Primary Sealed Lead Acid (SLA) Alkaline and Carbon Zinc\n\n1.2 volts per cell 3.6 or 3.7 volts per cell 3 volts per cell 2 volts per cell 1.5 volts per cell\n\nSome Typical Equations:\n\nOhm's Law: E = I*R (E=Volts, I=Amps, R=ohms) Power: P = E*I or P = (I*I)*R (P=Watts) Amp-Hours: expected life (hours)*Average amps = Amp-Hours\n\nCurrent (Amps) = Volts/Resistance Resistance (ohms) = Voltage/Current Voltage = Current*Resistance\n\nGlossary of Common Battery Terms:\n\nBattery - a device that converts energy, by chemical reaction or physical reaction, into electric current. Primary Battery - energy is exhausted when active materials are consumed (carbon-zinc dry cell, lithium battery, silver oxide battery, alkaline battery) Secondary Battery - active materials are regenerated by charging (nickel cadmium",
+      "text": "Indicates that oxidation of Ni (OH)2 has progressed, and that the active material of the positive electrode of an NiCd or NiMh battery is charged. Capacity - The quantity of electricity that can be obtained from a battery in one cycle from full charge to full discharge when the battery is discharged under conditions of rated current level and ambient temperature within the predetermined range. Generally, capacity is expressed in units of mAh (milliampere-hour). Nominal Capacity - The standard capacity designated by a battery manufacturer to identify a particular cell model. Nominal Voltage - The standard voltage used to express the capacity of a particular battery model. It is generally equal to its electromotive force or its approximate voltage during normal operation (See Nominal Voltage Table above). Discharge Rate - The discharge rate is the rate at which current is removed from a battery.",
       "keywords": [
-        "approximate",
-        "polymer",
-        "voltage",
-        "nominal",
-        "equal",
-        "generally",
-        "nicd",
-        "electromotive",
-        "table",
+        "one",
         "nimh",
-        "lithium",
+        "cycl",
+        "activ",
+        "ambient",
+        "standard",
+        "use",
+        "particular",
+        "equal",
+        "nicd",
         "normal",
-        "battery",
-        "model",
-        "force",
-        "operation",
-        "during",
-        "icular"
+        "temperatur",
+        "electr",
+        "nomin",
+        "posit",
+        "materi",
+        "predetermin",
+        "identifi",
+        "oxid",
+        "indic",
+        "quantiti",
+        "obtain",
+        "unit",
+        "discharg",
+        "manufactur"
       ],
-      "length": 1000,
-      "preview": "icular battery model. It is generally equal to its electromotive force or its approximate voltage du..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 906,
+      "preview": "Indicates that oxidation of Ni (OH)2 has progressed, and that the active material of the positive electrode of an NiCd or NiMh battery is charged. Cap..."
     },
     {
       "chunk_id": 38,
-      "text": "sted when active materials are consumed (carbon-zinc dry cell, lithium battery, silver oxide battery, alkaline battery) Secondary Battery - active materials are regenerated by charging (nickel cadmium (NiCd), nickel metal hydride (NiMh), Lithium Ion, Lithium Polymer, Sealed Lead Acid. Series Connection - Connection of a group of battery cells by sequentially interconnecting the terminals of opposite polarity thereby increasing the voltage of the battery group but not increasing capacity (i.e. positive to negative connections). Parallel Connection - Connection of a group of batter cells by interconnecting all terminals of the same polarity, thereby increasing the capacity of the battery group but not increasing the voltage (i.e. positive to positive and negative to negative). Cadmium - Chemical symbol Cd. This metallic element is the chemically active material of a nickel cadmium battery's negative electrode. When the battery is charged, the negative electrode surface consists of cadmiu",
+      "text": "Discharge Rate - The discharge rate is the rate at which current is removed from a battery. When a battery is discharged at a current level i, for a period until the end discharge voltage is h, the discharge is referred to as the h-hour rate discharge, while i is known as the h-hour rate discharge current. For practical use, nominal capacity is used as standard. End-Voltage - The voltage that indicates the end limit of discharge. This voltage is almost equivalent to limitation of practical use. Typical values : 1.0 volt per cell for NiCd and NiMh 1.75 volts per cell for sealed lead acid 2.75 volts per cell for lithium ion and lithium polymer 2.0 volts per cell for primary lithium 0.9 volts per cell for alkaline and carbon zinc Open circuit voltage - The voltage between terminals of a battery without any load. Operating voltage - The voltage between terminals when a battery is subjected to a load. Usually expressed by the voltage of the battery at 50 discharge point.",
       "keywords": [
-        "when",
-        "cell",
-        "oxide",
-        "alkaline",
-        "materials",
-        "charging",
-        "secondary",
+        "nimh",
+        "load",
+        "refer",
+        "standard",
+        "limit",
+        "oper",
+        "equival",
+        "use",
+        "practic",
+        "endvoltag",
+        "per",
+        "almost",
+        "primari",
+        "nicd",
+        "alkalin",
+        "seal",
+        "hhour",
+        "open",
+        "nomin",
+        "polym",
         "lithium",
-        "battery",
-        "sted",
-        "active",
-        "carbon-zinc",
-        "silver",
-        "regenerated",
-        "consumed"
+        "volt",
+        "indic",
+        "end",
+        "subject"
       ],
-      "length": 1000,
-      "preview": "sted when active materials are consumed (carbon-zinc dry cell, lithium battery, silver oxide battery..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 980,
+      "preview": "Discharge Rate - The discharge rate is the rate at which current is removed from a battery. When a battery is discharged at a current level i, for a p..."
     },
     {
       "chunk_id": 39,
-      "text": "ical symbol Cd. This metallic element is the chemically active material of a nickel cadmium battery's negative electrode. When the battery is charged, the negative electrode surface consists of cadmium. As the battery discharges, the cadmium progressively changes into cadmium hydroxide (Cd (OH2)). Cadmium Hydroxide - Active material used at the negative electrode of the Nickel-Cadmium Cell. Metal Hydride - A general name for chemical compounds consisting of metal elements and hydrogen. Nickel Hydroxide - The active material in the positive electrode of NiMh and NiCd batteries. Nickel Oxyhydroxide - The chemical name of NiOOH. Indicates that oxidation of Ni (OH)2 has progressed, and that the active material of the positive electrode of an NiCd or NiMh battery is charged. Capacity - The quantity of electricity that can be obtained from a battery in one cycle from full charge to full discharge when the battery is discharged under conditions of rated current level and ambient temperature w",
+      "text": "Usually expressed by the voltage of the battery at 50 discharge point. Polarity Reversal - Reversing of polarity of the terminals of a small-capacity cell in a multi-cell battery due to over discharge. Positive Electrode - The electrode which has a positive potential. Electric current from this electrode flows in the external circuit during discharge. Negative Electrode - The plate which has an electrical potential lower than that of the other plate during normal cell operation. Electric current from the external circuit flows into the cell at the negative electrode during discharge. Also called minus electrode. Self-Discharge - a decrease in battery capacity which occurs without any current flow to an external circuit. Typical values : 1 per day for NiCd 2 per day for NiMh 0 per day for Lithium Ion and Lithium Polymer Short Circuit - Directly connecting the positive electrode (terminal) to the negative electrode (terminal) of the battery.",
       "keywords": [
-        "consists",
-        "when",
-        "this",
-        "electrode",
-        "negative",
-        "charged",
-        "battery",
-        "surface",
-        "element",
-        "ical",
-        "material",
-        "battery's",
-        "metallic",
-        "active",
-        "nickel",
-        "chemically",
-        "symbol",
-        "cadmium"
+        "nimh",
+        "directli",
+        "decreas",
+        "per",
+        "neg",
+        "due",
+        "smallcapac",
+        "normal",
+        "nicd",
+        "electr",
+        "posit",
+        "occur",
+        "lower",
+        "lithium",
+        "polym",
+        "plate",
+        "also",
+        "flow",
+        "discharg",
+        "revers",
+        "short",
+        "polar",
+        "capac",
+        "valu",
+        "batteri"
       ],
-      "length": 1000,
-      "preview": "ical symbol Cd. This metallic element is the chemically active material of a nickel cadmium battery'..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 953,
+      "preview": "Usually expressed by the voltage of the battery at 50 discharge point. Polarity Reversal - Reversing of polarity of the terminals of a small-capacity ..."
     },
     {
       "chunk_id": 40,
-      "text": "tity of electricity that can be obtained from a battery in one cycle from full charge to full discharge when the battery is discharged under conditions of rated current level and ambient temperature within the predetermined range. Generally, capacity is expressed in units of mAh (milliampere-hour). Nominal Capacity - The standard capacity designated by a battery manufacturer to identify a particular cell model. Nominal Voltage - The standard voltage used to express the capacity of a particular battery model. It is generally equal to its electromotive force or its approximate voltage during normal operation (See Nominal Voltage Table above).\n\nDischarge Rate - The discharge rate is the rate at which current is removed from a battery. When a battery is discharged at a current level \"i\", for a period until the end discharge voltage is '\"h\", the discharge is referred to as the h-hour rate\n\ndischarge, while \"i\" is known as the h-hour rate discharge current. For practical use, nominal capacit",
+      "text": "Thermistor - A circuit element with a negative temperature coefficient. It is built into batteries and used to detect ambient temperature or battery temperature. A battery charger may use this device to properly charge a battery.",
       "keywords": [
-        "that",
-        "cycle",
-        "rated",
-        "from",
-        "when",
-        "level",
-        "electricity",
-        "conditions",
-        "under",
-        "obtained",
-        "discharged",
-        "current",
-        "full",
-        "battery",
-        "discharge",
-        "tity",
-        "charge"
-      ],
-      "length": 1000,
-      "preview": "tity of electricity that can be obtained from a battery in one cycle from full charge to full discha..."
-    },
-    {
-      "chunk_id": 41,
-      "text": "period until the end discharge voltage is '\"h\", the discharge is referred to as the h-hour rate\n\ndischarge, while \"i\" is known as the h-hour rate discharge current. For practical use, nominal capacity is used as standard. End-Voltage - The voltage that indicates the end limit of discharge. This voltage is almost equivalent to limitation of practical use.\n\nTypical values: 1.0 volt per cell for NiCd and NiMh 1.75 volts per cell for sealed lead acid 2.75 volts per cell for lithium ion and lithium polymer 2.0 volts per cell for primary lithium 0.9 volts per cell for alkaline and carbon zinc\n\nOpen circuit voltage - The voltage between terminals of a battery without any load. Operating voltage - The voltage between terminals when a battery is subjected to a load. Usually expressed by the voltage of the battery at 50% discharge point. Polarity Reversal - Reversing of polarity of the terminals of a small-capacity cell in a multi-cell battery due to over discharge. Positive Electrode - The ele",
-      "keywords": [
-        "rate",
-        "while",
-        "capacity",
-        "voltage",
-        "nominal",
-        "until",
-        "current",
-        "practical",
-        "h-hour",
-        "period",
-        "discharge",
-        "referred",
-        "known",
-        "'\"h\"",
-        "use"
-      ],
-      "length": 999,
-      "preview": "period until the end discharge voltage is '\"h\", the discharge is referred to as the h-hour rate\n\ndis..."
-    },
-    {
-      "chunk_id": 42,
-      "text": "e of the battery at 50% discharge point. Polarity Reversal - Reversing of polarity of the terminals of a small-capacity cell in a multi-cell battery due to over discharge. Positive Electrode - The electrode which has a positive potential. Electric current from this electrode flows in the external circuit during discharge. Negative Electrode - The plate which has an electrical potential lower than that of the other plate during normal cell operation. Electric current from the external circuit flows into the cell at the negative electrode during discharge. Also called minus electrode. Self-Discharge - a decrease in battery capacity which occurs without any current flow to an external circuit.\n\nTypical values: 1% per day for NiCd 2% per day for NiMh ~0% per day for Lithium Ion and Lithium Polymer\n\nShort Circuit - Directly connecting the positive electrode (terminal) to the negative electrode (terminal) of the battery. Thermistor - A circuit element with a negative temperature coefficient.",
-      "keywords": [
-        "potential",
-        "polarity",
-        "terminals",
-        "multi-cell",
-        "cell",
-        "small-capacity",
-        "electrode",
-        "which",
-        "reversal",
-        "positive",
-        "battery",
-        "reversing",
-        "discharge",
-        "over",
-        "point"
-      ],
-      "length": 1000,
-      "preview": "e of the battery at 50% discharge point. Polarity Reversal - Reversing of polarity of the terminals ..."
-    },
-    {
-      "chunk_id": 43,
-      "text": "ymer\n\nShort Circuit - Directly connecting the positive electrode (terminal) to the negative electrode (terminal) of the battery. Thermistor - A circuit element with a negative temperature coefficient. It is built into batteries and used to detect ambient temperature or battery temperature. A battery charger may use this device to properly charge a battery.",
-      "keywords": [
-        "temperature",
-        "directly",
-        "short",
-        "coefficient",
-        "built",
+        "batteri",
+        "properli",
         "circuit",
-        "connecting",
-        "electrode",
-        "positive",
-        "terminal",
-        "battery",
+        "coeffici",
+        "ambient",
+        "charg",
+        "devic",
+        "use",
+        "charger",
         "element",
-        "with",
-        "negative",
+        "neg",
+        "may",
+        "built",
         "thermistor",
-        "ymer"
+        "detect",
+        "temperatur"
       ],
-      "length": 358,
-      "preview": "ymer\n\nShort Circuit - Directly connecting the positive electrode (terminal) to the negative electrod..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 229,
+      "preview": "Thermistor - A circuit element with a negative temperature coefficient. It is built into batteries and used to detect ambient temperature or battery t..."
     }
   ],
   "keyword_lookup": {
-    "complete": [
+    "way": [
       0,
-      14
+      1,
+      4,
+      8,
+      19,
+      22,
+      23,
+      26,
+      27,
+      29
     ],
-    "battery": [
+    "nimh": [
+      0,
+      6,
+      11,
+      16,
+      24,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "invest": [
+      0,
+      7
+    ],
+    "tip": [
+      0,
+      4,
+      6,
+      7
+    ],
+    "glossari": [
+      0,
+      2,
+      34
+    ],
+    "damag": [
+      0,
+      8,
+      11,
+      14,
+      20,
+      22
+    ],
+    "analyz": [
       0,
       2,
       3,
       4,
-      5,
-      7,
-      8,
-      9,
-      10,
-      13,
-      14,
+      12,
       15,
-      16,
-      17,
-      18,
       19,
       20,
-      21,
       22,
       23,
-      25,
-      26,
-      28,
-      29,
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      37,
-      38,
-      39,
-      40,
-      42,
-      43
+      24
     ],
     "kevin": [
-      0
-    ],
-    "dixon": [
-      0
-    ],
-    "given": [
-      0
-    ],
-    "content": [
-      0
-    ],
-    "report": [
-      0,
-      3
-    ],
-    "ebook": [
-      0,
-      1,
-      2,
-      5
-    ],
-    "anyway": [
-      0
-    ],
-    "published": [
-      0
-    ],
-    "geek": [
-      0,
-      2
-    ],
-    "resold": [
-      0
-    ],
-    "copied": [
-      0
-    ],
-    "2006": [
-      0
-    ],
-    "reconditioning": [
-      0,
-      13,
-      21,
-      24,
-      25,
-      29
-    ],
-    "this": [
-      0,
-      1,
-      2,
-      3,
-      5,
-      7,
-      12,
-      14,
-      15,
-      17,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      28,
-      29,
-      30,
-      34,
-      39
-    ],
-    "copyright": [
-      0
-    ],
-    "away": [
       0
     ],
     "inc": [
       0
     ],
-    "should": [
-      1,
-      28,
-      29
+    "2006": [
+      0
     ],
-    "done": [
-      1,
-      29
+    "content": [
+      0
     ],
-    "safety": [
-      1
+    "voltmet": [
+      0,
+      4,
+      12
     ],
-    "also": [
-      1,
-      25
-    ],
-    "voltage": [
-      1,
-      14,
+    "may": [
+      0,
+      2,
+      6,
+      13,
+      15,
       16,
+      18,
       19,
       20,
-      28,
+      22,
+      23,
+      27,
+      30,
+      40
+    ],
+    "introduct": [
+      0,
+      1
+    ],
+    "safety": [
+      0,
+      1,
+      12,
+      25
+    ],
+    "done": [
+      0,
+      1,
+      13,
+      18,
+      25
+    ],
+    "high": [
+      0,
+      1,
+      11,
+      19
+    ],
+    "disclaim": [
+      0
+    ],
+    "nicd": [
+      0,
+      6,
+      10,
+      11,
+      16,
+      17,
+      24,
       34,
       35,
       36,
       37,
-      41
+      38,
+      39
     ],
-    "responsible": [
-      1
+    "given": [
+      0
     ],
-    "procedures": [
-      1
+    "prolong": [
+      0,
+      6,
+      7
     ],
-    "with": [
-      1,
+    "recondit": [
+      0,
+      2,
+      4,
+      9,
+      11,
+      12,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "test": [
+      0,
+      3,
       14,
       15,
+      16,
       17,
-      21,
-      26,
-      28,
-      43
-    ],
-    "gloves": [
-      1
-    ],
-    "pair": [
-      1
-    ],
-    "high": [
-      1
-    ],
-    "damage": [
-      1
-    ],
-    "injury": [
-      1
-    ],
-    "goggles": [
-      1
-    ],
-    "occur": [
-      1
-    ],
-    "that": [
-      1,
-      2,
-      3,
-      11,
-      13,
-      17,
+      18,
       22,
+      23,
       24,
-      32,
-      33,
-      35,
-      40
+      25,
+      26,
+      31,
+      32
     ],
-    "only": [
+    "report": [
+      0,
+      2
+    ],
+    "inform": [
+      0,
       1,
-      11,
-      14
+      3,
+      4
     ],
-    "polarity": [
-      2,
-      42
-    ],
-    "designed": [
-      2
-    ],
-    "informational": [
-      2
+    "ventil": [
+      1
     ],
     "write": [
-      2
+      1,
+      13
     ],
-    "introduction": [
-      2
+    "fire": [
+      1
     ],
-    "reverse": [
-      2
-    ],
-    "have": [
+    "use": [
+      1,
       2,
-      3,
-      9,
-      29,
-      33
-    ],
-    "don't": [
-      2,
-      19,
-      22
-    ],
-    "anybody": [
-      2
-    ],
-    "understand": [
-      2
-    ],
-    "tried": [
-      2
-    ],
-    "nect": [
-      2
-    ],
-    "instrument": [
-      2
-    ],
-    "batteries": [
-      3,
       4,
-      5,
-      10,
-      11,
-      17,
-      28,
-      32,
-      33,
-      35
-    ],
-    "here": [
-      3,
-      25
-    ],
-    "ormation": [
-      3
-    ],
-    "already": [
-      3,
-      20
-    ],
-    "not": [
-      3,
-      17,
-      23
-    ],
-    "correct": [
-      3
-    ],
-    "your": [
-      3,
-      4,
-      5,
+      6,
       7,
-      8,
-      10,
-      14,
-      17,
-      22,
+      9,
+      15,
+      19,
+      23,
+      27,
       28,
       29,
       30,
+      33,
+      36,
+      37,
+      38,
+      40
+    ],
+    "handl": [
+      1
+    ],
+    "andor": [
+      1
+    ],
+    "neg": [
+      1,
+      12,
+      13,
+      16,
+      24,
+      28,
+      30,
+      31,
+      35,
+      36,
+      39,
+      40
+    ],
+    "anoth": [
+      1,
+      6,
+      13,
+      14
+    ],
+    "instrument": [
+      1,
+      5
+    ],
+    "well": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12,
+      29
+    ],
+    "never": [
+      1,
+      7,
+      16,
+      32,
       33
     ],
-    "know": [
-      3,
-      19,
-      22
+    "tinder": [
+      1
     ],
-    "emailing": [
-      3
-    ],
-    "ready": [
-      3
-    ],
-    "recondition": [
-      3,
+    "posit": [
+      1,
+      12,
+      13,
+      16,
       23,
+      24,
+      28,
+      30,
+      31,
+      35,
+      36,
+      37,
+      39
+    ],
+    "occur": [
+      1,
+      39
+    ],
+    "also": [
+      1,
+      4,
+      6,
+      9,
+      11,
+      21,
+      22,
+      32,
+      33,
+      39
+    ],
+    "jewelri": [
+      1
+    ],
+    "anybodi": [
+      1
+    ],
+    "talk": [
+      1
+    ],
+    "discharg": [
+      1,
+      10,
+      11,
+      14,
+      21,
+      22,
+      32,
+      36,
+      37,
+      39
+    ],
+    "would": [
+      2,
+      6,
+      9,
+      19,
+      20,
       26
+    ],
+    "sometim": [
+      2,
+      8
+    ],
+    "one": [
+      2,
+      3,
+      9,
+      14,
+      16,
+      18,
+      19,
+      20,
+      21,
+      26,
+      30,
+      31,
+      33,
+      37
+    ],
+    "email": [
+      2
+    ],
+    "make": [
+      2,
+      8,
+      9,
+      12,
+      15,
+      22,
+      23,
+      27,
+      28,
+      32
+    ],
+    "improv": [
+      2,
+      4,
+      18,
+      20,
+      26,
+      32
+    ],
+    "question": [
+      2,
+      13
+    ],
+    "nongeek": [
+      2
+    ],
+    "find": [
+      2,
+      3,
+      10,
+      12,
+      21,
+      26
+    ],
+    "live": [
+      2
+    ],
+    "other": [
+      2
+    ],
+    "hope": [
+      2
+    ],
+    "speak": [
+      2
+    ],
+    "right": [
+      2,
+      17,
+      23,
+      32
+    ],
+    "cbaii": [
+      2,
+      3,
+      15,
+      16,
+      18,
+      23,
+      24,
+      25
+    ],
+    "howev": [
+      2,
+      8,
+      9,
+      15,
+      16,
+      22,
+      23,
+      27,
+      30
+    ],
+    "delay": [
+      2,
+      3
+    ],
+    "long": [
+      2,
+      8,
+      9,
+      11,
+      31
+    ],
+    "effect": [
+      3,
+      6,
+      10,
+      11,
+      12,
+      19,
+      26,
+      29
+    ],
+    "perform": [
+      3,
+      14,
+      25,
+      26
+    ],
+    "buy": [
+      3,
+      7
+    ],
+    "upfront": [
+      3
+    ],
+    "measur": [
+      3,
+      12,
+      14,
+      15,
+      18,
+      20,
+      25,
+      27,
+      32
+    ],
+    "watt": [
+      3,
+      21
+    ],
+    "cost": [
+      3,
+      7,
+      8
+    ],
+    "addit": [
+      3,
+      4,
+      5
+    ],
+    "internet": [
+      3,
+      4,
+      5
+    ],
+    "port": [
+      3
+    ],
+    "hidden": [
+      3
+    ],
+    "hour": [
+      3,
+      8,
+      16,
+      18,
+      20,
+      21,
+      22,
+      24,
+      25,
+      32,
+      34
+    ],
+    "volt": [
+      3,
+      13,
+      14,
+      17,
+      20,
+      22,
+      23,
+      24,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      34,
+      38
+    ],
+    "amp": [
+      3,
+      16,
+      17,
+      18,
+      21,
+      24,
+      34
+    ],
+    "higher": [
+      3,
+      21,
+      30,
+      32
+    ],
+    "order": [
+      3
     ],
     "bought": [
       3
     ],
-    "improve": [
-      3,
-      21,
-      36
-    ],
-    "right": [
-      3,
-      20
-    ],
-    "measures": [
+    "link": [
       4
     ],
-    "performance": [
-      4
-    ],
-    "port": [
-      4
-    ],
-    "need": [
+    "read": [
       4,
-      11,
-      24,
-      27,
-      31,
-      34
-    ],
-    "kind": [
-      4
-    ],
-    "graphical": [
-      4
-    ],
-    "cbaii": [
-      4,
-      18
-    ],
-    "watts": [
-      4
-    ],
-    "amps": [
-      4
-    ],
-    "test": [
-      4,
+      13,
       14,
       17,
-      20,
-      28
+      18,
+      25
     ],
-    "computer": [
-      4
-    ],
-    "will": [
+    "refer": [
       4,
-      10,
-      17,
-      24,
-      27,
-      31,
-      33,
-      34,
-      35,
-      36
-    ],
-    "records": [
-      4
-    ],
-    "volts": [
-      4,
-      26
-    ],
-    "display": [
-      4
-    ],
-    "links": [
-      5
-    ],
-    "various": [
-      5
-    ],
-    "capacity": [
-      5,
+      13,
       16,
-      19,
-      21,
-      41
+      17,
+      38
     ],
-    "rove": [
-      5
+    "websit": [
+      4
     ],
-    "help": [
-      5
+    "sort": [
+      4
     ],
-    "increase": [
-      5
+    "assum": [
+      4
     ],
-    "life": [
-      5,
-      30,
-      33
-    ],
-    "well": [
-      5
-    ],
-    "there": [
-      5,
-      11,
-      15,
-      30
-    ],
-    "addition": [
-      5
-    ],
-    "throughout": [
-      5
-    ],
-    "locations": [
-      5
-    ],
-    "charge": [
-      5,
-      9,
-      11,
-      36,
-      40
-    ],
-    "after": [
-      6,
-      36
-    ],
-    "grade": [
-      6
-    ],
-    "starting": [
-      6
-    ],
-    "skil": [
-      6
-    ],
-    "internet": [
-      6
-    ],
-    "business": [
-      6
-    ],
-    "years": [
-      6,
-      13
-    ],
-    "technician": [
-      6
-    ],
-    "selling": [
-      6
-    ],
-    "electronic": [
-      6
-    ],
-    "bosch": [
-      6
-    ],
-    "industry": [
-      6
-    ],
-    "noticed": [
-      6
-    ],
-    "industrial": [
-      6
-    ],
-    "started": [
-      6
-    ],
-    "tools": [
-      6
-    ],
-    "reached": [
-      6
+    "increas": [
+      4,
+      35
     ],
     "power": [
+      4,
+      5,
       6,
-      8,
-      25
-    ],
-    "worked": [
-      6
-    ],
-    "equipment": [
-      7
-    ],
-    "-this": [
-      7
-    ],
-    "sufficiently": [
-      7
-    ],
-    "which": [
       7,
-      42
-    ],
-    "apply": [
-      7
-    ],
-    "full": [
-      7,
-      19,
-      21,
-      40
-    ],
-    "discharge": [
-      7,
-      22,
-      24,
-      40,
-      41,
-      42
-    ],
-    "cycle": [
-      7,
-      29,
-      40
-    ],
-    "down": [
-      7
-    ],
-    "monthly": [
-      7
-    ],
-    "battery\u2019s": [
-      7,
-      16
-    ],
-    "helps": [
-      7
-    ],
-    "exercises": [
-      7
-    ],
-    "longevity": [
-      7
-    ],
-    "running": [
-      7,
-      8,
-      22
-    ],
-    "cid:190": [
-      7,
-      8
-    ],
-    "laptop": [
-      8
-    ],
-    "place": [
-      8,
-      16
-    ],
-    "remove": [
-      8,
-      31
-    ],
-    "cool": [
-      8
-    ],
-    "store": [
-      8
-    ],
-    "freeze": [
-      8
-    ],
-    "without": [
-      8,
-      23
-    ],
-    "capable": [
-      8
-    ],
-    "used": [
-      8,
-      33
-    ],
-    "fixed": [
-      8
-    ],
-    "most": [
-      8,
-      9,
-      35
-    ],
-    "time": [
-      8,
-      9,
-      33
-    ],
-    "hour": [
-      9,
-      29
-    ],
-    "usually": [
-      9,
-      30
-    ],
-    "take": [
-      9,
-      16
-    ],
-    "therefore": [
-      9
-    ],
-    "current": [
-      9,
-      24,
-      40,
-      41
-    ],
-    "longer": [
-      9,
-      10
-    ],
-    "lower": [
-      9
-    ],
-    "these": [
-      9,
       10,
-      12,
-      25
-    ],
-    "sense": [
-      9
-    ],
-    "more": [
-      9,
-      13,
+      14,
       21,
+      28,
       30,
-      35
+      34
     ],
-    "they": [
-      9,
-      11
+    "conn": [
+      4
     ],
-    "however": [
-      9,
-      18,
-      27,
-      31
+    "custom": [
+      4
     ],
-    "mainly": [
-      10
+    "locat": [
+      4
     ],
-    "would": [
-      10,
+    "parti": [
+      4
+    ],
+    "alright": [
+      4
+    ],
+    "appli": [
+      5,
+      6,
+      11,
+      12
+    ],
+    "scienc": [
+      5
+    ],
+    "bosch": [
+      5
+    ],
+    "associ": [
+      5
+    ],
+    "reach": [
+      5,
+      6,
       22
     ],
-    "make": [
-      10,
-      17,
-      26,
-      32
+    "degre": [
+      5
     ],
-    "overcharge": [
+    "fairli": [
+      5
+    ],
+    "1989": [
+      5
+    ],
+    "top": [
+      5,
+      7
+    ],
+    "trend": [
+      5
+    ],
+    "recharg": [
+      5,
+      6,
+      9,
       10
     ],
-    "charger": [
-      10,
-      16
+    "replac": [
+      5,
+      12
     ],
-    "chargers": [
-      10
+    "forev": [
+      5,
+      9
     ],
-    "does": [
-      10
-    ],
-    "leave": [
-      10
-    ],
-    "when": [
-      10,
-      11,
-      38,
-      39,
-      40
+    "grade": [
+      5
     ],
     "last": [
-      10,
-      11
+      5,
+      8,
+      9
     ],
-    "because": [
-      10
+    "skil": [
+      5
     ],
-    "allow": [
-      10
+    "defibril": [
+      5
     ],
-    "type": [
-      10,
-      19,
-      28
+    "compani": [
+      5
     ],
-    "many": [
-      11,
-      19,
-      22,
-      28
-    ],
-    "rechargeable": [
-      11
-    ],
-    "them": [
-      11,
-      18,
-      27,
-      31
-    ],
-    "forever": [
-      11
-    ],
-    "reconditioned": [
-      11
-    ],
-    "times": [
-      11
-    ],
-    "recharge": [
-      11
-    ],
-    "receive": [
-      11,
-      17
-    ],
-    "condition": [
-      11
-    ],
-    "first": [
-      11,
-      16,
-      26
-    ],
-    "effective": [
-      12,
-      30
-    ],
-    "crystals": [
-      12
-    ],
-    "cell": [
-      12,
-      26,
-      35,
-      36,
-      38,
-      42
-    ],
-    "grow": [
-      12
-    ],
-    "area": [
-      12
-    ],
-    "figures": [
-      12
-    ],
-    "nicd": [
-      12,
+    "manufactur": [
+      5,
       37
-    ],
-    "surface": [
-      12,
-      39
-    ],
-    "below": [
-      12,
-      20,
-      26
-    ],
-    "develops": [
-      12
-    ],
-    "cadmium": [
-      12,
-      39
-    ],
-    "memory": [
-      12,
-      13,
-      22
-    ],
-    "consists": [
-      12,
-      39
-    ],
-    "fine": [
-      12
-    ],
-    "effect": [
-      12
-    ],
-    "reduce": [
-      12
-    ],
-    "example": [
-      12
-    ],
-    "from": [
-      13,
-      23,
-      40
-    ],
-    "likely": [
-      13,
-      35
-    ],
-    "isn't": [
-      13,
-      30
-    ],
-    "rejuvenation": [
-      13,
-      16,
-      34
-    ],
-    "than": [
-      13,
-      15,
-      21
-    ],
-    "buildup": [
-      13
-    ],
-    "revived": [
-      13
-    ],
-    "damaged": [
-      13
-    ],
-    "completely": [
-      13,
-      15
-    ],
-    "i.e": [
-      13
-    ],
-    "dead": [
-      13,
-      15
-    ],
-    "basically": [
-      13
-    ],
-    "providing": [
-      13
-    ],
-    "indication": [
-      14
-    ],
-    "voltmeter": [
-      14
-    ],
-    "absolute": [
-      14
-    ],
-    "bad": [
-      14
-    ],
-    "testing": [
-      14
-    ],
-    "following": [
-      14
-    ],
-    "give": [
-      14
-    ],
-    "measuring": [
-      14,
-      16
-    ],
-    "another": [
-      15
-    ],
-    "cells": [
-      15,
-      19,
-      28,
-      33,
-      35
-    ],
-    "shorted": [
-      15
     ],
     "short": [
-      15,
-      43
-    ],
-    "wiring": [
-      15
-    ],
-    "exercise": [
-      15
-    ],
-    "cell*": [
-      15
-    ],
-    "volt": [
-      15,
-      32
-    ],
-    "internally": [
-      15
-    ],
-    "rejuvenated": [
-      15,
-      31
-    ],
-    "table": [
-      16,
-      19,
-      37
-    ],
-    "rsed": [
-      16
-    ],
-    "nominal": [
-      16,
-      19,
-      35,
-      37,
-      41
-    ],
-    "procedure": [
-      16,
-      23
-    ],
-    "good": [
-      16,
-      17,
-      21,
-      33
-    ],
-    "known": [
-      16,
-      41
-    ],
-    "appendix": [
-      16,
-      19
-    ],
-    "minutes": [
-      16
-    ],
-    "note:": [
-      16,
-      34
-    ],
-    "then": [
-      16,
-      21,
-      23
-    ],
-    "sure": [
-      17,
-      26,
-      32
-    ],
-    "before": [
-      17
-    ],
-    "charged": [
-      17,
-      33,
+      5,
+      14,
+      28,
+      29,
       39
     ],
     "start": [
-      17
-    ],
-    "measurement": [
-      17
-    ],
-    "fully": [
-      17
-    ],
-    "analyzer": [
-      17,
-      23,
-      26
-    ],
-    "double": [
-      18
-    ],
-    "always": [
-      18
-    ],
-    "able": [
-      18,
-      27,
-      31
-    ],
-    "connect": [
-      18,
-      27
-    ],
-    "lead": [
-      18
-    ],
-    "together": [
-      18,
-      27,
-      31
-    ],
-    "jumper": [
-      18
-    ],
-    "black": [
-      18
-    ],
-    "wire": [
-      18,
-      27,
-      31
-    ],
-    "positive": [
-      18,
-      32,
-      42,
-      43
-    ],
-    "terminal": [
-      18,
-      32,
-      43
-    ],
-    "crimp": [
-      18,
-      27,
-      31
-    ],
-    "check": [
-      18
-    ],
-    "yourself": [
-      18
-    ],
-    "field": [
-      19,
-      28
-    ],
-    "what": [
-      19,
-      35
-    ],
-    "referring": [
-      19
-    ],
-    "calculate": [
-      19,
-      24
-    ],
-    "skip": [
-      19,
-      28
-    ],
-    "hand": [
-      20
-    ],
-    "side": [
-      20
-    ],
-    "case": [
-      20
-    ],
-    "actual": [
-      20
-    ],
-    "cutoff": [
-      20
-    ],
-    "rejuvenating": [
-      20,
-      34
-    ],
-    "window": [
-      20
-    ],
-    "reading": [
-      20,
-      29
-    ],
-    "rejuvenate": [
-      21,
-      30
-    ],
-    "nothing": [
-      21
-    ],
-    "thin": [
-      21
-    ],
-    "less": [
-      21
-    ],
-    "new": [
-      21
-    ],
-    "anywhere": [
-      21
-    ],
-    "practically": [
-      21
-    ],
-    "battery's": [
-      21,
-      39
-    ],
-    "between": [
-      21
-    ],
-    "some": [
-      22,
-      23
-    ],
-    "built": [
-      22,
-      43
-    ],
-    "revert": [
-      22,
-      35
-    ],
-    "amazed": [
-      22
-    ],
-    "mple": [
-      22
-    ],
-    "people": [
-      22
-    ],
-    "through": [
-      22
-    ],
-    "normal": [
-      22,
-      37
-    ],
-    "about": [
-      23
-    ],
-    "once": [
-      23
-    ],
-    "maintain": [
-      23
-    ],
-    "notice": [
-      23
-    ],
-    "simple": [
-      23
-    ],
-    "above": [
-      23,
-      28
-    ],
-    "month": [
-      23
-    ],
-    "doing": [
-      23
-    ],
-    "improvement": [
-      23
-    ],
-    "find": [
-      24
-    ],
-    "combination": [
-      24
-    ],
-    "resistor": [
-      24
-    ],
-    "resistance": [
-      24
-    ],
-    "battery:": [
-      24
-    ],
-    "typically": [
-      25
-    ],
-    "tool": [
-      25
-    ],
-    "parallel": [
-      25
-    ],
-    "better": [
-      25
-    ],
-    "connecting": [
-      25,
-      43
-    ],
-    "overestimate": [
-      25
-    ],
-    "during": [
-      25,
-      37
-    ],
-    "large": [
-      25
-    ],
-    "it's": [
-      25
-    ],
-    "resistors": [
-      25
-    ],
-    "wattages": [
-      25
-    ],
-    "caution:": [
-      25
-    ],
-    "could": [
-      26
-    ],
-    "the": [
-      26
-    ],
-    "best": [
-      26
-    ],
-    "damaging": [
-      26
-    ],
-    "way": [
-      26
-    ],
-    "permanently": [
-      26
-    ],
-    "went": [
-      26
-    ],
-    "onds": [
-      26
-    ],
-    "each": [
-      27,
-      31,
-      33
-    ],
-    "alligator": [
-      27,
-      31
-    ],
-    "coded": [
-      27
-    ],
-    "color": [
-      27
-    ],
-    "solder": [
-      27,
-      31
-    ],
-    "clip": [
-      27,
-      31
-    ],
-    "continuity": [
-      27
-    ],
-    "checking": [
-      27
-    ],
-    "\"how": [
-      28
-    ],
-    "analyzer\"": [
-      28
-    ],
-    "same": [
+      5,
+      10
+    ],
+    "nickelbas": [
+      6
+    ],
+    "bad": [
+      6,
+      12,
+      13,
+      14,
       28,
-      34
-    ],
-    "save": [
-      29
-    ],
-    "just": [
-      29
-    ],
-    "really": [
-      29
-    ],
-    "look": [
-      29
-    ],
-    "point": [
-      29,
-      42
-    ],
-    "file": [
-      29
-    ],
-    "performed": [
-      29
-    ],
-    "something": [
-      29
-    ],
-    "relevant": [
-      29
-    ],
-    "usable": [
-      30
-    ],
-    "easy": [
       30,
       31
     ],
-    "screws": [
+    "contribut": [
+      6
+    ],
+    "monthli": [
+      6
+    ],
+    "cycl": [
+      6,
+      24,
+      25,
+      26,
+      37
+    ],
+    "nicad": [
+      6,
+      29
+    ],
+    "exercis": [
+      6,
+      13,
+      19
+    ],
+    "overcharg": [
+      6,
+      8,
+      9
+    ],
+    "equipment": [
+      6
+    ],
+    "temperatur": [
+      6,
+      9,
+      37,
+      40
+    ],
+    "compon": [
+      6
+    ],
+    "freez": [
+      7
+    ],
+    "in15": [
+      7
+    ],
+    "store": [
+      7,
+      9
+    ],
+    "depend": [
+      7,
+      8,
+      21,
+      22,
+      25
+    ],
+    "repeat": [
+      7,
+      20,
+      28
+    ],
+    "laptop": [
+      7
+    ],
+    "old": [
+      7
+    ],
+    "deep": [
+      7
+    ],
+    "storag": [
+      7,
+      9
+    ],
+    "littl": [
+      7,
+      8,
+      16,
+      19,
+      25
+    ],
+    "liion": [
+      7,
+      16,
+      24
+    ],
+    "keep": [
+      7,
+      20
+    ],
+    "even": [
+      7,
+      8,
+      15,
+      22,
+      23,
+      27,
+      29,
       30
     ],
-    "ways": [
-      30
+    "sold": [
+      7
     ],
-    "works": [
-      30
+    "that": [
+      7,
+      8,
+      29
     ],
-    "contains": [
-      30
+    "sens": [
+      7,
+      8
     ],
-    "sealed": [
-      31
+    "user": [
+      8
     ],
-    "quick": [
-      31
+    "week": [
+      8
     ],
-    "carefully": [
-      31
+    "whose": [
+      8
     ],
-    "casing": [
-      31
+    "alway": [
+      8,
+      10,
+      16,
+      24,
+      33
     ],
-    "attery": [
+    "lower": [
+      8,
+      10,
+      21,
+      39
+    ],
+    "doesnt": [
+      8,
       32
     ],
-    "both": [
+    "trickl": [
+      8,
       32
     ],
-    "touch": [
+    "fulli": [
+      8,
+      15,
+      20,
+      29,
       32
     ],
-    "positively": [
-      32
+    "therefor": [
+      8
+    ],
+    "serious": [
+      8
     ],
     "note": [
-      32
-    ],
-    "negative": [
+      9,
+      14,
+      18,
+      19,
+      20,
+      22,
+      28,
+      29,
+      30,
       32,
-      39,
-      43
-    ],
-    "brand": [
       33
     ],
-    "ni-cad": [
-      33
+    "eventu": [
+      9,
+      10,
+      29
     ],
-    "eventually": [
-      33
+    "sunlight": [
+      9
     ],
-    "expect": [
-      33
+    "smart": [
+      9
     ],
-    "dwindles": [
-      33
+    "self": [
+      9,
+      11
     ],
-    "on't": [
-      33
+    "balloon": [
+      9
     ],
-    "higher": [
+    "optim": [
+      9
+    ],
+    "convers": [
+      9,
+      21
+    ],
+    "dri": [
+      9,
+      35
+    ],
+    "discov": [
+      9
+    ],
+    "word": [
+      10,
+      12
+    ],
+    "activ": [
+      10,
+      35,
+      36,
+      37
+    ],
+    "peopl": [
+      10,
+      11,
+      19
+    ],
+    "mark": [
+      10,
+      12,
+      13,
+      16,
+      28
+    ],
+    "grain": [
+      10
+    ],
+    "lose": [
+      10
+    ],
+    "grow": [
+      10
+    ],
+    "basic": [
+      10,
+      11
+    ],
+    "whenev": [
+      10
+    ],
+    "exampl": [
+      10,
+      11,
+      14,
+      17,
+      20,
+      21,
+      24,
+      25
+    ],
+    "usabl": [
+      10,
+      26
+    ],
+    "ever": [
+      10
+    ],
+    "must": [
+      10,
+      21
+    ],
+    "charg": [
+      10,
+      14,
+      17,
+      26,
+      31,
+      32,
+      35,
+      36,
+      40
+    ],
+    "capac": [
+      10,
+      17,
+      24,
+      26,
+      33,
+      39
+    ],
+    "isidor": [
+      11
+    ],
+    "isnt": [
+      11,
+      26
+    ],
+    "sharp": [
+      11
+    ],
+    "buildup": [
+      11
+    ],
+    "pictur": [
+      11,
+      28,
+      30
+    ],
+    "affect": [
+      11
+    ],
+    "electr": [
+      11,
       34,
-      36
+      37,
+      39
     ],
-    "optimum": [
-      34
+    "plate": [
+      11,
+      39
     ],
-    "doubling": [
-      34
+    "dead": [
+      11
     ],
-    "happen": [
-      35
+    "loss": [
+      11
     ],
-    "reversed": [
-      35
+    "combin": [
+      12,
+      21
     ],
-    "multi-cell": [
-      35,
-      42
+    "instruct": [
+      12,
+      15
     ],
-    "created": [
-      35
+    "somewher": [
+      12,
+      13,
+      16,
+      24
     ],
-    "equal": [
-      35,
-      37
+    "bold": [
+      12
     ],
-    "\"reverse\"": [
-      35
+    "suffer": [
+      12
     ],
-    "unsuccessful": [
-      36
+    "sulfat": [
+      12
     ],
-    "doesn't": [
-      36
+    "non": [
+      12
     ],
-    "ection": [
-      36
-    ],
-    "measure": [
-      36
-    ],
-    "needed": [
-      36
-    ],
-    "\"shock\"": [
-      36
-    ],
-    "straight": [
-      36
-    ],
-    "probably": [
-      36
-    ],
-    "itself": [
-      36
-    ],
-    "still": [
-      36
-    ],
-    "again": [
-      36
-    ],
-    "i've": [
-      36
-    ],
-    "approximate": [
-      37
-    ],
-    "polymer": [
-      37
-    ],
-    "generally": [
-      37
-    ],
-    "electromotive": [
-      37
-    ],
-    "nimh": [
-      37
+    "follow": [
+      12,
+      15,
+      26,
+      27
     ],
     "lithium": [
-      37,
-      38
-    ],
-    "model": [
-      37
-    ],
-    "force": [
-      37
-    ],
-    "operation": [
-      37
-    ],
-    "icular": [
-      37
-    ],
-    "oxide": [
-      38
-    ],
-    "alkaline": [
-      38
-    ],
-    "materials": [
-      38
-    ],
-    "charging": [
-      38
-    ],
-    "secondary": [
-      38
-    ],
-    "sted": [
-      38
-    ],
-    "active": [
+      12,
+      34,
+      35,
       38,
       39
     ],
-    "carbon-zinc": [
+    "extrem": [
+      13
+    ],
+    "otherwis": [
+      13
+    ],
+    "red": [
+      13,
+      16,
+      23,
+      24
+    ],
+    "look": [
+      13,
+      18,
+      25
+    ],
+    "caution": [
+      13,
+      15,
+      22,
+      23,
+      27,
+      29,
+      30
+    ],
+    "open": [
+      13,
+      26,
+      27,
+      31,
+      32,
       38
     ],
-    "silver": [
+    "nee": [
+      13
+    ],
+    "explan": [
+      13
+    ],
+    "infinit": [
+      13
+    ],
+    "black": [
+      13,
+      16,
+      24
+    ],
+    "direct": [
+      13,
+      32
+    ],
+    "least": [
+      14,
+      15,
+      23,
+      27,
+      29,
+      30
+    ],
+    "per": [
+      14,
+      17,
+      20,
+      22,
+      23,
+      25,
+      31,
+      32,
+      34,
+      38,
+      39
+    ],
+    "individu": [
+      14,
+      27,
+      31,
+      32
+    ],
+    "180": [
+      14
+    ],
+    "nomin": [
+      14,
+      16,
+      17,
+      25,
+      31,
+      33,
+      34,
+      37,
       38
     ],
-    "regenerated": [
+    "116": [
+      14
+    ],
+    "tabl": [
+      14,
+      16,
+      17
+    ],
+    "rejuven": [
+      14,
+      17,
+      26,
+      28,
+      29,
+      30,
+      31
+    ],
+    "revers": [
+      14,
+      31,
+      32,
+      33,
+      39
+    ],
+    "intern": [
+      14
+    ],
+    "check": [
+      15
+    ],
+    "next": [
+      15,
+      20,
+      23
+    ],
+    "set": [
+      15,
+      17,
+      23,
+      24,
+      25,
+      32
+    ],
+    "gaug": [
+      15,
+      23,
+      27,
+      29,
+      30
+    ],
+    "togeth": [
+      15,
+      16,
+      23,
+      27,
+      30
+    ],
+    "solder": [
+      15,
+      23,
+      27,
+      30
+    ],
+    "clip": [
+      15,
+      23,
+      27,
+      29,
+      30,
+      31
+    ],
+    "section": [
+      15
+    ],
+    "speaker": [
+      15,
+      23
+    ],
+    "thin": [
+      15,
+      23
+    ],
+    "abl": [
+      15,
+      16,
+      17,
+      18,
+      27,
+      30
+    ],
+    "save": [
+      16,
+      18,
+      24,
+      25
+    ],
+    "tell": [
+      17
+    ],
+    "number": [
+      17,
+      25
+    ],
+    "default": [
+      17
+    ],
+    "wise": [
+      17,
+      18
+    ],
+    "actual": [
+      17
+    ],
+    "cutoff": [
+      17
+    ],
+    "case": [
+      17,
+      26,
+      32
+    ],
+    "whatev": [
+      17
+    ],
+    "type": [
+      17,
+      24
+    ],
+    "100": [
+      18
+    ],
+    "horizont": [
+      18
+    ],
+    "practic": [
+      18,
       38
     ],
-    "consumed": [
+    "seen": [
+      18
+    ],
+    "press": [
+      18,
+      25
+    ],
+    "scale": [
+      18
+    ],
+    "realli": [
+      18,
+      19,
+      25,
+      31
+    ],
+    "button": [
+      18,
+      25
+    ],
+    "end": [
+      18,
+      27,
+      29,
+      30,
+      31,
       38
     ],
-    "electrode": [
+    "load": [
+      19,
+      38
+    ],
+    "anymor": [
+      19
+    ],
+    "drill": [
+      19,
+      20
+    ],
+    "chuck": [
+      19
+    ],
+    "dumb": [
+      19
+    ],
+    "imped": [
+      19
+    ],
+    "coupl": [
+      19
+    ],
+    "normal": [
+      19,
+      20,
+      26,
+      27,
+      33,
+      34,
+      37,
+      39
+    ],
+    "phone": [
+      19,
+      20,
+      21
+    ],
+    "applic": [
+      19
+    ],
+    "aka": [
+      19
+    ],
+    "maintain": [
+      20
+    ],
+    "differ": [
+      20,
+      22,
+      28
+    ],
+    "bring": [
+      20
+    ],
+    "stop": [
+      20,
+      22
+    ],
+    "much": [
+      20
+    ],
+    "greatli": [
+      21
+    ],
+    "vari": [
+      21
+    ],
+    "equal": [
+      21,
+      31,
+      33,
+      34,
+      37
+    ],
+    "parallel": [
+      21,
+      22,
+      35
+    ],
+    "safer": [
+      21
+    ],
+    "err": [
+      21
+    ],
+    "add": [
+      21
+    ],
+    "connect": [
+      21
+    ],
+    "human": [
+      22
+    ],
+    "unattend": [
+      22
+    ],
+    "sure": [
+      22,
+      27,
+      32
+    ],
+    "indic": [
+      22,
+      36,
+      37,
+      38
+    ],
+    "identifi": [
+      24,
+      30,
+      31,
+      37
+    ],
+    "recon": [
+      24
+    ],
+    "acid": [
+      24,
+      35
+    ],
+    "relev": [
+      25
+    ],
+    "mayb": [
+      25
+    ],
+    "easili": [
+      26,
+      27
+    ],
+    "timefram": [
+      26
+    ],
+    "contain": [
+      26,
+      27
+    ],
+    "procedur": [
+      26
+    ],
+    "batteri": [
+      26,
+      28,
+      30,
+      33,
+      36,
       39,
-      42,
-      43
+      40
     ],
-    "element": [
-      39,
-      43
+    "within": [
+      26
     ],
-    "ical": [
+    "seal": [
+      27,
+      34,
+      35,
+      38
+    ],
+    "obtain": [
+      27,
+      29,
+      37
+    ],
+    "back": [
+      28
+    ],
+    "somehow": [
+      28
+    ],
+    "touch": [
+      28
+    ],
+    "show": [
+      28
+    ],
+    "lantern": [
+      28
+    ],
+    "resurrect": [
+      28
+    ],
+    "gone": [
+      28
+    ],
+    "termin": [
+      28
+    ],
+    "meter": [
+      28
+    ],
+    "life": [
+      28
+    ],
+    "tini": [
+      29
+    ],
+    "restor": [
+      29
+    ],
+    "easier": [
+      29
+    ],
+    "dwindl": [
+      29
+    ],
+    "amaz": [
+      29
+    ],
+    "shack": [
+      29
+    ],
+    "ntinuiti": [
+      30
+    ],
+    "weaker": [
+      31
+    ],
+    "accept": [
+      31
+    ],
+    "tap": [
+      31
+    ],
+    "happen": [
+      31
+    ],
+    "backward": [
+      31
+    ],
+    "catch": [
+      31
+    ],
+    "recov": [
+      32
+    ],
+    "standard": [
+      33,
+      37,
+      38
+    ],
+    "dischargecycl": [
+      33
+    ],
+    "particular": [
+      33,
+      37
+    ],
+    "awar": [
+      33
+    ],
+    "pack": [
+      33
+    ],
+    "forc": [
+      33
+    ],
+    "approxim": [
+      33
+    ],
+    "want": [
+      33
+    ],
+    "cell": [
+      33,
+      36
+    ],
+    "voltag": [
+      33
+    ],
+    "express": [
+      33
+    ],
+    "oncerevers": [
+      33
+    ],
+    "appendix": [
+      33
+    ],
+    "voltsresist": [
+      34
+    ],
+    "rohm": [
+      34
+    ],
+    "energi": [
+      34,
+      35
+    ],
+    "primari": [
+      34,
+      35,
+      38
+    ],
+    "alkalin": [
+      34,
+      35,
+      38
+    ],
+    "averag": [
+      34
+    ],
+    "polym": [
+      34,
+      35,
+      38,
       39
     ],
-    "material": [
-      39
+    "pwatt": [
+      34
     ],
-    "metallic": [
-      39
+    "devic": [
+      34,
+      40
+    ],
+    "reaction": [
+      34
+    ],
+    "amphour": [
+      34
+    ],
+    "opposit": [
+      35
+    ],
+    "batter": [
+      35
+    ],
+    "group": [
+      35
+    ],
+    "hydrid": [
+      35,
+      36
+    ],
+    "therebi": [
+      35
+    ],
+    "regener": [
+      35
+    ],
+    "materi": [
+      35,
+      36,
+      37
+    ],
+    "oxid": [
+      35,
+      36,
+      37
+    ],
+    "exhaust": [
+      35
+    ],
+    "onsist": [
+      36
+    ],
+    "compound": [
+      36
+    ],
+    "nickelcadmium": [
+      36
+    ],
+    "oh2": [
+      36
+    ],
+    "hydroxid": [
+      36
+    ],
+    "niooh": [
+      36
+    ],
+    "progress": [
+      36
+    ],
+    "chang": [
+      36
     ],
     "nickel": [
+      36
+    ],
+    "element": [
+      36,
+      40
+    ],
+    "electrod": [
+      36
+    ],
+    "ambient": [
+      37,
+      40
+    ],
+    "predetermin": [
+      37
+    ],
+    "quantiti": [
+      37
+    ],
+    "unit": [
+      37
+    ],
+    "limit": [
+      38
+    ],
+    "oper": [
+      38
+    ],
+    "equival": [
+      38
+    ],
+    "endvoltag": [
+      38
+    ],
+    "almost": [
+      38
+    ],
+    "hhour": [
+      38
+    ],
+    "subject": [
+      38
+    ],
+    "directli": [
       39
     ],
-    "chemically": [
+    "decreas": [
       39
     ],
-    "symbol": [
+    "due": [
       39
     ],
-    "rated": [
+    "smallcapac": [
+      39
+    ],
+    "flow": [
+      39
+    ],
+    "polar": [
+      39
+    ],
+    "valu": [
+      39
+    ],
+    "properli": [
       40
-    ],
-    "level": [
-      40
-    ],
-    "electricity": [
-      40
-    ],
-    "conditions": [
-      40
-    ],
-    "under": [
-      40
-    ],
-    "obtained": [
-      40
-    ],
-    "discharged": [
-      40
-    ],
-    "tity": [
-      40
-    ],
-    "rate": [
-      41
-    ],
-    "while": [
-      41
-    ],
-    "until": [
-      41
-    ],
-    "practical": [
-      41
-    ],
-    "h-hour": [
-      41
-    ],
-    "period": [
-      41
-    ],
-    "referred": [
-      41
-    ],
-    "'\"h\"": [
-      41
-    ],
-    "use": [
-      41
-    ],
-    "potential": [
-      42
-    ],
-    "terminals": [
-      42
-    ],
-    "small-capacity": [
-      42
-    ],
-    "reversal": [
-      42
-    ],
-    "reversing": [
-      42
-    ],
-    "over": [
-      42
-    ],
-    "temperature": [
-      43
-    ],
-    "directly": [
-      43
-    ],
-    "coefficient": [
-      43
     ],
     "circuit": [
-      43
+      40
+    ],
+    "coeffici": [
+      40
+    ],
+    "charger": [
+      40
+    ],
+    "built": [
+      40
     ],
     "thermistor": [
-      43
+      40
     ],
-    "ymer": [
-      43
+    "detect": [
+      40
     ]
+  },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
   },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

@@ -1,0 +1,40 @@
+{
+  "package_id": "scout_knots",
+  "name": "Boy Scout Essential Knots",
+  "description": "Six fundamental knots every outdoorsman should know",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:23:38.113405",
+  "source_pdf": "six_boy_scout_knots.pdf",
+  "vector_database": {
+    "file": "scout_knots.vdb.npz",
+    "size_bytes": 27012,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "scout_knots_ios.index.json",
+    "size_bytes": 10293,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 5,
+    "embedding_dim": 384,
+    "total_embeddings": 5
+  },
+  "offline_priority": "medium",
+  "category": "technical_skills",
+  "tags": [
+    "knots",
+    "scouting",
+    "basics",
+    "outdoor_skills"
+  ],
+  "checksum": {
+    "vdb": "f1cf3d3cd34a27970977ce9164d894fb0dde96d9e5b7c60438867d7f9412ebc3",
+    "index": "85fe21bb2e964c4dd0783c23b246015249b0e7771ecd9ad01affb6b191cc6301"
+  }
+}

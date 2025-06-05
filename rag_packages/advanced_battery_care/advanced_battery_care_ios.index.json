@@ -1,253 +1,347 @@
 {
   "package_id": "advanced_battery_care",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "ODYSSEY\u00ae Battery Reconditioning Charge Procedure\n\nScope:\n\nLead-acid batteries can develop reduced delivered capacity / performance after prolonged periods of storage, especially if the batteries were not periodically boost charged or left on a float / maintenance charger during the time of storage. The cause of this reduced capacity is the development of sulfation of some of the oxide on the plates. Sulfated oxide is discharged oxide and can be challenging to covert back to charged oxide known as lead-dioxide. Left unconverted, this discharged lead sulfate can develop even more hardened sulfate and could be non-reversible.\n\nAction Procedure:\n\nTo hopefully reestablish full deliverable capacity, the following procedure is offered as a \u201creconditioning charge cycle procedure.\u201d\n\n1. Discharge the battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with a hand-held digital volt meter. Once 10.0V is achieved, discon",
+      "text": "ODYSSEY Battery Reconditioning Charge Procedure Scope: Lead-acid batteries can develop reduced delivered capacity  performance after prolonged periods of storage, especially if the batteries were not periodically boost charged or left on a float  maintenance charger during the time of storage. The cause of this reduced capacity is the development of sulfation of some of the oxide on the plates. Sulfated oxide is discharged oxide and can be challenging to covert back to charged oxide known as lead-dioxide. Left unconverted, this discharged lead sulfate can develop even more hardened sulfate and could be non-reversible. Action Procedure: To hopefully reestablish full deliverable capaci ty, the following procedure is offered as a reconditioning charge cycle procedure. 1. Discharge the battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with a hand-held digital volt meter.",
       "keywords": [
-        "after",
-        "capacity",
-        "performance",
-        "odyssey\u00ae",
-        "battery",
-        "develop",
-        "prolonged",
-        "batteries",
-        "were",
-        "procedure",
-        "scope:",
-        "periods",
-        "lead-acid",
-        "reduced",
-        "reconditioning",
-        "charge",
-        "storage",
-        "delivered",
-        "especially"
+        "boost",
+        "back",
+        "cycl",
+        "load",
+        "digit",
+        "perform",
+        "action",
+        "mainten",
+        "use",
+        "left",
+        "storag",
+        "sulfat",
+        "covert",
+        "hope",
+        "measur",
+        "follow",
+        "prolong",
+        "even",
+        "recondit",
+        "harden",
+        "nonrevers",
+        "electr",
+        "100v",
+        "challeng",
+        "head"
       ],
-      "length": 1000,
-      "preview": "ODYSSEY\u00ae Battery Reconditioning Charge Procedure\n\nScope:\n\nLead-acid batteries can develop reduced de..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter"
+        ]
+      },
+      "length": 960,
+      "preview": "ODYSSEY Battery Reconditioning Charge Procedure Scope: Lead-acid batteries can develop reduced delivered capacity  performance after prolonged periods..."
     },
     {
       "chunk_id": 1,
-      "text": "e battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with a hand-held digital volt meter. Once 10.0V is achieved, disconnect the electrical load or turn off the headlights or other electrical system or device.\n\n2. Begin recharging with an approved charger as listed at www.odysseybattery.com and with appropriate amperage for the capacity of the battery, minimum 40% amperage of the 10 hour capacity rating of the battery. Utilizing chargers that achieve 14.7V during charge and 13.6V in float are ideal. Monitor the batteries terminal voltage with the charger operating to assure 15.0V is not exceeded at any time. Charge the battery until the charging amperage seems to be near zero amps and if the charger has a 13.6V float, float charge for 8-10 hours.\n\n3. If the battery gets hot to the touch (exceeds 125\u2070F), stop charging and allow to cool. Once cool, begin charging again until charge complete.\n\n4. Charging time",
+      "text": "Discharge the battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with a hand-held digital volt meter. Once 10.0V is achiev ed, disconnect the electrical load or turn off the headlights or other el ectrical system or device. 2. Begin recharging with an appr oved charger as listed at www.odysseybattery.com and with appropriate amperage for the c apacity of the battery, minimum 40 amperage of the 10 hour capacity rating of the battery. Utilizing chargers that achieve 14.7V during charge and 13.6V in fl oat are ideal. Monitor the batteries terminal voltage with the charger operating to assure 15.0V is not exceeded at any time. Charge the battery until the charging amperage seems to be near zero amps and if the charger has a 13.6V float, float charge for 8-10 hours. 3. If the battery gets hot to the touch (exceeds 125 \u2070F), stop charging and allow to cool. Once cool, begin charging again until charge complete. 4.",
       "keywords": [
-        "measured",
-        "using",
-        "some",
         "load",
-        "vehicle",
-        "electrical",
-        "under",
-        "connecting",
-        "10.0v",
-        "meter",
-        "battery",
-        "digital",
-        "volt",
+        "touch",
+        "digit",
+        "util",
+        "appropri",
+        "assur",
+        "use",
+        "minimum",
+        "measur",
+        "list",
+        "recharg",
+        "stop",
+        "oat",
+        "electr",
+        "100v",
+        "headlight",
         "head",
-        "discharge",
-        "lights",
-        "with",
-        "hand-held"
+        "devic",
+        "float",
+        "vehicl",
+        "volt",
+        "system",
+        "hour",
+        "apac",
+        "147v"
       ],
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
       "length": 1000,
-      "preview": "e battery using the vehicle head lights or connecting some electrical load to the battery and discha..."
+      "preview": "Discharge the battery using the vehicle head lights or connecting some electrical load to the battery and discharge to 10.0V under load measured with ..."
     },
     {
       "chunk_id": 2,
-      "text": "float, float charge for 8-10 hours.\n\n3. If the battery gets hot to the touch (exceeds 125\u2070F), stop charging and allow to cool. Once cool, begin charging again until charge complete.\n\n4. Charging times can be 6-10 hours depending on the charger amperage rating to the amp-hour rating of the battery. As an example, a 10 amp charger on an ODYSSEY PC925 would take approximately 7-8 hours to fully recharge. 5. Performing more than one discharge and recharge cycle is beneficial to increasing restored capacity.\n\nFor questions, please call 660-429-2165 and ask for ODYSSEY Support.\n\nMarch, 2016",
+      "text": "4. Charging times can be 6-10 hours dependi ng on the charger amperage rating to the amp-hour rating of the battery. As an example, a 10 amp charger on an ODYSSEY PC925 would take approximatel y 7-8 hours to fully recharge. 5. Performing more than one discharge and recharge cycle is beneficial to increasing restored capacity. For questions, please call 660-429- 2165 and ask for ODYSSEY Support. March, 2016",
       "keywords": [
-        "gets",
-        "again",
-        "touch",
-        "cool",
-        "begin",
-        "until",
-        "hours",
-        "charging",
-        "125\u2070f",
-        "stop",
-        "8-10",
-        "float",
-        "battery",
-        "exceeds",
-        "charge",
-        "allow",
-        "once"
+        "would",
+        "approximatel",
+        "one",
+        "cycl",
+        "perform",
+        "question",
+        "restor",
+        "benefici",
+        "recharg",
+        "2016",
+        "march",
+        "660429",
+        "increas",
+        "exampl",
+        "fulli",
+        "hour",
+        "amphour",
+        "610",
+        "amp",
+        "discharg",
+        "charg",
+        "capac",
+        "batteri",
+        "odyssey",
+        "2165"
       ],
-      "length": 591,
-      "preview": "float, float charge for 8-10 hours.\n\n3. If the battery gets hot to the touch (exceeds 125\u2070F), stop c..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 409,
+      "preview": "4. Charging times can be 6-10 hours dependi ng on the charger amperage rating to the amp-hour rating of the battery. As an example, a 10 amp charger o..."
     }
   ],
   "keyword_lookup": {
-    "after": [
+    "boost": [
       0
     ],
-    "capacity": [
+    "back": [
       0
     ],
-    "performance": [
-      0
-    ],
-    "odyssey\u00ae": [
-      0
-    ],
-    "battery": [
+    "cycl": [
       0,
+      2
+    ],
+    "load": [
+      0,
+      1
+    ],
+    "digit": [
+      0,
+      1
+    ],
+    "perform": [
+      0,
+      2
+    ],
+    "action": [
+      0
+    ],
+    "mainten": [
+      0
+    ],
+    "use": [
+      0,
+      1
+    ],
+    "left": [
+      0
+    ],
+    "storag": [
+      0
+    ],
+    "sulfat": [
+      0
+    ],
+    "covert": [
+      0
+    ],
+    "hope": [
+      0
+    ],
+    "measur": [
+      0,
+      1
+    ],
+    "follow": [
+      0
+    ],
+    "prolong": [
+      0
+    ],
+    "even": [
+      0
+    ],
+    "recondit": [
+      0
+    ],
+    "harden": [
+      0
+    ],
+    "nonrevers": [
+      0
+    ],
+    "electr": [
+      0,
+      1
+    ],
+    "100v": [
+      0,
+      1
+    ],
+    "challeng": [
+      0
+    ],
+    "head": [
+      0,
+      1
+    ],
+    "touch": [
+      1
+    ],
+    "util": [
+      1
+    ],
+    "appropri": [
+      1
+    ],
+    "assur": [
+      1
+    ],
+    "minimum": [
+      1
+    ],
+    "list": [
+      1
+    ],
+    "recharg": [
       1,
       2
     ],
-    "develop": [
-      0
-    ],
-    "prolonged": [
-      0
-    ],
-    "batteries": [
-      0
-    ],
-    "were": [
-      0
-    ],
-    "procedure": [
-      0
-    ],
-    "scope:": [
-      0
-    ],
-    "periods": [
-      0
-    ],
-    "lead-acid": [
-      0
-    ],
-    "reduced": [
-      0
-    ],
-    "reconditioning": [
-      0
-    ],
-    "charge": [
-      0,
-      2
-    ],
-    "storage": [
-      0
-    ],
-    "delivered": [
-      0
-    ],
-    "especially": [
-      0
-    ],
-    "measured": [
+    "stop": [
       1
     ],
-    "using": [
+    "oat": [
       1
     ],
-    "some": [
+    "headlight": [
       1
     ],
-    "load": [
+    "devic": [
       1
     ],
-    "vehicle": [
+    "float": [
       1
     ],
-    "electrical": [
-      1
-    ],
-    "under": [
-      1
-    ],
-    "connecting": [
-      1
-    ],
-    "10.0v": [
-      1
-    ],
-    "meter": [
-      1
-    ],
-    "digital": [
+    "vehicl": [
       1
     ],
     "volt": [
       1
     ],
-    "head": [
+    "system": [
       1
     ],
-    "discharge": [
+    "hour": [
+      1,
+      2
+    ],
+    "apac": [
       1
     ],
-    "lights": [
+    "147v": [
       1
     ],
-    "with": [
-      1
-    ],
-    "hand-held": [
-      1
-    ],
-    "gets": [
+    "would": [
       2
     ],
-    "again": [
+    "approximatel": [
       2
     ],
-    "touch": [
+    "one": [
       2
     ],
-    "cool": [
+    "question": [
       2
     ],
-    "begin": [
+    "restor": [
       2
     ],
-    "until": [
+    "benefici": [
       2
     ],
-    "hours": [
+    "2016": [
       2
     ],
-    "charging": [
+    "march": [
       2
     ],
-    "125\u2070f": [
+    "660429": [
       2
     ],
-    "stop": [
+    "increas": [
       2
     ],
-    "8-10": [
+    "exampl": [
       2
     ],
-    "float": [
+    "fulli": [
       2
     ],
-    "exceeds": [
+    "amphour": [
       2
     ],
-    "allow": [
+    "610": [
       2
     ],
-    "once": [
+    "amp": [
+      2
+    ],
+    "discharg": [
+      2
+    ],
+    "charg": [
+      2
+    ],
+    "capac": [
+      2
+    ],
+    "batteri": [
+      2
+    ],
+    "odyssey": [
+      2
+    ],
+    "2165": [
       2
     ]
   },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
+  },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

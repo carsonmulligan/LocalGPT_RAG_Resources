@@ -1,345 +1,359 @@
 {
   "package_id": "readiness_checklist",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\nAdditional Items to Consider Adding to an Emergency Supply Kit:\n\nPrescription medications and glasses\n\nInfant formula and diapers\n\nPet food, water and supplies for your pet\n\nImportant family documents such as copies of insurance policies, identification and bank account records in a portable waterproof container\n\nCash and change\n\nEmergency reference material such as a first aid book or information from www.ready.gov\n\nSleeping bag or warm blanket for each person. Consider additional bedding if you live in a cold-weather climate.\n\nComplete change of clothing including a long sleeved shirt, long pants and sturdy shoes. Consider additional clothing if you live in a cold-weather climate.\n\nFire Extinguisher\n\nMatches in a waterproof container\n\nFeminine supplies, personal hygiene items and hand sanitizer\n\nMess kits, Paper cups, plates and disposable utensils, paper towels\n\nPaper and pencil\n\nBooks, games, puzzles or other activities for children\n\nEmerge",
+      "text": "Emergency Supply List www.ready.gov              Additional Items to Consider Adding to an Emergency Supply Kit: Prescription medications and glasses Infant formula and diapers Pet food , water and supplies for your pet Important family documents such as copies of insurance policies, identification and bank account records in a portable waterproof container Cash and change Emergency reference material such as a first aid book or information from www.ready.gov Sleeping bag or warm blanket for each person. Consider additional bedding if you live in a cold-weather climate. Complete change of clothing including a long sleeved shirt, long pants and sturdy shoes. Consider additional clothing if you live in a cold-weather climate.",
       "keywords": [
-        "supply",
+        "shirt",
+        "refer",
+        "medic",
+        "wwwreadygov",
+        "item",
+        "crisis",
+        "purification",
+        "live",
+        "urgent",
+        "critical",
+        "sleev",
+        "hunting",
+        "cloth",
+        "glass",
+        "list",
+        "sturdi",
+        "liquid",
+        "famili",
         "food",
-        "supplies",
-        "formula",
-        "water",
-        "prescription",
-        "diapers",
-        "medications",
-        "important",
-        "additional",
-        "your",
-        "glasses",
-        "adding",
-        "documents",
-        "kit:",
-        "infant",
-        "family",
+        "addit",
+        "identif",
+        "bag",
+        "nutrition",
         "emergency",
-        "items",
-        "consider"
+        "account"
       ],
-      "length": 1000,
-      "preview": "\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\n\u2751\n\nAdditional Items to Consider Adding to an Emergency Supply..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "water",
+          "food",
+          "knots"
+        ]
+      },
+      "length": 733,
+      "preview": "Emergency Supply List www.ready.gov              Additional Items to Consider Adding to an Emergency Supply Kit: Prescription medications and glasses ..."
     },
     {
       "chunk_id": 1,
-      "text": "pplies, personal hygiene items and hand sanitizer\n\nMess kits, Paper cups, plates and disposable utensils, paper towels\n\nPaper and pencil\n\nBooks, games, puzzles or other activities for children\n\nEmergency Supply List\n\nwww.ready.gov\n\n\u2751 \u2751 \u2751 \u2751 \u2751 \u2751 \u2751\n\n\u2751 \u2751 \u2751 \u2751\n\nRecommended Items to Include in a Basic Emergency Supply Kit:\n\nWater and non-perishable food for several days\n\nExtra cell phone battery or charger\n\nBattery-powered or hand crank radio that can receive NOAA Weather Radio tone alerts and extra batteries\n\nFlashlight and extra batteries\n\nFirst aid kit\n\nWhistle to signal for help\n\nDust mask, to help filter contaminated air and plastic sheeting and duct tape to shelter-in-place\n\nMoist towelettes, garbage bags and plastic ties for personal sanitation\n\nNon-sparking wrench or pliers to turn off utilities\n\nCan opener (if kit contains canned food)\n\nLocal maps\n\nFEMA's Ready Campaign educates and empowers Americans to take some simple steps to prepare for and respond to potential emergencies, incl",
+      "text": "Consider additional clothing if you live in a cold-weather climate. Fire Extinguisher Matches in a waterproof container Feminine supplies, personal hygiene items and hand sanitizer Mess kits, Paper cups, plates and disposable utensils, paper towels Paper and pencil Books, games, puzzles or other activities for children            Recommended Items to Include in a Basic Emergency Supply Kit: Water and no n-perishable food for several days Extra cell phone battery or c harger Battery-powered or hand crank radio that can receive NOAA Weather Radio tone alerts and extra batteries Flashlight and extra batteries First aid kit Whistle to signal for help Dust mask, to help filter contaminated air and plastic sheeting and duct tape to shelter-in-place Moist towelettes, garbage bags and plastic ties for personal sanitation Non-sparking w rench or pliers to turn off utilities Can opener (if kit contains canned food) Local maps FEMAs Ready Campaign educates and empowers Americans to take some simple steps to prepare for and respond to potential emergencies, including those from natural hazards and man-made disasters.",
       "keywords": [
-        "hand",
-        "utensils",
-        "paper",
-        "cups",
-        "personal",
-        "pplies",
+        "emerg",
+        "tone",
+        "flashlight",
+        "item",
+        "air",
+        "whistl",
+        "live",
         "mess",
-        "kits",
-        "items",
-        "towels",
-        "games",
-        "books",
-        "disposable",
-        "puzzles",
-        "plates",
-        "hygiene",
-        "sanitizer",
-        "pencil"
+        "noaa",
+        "cloth",
+        "fema",
+        "shelterinplac",
+        "contain",
+        "disast",
+        "plate",
+        "ration",
+        "weather",
+        "hydration",
+        "local",
+        "suppli",
+        "utensil",
+        "children",
+        "garbag",
+        "campaign",
+        "spark"
       ],
-      "length": 1000,
-      "preview": "pplies, personal hygiene items and hand sanitizer\n\nMess kits, Paper cups, plates and disposable uten..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "medical",
+          "fire",
+          "water",
+          "shelter",
+          "food",
+          "navigation",
+          "signaling",
+          "knots"
+        ]
+      },
+      "length": 1122,
+      "preview": "Consider additional clothing if you live in a cold-weather climate. Fire Extinguisher Matches in a waterproof container Feminine supplies, personal hy..."
     },
     {
       "chunk_id": 2,
-      "text": "ilities\n\nCan opener (if kit contains canned food)\n\nLocal maps\n\nFEMA's Ready Campaign educates and empowers Americans to take some simple steps to prepare for and respond to potential emergencies, including those from natural hazards and man-made disasters. Ready asks individuals to do three key things: get an emergency supply kit, make a family emergency plan, and be informed about the different types of emergencies that could occur and appropriate responses. Everyone should have some basic supplies on hand in order to survive several days if an emergency occurs. This list of emergency supply kit items is only a starting point. It is important that individuals review this list and consider the unique needs of their family, including pets, for items to include. Individuals should also consider having at least two emergency supply kits, one full kit at home and smaller portable kits in their workplace, vehicle or other places they spend time.\n\nFederal Emergency Management Agency Washingt",
+      "text": "Ready asks individuals to do three key things: get an emergency supply kit, make a family emergency plan, and be informed about the different types of emergencies that could occur and appropriate responses. Everyone should have some basic supplies on hand in order to survive several days if an emergency occurs. This list of emergency supply kit items is only a starting point. It is important that individuals review this list and consider the unique needs of their family, including pets, for items to include. Individuals should also consider having at least two emergency supply kits, one full kit at home and smaller portable kits in their workplace, vehicle or other places they spend time. Federal Emergency Management Agency Washington, DC 20472",
       "keywords": [
-        "opener",
-        "food",
-        "some",
-        "educates",
-        "take",
-        "campaign",
-        "contains",
-        "steps",
-        "potential",
-        "respond",
-        "americans",
-        "simple",
-        "ilities",
-        "maps",
-        "ready",
-        "empowers",
-        "fema's",
-        "local",
-        "prepare",
-        "canned"
-      ],
-      "length": 1000,
-      "preview": "ilities\n\nCan opener (if kit contains canned food)\n\nLocal maps\n\nFEMA's Ready Campaign educates and em..."
-    },
-    {
-      "chunk_id": 3,
-      "text": "der having at least two emergency supply kits, one full kit at home and smaller portable kits in their workplace, vehicle or other places they spend time.\n\nFederal Emergency Management Agency Washington, DC 20472",
-      "keywords": [
-        "home",
-        "supply",
-        "spend",
-        "federal",
-        "least",
-        "vehicle",
-        "emergency",
-        "kits",
+        "emerg",
+        "one",
+        "make",
         "smaller",
-        "full",
-        "portable",
-        "having",
-        "places",
-        "their",
-        "workplace",
-        "other",
-        "time",
-        "they"
+        "spend",
+        "item",
+        "least",
+        "appropri",
+        "crisis",
+        "differ",
+        "urgent",
+        "critical",
+        "feder",
+        "basic",
+        "list",
+        "individu",
+        "famili",
+        "everyon",
+        "surviv",
+        "washington",
+        "emergency",
+        "two",
+        "inform",
+        "also",
+        "vehicl"
       ],
-      "length": 212,
-      "preview": "der having at least two emergency supply kits, one full kit at home and smaller portable kits in the..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 754,
+      "preview": "Ready asks individuals to do three key things: get an emergency supply kit, make a family emergency plan, and be informed about the different types of..."
     }
   ],
   "keyword_lookup": {
-    "supply": [
-      0,
-      3
+    "shirt": [
+      0
     ],
-    "food": [
+    "refer": [
+      0
+    ],
+    "medic": [
+      0
+    ],
+    "wwwreadygov": [
+      0
+    ],
+    "item": [
+      0,
+      1,
+      2
+    ],
+    "crisis": [
       0,
       2
     ],
-    "supplies": [
+    "purification": [
       0
     ],
-    "formula": [
+    "live": [
+      0,
+      1
+    ],
+    "urgent": [
+      0,
+      2
+    ],
+    "critical": [
+      0,
+      2
+    ],
+    "sleev": [
       0
     ],
-    "water": [
+    "hunting": [
       0
     ],
-    "prescription": [
+    "cloth": [
+      0,
+      1
+    ],
+    "glass": [
       0
     ],
-    "diapers": [
+    "list": [
+      0,
+      2
+    ],
+    "sturdi": [
       0
     ],
-    "medications": [
+    "liquid": [
       0
     ],
-    "important": [
+    "famili": [
+      0,
+      2
+    ],
+    "food": [
       0
     ],
-    "additional": [
+    "addit": [
       0
     ],
-    "your": [
+    "identif": [
       0
     ],
-    "glasses": [
+    "bag": [
       0
     ],
-    "adding": [
-      0
-    ],
-    "documents": [
-      0
-    ],
-    "kit:": [
-      0
-    ],
-    "infant": [
-      0
-    ],
-    "family": [
+    "nutrition": [
       0
     ],
     "emergency": [
       0,
-      3
+      2
     ],
-    "items": [
-      0,
-      1
-    ],
-    "consider": [
+    "account": [
       0
     ],
-    "hand": [
+    "emerg": [
+      1,
+      2
+    ],
+    "tone": [
       1
     ],
-    "utensils": [
+    "flashlight": [
       1
     ],
-    "paper": [
+    "air": [
       1
     ],
-    "cups": [
-      1
-    ],
-    "personal": [
-      1
-    ],
-    "pplies": [
+    "whistl": [
       1
     ],
     "mess": [
       1
     ],
-    "kits": [
-      1,
-      3
-    ],
-    "towels": [
+    "noaa": [
       1
     ],
-    "games": [
+    "fema": [
       1
     ],
-    "books": [
+    "shelterinplac": [
       1
     ],
-    "disposable": [
+    "contain": [
       1
     ],
-    "puzzles": [
+    "disast": [
       1
     ],
-    "plates": [
+    "plate": [
       1
     ],
-    "hygiene": [
+    "ration": [
       1
     ],
-    "sanitizer": [
+    "weather": [
       1
     ],
-    "pencil": [
+    "hydration": [
       1
-    ],
-    "opener": [
-      2
-    ],
-    "some": [
-      2
-    ],
-    "educates": [
-      2
-    ],
-    "take": [
-      2
-    ],
-    "campaign": [
-      2
-    ],
-    "contains": [
-      2
-    ],
-    "steps": [
-      2
-    ],
-    "potential": [
-      2
-    ],
-    "respond": [
-      2
-    ],
-    "americans": [
-      2
-    ],
-    "simple": [
-      2
-    ],
-    "ilities": [
-      2
-    ],
-    "maps": [
-      2
-    ],
-    "ready": [
-      2
-    ],
-    "empowers": [
-      2
-    ],
-    "fema's": [
-      2
     ],
     "local": [
+      1
+    ],
+    "suppli": [
+      1
+    ],
+    "utensil": [
+      1
+    ],
+    "children": [
+      1
+    ],
+    "garbag": [
+      1
+    ],
+    "campaign": [
+      1
+    ],
+    "spark": [
+      1
+    ],
+    "one": [
       2
     ],
-    "prepare": [
+    "make": [
       2
-    ],
-    "canned": [
-      2
-    ],
-    "home": [
-      3
-    ],
-    "spend": [
-      3
-    ],
-    "federal": [
-      3
-    ],
-    "least": [
-      3
-    ],
-    "vehicle": [
-      3
     ],
     "smaller": [
-      3
+      2
     ],
-    "full": [
-      3
+    "spend": [
+      2
     ],
-    "portable": [
-      3
+    "least": [
+      2
     ],
-    "having": [
-      3
+    "appropri": [
+      2
     ],
-    "places": [
-      3
+    "differ": [
+      2
     ],
-    "their": [
-      3
+    "feder": [
+      2
     ],
-    "workplace": [
-      3
+    "basic": [
+      2
     ],
-    "other": [
-      3
+    "individu": [
+      2
     ],
-    "time": [
-      3
+    "everyon": [
+      2
     ],
-    "they": [
-      3
+    "surviv": [
+      2
+    ],
+    "washington": [
+      2
+    ],
+    "two": [
+      2
+    ],
+    "inform": [
+      2
+    ],
+    "also": [
+      2
+    ],
+    "vehicl": [
+      2
     ]
+  },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
   },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

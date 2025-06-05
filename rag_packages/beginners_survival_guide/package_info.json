@@ -2,28 +2,38 @@
   "package_id": "beginners_survival_guide",
   "name": "Beginner's Survival Guide",
   "description": "Complete beginner's guide to survival skills and techniques",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:25:06.951009",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:53.283605",
   "source_pdf": "Beginner-s-Guide_Ver20_01082020.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "beginners_survival_guide.vdb.npz",
-    "size_bytes": 226218,
+    "size_bytes": 120255,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "beginners_survival_guide_ios.index.json",
-    "size_bytes": 80631,
+    "size_bytes": 83505,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 41,
-    "embedding_dim": 384,
-    "total_embeddings": 41
+    "num_chunks": 38,
+    "embedding_dim": 768,
+    "total_embeddings": 38,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "high",
   "category": "comprehensive_survival",
@@ -35,7 +45,7 @@
     "comprehensive"
   ],
   "checksum": {
-    "vdb": "b38a344adff5980f5507fe81e682e624cc099ef259f2acb4f601add9bc069e4b",
-    "index": "8e869865ce01fdfd527e9bf6bf288043c52d6d3de11b9c546347f46a5d9e0713"
+    "vdb": "c6fa97ae54b49ebddf98d6a78012796b9bf3b61ea4232a77a196c3073db75360",
+    "index": "a9247c39f401debbe7628ed7eaf8f0d911b67b4ac4bcb3b036267c90c4b2ef9d"
   }
 }

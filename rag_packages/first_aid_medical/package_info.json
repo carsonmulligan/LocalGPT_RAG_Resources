@@ -2,28 +2,38 @@
   "package_id": "first_aid_medical",
   "name": "First Aid & Medical Emergency Guide",
   "description": "Red Cross certified first aid, CPR, and AED procedures",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:23:49.078496",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:40:55.779367",
   "source_pdf": "American-Red-Cross-First-Aid-CPR-AED-Participants-Manual.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "first_aid_medical.vdb.npz",
-    "size_bytes": 3504760,
+    "size_bytes": 1814518,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "first_aid_medical_ios.index.json",
-    "size_bytes": 1228319,
+    "size_bytes": 1278883,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 633,
-    "embedding_dim": 384,
-    "total_embeddings": 633
+    "num_chunks": 578,
+    "embedding_dim": 768,
+    "total_embeddings": 578,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "critical",
   "category": "medical_emergency",
@@ -36,7 +46,7 @@
     "health"
   ],
   "checksum": {
-    "vdb": "af80b40fd9c0012c5dd48f64433507db8d115be09c0cf29a28ff88d8f976595c",
-    "index": "96fcad8fd8c6753bb2faea9405751adb9c6cbb9e16199b7363e22083ff57a40c"
+    "vdb": "9e88829715cbfc6299e7dd0d48bca9ea68fdceced42e9221948da6eb8e493e58",
+    "index": "e6f149df99484c78ed6f48161888b7b7647e9c34a1d160e51bd101c26f8eb7c9"
   }
 }

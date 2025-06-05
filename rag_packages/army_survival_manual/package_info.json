@@ -2,28 +2,38 @@
   "package_id": "army_survival_manual",
   "name": "US Army Survival Manual",
   "description": "Complete military survival guide covering all environments and situations",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:24:45.760825",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:36.250289",
   "source_pdf": "FM21-76_SurvivalManual.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "army_survival_manual.vdb.npz",
-    "size_bytes": 3674068,
+    "size_bytes": 1878521,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "army_survival_manual_ios.index.json",
-    "size_bytes": 1262235,
+    "size_bytes": 1323820,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 664,
-    "embedding_dim": 384,
-    "total_embeddings": 664
+    "num_chunks": 593,
+    "embedding_dim": 768,
+    "total_embeddings": 593,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "critical",
   "category": "comprehensive_survival",
@@ -35,7 +45,7 @@
     "essential"
   ],
   "checksum": {
-    "vdb": "7d045627a0b8e4fe4ff583ccad8bd49e5ecc5e5a503474c67d194c8788741dae",
-    "index": "b705580c42f685d8ca27b4f8c262bb8c193740d87d29d2319d0ba10daf221b39"
+    "vdb": "b15560d9693b1e6365b9d81bb1877b9951d19d44db52acb5b2d7e317f3aa7f94",
+    "index": "2d701788d6366b130be79b0616b4fe61b1708e9b195bbaf6405d3246787e174c"
   }
 }

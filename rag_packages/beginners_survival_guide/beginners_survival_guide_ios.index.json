@@ -1,2593 +1,3161 @@
 {
   "package_id": "beginners_survival_guide",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "BEGINNER\u2019S\n\nGUIDE TO SOLAR ENERGY\n\n1\n\n2\n\nBeginners Guide To Solar Energy\n\nT A B L E O F C O N T E N T S\n\nWhy You Should Choose a Solar System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nThe Benefits of Solar Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nHow a Grid System Works . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nHow Solar Systems Make a Little Love from the Sun Go a Long Way . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nSolar Panels . . . . .",
+      "text": "1 BEGINNERS GUIDE TO SOLAR ENERGY 2 3Beginners Guide T o Solar Energy Why You Should Choose a Solar System .......................................................................................... The Benefits of Solar Energy ...................................................................................................... How a Grid System Works ........................................................................................................ How Solar Systems Make a Little Love from the Sun Go a Long Way ............................................................. Solar Panels ....................................................................................................................... Inverter Solutions .................................................................................................................",
       "keywords": [
-        "beginner\u2019s",
-        "energy",
-        "benefits",
+        "way",
         "grid",
-        "should",
+        "love",
+        "make",
+        "panel",
+        "energi",
+        "littl",
+        "benefit",
+        "long",
         "system",
-        "systems",
-        "choose",
-        "beginners",
-        "solar",
-        "works",
-        "guide"
+        "3beginn",
+        "choos",
+        "work",
+        "guid",
+        "sun",
+        "beginn",
+        "invert",
+        "solut",
+        "solar"
       ],
-      "length": 999,
-      "preview": "BEGINNER\u2019S\n\nGUIDE TO SOLAR ENERGY\n\n1\n\n2\n\nBeginners Guide To Solar Energy\n\nT A B L E O F C O N T E N ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 850,
+      "preview": "1 BEGINNERS GUIDE TO SOLAR ENERGY 2 3Beginners Guide T o Solar Energy Why You Should Choose a Solar System .............................................."
     },
     {
       "chunk_id": 1,
-      "text": "Systems Make a Little Love from the Sun Go a Long Way . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nSolar Panels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nInverter Solutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nMounting Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nMetering Your Solar System . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "text": "Mounting Systems ................................................................................................................ Metering Your Solar System ...................................................................................................... Installing Solar Panels for Your Solar System ...................................................................................... Tilting and Orientation ............................................................................................................ Daily Routine ...................................................................................................................... Shading ........................................................................................................................... Mounting .........................................................................................................................",
       "keywords": [
-        "from",
-        "long",
-        "make",
-        "mounting",
-        "inverter",
-        "your",
+        "meter",
+        "tilt",
+        "panel",
+        "routin",
         "system",
-        "systems",
-        "metering",
-        "solutions",
-        "love",
-        "little",
-        "solar",
-        "panels"
+        "orient",
+        "daili",
+        "shade",
+        "instal",
+        "mount",
+        "solar"
       ],
-      "length": 999,
-      "preview": "Systems Make a Little Love from the Sun Go a Long Way . . . . . . . . . . . . . . . . . . . . . . . ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 921,
+      "preview": "Mounting Systems ................................................................................................................ Metering Your Solar ..."
     },
     {
       "chunk_id": 2,
-      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nMetering Your Solar System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nInstalling Solar Panels for Your Solar System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nTilting and Orientation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nDaily Routine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "text": "Mounting ......................................................................................................................... Installing Panels for Greater Performance ......................................................................................... How Many Panels Does Your Solar System Need? ................................................................................ How Long Do Solar Systems Last? ................................................................................................ Solar Panel Sizes .................................................................................................................. Why Panel Efficiency Matters .....................................................................................................",
       "keywords": [
-        "orientation",
-        "routine",
-        "tilting",
-        "your",
+        "panel",
+        "effici",
+        "perform",
+        "last",
+        "long",
+        "size",
+        "need",
+        "greater",
         "system",
-        "metering",
-        "daily",
-        "solar",
-        "panels",
-        "installing"
+        "matter",
+        "instal",
+        "mount",
+        "mani",
+        "solar"
       ],
-      "length": 1000,
-      "preview": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 781,
+      "preview": "Mounting ......................................................................................................................... Installing Panels f..."
     },
     {
       "chunk_id": 3,
-      "text": ". . . .\n\nDaily Routine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nShading . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..\n\nMounting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nInstalling Panels for Greater Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nHow Many Pane",
+      "text": "Incentives and Financing for Going Solar .......................................................................................... Are There Incentives Available For Your Solar System ............................................................................. Financing Your Solar Project ...................................................................................................... Details on How to Choose a Solar Company ......................................................................................",
       "keywords": [
-        "many",
-        "pane",
-        "routine",
-        "performance",
-        "shading",
-        "greater",
-        "mounting",
-        "daily",
-        "panels",
-        "installing"
+        "incent",
+        "detail",
+        "financ",
+        "avail",
+        "project",
+        "system",
+        "compani",
+        "choos",
+        "solar"
       ],
-      "length": 1000,
-      "preview": ". . . .\n\nDaily Routine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 522,
+      "preview": "Incentives and Financing for Going Solar .......................................................................................... Are There Incentiv..."
     },
     {
       "chunk_id": 4,
-      "text": "ormance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nHow Many Panels Does Your Solar System Need? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nHow Long Do Solar Systems Last? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..\n\nSolar Panel Sizes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nWhy Panel Efficiency Matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "text": "Details on How to Choose a Solar Company ...................................................................................... Questions to Ask Before You Buy ................................................................................................. 25-year Performance Warranty Info .............................................................................................. A d d i t i o n a l T i p s t o G e t S t a r t e d W i t h S o l a r .........................................................................................TABLE OF CONTENTS 4 5 6 7 7 7 8 8 9 9 9 9 10 10 11 11 12 12 13 13 13 14 15 16 17 4 Why You Should Choose a Solar System Over the past five years, the cost of installing a solar system has gone down significantly. Now, solar energy can power a home throughout the day and greatly reduce how much a family spends on energy each year . Those who dont take advantage of the natural energy of the sun will always pay for their electricity.",
       "keywords": [
-        "many",
-        "long",
-        "need",
-        "sizes",
-        "your",
-        "last",
-        "efficiency",
+        "advantag",
+        "spend",
+        "greatli",
+        "perform",
+        "question",
+        "content",
+        "significantli",
+        "buy",
+        "energi",
+        "five",
+        "cost",
+        "alway",
+        "famili",
+        "electr",
+        "much",
+        "natur",
+        "power",
         "system",
-        "systems",
-        "matters",
-        "solar",
-        "ormance",
-        "panels",
-        "does",
-        "panel"
+        "home",
+        "compani",
+        "tabl",
+        "choos",
+        "instal",
+        "past",
+        "gone"
       ],
-      "length": 1000,
-      "preview": "ormance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 980,
+      "preview": "Details on How to Choose a Solar Company ...................................................................................... Questions to Ask Befor..."
     },
     {
       "chunk_id": 5,
-      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nWhy Panel Efficiency Matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nIncentives and Financing for Going Solar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nAre There Incentives Available For Your Solar System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nFinancing Your Solar Project . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nDetails on How to Choose a Solar Company",
+      "text": "Those who dont take advantage of the natural energy of the sun will always pay for their electricity. Paying for electricity never goes away, no matter how much or little you use. By harnessing the power of solar energy, you own a major part of the power you use. Choosing a solar system is an investment that immediately begins to pay for itself through the savings you get from relying on a renewable energy source for power . Many homeowners pay off their investment in five to six years as a result of savings realized through solar (though results may vary). Installing LG Solars high-efficiency panels on your home helps you benefit from the suns love and create a better relationship with energy consumption needs. T o help you select and install your solar system, an independent local installer , or LG PRO Installer trained by LG, will visit your home to assess its solar potential.",
       "keywords": [
-        "financing",
-        "project",
-        "available",
-        "your",
+        "advantag",
+        "invest",
         "panel",
-        "system",
-        "there",
-        "incentives",
-        "matters",
-        "details",
-        "choose",
-        "solar",
-        "going",
-        "efficiency"
+        "har",
+        "save",
+        "love",
+        "train",
+        "use",
+        "goe",
+        "vari",
+        "may",
+        "matter",
+        "independ",
+        "visit",
+        "energi",
+        "never",
+        "littl",
+        "five",
+        "alway",
+        "relationship",
+        "electr",
+        "much",
+        "natur",
+        "power",
+        "benefit"
       ],
-      "length": 999,
-      "preview": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nWhy Panel Efficiency Matters . . . . ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 892,
+      "preview": "Those who dont take advantage of the natural energy of the sun will always pay for their electricity. Paying for electricity never goes away, no matte..."
     },
     {
       "chunk_id": 6,
-      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nDetails on How to Choose a Solar Company . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nQuestions to Ask Before You Buy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n25-year Performance Warranty Info . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..\n\nAdditional Tips to Get Started With Solar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "text": "T o help you select and install your solar system, an independent local installer , or LG PRO Installer trained by LG, will visit your home to assess its solar potential. You can find an LG PRO who will supply a free detailed quote by getting started at: https:www.lg.comussolargetstarted 5Installing solar panels enables you to generate your own electricity rather than buying it from your electric company. This enables you to save money as every kWh of electricity you use from your solar system is a kWh of electricity you do not have to buy from your electric company. By using electricity generated from the suns love, we reduce the need to produce electricity from fossil fuels such as coal and gas, which create carbon dioxide (CO2). This can reduce the potential for global warming and create a more sustainable and cleaner energy mix. With your own solar system, you can embrace the sun and the energy it is able to generate.",
       "keywords": [
-        "performance",
-        "before",
-        "additional",
-        "company",
-        "choose",
-        "details",
-        "questions",
-        "solar",
-        "info",
-        "with",
-        "started",
-        "warranty",
-        "25-year",
-        "tips"
+        "quot",
+        "panel",
+        "train",
+        "love",
+        "save",
+        "use",
+        "find",
+        "enabl",
+        "visit",
+        "independ",
+        "buy",
+        "energi",
+        "sustain",
+        "electr",
+        "cleaner",
+        "dioxid",
+        "kwh",
+        "abl",
+        "wwwlgcomussolargetstart",
+        "system",
+        "home",
+        "compani",
+        "free",
+        "embrac",
+        "assess"
       ],
-      "length": 999,
-      "preview": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 935,
+      "preview": "T o help you select and install your solar system, an independent local installer , or LG PRO Installer trained by LG, will visit your home to assess ..."
     },
     {
       "chunk_id": 7,
-      "text": ". . . . . . . . . ..\n\nAdditional Tips to Get Started With Solar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\n4\n\n5\n\n6\n\n7\n\n7\n\n7\n\n8\n\n8\n\n9\n\n9\n\n9\n\n9\n\n10\n\n10\n\n11\n\n11\n\n12\n\n12\n\n13\n\n13\n\n13\n\n14\n\n15\n\n16\n\n17\n\n3\n\n4\n\nWhy You Should Choose a Solar System\n\nOver the past five years, the cost of installing a solar system has gone down significantly. Now, solar energy can power a home throughout the day and greatly reduce how much a family spends on energy each year.\n\nThose who don\u2019t take advantage of the natural energy of the sun will always pay for their electricity. Paying for electricity never goes away, no matter how much or little you use.\n\nBy harnessing the power of solar energy, you own a major part of the power you use. Choosing a solar system is an investment that immediately begins to pay for itself through the savings you get from relying on a renewable energy",
+      "text": "With your own solar system, you can embrace the sun and the energy it is able to generate. This reduces your reliance on fossil fuels while increasing your control over your future electricity needs, expenses and lifestyle. If you add an energy storage system to your solar array, you gain even more control over your energy usage and costs. High-quality solar systems are a reliable power source. The sun rises and sets every day, and when the sun shines, solar panels generate electricity. While the weather and seasons vary, the amount of electricity that solar panels generate is predictable, and you can plan accordingly to get all the love from the sun you need to power your home. LG Solars high-efficiency panels are designed to capture more of the sun, more of the time too, which helps expand how you power your home. You can also increase the financial benefits of your solar system by changing the times you operate your household appliances.",
       "keywords": [
-        "gone",
-        "significantly",
-        "additional",
-        "should",
-        "down",
-        "system",
-        "five",
-        "choose",
-        "past",
-        "solar",
-        "with",
-        "over",
-        "installing",
-        "started",
+        "rise",
+        "set",
+        "panel",
+        "love",
+        "financi",
+        "oper",
+        "household",
+        "vari",
+        "storag",
+        "relianc",
+        "energi",
         "cost",
-        "years",
-        "tips"
+        "even",
+        "solar",
+        "electr",
+        "amount",
+        "highqual",
+        "increas",
+        "power",
+        "lifestyl",
+        "expand",
+        "benefit",
+        "higheffici",
+        "abl",
+        "also"
       ],
-      "length": 999,
-      "preview": ". . . . . . . . . ..\n\nAdditional Tips to Get Started With Solar . . . . . . . . . . . . . . . . . . ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "signaling",
+          "knots"
+        ]
+      },
+      "length": 954,
+      "preview": "With your own solar system, you can embrace the sun and the energy it is able to generate. This reduces your reliance on fossil fuels while increasing..."
     },
     {
       "chunk_id": 8,
-      "text": "lar energy, you own a major part of the power you use. Choosing a solar system is an investment that immediately begins to pay for itself through the savings you get from relying on a renewable energy source for power.\n\nMany homeowners pay off their investment in five to six years as a result of savings realized through solar (though results may vary).\n\nInstalling LG Solar\u2019s high-efficiency panels on your home helps you benefit from the sun\u2019s love and create a better relationship with energy consumption needs.\n\nTo help you select and install your solar system, an independent local installer, or LG PRO Installer trained by LG, will visit your home to assess its solar potential. You can find an LG PRO who will supply a free detailed quote by getting started at:\n\nhttps://www.lg.com/us/solar/getstarted\n\nThe Benefits of Solar Energy\n\n01\n\n02\n\n03\n\n04\n\nS O L A R P O W E R C A N S A V E Y O U M O N E Y\n\nInstalling solar panels enables you to generate your own electricity rather than buying it f",
+      "text": "You can also increase the financial benefits of your solar system by changing the times you operate your household appliances. For example, turning your washing machine on as you leave home in the morning instead of washing your clothes at night will avoid the higher electricity rates charged by some utilities during peak usage times. If you install an energy storage system, you can use the energy stored from your solar system during those times.SOLAR POWER CAN SAVE YOU MONEY ENVIRONMENTAL BENEFITS ENERGY INDEPENDENCE ENERGY RELIABILITY 01 02 03 04The Benefits of Solar Energy 6Homes in the United States are connected to the electricity grid via power lines. Our electricity system uses alternating current (AC), but the electricity generated by solar panels consists of variable direct current (DC).",
       "keywords": [
-        "from",
-        "immediately",
-        "relying",
-        "system",
-        "begins",
-        "renewable",
-        "savings",
-        "major",
+        "grid",
+        "panel",
+        "financi",
+        "store",
+        "save",
+        "util",
+        "household",
         "use",
-        "energy",
-        "investment",
-        "source",
-        "through",
-        "that",
-        "itself",
+        "night",
+        "storag",
+        "independ",
+        "energi",
+        "cloth",
+        "peak",
+        "electr",
+        "increas",
+        "benefit",
         "power",
-        "choosing",
-        "solar",
-        "part"
+        "exampl",
+        "also",
+        "system",
+        "home",
+        "higher",
+        "state",
+        "direct"
       ],
-      "length": 1000,
-      "preview": "lar energy, you own a major part of the power you use. Choosing a solar system is an investment that..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 807,
+      "preview": "You can also increase the financial benefits of your solar system by changing the times you operate your household appliances. For example, turning yo..."
     },
     {
       "chunk_id": 9,
-      "text": "etstarted\n\nThe Benefits of Solar Energy\n\n01\n\n02\n\n03\n\n04\n\nS O L A R P O W E R C A N S A V E Y O U M O N E Y\n\nInstalling solar panels enables you to generate your own electricity rather than buying it from your electric company. This enables you to save money as every kW/h of electricity you use from your solar system is a kW/h of electricity you do not have to buy from your electric company.\n\nE N V I R O N M E N T A L B E N E F I T S\n\nBy using electricity generated from the sun\u2019s love, we reduce the need to produce electricity from fossil fuels such as coal and gas, which create carbon dioxide (CO2). This can reduce the potential for global warming and create a more sustainable and cleaner energy mix.\n\nE N E R G Y I N D E P E N D E N C E\n\nWith your own solar system, you can embrace the sun and the energy it is able to generate. This reduces your reliance on fossil fuels while increasing your control over your future electricity needs, expenses and lifestyle. If you add an energy storage",
+      "text": "Our electricity system uses alternating current (AC), but the electricity generated by solar panels consists of variable direct current (DC). T o transform the DC electricity into AC electricity for ordinary household use, solar systems use micro inverters attached to each solar panel or a central string inverter attached to a string of connected solar panels. There is also a third possible inverter solution - power optimizers. These are a variance of the string inverter and the micro inverter . Once youre in the process of getting your solar system, ask your authorized LG PRO Installer for advice on which of these inverter solutions is the most suitable for you. Quality invertermicro inverter solutions include Fronius, SMA, SolarEdge and Enphase brands. T oday, houses with grid-connected solar systems consume solar-generated electricity first, before switching to the electricity grid if more electricity is required than the solar system can generate.",
       "keywords": [
-        "benefits",
-        "energy",
-        "from",
-        "enables",
-        "electricity",
+        "grid",
+        "panel",
+        "oday",
+        "froniu",
+        "advic",
+        "household",
+        "use",
+        "hous",
+        "enphas",
+        "suitabl",
+        "brand",
+        "string",
+        "sma",
+        "solaredg",
+        "optim",
         "your",
-        "company",
-        "this",
-        "rather",
-        "than",
-        "buying",
-        "generate",
-        "solar",
-        "electric",
-        "panels",
-        "etstarted",
-        "installing"
+        "electr",
+        "gridconnect",
+        "power",
+        "also",
+        "system",
+        "invertermicro",
+        "direct",
+        "attach",
+        "instal"
       ],
-      "length": 1000,
-      "preview": "etstarted\n\nThe Benefits of Solar Energy\n\n01\n\n02\n\n03\n\n04\n\nS O L A R P O W E R C A N S A V E Y O U M O..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 965,
+      "preview": "Our electricity system uses alternating current (AC), but the electricity generated by solar panels consists of variable direct current (DC). T o tran..."
     },
     {
       "chunk_id": 10,
-      "text": "and the energy it is able to generate. This reduces your reliance on fossil fuels while increasing your control over your future electricity needs, expenses and lifestyle. If you add an energy storage system to your solar array, you gain even more control over your energy usage and costs.\n\nE N E R G Y R E L I A B I L I T Y\n\nHigh-quality solar systems are a reliable power source. The sun rises and sets every day, and when the sun shines, solar panels generate electricity. While the weather and seasons vary, the amount of electricity that solar panels generate is predictable, and you can plan accordingly to get all the love from the sun you need to power your home. LG Solar\u2019s high-efficiency panels are designed to capture more of the sun, more of the time too, which helps expand how you power your home. You can also increase the financial benefits of your solar system by changing the times you operate your household appliances. For example, turning your washing machine on as you leave ho",
+      "text": "Grid-connected solar systems can also feed electricity back to the grid if too much electricity is generated through your installation for the immediate needs of your home. Unless you add storage batteries to your system, a grid-connected solar system is unable to store power in your home for use at night.A solar system is made up of multiple solar photovoltaic (PV) panels, a DC to AC power converter (inverter solution) and a framing system to hold the solar panels in place.",
       "keywords": [
-        "energy",
-        "future",
-        "while",
-        "fuels",
-        "needs",
-        "able",
-        "this",
-        "your",
-        "electricity",
-        "lifestyle",
-        "reduces",
-        "fossil",
-        "increasing",
-        "generate",
-        "reliance",
-        "over",
-        "control",
-        "expenses"
+        "back",
+        "grid",
+        "panel",
+        "store",
+        "use",
+        "storag",
+        "nighta",
+        "feed",
+        "hold",
+        "electr",
+        "much",
+        "gridconnect",
+        "power",
+        "unless",
+        "also",
+        "system",
+        "home",
+        "add",
+        "instal",
+        "made",
+        "multipl",
+        "batteri",
+        "photovolta",
+        "immedi",
+        "unabl"
       ],
-      "length": 1000,
-      "preview": "and the energy it is able to generate. This reduces your reliance on fossil fuels while increasing y..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 479,
+      "preview": "Grid-connected solar systems can also feed electricity back to the grid if too much electricity is generated through your installation for the immedia..."
     },
     {
       "chunk_id": 11,
-      "text": "r your home. You can also increase the financial benefits of your solar system by changing the times you operate your household appliances. For example, turning your washing machine on as you leave home in the morning instead of washing your clothes at night will avoid the higher electricity rates charged by some utilities during peak usage times. If you install an energy storage system, you can use the energy stored from your solar system during those times.\n\n5\n\n6\n\nHow a Grid System Works\n\nA solar system is made up of multiple solar photovoltaic (PV) panels, a DC to AC power converter (inverter solution) and a framing system to hold the solar panels in place.\n\nSolar panels are generally fitted on the roof facing a southern, easterly or westerly direction.\n\nGRID CONNECTED HOME WITHOUT BATTERIES\n\nINVERTER SOLUTION\n\nSOLAR PANELS\n\nDC\n\nAC\n\nAC\n\nAC\n\nAC\n\nGRID\n\nSOLAR ENERGY EXPORTED\n\nELECTRICITY METER\n\nSWITCHBOARD\n\nSOLAR ELECTRICITY USED IN HOUSE\n\nGRID CONNECTED HOME WITH BATTERIES\n\nINVERTER S",
+      "text": "Solar panels are generally fitted on the roof facing a southern, easterly or westerly direction.How a Grid System Works DC AC AC AC AC DCAC DC AC AC AC ACGRID C ONNE CTED HOME WITHOUT B ATTERIES GRID C ONNE CTED HOME WITH B ATTERIESINVERTER SOLUTION SOLAR PANELS SOLAR PANELSINVERTER SOLUTIONELECTRICIT Y METERSOLAR ENERGY EXPORTED SOLAR ENERGY EXPORTED ELECTRICIT Y METERSWIT CHBO ARD SWIT CHBO ARDINVERTER CHARGERBATTERIESSOLAR ELE CTRICIT Y USED IN HOUSE SOLAR ELE CTRICIT Y USED IN HOUSEGRID GRID 7A solar system is made up of several key components, all of which combine to generate electricity, regulate and control the flow of the electricity and to connect and mount the solar system to your home. A grid-connected solar system is comprised of panels, a string inverter or micro-inverters or optimizers, a roof mounting system and electrical accessories including circuit breakers and wires.",
       "keywords": [
-        "also",
-        "benefits",
-        "home",
-        "times",
-        "financial",
-        "household",
-        "appliances",
-        "your",
-        "increase",
-        "example",
-        "machine",
-        "system",
-        "washing",
-        "turning",
-        "solar",
-        "operate",
-        "changing"
+        "grid",
+        "combin",
+        "panel",
+        "atteriesinvert",
+        "solutionelectricit",
+        "face",
+        "fit",
+        "ard",
+        "southern",
+        "use",
+        "meterswit",
+        "hous",
+        "westerli",
+        "ele",
+        "ardinvert",
+        "metersolar",
+        "energi",
+        "swit",
+        "string",
+        "optim",
+        "electr",
+        "compris",
+        "cted",
+        "onn",
+        "gridconnect"
       ],
-      "length": 1000,
-      "preview": "r your home. You can also increase the financial benefits of your solar system by changing the times..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "navigation"
+        ]
+      },
+      "length": 899,
+      "preview": "Solar panels are generally fitted on the roof facing a southern, easterly or westerly direction.How a Grid System Works DC AC AC AC AC DCAC DC AC AC A..."
     },
     {
       "chunk_id": 12,
-      "text": "ERIES\n\nINVERTER SOLUTION\n\nSOLAR PANELS\n\nDC\n\nAC\n\nAC\n\nAC\n\nAC\n\nGRID\n\nSOLAR ENERGY EXPORTED\n\nELECTRICITY METER\n\nSWITCHBOARD\n\nSOLAR ELECTRICITY USED IN HOUSE\n\nGRID CONNECTED HOME WITH BATTERIES\n\nINVERTER SOLUTION\n\nSOLAR PANELS\n\nDC\n\nAC\n\nDC\n\nINVERTER CHARGER\n\nBATTERIES\n\nAC\n\nAC\n\nAC\n\nAC\n\nGRID\n\nSOLAR ENERGY EXPORTED\n\nELECTRICITY METER\n\nSWITCHBOARD\n\nSOLAR ELECTRICITY USED IN HOUSE\n\nHomes in the United States are connected to the electricity grid via power lines. Our electricity system uses alternating current (AC), but the electricity generated by solar panels consists of variable direct current (DC). To transform the DC electricity into AC electricity for ordinary household use, solar systems use micro inverters attached to each solar panel or a central string inverter attached to a string of connected solar panels.\n\ngenerated electricity first, before switching to the electricity grid if more electricity is required than the solar system can generate. Grid-connected solar systems can also feed",
+      "text": "A grid-connected solar system is comprised of panels, a string inverter or micro-inverters or optimizers, a roof mounting system and electrical accessories including circuit breakers and wires. It is important that all components work together , with no component compromising the performance, safety or life expectancy of any other component.How Solar Systems Make A Little Love From the Sun Go A Long Way Solar panels on roofs of homes generate clean energy by converting sunlight into usable electricity. This conversion takes place within the solar cells and is a process that requires no moving parts. A solar inverter is one of the most important elements of the solar system. It converts the variable direct current (DC) output of a photovoltaic (PV) solar panel into a 240V alternating current (AC). This AC electricity can be fed into your home to operate your household appliances.",
       "keywords": [
-        "energy",
-        "grid",
+        "way",
+        "one",
+        "togeth",
+        "panel",
+        "make",
+        "love",
+        "perform",
+        "household",
+        "safety",
+        "sunlight",
+        "energi",
+        "string",
+        "littl",
+        "optim",
+        "compris",
+        "electr",
+        "gridconnect",
+        "convers",
+        "compon",
+        "long",
+        "usabl",
+        "system",
+        "accessori",
         "home",
-        "connected",
-        "electricity",
-        "inverter",
-        "house",
-        "meter",
-        "used",
-        "exported",
-        "eries",
-        "solar",
-        "with",
-        "panels",
-        "solution",
-        "switchboard"
+        "direct"
       ],
-      "length": 999,
-      "preview": "ERIES\n\nINVERTER SOLUTION\n\nSOLAR PANELS\n\nDC\n\nAC\n\nAC\n\nAC\n\nAC\n\nGRID\n\nSOLAR ENERGY EXPORTED\n\nELECTRICITY..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": []
+      },
+      "length": 891,
+      "preview": "A grid-connected solar system is comprised of panels, a string inverter or micro-inverters or optimizers, a roof mounting system and electrical access..."
     },
     {
       "chunk_id": 13,
-      "text": "ted solar panels.\n\ngenerated electricity first, before switching to the electricity grid if more electricity is required than the solar system can generate. Grid-connected solar systems can also feed electricity back to the grid if too much electricity is generated through your installation for the immediate needs of your home.\n\nUnless you add storage batteries to your system, a grid-connected solar system is unable to store power in your home for use at night.\n\nThere is also a third possible inverter solution - power optimizers. These are a variance of the string inverter and the micro inverter. Once you\u2019re in the process of getting your solar system, ask your authorized LG PRO Installer for advice on which of these inverter solutions is the most suitable for you. Quality inverter/micro inverter solutions include Fronius, SMA, SolarEdge and Enphase brands. Today, houses with grid-connected solar systems consume solar-\n\nHow Solar Systems Make A Little Love From the Sun Go A Long Way\n\nA",
+      "text": "This AC electricity can be fed into your home to operate your household appliances. Depending on how your system is set up, the electricity that is not used in your home is either fed into the grid via a digital meter or stored in home batteries for later use. New hybrid inverters now include an integrated battery management system. The appropriate solar system inverters are based on several factors, such as your location and the local climate. Your LG PRO Installer will be able to give you information on the best long- lasting configuration for your home.SOLAR PANELS INVERTER SOLUTIONS 350 to 365W 325 to 340W 8 CLIP MOUNTING Solar systems are mounted to roofs with a mounting system using various railings, frames and tiles or tin feet. Most mounting systems are made of aluminum with stainless steel hardware and are designed to accept a variety of solar modules on a variety of roof types.",
       "keywords": [
-        "also",
         "grid",
-        "first",
-        "before",
-        "switching",
-        "electricity",
-        "more",
-        "than",
+        "set",
+        "depend",
+        "store",
+        "hybrid",
+        "digit",
+        "panel",
+        "varieti",
+        "household",
+        "appropri",
+        "use",
+        "tile",
+        "clip",
+        "accept",
+        "365w",
+        "electr",
+        "rail",
+        "configur",
+        "last",
+        "long",
+        "abl",
+        "inform",
         "system",
-        "systems",
-        "generate",
-        "grid-connected",
-        "generated",
-        "solar",
-        "panels",
-        "required"
+        "home",
+        "locat"
       ],
-      "length": 1000,
-      "preview": "ted solar panels.\n\ngenerated electricity first, before switching to the electricity grid if more ele..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 900,
+      "preview": "This AC electricity can be fed into your home to operate your household appliances. Depending on how your system is set up, the electricity that is no..."
     },
     {
       "chunk_id": 14,
-      "text": "nverter solutions include Fronius, SMA, SolarEdge and Enphase brands. Today, houses with grid-connected solar systems consume solar-\n\nHow Solar Systems Make A Little Love From the Sun Go A Long Way\n\nA solar system is made up of several key components, all of which combine to generate electricity, regulate and control the flow of the electricity and to connect and mount the solar system to your home. A grid-connected solar system is comprised of panels, a string inverter or micro-inverters or optimizers, a roof mounting system and electrical accessories including circuit breakers and wires. It is important that all components work together, with no component compromising the performance, safety or life expectancy of any other component.\n\nS O L A R P A N E L S\n\nSolar panels on roofs of homes generate clean energy by converting sunlight into usable electricity. This conversion takes place within the solar cells and is a process that requires no moving parts.\n\n325 to 340W\n\n350 to 365W\n\nI N",
+      "text": "Most mounting systems are made of aluminum with stainless steel hardware and are designed to accept a variety of solar modules on a variety of roof types. Aluminum rails with clamps attach the solar panels to the rail and connection brackets fix the rail to the roof (see diagram below). Superior mounting systems are manufactured with higher grades of aluminum and stainless steel, often resulting in less weight on the roof and lower levels of corrosion over longer periods of time. Quality mounting rails may also feature robust anchoring points and design solutions that speed up the installation time of your solar system.MOUNTING SYSTEMS There are two fundamental steps to take when connecting your solar system to the grid. Your electric company will specify what type of meter is required to measure your solar generation and energy consumption. Your LG PRO Installer will be able to explain the details to you.",
       "keywords": [
-        "brands",
-        "solar-",
-        "make",
-        "consume",
-        "houses",
-        "nverter",
-        "fronius",
-        "solutions",
-        "solaredge",
-        "grid-connected",
-        "with",
-        "solar",
-        "today",
-        "systems",
-        "sma",
-        "enphase",
-        "include",
-        "little"
+        "grid",
+        "panel",
+        "robust",
+        "varieti",
+        "may",
+        "accept",
+        "measur",
+        "energi",
+        "electr",
+        "rail",
+        "grade",
+        "speed",
+        "lower",
+        "two",
+        "featur",
+        "often",
+        "also",
+        "system",
+        "bracket",
+        "higher",
+        "compani",
+        "attach",
+        "manufactur",
+        "hardwar",
+        "fundament"
       ],
-      "length": 1000,
-      "preview": "nverter solutions include Fronius, SMA, SolarEdge and Enphase brands. Today, houses with grid-connec..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 919,
+      "preview": "Most mounting systems are made of aluminum with stainless steel hardware and are designed to accept a variety of solar modules on a variety of roof ty..."
     },
     {
       "chunk_id": 15,
-      "text": "generate clean energy by converting sunlight into usable electricity. This conversion takes place within the solar cells and is a process that requires no moving parts.\n\n325 to 340W\n\n350 to 365W\n\nI N V E R T E R S O L U T I O N S\n\nA solar inverter is one of the most important elements of the solar system. It converts the variable direct current (DC) output of a photovoltaic (PV) solar panel into a 240V alternating current (AC). This AC electricity can be fed into your home to operate your household appliances.\n\nDepending on how your system is set up, the electricity that is not used in your home is either fed into the grid via a digital meter or stored in home batteries for later use. New hybrid inverters now include an integrated battery management system. The appropriate solar system inverters are based on several factors, such as your location and the local climate. Your LG PRO Installer will be able to give you information on the best long- lasting configuration for your home.\n\n7",
+      "text": "Your LG PRO Installer will be able to explain the details to you. You may be required to pay for the cost of the new solar meter , its installation and the cost of your solar system. Prices for the meter can be a few hundred dollars, so you should make sure that the solar electricity meter supply and the connection are included in the quote for your new solar system.Metering Your Solar Systemi 9Installing Solar Panels for Your Solar System Solar modules can face anywhere from the East to the South and the West, while still providing good output performance. Depending on your location in the U.S., your grid-connected LG solar system will generate the most solar electricity when the panels are facing south at the right angle. The best angle can greatly increase the connection between the suns energy and your home, which helps to build an even greater sense of energy independence.",
       "keywords": [
-        "place",
-        "cells",
-        "moving",
-        "conversion",
-        "clean",
-        "electricity",
-        "requires",
-        "energy",
-        "converting",
-        "process",
-        "generate",
-        "takes",
-        "sunlight",
-        "usable",
-        "that",
-        "into",
-        "this",
-        "parts",
-        "solar",
-        "within"
+        "quot",
+        "hundr",
+        "make",
+        "panel",
+        "depend",
+        "face",
+        "greatli",
+        "perform",
+        "gener",
+        "may",
+        "independ",
+        "energi",
+        "cost",
+        "even",
+        "9instal",
+        "electr",
+        "right",
+        "gridconnect",
+        "increas",
+        "dollar",
+        "sens",
+        "abl",
+        "east",
+        "system",
+        "locat"
       ],
-      "length": 998,
-      "preview": "generate clean energy by converting sunlight into usable electricity. This conversion takes place wi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 890,
+      "preview": "Your LG PRO Installer will be able to explain the details to you. You may be required to pay for the cost of the new solar meter , its installation an..."
     },
     {
       "chunk_id": 16,
-      "text": "verters are based on several factors, such as your location and the local climate. Your LG PRO Installer will be able to give you information on the best long- lasting configuration for your home.\n\n7\n\nCLIP MOUNTING\n\nM O U N T I N G S Y S T E M S\n\nSolar systems are mounted to roofs with a mounting system using various railings, frames and tiles or tin feet. Most mounting systems are made of aluminum with stainless steel hardware and are designed to accept a variety of solar modules on a variety of roof types. Aluminum rails with clamps attach the solar panels to the rail and connection brackets fix the rail to the roof (see diagram below).\n\nSuperior mounting systems are manufactured with higher grades of aluminum and stainless steel, often resulting in less weight on the roof and lower levels of corrosion over longer periods of time. Quality mounting rails may also feature robust anchoring points and design solutions that speed up the installation time of your solar system.\n\ni\n\nMetering",
+      "text": "The best angle can greatly increase the connection between the suns energy and your home, which helps to build an even greater sense of energy independence. Discuss your electricity usage with your LG PRO Installer so that your usage pattern can be matched with your solar panels installation. Of course, the orientation, shape and size of your roof also play a major role in where the panels can be installed. Thinking about your daily routine and your electricity consumption will help you locate the best possible place for your home to receive the suns energy. If you use a lot of electricity in the morning, an easterly roof will offer the most benefits. If you use a lot of electricity in the middle of the day, a south-facing roof is more ideal. On the other hand, if lots of electricity is used in the early and late afternoon, a south-west facing roof is more likely to offer the best outcome.",
       "keywords": [
-        "able",
-        "best",
-        "your",
-        "installer",
-        "verters",
-        "such",
-        "based",
-        "location",
-        "several",
-        "long-",
-        "local",
-        "climate",
-        "will",
-        "configuration",
-        "information",
-        "lasting",
-        "factors",
-        "give"
+        "late",
+        "panel",
+        "greatli",
+        "face",
+        "size",
+        "use",
+        "independ",
+        "role",
+        "energi",
+        "even",
+        "electr",
+        "routin",
+        "sens",
+        "increas",
+        "benefit",
+        "afternoon",
+        "southwest",
+        "also",
+        "locat",
+        "home",
+        "orient",
+        "shape",
+        "ideal",
+        "earli",
+        "instal"
       ],
-      "length": 1000,
-      "preview": "verters are based on several factors, such as your location and the local climate. Your LG PRO Insta..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 902,
+      "preview": "The best angle can greatly increase the connection between the suns energy and your home, which helps to build an even greater sense of energy indepen..."
     },
     {
       "chunk_id": 17,
-      "text": "ls of corrosion over longer periods of time. Quality mounting rails may also feature robust anchoring points and design solutions that speed up the installation time of your solar system.\n\ni\n\nMetering Your Solar System\n\nThere are two fundamental steps to take when connecting your solar system to the grid.\n\nYour electric company will specify what type of meter is required to measure your solar generation and energy consumption. Your LG PRO Installer will be able to explain the details to you. You may be required to pay for the cost of the new solar meter, its installation and the cost of your solar system. Prices for the meter can be a few hundred dollars, so you should make sure that the solar electricity meter supply and the connection are included in the quote for your new solar system.\n\n8\n\nInstalling Solar Panels for Your Solar System\n\nT I L T I N G A N D O R I E N T A T I O N\n\nSolar modules can face anywhere from the East to the South and the West, while still providing good output",
+      "text": "On the other hand, if lots of electricity is used in the early and late afternoon, a south-west facing roof is more likely to offer the best outcome. With multi-string inverters, you can also put one group of solar panels (one string) on the east and one on the west to cover a wider timespan.TIL TING AND ORIENTATION DAIL Y ROUTINE The amount of electricity generated by your solar system directly relates to the amount of sunlight that your solar panels receive. If your solar modules are in the shade, the system will generate less electricity. Even a single antenna or a chimney shadow on your panels can affect performance, while the overall effectiveness of your solar system is dependent on where you live. In some areas of the U.S., tree coverage greatly reduces the effectiveness of solar panels. Using micro- inverters or power optimizers on each panel instead of one large string inverter (where multiple panels are connected to one inverter) can help with shadow issues.",
       "keywords": [
-        "speed",
-        "rails",
-        "longer",
-        "also",
-        "mounting",
-        "periods",
-        "robust",
-        "solutions",
-        "design",
-        "time",
-        "your",
-        "corrosion",
-        "points",
-        "feature",
-        "quality",
-        "that",
-        "anchoring",
-        "installation",
-        "over"
+        "one",
+        "late",
+        "cover",
+        "panel",
+        "directli",
+        "effect",
+        "depend",
+        "face",
+        "greatli",
+        "perform",
+        "tree",
+        "shadow",
+        "use",
+        "sunlight",
+        "live",
+        "shade",
+        "singl",
+        "group",
+        "string",
+        "chimney",
+        "even",
+        "affect",
+        "optim",
+        "electr",
+        "issu"
       ],
-      "length": 1000,
-      "preview": "ls of corrosion over longer periods of time. Quality mounting rails may also feature robust anchorin..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter",
+          "signaling"
+        ]
+      },
+      "length": 982,
+      "preview": "On the other hand, if lots of electricity is used in the early and late afternoon, a south-west facing roof is more likely to offer the best outcome. ..."
     },
     {
       "chunk_id": 18,
-      "text": "8\n\nInstalling Solar Panels for Your Solar System\n\nT I L T I N G A N D O R I E N T A T I O N\n\nSolar modules can face anywhere from the East to the South and the West, while still providing good output performance.\n\nDepending on your location in the U.S., your grid-connected LG solar system will generate the most solar electricity when the panels are facing south at the right angle. The best angle can greatly increase the connection between the sun\u2019s energy and your home, which helps to build an even greater sense of energy independence.\n\nDiscuss your electricity usage with your LG PRO Installer so that your usage pattern can be matched with your solar panels\u2019 installation. Of course, the orientation, shape and size of your roof also play a major role in where the panels can be installed.\n\nD A I L Y R O U T I N E\n\nThinking about your daily routine and your electricity consumption will help you locate the best possible place for your home to receive the sun\u2019s energy. If you use a lot of",
+      "text": "Using micro- inverters or power optimizers on each panel instead of one large string inverter (where multiple panels are connected to one inverter) can help with shadow issues. If you believe that you may have a shade issue, talk to your LG PRO Installer during your consultation about whether power optimizers or micro-inverters are a potential solution for you.Shadingi 10If a suitable roof area is not available at your home, LG solar panels can be fitted to a ground-mounted system in a sun-filled spot on your land. However , you will need to allow for additional costs for a ground mounting system and costs for running the cable safely in the ground. These options can be discussed with your local LG PRO Installer . LG is confident that our panels will give you years of reliable functionality and an even greater appreciation for solar energy.",
       "keywords": [
-        "while",
-        "still",
-        "from",
-        "performance",
-        "modules",
-        "your",
-        "east",
-        "system",
-        "output",
-        "solar",
-        "anywhere",
-        "panels",
-        "face",
-        "south",
-        "good",
-        "installing",
-        "providing",
-        "west"
+        "one",
+        "panel",
+        "option",
+        "fit",
+        "shadow",
+        "use",
+        "believ",
+        "safe",
+        "may",
+        "energi",
+        "shade",
+        "suitabl",
+        "string",
+        "cost",
+        "confid",
+        "issu",
+        "optim",
+        "even",
+        "appreci",
+        "addit",
+        "power",
+        "avail",
+        "howev",
+        "cabl",
+        "talk"
       ],
-      "length": 998,
-      "preview": "8\n\nInstalling Solar Panels for Your Solar System\n\nT I L T I N G A N D O R I E N T A T I O N\n\nSolar m..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 852,
+      "preview": "Using micro- inverters or power optimizers on each panel instead of one large string inverter (where multiple panels are connected to one inverter) ca..."
     },
     {
       "chunk_id": 19,
-      "text": "D A I L Y R O U T I N E\n\nThinking about your daily routine and your electricity consumption will help you locate the best possible place for your home to receive the sun\u2019s energy. If you use a lot of electricity in the morning, an easterly roof will offer the most benefits. If you use a lot of electricity in the middle of the day, a south-facing roof is more ideal. On the other hand, if lots of electricity is used in the early and late afternoon, a south-west facing roof is more likely to offer the best outcome. With multi-string inverters, you can also put one group of solar panels (one string) on the east and one on the west to cover a wider timespan.\n\ni\n\nShading\n\nThe amount of electricity generated by your solar system directly relates to the amount of sunlight that your solar panels receive. If your solar modules are in the shade, the system will generate less electricity.\n\nEven a single antenna or a chimney shadow on your panels can affect performance, while the overall effectiven",
+      "text": "LG is confident that our panels will give you years of reliable functionality and an even greater appreciation for solar energy. Although the cables, safety devices and mounting systems are less influential to the performance of your solar system, the use of poor-quality cables or isolators can lead to an early ending to your new-found relationship with the sun. In cases where non-branded plugs and cables were used, complete system failures have occurred. For a decade of low maintenance to your solar system, it is strongly suggested that you purchase high-quality solar panels and quality solar inverters, and ask for high-quality system components in all aspects of your solar system. Some inexpensive solar panels have failed in certain climates in as little as 24 months. Some issues have been water ingress, corrosion, hot-spots, failed bypass diodes or junction box failures. These types of failures lead to the write-off of the panel.",
       "keywords": [
-        "place",
-        "consumption",
-        "possible",
-        "home",
-        "energy",
-        "electricity",
-        "about",
-        "your",
-        "help",
-        "best",
-        "thinking",
-        "locate",
-        "sun\u2019s",
-        "daily",
-        "will",
-        "routine",
-        "receive"
+        "panel",
+        "bypass",
+        "perform",
+        "purification",
+        "isol",
+        "use",
+        "mainten",
+        "safety",
+        "energi",
+        "confid",
+        "diod",
+        "relationship",
+        "littl",
+        "liquid",
+        "even",
+        "issu",
+        "appreci",
+        "junction",
+        "strongli",
+        "highqual",
+        "aspect",
+        "compon",
+        "cabl",
+        "devic",
+        "certain"
       ],
-      "length": 1000,
-      "preview": "D A I L Y R O U T I N E\n\nThinking about your daily routine and your electricity consumption will hel..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "water"
+        ]
+      },
+      "length": 946,
+      "preview": "LG is confident that our panels will give you years of reliable functionality and an even greater appreciation for solar energy. Although the cables, ..."
     },
     {
       "chunk_id": 20,
-      "text": "ceive. If your solar modules are in the shade, the system will generate less electricity.\n\nEven a single antenna or a chimney shadow on your panels can affect performance, while the overall effectiveness of your solar system is dependent on where you live. In some areas of the U.S., tree coverage greatly reduces the effectiveness of solar panels. Using micro- inverters or power optimizers on each panel instead of one large string inverter (where multiple panels are connected to one inverter) can help with shadow issues. If you believe that you may have a shade issue, talk to your LG PRO Installer during your consultation about whether power optimizers or micro-inverters are a potential solution for you.\n\n9\n\n10\n\nM O U N T I N G\n\nIf a suitable roof area is not available at your home, LG solar panels can be fitted to a ground-mounted system in a sun-filled spot on your land. However, you will need to allow for additional costs for a ground mounting system and costs for running the cable s",
+      "text": "These types of failures lead to the write-off of the panel. Lengthy promised warranties are hard to claim if dealers, installers or panel manufacturers have gone into liquidation or have stopped operating.MOUNTING INSTALLING PANELS FOR GREATER PERFORMANCE 11An LG PRO Installer will visit your home for a site inspection to check the roof position, discuss your electricity usage pattern, suggest monitor options and, where applicable, conduct a shade analysis to ensure that the right quantity of the most suitable panels is placed in the optimum position. Buyers should insist that their installer also undertake a physical site inspection. An installers willingness to visit your home gives some indication of the quality of service you will receive for your purchase. As a result, we advise that you buy your solar system from a local installer and not an Internet-based solar sales agent.",
       "keywords": [
-        "while",
-        "ceive",
-        "performance",
-        "system",
-        "less",
-        "will",
-        "panels",
-        "electricity",
-        "even",
-        "affect",
-        "your",
-        "generate",
-        "chimney",
-        "shadow",
-        "modules",
+        "panel",
+        "servic",
+        "option",
+        "perform",
+        "claim",
+        "lengthi",
+        "visit",
+        "buyer",
+        "agent",
+        "buy",
         "shade",
-        "single",
-        "solar",
-        "antenna"
+        "suitabl",
+        "stop",
+        "liquid",
+        "hard",
+        "electr",
+        "right",
+        "undertak",
+        "applic",
+        "posit",
+        "insist",
+        "also",
+        "purchas",
+        "home",
+        "indic"
       ],
-      "length": 1000,
-      "preview": "ceive. If your solar modules are in the shade, the system will generate less electricity.\n\nEven a si..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 893,
+      "preview": "These types of failures lead to the write-off of the panel. Lengthy promised warranties are hard to claim if dealers, installers or panel manufacturer..."
     },
     {
       "chunk_id": 21,
-      "text": "r panels can be fitted to a ground-mounted system in a sun-filled spot on your land. However, you will need to allow for additional costs for a ground mounting system and costs for running the cable safely in the ground. These options can be discussed with your local LG PRO Installer.\n\nI N S T A L L I N G P A N E L S F O R G R E A T E R P E R F O R M A N C E\n\nLG is confident that our panels will give you years of reliable functionality and an even greater appreciation for solar energy. Although the cables, safety devices and mounting systems are less influential to the performance of your solar system, the use of poor-quality cables or isolators can lead to an early ending to your new-found relationship with the sun. In cases where non-branded plugs and cables were used, complete system failures have occurred.\n\nFor a decade of low maintenance to your solar system, it is strongly suggested that you purchase high-quality solar panels and quality solar inverters, and ask for high-quality",
+      "text": "As a result, we advise that you buy your solar system from a local installer and not an Internet-based solar sales agent. Historically (when Internet solar sales were rapidly increasing), consumers purchased solar systems without site inspections. Sometimes this resulted in their installer highlighting the need for special roof brackets or a total switchboard upgrade before the solar system could be installed. These additions added unexpected costs and time delays to the installation. Before making your purchase decision, find out who your point of contact will be if you have questions after the installation. Make sure that you ask for a comprehensive written warranty from your LG PRO Installer for the cabling and installation work, not just the panels, inverter and mounting frame.How Many Panels Does Your Solar System Need? The key components susceptible to failure in your solar system are the solar panels, the inverter and some components such as fuses and isolators.",
       "keywords": [
-        "fitted",
-        "ground-mounted",
-        "need",
-        "additional",
-        "mounting",
-        "your",
-        "cable",
-        "land",
-        "spot",
-        "costs",
+        "sometim",
+        "framehow",
+        "make",
+        "panel",
+        "suscept",
+        "fuse",
+        "rapidli",
+        "question",
+        "decis",
+        "isol",
+        "find",
+        "written",
+        "agent",
+        "buy",
+        "cost",
+        "addit",
+        "internet",
+        "increas",
+        "delay",
+        "compon",
+        "cabl",
+        "comprehens",
         "system",
-        "ground",
-        "running",
-        "will",
-        "sun-filled",
-        "panels",
-        "allow",
-        "however"
+        "purchas",
+        "highlight"
       ],
-      "length": 999,
-      "preview": "r panels can be fitted to a ground-mounted system in a sun-filled spot on your land. However, you wi..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 983,
+      "preview": "As a result, we advise that you buy your solar system from a local installer and not an Internet-based solar sales agent. Historically (when Internet ..."
     },
     {
       "chunk_id": 22,
-      "text": "ilures have occurred.\n\nFor a decade of low maintenance to your solar system, it is strongly suggested that you purchase high-quality solar panels and quality solar inverters, and ask for high-quality system components in all aspects of your solar system.\n\nSome inexpensive solar panels have failed in certain climates in as little as 24 months. Some issues have been water ingress, corrosion, hot-spots, failed bypass diodes or junction box failures. These types of failures lead to the write-off of the panel. Lengthy promised warranties are hard to claim if dealers, installers or panel manufacturers have gone into liquidation or have stopped operating.\n\nHow Many Panels Does Your Solar System Need?\n\nAn LG PRO Installer will visit your home for a site inspection to check the roof position, discuss your electricity usage pattern, suggest monitor options and, where applicable, conduct a shade analysis to ensure that the right quantity of the most suitable panels is placed in the optimum positi",
+      "text": "The key components susceptible to failure in your solar system are the solar panels, the inverter and some components such as fuses and isolators. LG solar products tend to have longer life cycles as they undertake more quality control steps, use higher quality cells and solders, have stronger UV protection on backing sheets and ensure the water sealing of panels withstands decades of weather-induced deterioration. Very low-cost panels with less UV-stabilized backing sheets, cheaper sealants and more fragile framing can deteriorate faster , and can fail in as little as 2-4 years. Unfortunately, sometimes lengthy warranties on cheaper products have been unobtainable, as both manufacturers and installers have avoided liability by going out of business. The key warranties to investigate are for performance, product and labor . These cover the power output of the panel, a replacement panel and its transport in the case of a panel failure and the labor costs involved in replacing a panel.",
       "keywords": [
-        "ilures",
-        "strongly",
-        "that",
-        "purchase",
-        "decade",
-        "occurred",
-        "your",
-        "inverters",
-        "have",
-        "system",
-        "suggested",
-        "solar",
-        "panels",
-        "quality",
-        "high-quality",
-        "maintenance"
+        "back",
+        "cycl",
+        "sometim",
+        "cover",
+        "panel",
+        "suscept",
+        "fuse",
+        "cheaper",
+        "perform",
+        "solder",
+        "purification",
+        "isol",
+        "use",
+        "involv",
+        "weatherinduc",
+        "lengthi",
+        "sealant",
+        "labor",
+        "littl",
+        "cost",
+        "liquid",
+        "replac",
+        "seal",
+        "undertak",
+        "power"
       ],
-      "length": 1000,
-      "preview": "ilures have occurred.\n\nFor a decade of low maintenance to your solar system, it is strongly suggeste..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "critical",
+        "survival_domains": [
+          "water",
+          "shelter",
+          "knots"
+        ]
+      },
+      "length": 998,
+      "preview": "The key components susceptible to failure in your solar system are the solar panels, the inverter and some components such as fuses and isolators. LG ..."
     },
     {
       "chunk_id": 23,
-      "text": "ss your electricity usage pattern, suggest monitor options and, where applicable, conduct a shade analysis to ensure that the right quantity of the most suitable panels is placed in the optimum position. Buyers should insist that their installer also undertake a physical site inspection.\n\nAn installer\u2019s willingness to visit your home gives some indication of the quality of service you will receive for your purchase. As a result, we advise that you buy your solar system from a local installer and not an Internet-based solar sales agent.\n\nHistorically (when Internet solar sales were rapidly increasing), consumers purchased solar systems without site inspections. Sometimes this resulted in their installer highlighting the need for special roof brackets or a total switchboard upgrade before the solar system could be installed. These additions added unexpected costs and time delays to the installation.\n\nBefore making your purchase decision, find out who your point of contact will be if you",
+      "text": "These cover the power output of the panel, a replacement panel and its transport in the case of a panel failure and the labor costs involved in replacing a panel. Cheaper panels often do not cover transport and replacement labor . Make sure you verify with your installer what is covered in the warranty and ask for the detailed warranty document. LG NeON 2 and LG NeON R panels are backed by a 25-year warranty that covers performance, product and labor (Labor costs in the rare case of a needed module repair or replacement are covered up to 450. )How Long Do Solar Systems Last? 12Av. production per da y: 36 kWhLARGE HOME 5-8kW Syst em4 P eople Av. production per da y: 12 kWhSMALL HOME 2-3kW Syst em1-2 P eople Av. production per da y: 16 kWhMEDIUM HOME 3-4kW Syst em2-3 P eople A few years ago, many people who started embracing the power of solar systems did not consider the efficiency of their panels.",
       "keywords": [
-        "panels",
-        "analysis",
-        "usage",
-        "ensure",
-        "quantity",
-        "electricity",
-        "applicable",
-        "suggest",
-        "pattern",
-        "options",
-        "conduct",
-        "where",
-        "your",
-        "and",
-        "most",
-        "that",
-        "shade",
-        "suitable",
-        "right",
-        "monitor"
+        "back",
+        "cover",
+        "panel",
+        "make",
+        "kwhmedium",
+        "verifi",
+        "cheaper",
+        "peopl",
+        "perform",
+        "neon",
+        "involv",
+        "per",
+        "kwhsmall",
+        "23kw",
+        "labor",
+        "cost",
+        "em4",
+        "replac",
+        "34kw",
+        "power",
+        "transport",
+        "effici",
+        "last",
+        "450",
+        "long"
       ],
-      "length": 999,
-      "preview": "ss your electricity usage pattern, suggest monitor options and, where applicable, conduct a shade an..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter"
+        ]
+      },
+      "length": 910,
+      "preview": "These cover the power output of the panel, a replacement panel and its transport in the case of a panel failure and the labor costs involved in replac..."
     },
     {
       "chunk_id": 24,
-      "text": "e solar system could be installed. These additions added unexpected costs and time delays to the installation.\n\nBefore making your purchase decision, find out who your point of contact will be if you have questions after the installation. Make sure that you ask for a comprehensive written warranty from your LG PRO Installer for the cabling and installation work, not just the panels, inverter and mounting frame.\n\nHow Long Do Solar Systems Last?\n\nThe key components susceptible to failure in your solar system are the solar panels, the inverter and some components such as fuses and isolators. LG solar products tend to have longer life cycles as they undertake more quality control steps, use higher quality cells and solders, have stronger UV protection on backing sheets and ensure the water sealing of panels withstands decades of weather-induced deterioration. Very low-cost panels with less UV-stabilized backing sheets, cheaper sealants and more fragile framing can deteriorate faster, and c",
+      "text": "production per da y: 16 kWhMEDIUM HOME 3-4kW Syst em2-3 P eople A few years ago, many people who started embracing the power of solar systems did not consider the efficiency of their panels. If they wanted a 5kW system, they could buy 20 panels with 250W or 23 less efficient 220W panels. Most customers never imagined they would need more than 5kW of solar , and in many homes 20 to 32 panels will fit on the roof. That was the old way of using solar power . Now, with the emergence of battery storage as a smart way to harvest energy generated during the day for use at night, panel efficiency has become an important consideration. Making full use of the powerful relationship between modern solar panels and the sun, LG has now released a 360W and 365W NeON R in the 60-cell range. If you can save eight spots on your roof with a more efficient panel, you have more options for a smaller roof.",
       "keywords": [
-        "decision",
-        "unexpected",
-        "system",
-        "installed",
-        "before",
-        "making",
-        "these",
-        "additions",
-        "added",
-        "delays",
-        "point",
-        "time",
-        "find",
-        "your",
-        "purchase",
-        "could",
-        "costs",
-        "installation",
-        "solar"
+        "would",
+        "way",
+        "emerg",
+        "harvest",
+        "kwhmedium",
+        "panel",
+        "peopl",
+        "make",
+        "releas",
+        "save",
+        "fit",
+        "option",
+        "smaller",
+        "neon",
+        "use",
+        "per",
+        "old",
+        "night",
+        "modern",
+        "storag",
+        "smart",
+        "buy",
+        "energi",
+        "never",
+        "relationship"
       ],
-      "length": 1000,
-      "preview": "e solar system could be installed. These additions added unexpected costs and time delays to the ins..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 897,
+      "preview": "production per da y: 16 kWhMEDIUM HOME 3-4kW Syst em2-3 P eople A few years ago, many people who started embracing the power of solar systems did not ..."
     },
     {
       "chunk_id": 25,
-      "text": "ling of panels withstands decades of weather-induced deterioration. Very low-cost panels with less UV-stabilized backing sheets, cheaper sealants and more fragile framing can deteriorate faster, and can fail in as little as 2-4 years.\n\nUnfortunately, sometimes lengthy warranties on cheaper products have been unobtainable, as both manufacturers and installers have avoided liability by going out of business.\n\nThe key warranties to investigate are for performance, product and labor. These cover the power output of the panel, a replacement panel and its transport in the case of a panel failure and the labor costs involved in replacing a panel. Cheaper panels often do not cover transport and replacement labor. Make sure you verify with your installer what is covered in the warranty and ask for the detailed warranty document. LG NeON\u00ae 2 and LG NeON\u00ae R panels are backed by a 25-year warranty that covers performance, product and labor (Labor costs in the rare case of a needed module repair or",
+      "text": "If you can save eight spots on your roof with a more efficient panel, you have more options for a smaller roof. You can even add another 3.6kW solar system for your batteries or electric car charging, which you would not have been able to do with less efficient panels. It is important today to buy a system with future expansion capability in mind, both for batteries and for how youll use the energy your system generates  cars, night consumption needs, etc. Buy now with the needs of the future in mind. Choose highly efficient panels and keep spare roof space for future expansion.Solar Panel Sizes WHY PANEL EFFICIENCY MATTERS 13Incentives and Financing for Going Solar Government incentives may be available for your solar system. Over the years, these incentives have changed, and they are likely to change in the future. Talk to your LG PRO Installer to get the updated information you need about the latest incentives applicable to you.",
       "keywords": [
-        "sealants",
-        "cheaper",
-        "less",
-        "deteriorate",
-        "panels",
-        "weather-induced",
-        "backing",
-        "framing",
-        "fragile",
-        "sheets",
-        "with",
-        "decades",
-        "withstands",
-        "ling",
-        "low-cost",
-        "uv-stabilized",
-        "deterioration",
-        "very",
-        "more"
+        "eight",
+        "would",
+        "panel",
+        "smaller",
+        "latest",
+        "save",
+        "option",
+        "expans",
+        "today",
+        "youll",
+        "size",
+        "use",
+        "night",
+        "anoth",
+        "may",
+        "matter",
+        "buy",
+        "energi",
+        "even",
+        "keep",
+        "updat",
+        "electr",
+        "financ",
+        "applic",
+        "effici"
       ],
-      "length": 999,
-      "preview": "ling of panels withstands decades of weather-induced deterioration. Very low-cost panels with less U..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 945,
+      "preview": "If you can save eight spots on your roof with a more efficient panel, you have more options for a smaller roof. You can even add another 3.6kW solar s..."
     },
     {
       "chunk_id": 26,
-      "text": "the detailed warranty document. LG NeON\u00ae 2 and LG NeON\u00ae R panels are backed by a 25-year warranty that covers performance, product and labor (Labor costs in the rare case of a needed module repair or replacement are covered up to $450.)\n\n11\n\n12\n\nSMALL HOME\n\n1-2 People\n\n2-3kW System Av. production per day: 12 kWh\n\nMEDIUM HOME\n\n2-3 People\n\n3-4kW System Av. production per day: 16 kWh\n\nLARGE HOME\n\n4+ People\n\n5-8kW System Av. production per day: 36 kWh\n\nSolar Panel Sizes\n\nW H Y P A N E L E F F I C I E N C Y M A T T E R S\n\nA few years ago, many people who started embracing the power of solar systems did not consider the efficiency of their panels. If they wanted a 5kW system, they could buy 20 panels with 250W or 23 less efficient 220W panels. Most customers never imagined they would need more than 5kW of solar, and in many homes 20 to 32 panels will fit on the roof. That was the old way of using solar power.\n\nNow, with the emergence of battery storage as a smart way to harvest energy genera",
+      "text": "Talk to your LG PRO Installer to get the updated information you need about the latest incentives applicable to you. U.S. incentives vary greatly based on a homeowners location. Many great programs are available for people on the local, state and federal level. In order to find out what types of incentives are available to you, LG will connect you with a local LG PRO Installer who can walk you through your options. Consumers also have the option to finance a solar system. Often, homeowners redraw on their mortgage to finance the solar and battery system. Your LG PRO Installer can advise you about other available finance options, such as those from banks and government incentives. ARE THERE INCENTIVES AVAILABLE FOR YOUR SOLAR SYSTEM?",
       "keywords": [
-        "product",
-        "that",
-        "performance",
-        "neon\u00ae",
-        "case",
-        "module",
-        "covers",
-        "rare",
-        "labor",
-        "costs",
-        "detailed",
-        "needed",
-        "panels",
-        "backed",
-        "document",
-        "warranty",
-        "25-year"
+        "latest",
+        "greatli",
+        "peopl",
+        "option",
+        "find",
+        "vari",
+        "feder",
+        "updat",
+        "financ",
+        "applic",
+        "avail",
+        "redraw",
+        "program",
+        "talk",
+        "inform",
+        "locat",
+        "also",
+        "system",
+        "state",
+        "often",
+        "order",
+        "instal",
+        "type",
+        "incent",
+        "batteri"
       ],
-      "length": 1000,
-      "preview": "the detailed warranty document. LG NeON\u00ae 2 and LG NeON\u00ae R panels are backed by a 25-year warranty th..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 742,
+      "preview": "Talk to your LG PRO Installer to get the updated information you need about the latest incentives applicable to you. U.S. incentives vary greatly base..."
     },
     {
       "chunk_id": 27,
-      "text": "han 5kW of solar, and in many homes 20 to 32 panels will fit on the roof. That was the old way of using solar power.\n\nNow, with the emergence of battery storage as a smart way to harvest energy generated during the day for use at night, panel efficiency has become an important consideration.\n\nMaking full use of the powerful relationship between modern solar panels and the sun, LG has now released a 360W and 365W NeON R in the 60-cell range. If you can save eight spots on your roof with a more efficient panel, you have more options for a smaller roof. You can even add another 3.6kW solar system for your batteries or electric car charging, which you would not have been able to do with less efficient panels.\n\nIt is important today to buy a system with future expansion capability in mind, both for batteries and for how you\u2019ll use the energy your system generates \u2013 cars, night consumption needs, etc. Buy now with the needs of the future in mind. Choose highly efficient panels and keep spare",
+      "text": "ARE THERE INCENTIVES AVAILABLE FOR YOUR SOLAR SYSTEM? FINANCING YOUR SOLAR PROJECT 14A reputable solar retail company is more likely to fully evaluate your requirements and explain in detail what needs to be done in order to install your solar system.It is recommended that consumers use a reputable installer who checks your specific solar system requirements and ensures the connection between the sun and your home is strong. Please see the points below regarding the advantages of using a company promoting high-quality products. A local diversified company is more likely to be around in the future to service any warranty issues or system upgrades. As weve shared in this educational piece, some solar installers and dealers make big promises, but then vanish. If your installer is selling you LG solar panels, then LG is more than likely to service your panels in the future through your local LG PRO Installer .",
       "keywords": [
-        "many",
-        "battery",
-        "will",
-        "harvest",
-        "homes",
-        "panels",
-        "roof",
-        "emergence",
-        "using",
-        "with",
-        "smart",
-        "during",
-        "energy",
-        "generated",
-        "now",
-        "that",
-        "storage",
-        "power",
-        "solar"
+        "advantag",
+        "piec",
+        "make",
+        "servic",
+        "panel",
+        "use",
+        "systemit",
+        "done",
+        "educ",
+        "issu",
+        "retail",
+        "financ",
+        "highqual",
+        "avail",
+        "fulli",
+        "diversifi",
+        "system",
+        "home",
+        "compani",
+        "order",
+        "reput",
+        "regard",
+        "instal",
+        "evalu",
+        "product"
       ],
-      "length": 1000,
-      "preview": "han 5kW of solar, and in many homes 20 to 32 panels will fit on the roof. That was the old way of us..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": []
+      },
+      "length": 919,
+      "preview": "ARE THERE INCENTIVES AVAILABLE FOR YOUR SOLAR SYSTEM? FINANCING YOUR SOLAR PROJECT 14A reputable solar retail company is more likely to fully evaluate..."
     },
     {
       "chunk_id": 28,
-      "text": "for batteries and for how you\u2019ll use the energy your system generates \u2013 cars, night consumption needs, etc. Buy now with the needs of the future in mind. Choose highly efficient panels and keep spare roof space for future expansion.\n\nIncentives and Financing for Going Solar\n\nA R E T H E R E I N C E N T I V E S A V A I L A B L E F O R Y O U R S O L A R S Y S T E M ?\n\nGovernment incentives may be available for your solar system. Over the years, these incentives have changed, and they are likely to change in the future. Talk to your LG PRO Installer to get the updated information you need about the latest incentives applicable to you.\n\nU.S. incentives vary greatly based on a homeowner\u2019s location. Many great programs are available for people on the local, state and federal level. In order to find out what types of incentives are available to you, LG will connect you with a local LG PRO Installer who can walk you through your options.\n\nF I N A N C I N G Y O U R S O L A R P R O J E C T\n\nCon",
+      "text": "If your installer is selling you LG solar panels, then LG is more than likely to service your panels in the future through your local LG PRO Installer . If you choose an unknown brand, again, the manufacturer may go out of business, or the importer may stop importing these panels into the U.S. A safe option is to buy branded solar panels from diversified manufacturers such as LG that have a proven track record. After all, the sun loves LG and knows the companys decades of innovation mean its going to be here when you need it to be. A reputable solar company will be fully aware of current electricity supply rules and will provide advice on the best system for your needs and location. Well-established businesses will be more likely to give you the most up-to-date advice.",
       "keywords": [
-        "keep",
+        "track",
+        "panel",
+        "love",
+        "servic",
+        "option",
+        "advic",
+        "safe",
+        "may",
+        "buy",
+        "stop",
+        "innov",
+        "electr",
+        "unknown",
+        "diversifi",
+        "fulli",
         "system",
-        "generates",
-        "panels",
-        "batteries",
-        "needs",
-        "you\u2019ll",
-        "etc",
-        "with",
-        "energy",
-        "future",
-        "mind",
-        "efficient",
-        "your",
-        "night",
-        "choose",
-        "consumption",
-        "highly",
-        "cars"
+        "locat",
+        "compani",
+        "proven",
+        "manufactur",
+        "awar",
+        "choos",
+        "reput",
+        "uptod",
+        "instal"
       ],
-      "length": 999,
-      "preview": "for batteries and for how you\u2019ll use the energy your system generates \u2013 cars, night consumption need..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 779,
+      "preview": "If your installer is selling you LG solar panels, then LG is more than likely to service your panels in the future through your local LG PRO Installer..."
     },
     {
       "chunk_id": 29,
-      "text": "find out what types of incentives are available to you, LG will connect you with a local LG PRO Installer who can walk you through your options.\n\nF I N A N C I N G Y O U R S O L A R P R O J E C T\n\nConsumers also have the option to finance a solar system. Often, homeowners redraw on their mortgage to finance the solar and battery system. Your LG PRO Installer can advise you about other available finance options, such as those from banks and government incentives.\n\n13\n\n14\n\nDetails on How to Choose a Solar Company\n\nIt is recommended that consumers use a reputable installer who checks your specific solar system requirements and ensures the connection between the sun and your home is strong. Please see the points below regarding the advantages of using a company promoting high-quality products.\n\n01\n\nA reputable solar retail company is more likely to fully evaluate your requirements and explain in detail what needs to be done in order to install your solar system.\n\n02\n\nA local diversified co",
+      "text": "Well-established businesses will be more likely to give you the most up-to-date advice. If your local installer is aligned with LG, then he she must install the solar power system to a high standard and act ethically in all business dealings with you, the customer .01 02 03 04 05Details on How to Choose a Solar Company 15  What is the estimated monthly and annual production in KWh of my system in its installation position? What is the estimated solar electricity production in the best and worst months? Who will service and maintain my solar system? Get an address and contact details in writing, preferably of someone reasonably local. What are the responsibilities for each party: the installer , manufacturer and consumer? Who is responsible for connecting your solar system to the electricity grid? Is it the installer? When will it happen? Who is responsible for your meter change? Make sure this is clarified. Quality companies usually offer to do the whole job.",
       "keywords": [
-        "available",
-        "connect",
-        "what",
-        "incentives",
-        "will",
-        "option",
-        "also",
-        "installer",
-        "have",
-        "walk",
-        "with",
-        "consumers",
-        "options",
-        "find",
-        "your",
-        "finance",
-        "through",
-        "types",
-        "you",
-        "local"
+        "monthli",
+        "grid",
+        "make",
+        "write",
+        "servic",
+        "advic",
+        "standard",
+        "job",
+        "maintain",
+        "high",
+        "electr",
+        "posit",
+        "power",
+        "happen",
+        "kwh",
+        "reason",
+        "custom",
+        "worst",
+        "system",
+        "parti",
+        "uptod",
+        "compani",
+        "manufactur",
+        "choos",
+        "must"
       ],
-      "length": 1000,
-      "preview": "find out what types of incentives are available to you, LG will connect you with a local LG PRO Inst..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 973,
+      "preview": "Well-established businesses will be more likely to give you the most up-to-date advice. If your local installer is aligned with LG, then he she must i..."
     },
     {
       "chunk_id": 30,
-      "text": "01\n\nA reputable solar retail company is more likely to fully evaluate your requirements and explain in detail what needs to be done in order to install your solar system.\n\n02\n\nA local diversified company is more likely to be around in the future to service any warranty issues or system upgrades. As we\u2019ve shared in this educational piece, some solar installers and dealers make big promises, but then vanish.\n\n03\n\nIf your installer is selling you LG solar panels, then LG is more than likely to service your panels in the future through your local LG PRO Installer. If you choose an unknown brand, again, the manufacturer may go out of business, or the importer may stop importing these panels into the U.S. A safe option is to buy branded solar panels from diversified manufacturers such as LG that have a proven track record. After all, the sun loves LG and knows the company\u2019s decades of innovation mean it\u2019s going to be here when you need it to be.\n\n04\n\nA reputable solar company will be fully",
+      "text": "Quality companies usually offer to do the whole job. How will the installer credit your solar rebate? Can I have a copy of the manual to get a detailed description of the solar panels?Asking your solar installer a few essential questions may make a big difference to the service and benefits you receive. Make sure you get the answers in writing.Questions to Ask Before You Buy  Your current electricity consumption and future needs. The available roof space and optimum panel location. The orientation and pitch of the roof(s). Impact of shading across all seasons and time of day. The structural soundness of the roof. Sizing the strings of panels for the correct voltage of the inverter solution. Ensuring the design meets building codes and electrical standards. Determining the most suitable location for the inverter and the way the cables are run.",
       "keywords": [
-        "evaluate",
-        "order",
-        "needs",
-        "explain",
-        "company",
-        "your",
-        "reputable",
-        "likely",
-        "more",
-        "what",
-        "install",
-        "system",
-        "fully",
-        "detail",
-        "done",
-        "retail",
-        "solar",
-        "requirements"
+        "way",
+        "panel",
+        "make",
+        "servic",
+        "standard",
+        "rebat",
+        "question",
+        "job",
+        "size",
+        "differ",
+        "may",
+        "buy",
+        "impact",
+        "shade",
+        "suitabl",
+        "string",
+        "electr",
+        "benefit",
+        "avail",
+        "cabl",
+        "meet",
+        "locat",
+        "orient",
+        "compani",
+        "manual"
       ],
-      "length": 998,
-      "preview": "01\n\nA reputable solar retail company is more likely to fully evaluate your requirements and explain ..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 854,
+      "preview": "Quality companies usually offer to do the whole job. How will the installer credit your solar rebate? Can I have a copy of the manual to get a detaile..."
     },
     {
       "chunk_id": 31,
-      "text": "at have a proven track record. After all, the sun loves LG and knows the company\u2019s decades of innovation mean it\u2019s going to be here when you need it to be.\n\n04\n\nA reputable solar company will be fully aware of current electricity supply rules and will provide advice on the best system for your needs and location. Well-established businesses will be more likely to give you the most up-to-date advice.\n\n05\n\nIf your local installer is aligned with LG, then he/ she must install the solar power system to a high standard and act ethically in all business dealings with you, the customer.\n\nQuestions to Ask Before You Buy\n\nAsking your solar installer a few essential questions may make a big difference to the service and benefits you receive. Make sure you get the answers in writing.\n\nWhat is the estimated monthly and annual production in KWh of my system in its installation position?\n\nWhat is the estimated solar electricity production in the best and worst months?\n\nWho will service and maintain",
+      "text": "Determining the most suitable location for the inverter and the way the cables are run. Considering appropriate monitor options and if batteries are appropriate.SOME STATES REQUIRE INSTALLERS TO HAVE A LICENSE BEFORE INSTALLING A SOLAR SYSTEM. THE FOLLOWING ELEMENTS ARE CONSIDERED WHEN DESIGNING A SOLAR SYSTEM: 16 What you should know about the 25-year Performance WarrantyImportant Over time, all solar panels will show degradation and produce less electricity. In order to give buyers some guidance about the level of expected degradation, a warranty is offered by most manufacturers. This warranty lasts, in most cases, for 25 years and guarantees, for conventional panels, an output of around 80 of the original capacity. LG guarantees up to 90.08 efficiency for the NeON 2 and the LG NeON R guarantees up to 90.8 efficiency with a 25-year performance warranty. Unfortunately, this warranty can easily cause confusion. Please note that an output warranty IS NOT a performance warranty.",
       "keywords": [
-        "after",
-        "loves",
-        "mean",
-        "reputable",
-        "here",
-        "record",
-        "it\u2019s",
-        "have",
-        "track",
-        "decades",
-        "proven",
-        "going",
-        "company\u2019s",
-        "knows",
-        "innovation",
-        "need",
-        "when",
-        "all",
-        "company",
-        "solar"
+        "way",
+        "panel",
+        "908",
+        "easili",
+        "option",
+        "note",
+        "perform",
+        "appropri",
+        "neon",
+        "buyer",
+        "suitabl",
+        "follow",
+        "origin",
+        "show",
+        "9008",
+        "electr",
+        "convent",
+        "effici",
+        "degrad",
+        "cabl",
+        "last",
+        "locat",
+        "system",
+        "state",
+        "manufactur"
       ],
-      "length": 999,
-      "preview": "at have a proven track record. After all, the sun loves LG and knows the company\u2019s decades of innova..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 991,
+      "preview": "Determining the most suitable location for the inverter and the way the cables are run. Considering appropriate monitor options and if batteries are a..."
     },
     {
       "chunk_id": 32,
-      "text": "imated monthly and annual production in KWh of my system in its installation position?\n\nWhat is the estimated solar electricity production in the best and worst months?\n\nWho will service and maintain my solar system? Get an address and contact details in writing, preferably of someone reasonably local.\n\nWhat are the responsibilities for each party: the installer, manufacturer and consumer?\n\nWho is responsible for connecting your solar system to the electricity grid? Is it the installer? When will it happen?\n\n\u2022 Who is responsible for your meter change? Make sure this is clarified. Quality companies usually offer to do the whole job.\n\n\n\nHow will the installer credit your solar rebate?\n\n\n\nCan I have a copy of the manual to get a detailed description of the solar panels?\n\nS O M E S T A T E S R E Q U I R E I N S T A L L E R S T O H A V E A L I C E N S E B E F O R E I N S T A L L I N G A S O L A R S Y S T E M . T H E F O L L O W I N G E L E M E N T S A R E C O N S I D E R E D W H E N D E S I",
+      "text": "Please note that an output warranty IS NOT a performance warranty. An output warranty only covers a portion of the costs for replacing your solar panels and only if your panel is in working order . On the other hand, a performance warranty covers all costs of replacing a faulty solar panel with a new one. In many sales promotions, the 25-Year warranty is highlighted, but when it comes to an output warranty, you will have to pay for removing panels from the roof, shipping the panels for testing, the return, and reinstallation. Output warranties dont cover the full cost of replacing a panel, especially when the customer has to spend many hundreds of dollars on installuninstall costs.. Be aware of glossy 25-Year warranty stickers  it is the performance warranty that counts toward getting the most out of your investment in using solar energy to strengthen your relationship with the sun. 171. Undertake some solar research via our Frequently Asked Questions (FAQs). 2.",
       "keywords": [
-        "estimated",
-        "electricity",
-        "production",
-        "position",
-        "best",
-        "worst",
-        "system",
-        "annual",
-        "what",
-        "months",
-        "monthly",
-        "installation",
-        "imated",
-        "solar",
-        "will",
-        "maintain",
-        "service"
+        "cover",
+        "one",
+        "ship",
+        "panel",
+        "spend",
+        "note",
+        "hundr",
+        "invest",
+        "perform",
+        "count",
+        "question",
+        "use",
+        "installuninstal",
+        "portion",
+        "faulti",
+        "energi",
+        "relationship",
+        "cost",
+        "replac",
+        "undertak",
+        "dollar",
+        "test",
+        "custom",
+        "toward",
+        "highlight"
       ],
-      "length": 1000,
-      "preview": "imated monthly and annual production in KWh of my system in its installation position?\n\nWhat is the ..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter",
+          "knots"
+        ]
+      },
+      "length": 976,
+      "preview": "Please note that an output warranty IS NOT a performance warranty. An output warranty only covers a portion of the costs for replacing your solar pane..."
     },
     {
       "chunk_id": 33,
-      "text": "E Q U I R E I N S T A L L E R S T O H A V E A L I C E N S E B E F O R E I N S T A L L I N G A S O L A R S Y S T E M . T H E F O L L O W I N G E L E M E N T S A R E C O N S I D E R E D W H E N D E S I G N I N G A S O L A R S Y S T E M :\n\nYour current electricity consumption and future needs.\n\nThe available roof space and optimum panel location.\n\nThe orientation and pitch of the roof(s).\n\n\n\nImpact of shading across all seasons and time of day.\n\nThe structural soundness of the roof.\n\nSizing the strings of panels for the correct voltage of the\n\ninverter solution.\n\nEnsuring the design meets building codes and electrical\n\nstandards.\n\nDetermining the most suitable location for the inverter\n\nand the way the cables are run.\n\nConsidering appropriate monitor options and if batteries\n\nare appropriate.\n\n15\n\n16\n\nImportant\n\nWhat you should know about the 25-year Performance Warranty\n\nOver time, all solar panels will show degradation and produce less electricity. In order to give buyers some guidance",
+      "text": "2. Do your research about brands and prices. There are some very cheap offers in the market, but these cheaper deals can hide poor quality equipment. You are looking for a product that lasts at least 25 years so that your financial investment is repaid over and over . Research the companies offering cheap deals. 3. Dont give in to pressure and deadlines. If the salesperson cannot give you the time to make a considered decision, then they might be afraid you will discover something bad about the deal after doing a bit of research. If the company has just arrived in town with a great deal, they might be gone after the install, leaving you to your own local devices. Please buy from reputable solar companies. In the years to come, you might need their solar expertise and support. 4. How big is your roof and how big a solar system can it fit?",
       "keywords": [
-        "seasons",
-        "pitch",
-        "available",
-        "shading",
-        "impact",
-        "roof(s",
-        "roof",
-        "panel",
-        "needs",
-        "electricity",
-        "optimum",
-        "location",
-        "time",
-        "future",
-        "current",
-        "your",
-        "consumption",
-        "orientation",
-        "across",
-        "space"
+        "cheap",
+        "invest",
+        "repaid",
+        "make",
+        "financi",
+        "bad",
+        "cheaper",
+        "arriv",
+        "least",
+        "fit",
+        "decis",
+        "market",
+        "buy",
+        "bit",
+        "equipment",
+        "look",
+        "solar",
+        "last",
+        "devic",
+        "hide",
+        "discov",
+        "system",
+        "compani",
+        "price",
+        "reput"
       ],
-      "length": 999,
-      "preview": "E Q U I R E I N S T A L L E R S T O H A V E A L I C E N S E B E F O R E I N S T A L L I N G A S O L ..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "shelter"
+        ]
+      },
+      "length": 849,
+      "preview": "2. Do your research about brands and prices. There are some very cheap offers in the market, but these cheaper deals can hide poor quality equipment. ..."
     },
     {
       "chunk_id": 34,
-      "text": ".\n\n15\n\n16\n\nImportant\n\nWhat you should know about the 25-year Performance Warranty\n\nOver time, all solar panels will show degradation and produce less electricity. In order to give buyers some guidance about the level of expected degradation, a warranty is offered by most manufacturers. This warranty lasts, in most cases, for 25 years and guarantees, for conventional panels, an output of around 80% of the original capacity. LG guarantees up to 90.08% efficiency for the NeON\u00ae 2 and the LG NeON\u00ae R guarantees up to 90.8% efficiency with a 25-year performance warranty.\n\nUnfortunately, this warranty can easily cause confusion. Please note that an output warranty IS NOT a performance warranty. An output warranty only covers a portion of the costs for replacing your solar panels and only if your panel is in working order. On the other hand, a performance warranty covers all costs of replacing a faulty solar panel with a new one.\n\nIn many sales promotions, the 25-Year warranty is highlighted, b",
+      "text": "How big is your roof and how big a solar system can it fit? Remember to allow some reserve space for when you install a solar storage battery for nighttime solar power use, and then again for more battery storage capacity to charge up an electric car in the future. Your quality solar system is built to last 25 years. Go back 25 years to the days of brick phones, dot matrix printers, and boomboxes to consider what the next 25 years will be like and how your home power needs may grow. 5. Solar systems vary in quality and size, and so does the price. Lower-grade systems may cost you more in the future in repairs and replacements. Use your tax rebate wisely. You are making a 25-year or longer investment, so please consider quality and real warranty support over everything else. And remember , a solar system with a good brand name and performance at the time you sell your home might increase your property value. 6.",
       "keywords": [
-        "show",
-        "performance",
-        "should",
-        "degradation",
-        "about",
-        "what",
-        "less",
-        "will",
-        "panels",
-        "give",
-        "25-year",
-        "electricity",
-        "time",
-        "order",
-        "important",
-        "know",
-        "warranty",
-        "produce",
-        "solar",
-        "over"
+        "back",
+        "els",
+        "invest",
+        "make",
+        "real",
+        "next",
+        "fit",
+        "rebat",
+        "perform",
+        "size",
+        "use",
+        "properti",
+        "vari",
+        "storag",
+        "may",
+        "grow",
+        "cost",
+        "replac",
+        "wise",
+        "electr",
+        "phone",
+        "power",
+        "increas",
+        "last",
+        "system"
       ],
-      "length": 1000,
-      "preview": ".\n\n15\n\n16\n\nImportant\n\nWhat you should know about the 25-year Performance Warranty\n\nOver time, all so..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 923,
+      "preview": "How big is your roof and how big a solar system can it fit? Remember to allow some reserve space for when you install a solar storage battery for nigh..."
     },
     {
       "chunk_id": 35,
-      "text": "anel is in working order. On the other hand, a performance warranty covers all costs of replacing a faulty solar panel with a new one.\n\nIn many sales promotions, the 25-Year warranty is highlighted, but when it comes to an output warranty, you will have to pay for removing panels from the roof, shipping the panels for testing, the return, and reinstallation.\n\nOutput warranties don\u2019t cover the full cost of replacing a panel, especially when the customer has to spend many hundreds of dollars on install/uninstall costs.. Be aware of glossy 25-Year warranty stickers \u2013 it is the performance warranty that counts toward getting the most out of your investment in using solar energy to strengthen your relationship with the sun.\n\nAdditional Tips To Get Started With Solar\n\nUnfortunately, as in any industry, some unscrupulous companies can affect the reputation of professional, positive and reliable suppliers. Please see these helpful hints on how to avoid poor-quality solar system installers.\n\n1.",
+      "text": "6. Panel Types  Certifications: We recommend the high-efficiency NeON mono-crystalline solar panels. They have a black appearance and from our point of view will aesthetically blend in more to your roof and neighborhood than the blue multi- crystalline solar panel variety. 7. Solar systems attract government rebates. You should check with the installation companies if the offered panels are eligible for local and federal tax credits. T o find out what incentives are available to you, visit our blog page, https:www.lg.comussolarblog. 8. Performance Warranty: Many manufacturers will offer 10 years performance warranty and an 80.2 performance efficiency warranty at 25 years (LG guarantees 89.6 with the NeON 2). For the average consumer , it becomes difficult to separate the wheat from the chaff. Companies like LG offer a full labor warranty and a product replacement warranty.",
       "keywords": [
-        "many",
-        "performance",
-        "replacing",
-        "25-year",
+        "page",
         "panel",
-        "promotions",
-        "covers",
-        "with",
-        "working",
-        "order",
-        "anel",
-        "hand",
-        "one",
-        "faulty",
-        "other",
-        "warranty",
-        "costs",
-        "solar",
-        "sales"
+        "attract",
+        "varieti",
+        "rebat",
+        "perform",
+        "neon",
+        "find",
+        "visit",
+        "feder",
+        "labor",
+        "replac",
+        "wwwlgcomussolarblog",
+        "averag",
+        "difficult",
+        "multi",
+        "896",
+        "avail",
+        "effici",
+        "elig",
+        "higheffici",
+        "black",
+        "system",
+        "compani",
+        "manufactur"
       ],
-      "length": 1000,
-      "preview": "anel is in working order. On the other hand, a performance warranty covers all costs of replacing a ..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 885,
+      "preview": "6. Panel Types  Certifications: We recommend the high-efficiency NeON mono-crystalline solar panels. They have a black appearance and from our point o..."
     },
     {
       "chunk_id": 36,
-      "text": "dustry, some unscrupulous companies can affect the reputation of professional, positive and reliable suppliers. Please see these helpful hints on how to avoid poor-quality solar system installers.\n\n1. Undertake some solar research via our Frequently Asked Questions (FAQs).\n\nyears will be like and how your home power needs may grow.\n\n2. Do your research about brands and prices. There are some very cheap offers in the market, but these cheaper deals can hide poor quality equipment. You are looking for a product that lasts at least 25 years so that your financial investment is repaid over and over. Research the companies offering cheap deals.\n\n5. Solar systems vary in quality and size, and so does the price. Lower-grade systems may cost you more in the future in repairs and replacements. Use your tax rebate wisely. You are making a 25-year or longer investment, so please consider quality and real warranty support over everything else. And remember, a solar system with a good brand name an",
+      "text": "Companies like LG offer a full labor warranty and a product replacement warranty. Finally, make sure that the manufacturer has a local legal entity in the U.S. Should you have a dispute in the years to come, a company with no link and contact in the U.S. may be hard to communicate with when it comes to consumer rights. 9. Choose a quality inverter solution to go with quality panels: An inverter is the heart of your solar system. It will have a direct impact on the efficiency of conversion from solar energy to usable electric power . The more efficient the inverter solution, the better the energy conversion process will be. 10. Quotes  Buying: Do not get pressured by salespersons to sign a deal then and there. Use reputable and established local businesses to install your solar system.Unfortunately, as in any industry, some unscrupulous companies can affect the reputation of professional, positive and reliable suppliers.",
       "keywords": [
-        "some",
-        "helpful",
-        "avoid",
-        "system",
-        "installers",
-        "undertake",
-        "suppliers",
-        "hints",
-        "these",
-        "dustry",
-        "poor-quality",
-        "professional",
-        "reliable",
+        "supplier",
+        "legal",
+        "make",
+        "link",
+        "panel",
+        "quot",
+        "use",
+        "may",
+        "impact",
+        "labor",
+        "energi",
+        "buy",
         "affect",
-        "please",
-        "reputation",
-        "companies",
-        "unscrupulous",
-        "positive",
-        "solar"
+        "replac",
+        "hard",
+        "electr",
+        "right",
+        "posit",
+        "effici",
+        "convers",
+        "power",
+        "establish",
+        "usabl",
+        "system",
+        "direct"
       ],
-      "length": 1000,
-      "preview": "dustry, some unscrupulous companies can affect the reputation of professional, positive and reliable..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": []
+      },
+      "length": 933,
+      "preview": "Companies like LG offer a full labor warranty and a product replacement warranty. Finally, make sure that the manufacturer has a local legal entity in..."
     },
     {
       "chunk_id": 37,
-      "text": "your tax rebate wisely. You are making a 25-year or longer investment, so please consider quality and real warranty support over everything else. And remember, a solar system with a good brand name and performance at the time you sell your home might increase your property value.\n\n3. Don\u2019t give in to pressure and deadlines. If the salesperson cannot give you the time to make a considered decision, then they might be afraid you will discover something bad about the deal after doing a bit of research. If the company has just arrived in town with a great deal, they might be gone after the install, leaving you to your own local devices. Please buy from reputable solar companies. In the years to come, you might need their solar expertise and support.\n\n4. How big is your roof and how big a solar system can it fit? Remember to allow some reserve space for when you install a solar storage battery for nighttime solar power use, and then again for more battery storage capacity to charge up an el",
+      "text": "Please see these helpful hints on how to avoid poor-quality solar system installers.Additional Tips T o Get Started With Solar 18The Sun Loves LG For more information visit: http:lg.comussolarVisit us at LG Solar: LG Electronics Inc. 2000 Millbrook Court, Lincolnshire, IL, 60069 US Copyright  2019 LG Electronics. All rights reserved.",
       "keywords": [
-        "wisely",
-        "everything",
-        "system",
-        "longer",
-        "real",
-        "25-year",
-        "else",
-        "making",
-        "with",
-        "investment",
-        "your",
-        "please",
-        "quality",
-        "support",
-        "warranty",
-        "rebate",
-        "remember",
-        "consider",
-        "solar",
-        "over"
-      ],
-      "length": 1000,
-      "preview": "your tax rebate wisely. You are making a 25-year or longer investment, so please consider quality an..."
-    },
-    {
-      "chunk_id": 38,
-      "text": "system can it fit? Remember to allow some reserve space for when you install a solar storage battery for nighttime solar power use, and then again for more battery storage capacity to charge up an electric car in the future. Your quality solar system is built to last 25+ years. Go back 25 years to the days of brick phones, dot matrix printers, and boomboxes to consider what the next 25\n\n6. Panel Types & Certifications: We recommend the high-efficiency NeON\u00ae mono-crystalline solar panels. They have a black appearance and from our point of view will aesthetically blend in more to your roof and neighborhood than the blue multi- crystalline solar panel variety.\n\n7. Solar systems attract government rebates. You should check with the installation companies if the offered panels are eligible for local and federal tax credits. To find out what incentives are available to you, visit our blog page, https://www.lg.com/us/solar/blog.\n\n8. Performance Warranty: Many manufacturers will offer 10 year",
-      "keywords": [
-        "when",
-        "storage",
-        "some",
-        "again",
-        "remember",
-        "power",
-        "system",
-        "install",
-        "reserve",
-        "battery",
-        "nighttime",
-        "solar",
-        "more",
-        "fit",
-        "space",
-        "then",
-        "allow",
-        "use"
-      ],
-      "length": 999,
-      "preview": "system can it fit? Remember to allow some reserve space for when you install a solar storage battery..."
-    },
-    {
-      "chunk_id": 39,
-      "text": "local and federal tax credits. To find out what incentives are available to you, visit our blog page, https://www.lg.com/us/solar/blog.\n\n8. Performance Warranty: Many manufacturers will offer 10 years\u2019 performance warranty and an 80.2% performance efficiency warranty at 25 years (LG guarantees 89.6% with the NeON\u00ae 2). For the average consumer, it becomes difficult\n\nto separate the \u201cwheat from the chaff.\u201d Companies like LG offer a full labor warranty and a product replacement warranty. Finally, make sure that the manufacturer has a local legal entity in the U.S. Should you have a dispute in the years to come, a company with no link and contact in the U.S. may be hard to communicate with when it comes to consumer rights.\n\n9. Choose a quality inverter solution to go with quality panels: An inverter is the heart of your solar system. It will have a direct impact on the efficiency of conversion from solar energy to usable electric power. The more efficient the inverter solution, the better",
-      "keywords": [
-        "many",
-        "offer",
-        "page",
-        "available",
-        "performance",
-        "what",
-        "incentives",
-        "warranty:",
-        "will",
-        "blog",
-        "credits",
-        "find",
-        "https://www.lg.com/us/solar/blog",
-        "manufacturers",
+        "love",
+        "tip",
+        "inc",
         "visit",
-        "years\u2019",
-        "federal",
-        "you",
-        "local"
-      ],
-      "length": 999,
-      "preview": "local and federal tax credits. To find out what incentives are available to you, visit our blog page..."
-    },
-    {
-      "chunk_id": 40,
-      "text": "nverter is the heart of your solar system. It will have a direct impact on the efficiency of conversion from solar energy to usable electric power. The more efficient the inverter solution, the better the energy conversion process will be.\n\n10. Quotes & Buying: Do not get pressured by salespersons to sign a deal then and there. Use reputable and established local businesses to install your solar system.\n\n17\n\n18\n\nVisit us at LG Solar:\n\nThe Sun Loves LG\n\nFor more information visit: http://lg.com/us/solar\n\nLG Electronics Inc. 2000 Millbrook Court, Lincolnshire, IL, 60069 US Copyright \u00a9 2019 LG Electronics. All rights reserved.",
-      "keywords": [
-        "from",
-        "impact",
-        "inverter",
+        "18the",
+        "60069",
+        "hint",
+        "right",
+        "inform",
         "system",
-        "will",
-        "conversion",
-        "have",
-        "nverter",
-        "energy",
-        "efficient",
-        "your",
-        "heart",
-        "electric",
-        "usable",
-        "direct",
-        "power",
-        "solar",
-        "more",
-        "efficiency"
+        "2019",
+        "start",
+        "poorqual",
+        "2000",
+        "court",
+        "sun",
+        "pleas",
+        "http",
+        "lincolnshir",
+        "copyright",
+        "reserv",
+        "electron",
+        "millbrook",
+        "installersaddit",
+        "get"
       ],
-      "length": 631,
-      "preview": "nverter is the heart of your solar system. It will have a direct impact on the efficiency of convers..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "signaling"
+        ]
+      },
+      "length": 335,
+      "preview": "Please see these helpful hints on how to avoid poor-quality solar system installers.Additional Tips T o Get Started With Solar 18The Sun Loves LG For ..."
     }
   ],
   "keyword_lookup": {
-    "beginner\u2019s": [
-      0
+    "way": [
+      0,
+      12,
+      24,
+      30,
+      31
     ],
-    "energy": [
+    "grid": [
       0,
       8,
       9,
       10,
+      11,
+      13,
+      14,
+      29
+    ],
+    "love": [
+      0,
+      5,
+      6,
+      7,
+      12,
+      28,
+      37
+    ],
+    "make": [
+      0,
       12,
       15,
+      21,
+      23,
+      24,
+      27,
+      29,
+      30,
+      33,
+      34,
+      36
+    ],
+    "panel": [
+      0,
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
       19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
       27,
       28,
-      40
+      30,
+      31,
+      32,
+      35,
+      36
     ],
-    "benefits": [
+    "energi": [
       0,
-      9,
-      11
-    ],
-    "grid": [
-      0,
-      12,
-      13
-    ],
-    "should": [
-      0,
+      4,
+      5,
+      6,
       7,
-      34
+      8,
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      19,
+      24,
+      25,
+      32,
+      36
+    ],
+    "littl": [
+      0,
+      5,
+      12,
+      19,
+      22
+    ],
+    "benefit": [
+      0,
+      5,
+      7,
+      8,
+      16,
+      30
+    ],
+    "long": [
+      0,
+      2,
+      12,
+      13,
+      23
     ],
     "system": [
       0,
       1,
       2,
+      3,
       4,
-      5,
-      7,
-      8,
-      11,
-      13,
-      18,
-      20,
-      21,
-      22,
-      24,
-      28,
-      30,
-      32,
-      36,
-      37,
-      38,
-      40
-    ],
-    "systems": [
-      0,
-      1,
-      4,
-      13,
-      14
-    ],
-    "choose": [
-      0,
-      5,
       6,
-      7,
-      28
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      21,
+      26,
+      27,
+      28,
+      29,
+      31,
+      33,
+      34,
+      35,
+      36,
+      37
     ],
-    "beginners": [
+    "3beginn": [
+      0
+    ],
+    "choos": [
+      0,
+      3,
+      4,
+      28,
+      29
+    ],
+    "work": [
+      0
+    ],
+    "guid": [
+      0
+    ],
+    "sun": [
+      0,
+      37
+    ],
+    "beginn": [
+      0
+    ],
+    "invert": [
+      0
+    ],
+    "solut": [
       0
     ],
     "solar": [
       0,
       1,
       2,
-      4,
-      5,
-      6,
+      3,
       7,
-      8,
-      9,
-      11,
-      12,
-      13,
-      14,
-      15,
-      18,
-      20,
-      22,
-      24,
-      27,
-      30,
-      31,
-      32,
-      34,
-      35,
-      36,
-      37,
-      38,
-      40
-    ],
-    "works": [
-      0
-    ],
-    "guide": [
-      0
-    ],
-    "from": [
-      1,
-      8,
-      9,
-      18,
-      40
-    ],
-    "long": [
-      1,
-      4
-    ],
-    "make": [
-      1,
-      14
-    ],
-    "mounting": [
-      1,
-      3,
-      17,
-      21
-    ],
-    "inverter": [
-      1,
-      12,
-      40
-    ],
-    "your": [
-      1,
-      2,
-      4,
-      5,
-      9,
-      10,
-      11,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      28,
-      29,
-      30,
-      33,
-      37,
-      40
-    ],
-    "metering": [
-      1,
-      2
-    ],
-    "solutions": [
-      1,
-      14,
-      17
-    ],
-    "love": [
-      1
-    ],
-    "little": [
-      1,
-      14
-    ],
-    "panels": [
-      1,
-      2,
-      3,
-      4,
-      9,
-      12,
-      13,
-      18,
-      20,
-      21,
-      22,
-      23,
-      25,
-      26,
-      27,
-      28,
-      34
-    ],
-    "orientation": [
-      2,
       33
-    ],
-    "routine": [
-      2,
-      3,
-      19
-    ],
-    "tilting": [
-      2
-    ],
-    "daily": [
-      2,
-      3,
-      19
-    ],
-    "installing": [
-      2,
-      3,
-      7,
-      9,
-      18
-    ],
-    "many": [
-      3,
-      4,
-      27,
-      35,
-      39
-    ],
-    "pane": [
-      3
-    ],
-    "performance": [
-      3,
-      6,
-      18,
-      20,
-      26,
-      34,
-      35,
-      39
-    ],
-    "shading": [
-      3,
-      33
-    ],
-    "greater": [
-      3
-    ],
-    "need": [
-      4,
-      21,
-      31
-    ],
-    "sizes": [
-      4
-    ],
-    "last": [
-      4
-    ],
-    "efficiency": [
-      4,
-      5,
-      40
-    ],
-    "matters": [
-      4,
-      5
-    ],
-    "ormance": [
-      4
-    ],
-    "does": [
-      4
-    ],
-    "panel": [
-      4,
-      5,
-      33,
-      35
-    ],
-    "financing": [
-      5
-    ],
-    "project": [
-      5
-    ],
-    "available": [
-      5,
-      29,
-      33,
-      39
-    ],
-    "there": [
-      5
-    ],
-    "incentives": [
-      5,
-      29,
-      39
-    ],
-    "details": [
-      5,
-      6
-    ],
-    "going": [
-      5,
-      31
-    ],
-    "before": [
-      6,
-      13,
-      24
-    ],
-    "additional": [
-      6,
-      7,
-      21
-    ],
-    "company": [
-      6,
-      9,
-      30,
-      31
-    ],
-    "questions": [
-      6
-    ],
-    "info": [
-      6
-    ],
-    "with": [
-      6,
-      7,
-      12,
-      14,
-      25,
-      27,
-      28,
-      29,
-      35,
-      37
-    ],
-    "started": [
-      6,
-      7
-    ],
-    "warranty": [
-      6,
-      26,
-      34,
-      35,
-      37
-    ],
-    "25-year": [
-      6,
-      26,
-      34,
-      35,
-      37
-    ],
-    "tips": [
-      6,
-      7
-    ],
-    "gone": [
-      7
-    ],
-    "significantly": [
-      7
-    ],
-    "down": [
-      7
-    ],
-    "five": [
-      7
-    ],
-    "past": [
-      7
-    ],
-    "over": [
-      7,
-      10,
-      17,
-      34,
-      37
-    ],
-    "cost": [
-      7
-    ],
-    "years": [
-      7
-    ],
-    "immediately": [
-      8
-    ],
-    "relying": [
-      8
-    ],
-    "begins": [
-      8
-    ],
-    "renewable": [
-      8
-    ],
-    "savings": [
-      8
-    ],
-    "major": [
-      8
-    ],
-    "use": [
-      8,
-      38
-    ],
-    "investment": [
-      8,
-      37
-    ],
-    "source": [
-      8
-    ],
-    "through": [
-      8,
-      29
-    ],
-    "that": [
-      8,
-      15,
-      17,
-      22,
-      23,
-      26,
-      27
-    ],
-    "itself": [
-      8
-    ],
-    "power": [
-      8,
-      27,
-      38,
-      40
-    ],
-    "choosing": [
-      8
-    ],
-    "part": [
-      8
-    ],
-    "enables": [
-      9
-    ],
-    "electricity": [
-      9,
-      10,
-      12,
-      13,
-      15,
-      19,
-      20,
-      23,
-      32,
-      33,
-      34
-    ],
-    "this": [
-      9,
-      10,
-      15
-    ],
-    "rather": [
-      9
-    ],
-    "than": [
-      9,
-      13
-    ],
-    "buying": [
-      9
-    ],
-    "generate": [
-      9,
-      10,
-      13,
-      15,
-      20
-    ],
-    "electric": [
-      9,
-      40
-    ],
-    "etstarted": [
-      9
-    ],
-    "future": [
-      10,
-      28,
-      33
-    ],
-    "while": [
-      10,
-      18,
-      20
-    ],
-    "fuels": [
-      10
-    ],
-    "needs": [
-      10,
-      28,
-      30,
-      33
-    ],
-    "able": [
-      10,
-      16
-    ],
-    "lifestyle": [
-      10
-    ],
-    "reduces": [
-      10
-    ],
-    "fossil": [
-      10
-    ],
-    "increasing": [
-      10
-    ],
-    "reliance": [
-      10
-    ],
-    "control": [
-      10
-    ],
-    "expenses": [
-      10
-    ],
-    "also": [
-      11,
-      13,
-      17,
-      29
-    ],
-    "home": [
-      11,
-      12,
-      19
-    ],
-    "times": [
-      11
-    ],
-    "financial": [
-      11
-    ],
-    "household": [
-      11
-    ],
-    "appliances": [
-      11
-    ],
-    "increase": [
-      11
-    ],
-    "example": [
-      11
-    ],
-    "machine": [
-      11
-    ],
-    "washing": [
-      11
-    ],
-    "turning": [
-      11
-    ],
-    "operate": [
-      11
-    ],
-    "changing": [
-      11
-    ],
-    "connected": [
-      12
-    ],
-    "house": [
-      12
     ],
     "meter": [
-      12
+      1
     ],
-    "used": [
-      12
+    "tilt": [
+      1
     ],
-    "exported": [
-      12
+    "routin": [
+      1,
+      16
     ],
-    "eries": [
-      12
+    "orient": [
+      1,
+      16,
+      30
     ],
-    "solution": [
-      12
+    "daili": [
+      1
     ],
-    "switchboard": [
-      12
+    "shade": [
+      1,
+      17,
+      18,
+      20,
+      30
     ],
-    "first": [
-      13
+    "instal": [
+      1,
+      2,
+      4,
+      9,
+      10,
+      16,
+      26,
+      27,
+      28
     ],
-    "switching": [
-      13
+    "mount": [
+      1,
+      2
     ],
-    "more": [
-      13,
+    "effici": [
+      2,
+      23,
       25,
-      30,
-      38,
-      40
+      31,
+      35,
+      36
     ],
-    "grid-connected": [
-      13,
-      14
-    ],
-    "generated": [
-      13,
-      27
-    ],
-    "required": [
-      13
-    ],
-    "brands": [
-      14
-    ],
-    "solar-": [
-      14
-    ],
-    "consume": [
-      14
-    ],
-    "houses": [
-      14
-    ],
-    "nverter": [
-      14,
-      40
-    ],
-    "fronius": [
-      14
-    ],
-    "solaredge": [
-      14
-    ],
-    "today": [
-      14
-    ],
-    "sma": [
-      14
-    ],
-    "enphase": [
-      14
-    ],
-    "include": [
-      14
-    ],
-    "place": [
+    "perform": [
+      2,
+      4,
+      12,
       15,
-      19
-    ],
-    "cells": [
-      15
-    ],
-    "moving": [
-      15
-    ],
-    "conversion": [
-      15,
-      40
-    ],
-    "clean": [
-      15
-    ],
-    "requires": [
-      15
-    ],
-    "converting": [
-      15
-    ],
-    "process": [
-      15
-    ],
-    "takes": [
-      15
-    ],
-    "sunlight": [
-      15
-    ],
-    "usable": [
-      15,
-      40
-    ],
-    "into": [
-      15
-    ],
-    "parts": [
-      15
-    ],
-    "within": [
-      15
-    ],
-    "best": [
-      16,
-      19,
-      32
-    ],
-    "installer": [
-      16,
-      29
-    ],
-    "verters": [
-      16
-    ],
-    "such": [
-      16
-    ],
-    "based": [
-      16
-    ],
-    "location": [
-      16,
-      33
-    ],
-    "several": [
-      16
-    ],
-    "long-": [
-      16
-    ],
-    "local": [
-      16,
-      29,
-      39
-    ],
-    "climate": [
-      16
-    ],
-    "will": [
-      16,
+      17,
       19,
       20,
-      21,
-      27,
-      29,
+      22,
+      23,
+      31,
       32,
       34,
-      39,
-      40
+      35
     ],
-    "configuration": [
-      16
-    ],
-    "information": [
-      16
-    ],
-    "lasting": [
-      16
-    ],
-    "factors": [
-      16
-    ],
-    "give": [
-      16,
+    "last": [
+      2,
+      13,
+      23,
+      31,
+      33,
       34
     ],
-    "speed": [
-      17
+    "size": [
+      2,
+      16,
+      25,
+      30,
+      34
     ],
-    "rails": [
-      17
+    "need": [
+      2
     ],
-    "longer": [
+    "greater": [
+      2
+    ],
+    "matter": [
+      2,
+      5,
+      25
+    ],
+    "mani": [
+      2
+    ],
+    "incent": [
+      3,
+      26
+    ],
+    "detail": [
+      3
+    ],
+    "financ": [
+      3,
+      25,
+      26,
+      27
+    ],
+    "avail": [
+      3,
+      18,
+      26,
+      27,
+      30,
+      35
+    ],
+    "project": [
+      3
+    ],
+    "compani": [
+      3,
+      4,
+      6,
+      14,
+      27,
+      28,
+      29,
+      30,
+      33,
+      35
+    ],
+    "advantag": [
+      4,
+      5,
+      27
+    ],
+    "spend": [
+      4,
+      32
+    ],
+    "greatli": [
+      4,
+      15,
+      16,
       17,
+      26
+    ],
+    "question": [
+      4,
+      21,
+      30,
+      32
+    ],
+    "content": [
+      4
+    ],
+    "significantli": [
+      4
+    ],
+    "buy": [
+      4,
+      6,
+      20,
+      21,
+      24,
+      25,
+      28,
+      30,
+      33,
+      36
+    ],
+    "five": [
+      4,
+      5
+    ],
+    "cost": [
+      4,
+      7,
+      15,
+      18,
+      21,
+      22,
+      23,
+      32,
+      34
+    ],
+    "alway": [
+      4,
+      5
+    ],
+    "famili": [
+      4
+    ],
+    "electr": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      20,
+      25,
+      28,
+      29,
+      30,
+      31,
+      34,
+      36
+    ],
+    "much": [
+      4,
+      5,
+      10
+    ],
+    "natur": [
+      4,
+      5
+    ],
+    "power": [
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      18,
+      22,
+      23,
+      29,
+      34,
+      36
+    ],
+    "home": [
+      4,
+      6,
+      8,
+      10,
+      12,
+      13,
+      16,
+      20,
+      27
+    ],
+    "tabl": [
+      4
+    ],
+    "past": [
+      4
+    ],
+    "gone": [
+      4
+    ],
+    "invest": [
+      5,
+      32,
+      33,
+      34
+    ],
+    "har": [
+      5
+    ],
+    "save": [
+      5,
+      6,
+      8,
+      24,
+      25
+    ],
+    "train": [
+      5,
+      6
+    ],
+    "use": [
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      13,
+      16,
+      17,
+      18,
+      19,
+      22,
+      24,
+      25,
+      27,
+      32,
+      34,
+      36
+    ],
+    "goe": [
+      5
+    ],
+    "vari": [
+      5,
+      7,
+      26,
+      34
+    ],
+    "may": [
+      5,
+      14,
+      15,
+      18,
+      25,
+      28,
+      30,
+      34,
+      36
+    ],
+    "independ": [
+      5,
+      6,
+      8,
+      15,
+      16
+    ],
+    "visit": [
+      5,
+      6,
+      20,
+      35,
       37
     ],
-    "periods": [
-      17
+    "never": [
+      5,
+      24
     ],
-    "robust": [
-      17
+    "relationship": [
+      5,
+      19,
+      24,
+      32
     ],
-    "design": [
-      17
+    "quot": [
+      6,
+      15,
+      36
     ],
-    "time": [
+    "find": [
+      6,
+      21,
+      26,
+      35
+    ],
+    "enabl": [
+      6
+    ],
+    "sustain": [
+      6
+    ],
+    "cleaner": [
+      6
+    ],
+    "dioxid": [
+      6
+    ],
+    "kwh": [
+      6,
+      29
+    ],
+    "abl": [
+      6,
+      7,
+      13,
+      15
+    ],
+    "wwwlgcomussolargetstart": [
+      6
+    ],
+    "free": [
+      6
+    ],
+    "embrac": [
+      6
+    ],
+    "assess": [
+      6
+    ],
+    "rise": [
+      7
+    ],
+    "set": [
+      7,
+      13
+    ],
+    "financi": [
+      7,
+      8,
+      33
+    ],
+    "oper": [
+      7
+    ],
+    "household": [
+      7,
+      8,
+      9,
+      12,
+      13
+    ],
+    "storag": [
+      7,
+      8,
+      10,
+      24,
+      34
+    ],
+    "relianc": [
+      7
+    ],
+    "even": [
+      7,
+      15,
+      16,
       17,
+      18,
+      19,
+      25
+    ],
+    "amount": [
+      7
+    ],
+    "highqual": [
+      7,
+      19,
+      27
+    ],
+    "increas": [
+      7,
+      8,
+      15,
+      16,
+      21,
+      34
+    ],
+    "lifestyl": [
+      7
+    ],
+    "expand": [
+      7
+    ],
+    "higheffici": [
+      7,
+      35
+    ],
+    "also": [
+      7,
+      8,
+      9,
+      10,
+      14,
+      16,
+      20,
+      26
+    ],
+    "store": [
+      8,
+      10,
+      13
+    ],
+    "util": [
+      8
+    ],
+    "night": [
+      8,
+      24,
+      25
+    ],
+    "cloth": [
+      8
+    ],
+    "peak": [
+      8
+    ],
+    "exampl": [
+      8
+    ],
+    "higher": [
+      8,
+      14
+    ],
+    "state": [
+      8,
+      26,
+      31
+    ],
+    "direct": [
+      8,
+      9,
+      12,
+      36
+    ],
+    "oday": [
+      9
+    ],
+    "froniu": [
+      9
+    ],
+    "advic": [
+      9,
+      28,
+      29
+    ],
+    "hous": [
+      9,
+      11
+    ],
+    "enphas": [
+      9
+    ],
+    "suitabl": [
+      9,
+      18,
+      20,
+      30,
+      31
+    ],
+    "brand": [
+      9
+    ],
+    "string": [
+      9,
+      11,
+      12,
+      17,
+      18,
+      30
+    ],
+    "sma": [
+      9
+    ],
+    "solaredg": [
+      9
+    ],
+    "optim": [
+      9,
+      11,
+      12,
+      17,
+      18
+    ],
+    "your": [
+      9
+    ],
+    "gridconnect": [
+      9,
+      10,
+      11,
+      12,
+      15
+    ],
+    "invertermicro": [
+      9
+    ],
+    "attach": [
+      9,
+      14
+    ],
+    "back": [
+      10,
+      22,
+      23,
+      34
+    ],
+    "nighta": [
+      10
+    ],
+    "feed": [
+      10
+    ],
+    "hold": [
+      10
+    ],
+    "unless": [
+      10
+    ],
+    "add": [
+      10
+    ],
+    "made": [
+      10
+    ],
+    "multipl": [
+      10
+    ],
+    "batteri": [
+      10,
+      26
+    ],
+    "photovolta": [
+      10
+    ],
+    "immedi": [
+      10
+    ],
+    "unabl": [
+      10
+    ],
+    "combin": [
+      11
+    ],
+    "atteriesinvert": [
+      11
+    ],
+    "solutionelectricit": [
+      11
+    ],
+    "face": [
+      11,
+      15,
+      16,
+      17
+    ],
+    "fit": [
+      11,
+      18,
       24,
       33,
       34
     ],
-    "corrosion": [
-      17
+    "ard": [
+      11
     ],
-    "points": [
-      17
+    "southern": [
+      11
     ],
-    "feature": [
-      17
+    "meterswit": [
+      11
     ],
-    "quality": [
+    "westerli": [
+      11
+    ],
+    "ele": [
+      11
+    ],
+    "ardinvert": [
+      11
+    ],
+    "metersolar": [
+      11
+    ],
+    "swit": [
+      11
+    ],
+    "compris": [
+      11,
+      12
+    ],
+    "cted": [
+      11
+    ],
+    "onn": [
+      11
+    ],
+    "one": [
+      12,
       17,
-      22,
-      37
-    ],
-    "anchoring": [
-      17
-    ],
-    "installation": [
-      17,
-      24,
+      18,
       32
     ],
-    "still": [
-      18
+    "togeth": [
+      12
     ],
-    "modules": [
-      18,
-      20
-    ],
-    "east": [
-      18
-    ],
-    "output": [
-      18
-    ],
-    "anywhere": [
-      18
-    ],
-    "face": [
-      18
-    ],
-    "south": [
-      18
-    ],
-    "good": [
-      18
-    ],
-    "providing": [
-      18
-    ],
-    "west": [
-      18
-    ],
-    "consumption": [
-      19,
-      28,
-      33
-    ],
-    "possible": [
+    "safety": [
+      12,
       19
     ],
-    "about": [
-      19,
-      34
+    "sunlight": [
+      12,
+      17
     ],
-    "help": [
-      19
-    ],
-    "thinking": [
-      19
-    ],
-    "locate": [
-      19
-    ],
-    "sun\u2019s": [
-      19
-    ],
-    "receive": [
-      19
-    ],
-    "ceive": [
-      20
-    ],
-    "less": [
-      20,
-      25,
-      34
-    ],
-    "even": [
-      20
-    ],
-    "affect": [
-      20,
+    "convers": [
+      12,
       36
     ],
-    "chimney": [
-      20
-    ],
-    "shadow": [
-      20
-    ],
-    "shade": [
-      20,
-      23
-    ],
-    "single": [
-      20
-    ],
-    "antenna": [
-      20
-    ],
-    "fitted": [
+    "compon": [
+      12,
+      19,
       21
     ],
-    "ground-mounted": [
-      21
+    "usabl": [
+      12,
+      36
     ],
-    "cable": [
-      21
+    "accessori": [
+      12
     ],
-    "land": [
-      21
+    "depend": [
+      13,
+      15,
+      17
     ],
-    "spot": [
-      21
+    "hybrid": [
+      13
     ],
-    "costs": [
-      21,
-      24,
-      26,
+    "digit": [
+      13
+    ],
+    "varieti": [
+      13,
+      14,
       35
     ],
-    "ground": [
-      21
+    "appropri": [
+      13,
+      31
     ],
-    "running": [
-      21
+    "tile": [
+      13
     ],
-    "sun-filled": [
-      21
+    "clip": [
+      13
     ],
-    "allow": [
-      21,
-      38
+    "accept": [
+      13,
+      14
     ],
-    "however": [
-      21
+    "365w": [
+      13
     ],
-    "ilures": [
-      22
+    "rail": [
+      13,
+      14
     ],
-    "strongly": [
-      22
+    "configur": [
+      13
     ],
-    "purchase": [
-      22,
-      24
+    "inform": [
+      13,
+      26,
+      37
     ],
-    "decade": [
-      22
+    "locat": [
+      13,
+      15,
+      16,
+      26,
+      28,
+      30,
+      31
     ],
-    "occurred": [
-      22
+    "robust": [
+      14
     ],
-    "inverters": [
-      22
+    "measur": [
+      14
     ],
-    "have": [
-      22,
+    "grade": [
+      14
+    ],
+    "speed": [
+      14
+    ],
+    "lower": [
+      14
+    ],
+    "two": [
+      14
+    ],
+    "featur": [
+      14
+    ],
+    "often": [
+      14,
+      26
+    ],
+    "bracket": [
+      14
+    ],
+    "manufactur": [
+      14,
+      28,
       29,
       31,
-      40
+      35
     ],
-    "suggested": [
-      22
+    "hardwar": [
+      14
     ],
-    "high-quality": [
-      22
+    "fundament": [
+      14
     ],
-    "maintenance": [
-      22
+    "hundr": [
+      15,
+      32
     ],
-    "analysis": [
-      23
+    "gener": [
+      15
     ],
-    "usage": [
-      23
-    ],
-    "ensure": [
-      23
-    ],
-    "quantity": [
-      23
-    ],
-    "applicable": [
-      23
-    ],
-    "suggest": [
-      23
-    ],
-    "pattern": [
-      23
-    ],
-    "options": [
-      23,
-      29
-    ],
-    "conduct": [
-      23
-    ],
-    "where": [
-      23
-    ],
-    "and": [
-      23
-    ],
-    "most": [
-      23
-    ],
-    "suitable": [
-      23
+    "9instal": [
+      15
     ],
     "right": [
-      23
-    ],
-    "monitor": [
-      23
-    ],
-    "decision": [
-      24
-    ],
-    "unexpected": [
-      24
-    ],
-    "installed": [
-      24
-    ],
-    "making": [
-      24,
+      15,
+      20,
+      36,
       37
     ],
-    "these": [
-      24,
+    "dollar": [
+      15,
+      32
+    ],
+    "sens": [
+      15,
+      16
+    ],
+    "east": [
+      15
+    ],
+    "late": [
+      16,
+      17
+    ],
+    "role": [
+      16
+    ],
+    "afternoon": [
+      16
+    ],
+    "southwest": [
+      16
+    ],
+    "shape": [
+      16
+    ],
+    "ideal": [
+      16
+    ],
+    "earli": [
+      16
+    ],
+    "cover": [
+      17,
+      22,
+      23,
+      32
+    ],
+    "directli": [
+      17
+    ],
+    "effect": [
+      17
+    ],
+    "tree": [
+      17
+    ],
+    "shadow": [
+      17,
+      18
+    ],
+    "live": [
+      17
+    ],
+    "singl": [
+      17
+    ],
+    "group": [
+      17
+    ],
+    "chimney": [
+      17
+    ],
+    "affect": [
+      17,
       36
     ],
-    "additions": [
-      24
+    "issu": [
+      17,
+      18,
+      19,
+      27
     ],
-    "added": [
-      24
-    ],
-    "delays": [
-      24
-    ],
-    "point": [
-      24
-    ],
-    "find": [
+    "option": [
+      18,
+      20,
       24,
-      29,
-      39
-    ],
-    "could": [
-      24
-    ],
-    "sealants": [
-      25
-    ],
-    "cheaper": [
-      25
-    ],
-    "deteriorate": [
-      25
-    ],
-    "weather-induced": [
-      25
-    ],
-    "backing": [
-      25
-    ],
-    "framing": [
-      25
-    ],
-    "fragile": [
-      25
-    ],
-    "sheets": [
-      25
-    ],
-    "decades": [
       25,
+      26,
+      28,
       31
     ],
-    "withstands": [
-      25
+    "believ": [
+      18
     ],
-    "ling": [
-      25
+    "safe": [
+      18,
+      28
     ],
-    "low-cost": [
-      25
+    "confid": [
+      18,
+      19
     ],
-    "uv-stabilized": [
-      25
+    "appreci": [
+      18,
+      19
     ],
-    "deterioration": [
-      25
+    "addit": [
+      18,
+      21
     ],
-    "very": [
-      25
+    "howev": [
+      18
     ],
-    "product": [
+    "cabl": [
+      18,
+      19,
+      21,
+      30,
+      31
+    ],
+    "talk": [
+      18,
       26
     ],
-    "neon\u00ae": [
+    "bypass": [
+      19
+    ],
+    "purification": [
+      19,
+      22
+    ],
+    "isol": [
+      19,
+      21,
+      22
+    ],
+    "mainten": [
+      19
+    ],
+    "diod": [
+      19
+    ],
+    "liquid": [
+      19,
+      20,
+      22
+    ],
+    "junction": [
+      19
+    ],
+    "strongli": [
+      19
+    ],
+    "aspect": [
+      19
+    ],
+    "devic": [
+      19,
+      33
+    ],
+    "certain": [
+      19
+    ],
+    "servic": [
+      20,
+      27,
+      28,
+      29,
+      30
+    ],
+    "claim": [
+      20
+    ],
+    "lengthi": [
+      20,
+      22
+    ],
+    "buyer": [
+      20,
+      31
+    ],
+    "agent": [
+      20,
+      21
+    ],
+    "stop": [
+      20,
+      28
+    ],
+    "hard": [
+      20,
+      36
+    ],
+    "undertak": [
+      20,
+      22,
+      32
+    ],
+    "applic": [
+      20,
+      25,
       26
     ],
-    "case": [
+    "posit": [
+      20,
+      29,
+      36
+    ],
+    "insist": [
+      20
+    ],
+    "purchas": [
+      20,
+      21
+    ],
+    "indic": [
+      20
+    ],
+    "sometim": [
+      21,
+      22
+    ],
+    "framehow": [
+      21
+    ],
+    "suscept": [
+      21,
+      22
+    ],
+    "fuse": [
+      21,
+      22
+    ],
+    "rapidli": [
+      21
+    ],
+    "decis": [
+      21,
+      33
+    ],
+    "written": [
+      21
+    ],
+    "internet": [
+      21
+    ],
+    "delay": [
+      21
+    ],
+    "comprehens": [
+      21
+    ],
+    "highlight": [
+      21,
+      32
+    ],
+    "cycl": [
+      22
+    ],
+    "cheaper": [
+      22,
+      23,
+      33
+    ],
+    "solder": [
+      22
+    ],
+    "involv": [
+      22,
+      23
+    ],
+    "weatherinduc": [
+      22
+    ],
+    "sealant": [
+      22
+    ],
+    "labor": [
+      22,
+      23,
+      35,
+      36
+    ],
+    "replac": [
+      22,
+      23,
+      32,
+      34,
+      35,
+      36
+    ],
+    "seal": [
+      22
+    ],
+    "kwhmedium": [
+      23,
+      24
+    ],
+    "verifi": [
+      23
+    ],
+    "peopl": [
+      23,
+      24,
       26
     ],
-    "module": [
+    "neon": [
+      23,
+      24,
+      31,
+      35
+    ],
+    "per": [
+      23,
+      24
+    ],
+    "kwhsmall": [
+      23
+    ],
+    "23kw": [
+      23
+    ],
+    "em4": [
+      23
+    ],
+    "34kw": [
+      23
+    ],
+    "transport": [
+      23
+    ],
+    "450": [
+      23
+    ],
+    "would": [
+      24,
+      25
+    ],
+    "emerg": [
+      24
+    ],
+    "harvest": [
+      24
+    ],
+    "releas": [
+      24
+    ],
+    "smaller": [
+      24,
+      25
+    ],
+    "old": [
+      24
+    ],
+    "modern": [
+      24
+    ],
+    "smart": [
+      24
+    ],
+    "eight": [
+      25
+    ],
+    "latest": [
+      25,
       26
     ],
-    "covers": [
+    "expans": [
+      25
+    ],
+    "today": [
+      25
+    ],
+    "youll": [
+      25
+    ],
+    "anoth": [
+      25
+    ],
+    "keep": [
+      25
+    ],
+    "updat": [
+      25,
+      26
+    ],
+    "feder": [
       26,
       35
     ],
-    "rare": [
+    "redraw": [
       26
     ],
-    "labor": [
+    "program": [
       26
-    ],
-    "detailed": [
-      26
-    ],
-    "needed": [
-      26
-    ],
-    "backed": [
-      26
-    ],
-    "document": [
-      26
-    ],
-    "battery": [
-      27,
-      38
-    ],
-    "harvest": [
-      27
-    ],
-    "homes": [
-      27
-    ],
-    "roof": [
-      27,
-      33
-    ],
-    "emergence": [
-      27
-    ],
-    "using": [
-      27
-    ],
-    "smart": [
-      27
-    ],
-    "during": [
-      27
-    ],
-    "now": [
-      27
-    ],
-    "storage": [
-      27,
-      38
-    ],
-    "keep": [
-      28
-    ],
-    "generates": [
-      28
-    ],
-    "batteries": [
-      28
-    ],
-    "you\u2019ll": [
-      28
-    ],
-    "etc": [
-      28
-    ],
-    "mind": [
-      28
-    ],
-    "efficient": [
-      28,
-      40
-    ],
-    "night": [
-      28
-    ],
-    "highly": [
-      28
-    ],
-    "cars": [
-      28
-    ],
-    "connect": [
-      29
-    ],
-    "what": [
-      29,
-      30,
-      32,
-      34,
-      39
-    ],
-    "option": [
-      29
-    ],
-    "walk": [
-      29
-    ],
-    "consumers": [
-      29
-    ],
-    "finance": [
-      29
-    ],
-    "types": [
-      29
-    ],
-    "you": [
-      29,
-      39
-    ],
-    "evaluate": [
-      30
     ],
     "order": [
-      30,
-      34,
-      35
+      26,
+      27
     ],
-    "explain": [
-      30
+    "type": [
+      26
     ],
-    "reputable": [
-      30,
-      31
+    "piec": [
+      27
     ],
-    "likely": [
-      30
-    ],
-    "install": [
-      30,
-      38
-    ],
-    "fully": [
-      30
-    ],
-    "detail": [
-      30
+    "systemit": [
+      27
     ],
     "done": [
-      30
+      27
+    ],
+    "educ": [
+      27
     ],
     "retail": [
-      30
+      27
     ],
-    "requirements": [
-      30
+    "fulli": [
+      27,
+      28
     ],
-    "after": [
-      31
+    "diversifi": [
+      27,
+      28
     ],
-    "loves": [
-      31
+    "reput": [
+      27,
+      28,
+      33
     ],
-    "mean": [
-      31
+    "regard": [
+      27
     ],
-    "here": [
-      31
+    "evalu": [
+      27
     ],
-    "record": [
-      31
-    ],
-    "it\u2019s": [
-      31
+    "product": [
+      27
     ],
     "track": [
-      31
+      28
+    ],
+    "innov": [
+      28
+    ],
+    "unknown": [
+      28
     ],
     "proven": [
-      31
+      28
     ],
-    "company\u2019s": [
-      31
+    "awar": [
+      28
     ],
-    "knows": [
-      31
+    "uptod": [
+      28,
+      29
     ],
-    "innovation": [
-      31
+    "monthli": [
+      29
     ],
-    "when": [
-      31,
-      38
+    "write": [
+      29
     ],
-    "all": [
-      31
+    "standard": [
+      29,
+      30
     ],
-    "estimated": [
-      32
+    "job": [
+      29,
+      30
     ],
-    "production": [
-      32
+    "maintain": [
+      29
     ],
-    "position": [
+    "high": [
+      29
+    ],
+    "happen": [
+      29
+    ],
+    "reason": [
+      29
+    ],
+    "custom": [
+      29,
       32
     ],
     "worst": [
-      32
+      29
     ],
-    "annual": [
-      32
+    "parti": [
+      29
     ],
-    "months": [
-      32
+    "must": [
+      29
     ],
-    "monthly": [
-      32
+    "rebat": [
+      30,
+      34,
+      35
     ],
-    "imated": [
-      32
-    ],
-    "maintain": [
-      32
-    ],
-    "service": [
-      32
-    ],
-    "seasons": [
-      33
-    ],
-    "pitch": [
-      33
+    "differ": [
+      30
     ],
     "impact": [
-      33,
-      40
+      30,
+      36
     ],
-    "roof(s": [
-      33
+    "meet": [
+      30
     ],
-    "optimum": [
-      33
+    "manual": [
+      30
     ],
-    "current": [
-      33
+    "908": [
+      31
     ],
-    "across": [
-      33
+    "easili": [
+      31
     ],
-    "space": [
-      33,
-      38
+    "note": [
+      31,
+      32
+    ],
+    "follow": [
+      31
+    ],
+    "origin": [
+      31
     ],
     "show": [
+      31
+    ],
+    "9008": [
+      31
+    ],
+    "convent": [
+      31
+    ],
+    "degrad": [
+      31
+    ],
+    "ship": [
+      32
+    ],
+    "count": [
+      32
+    ],
+    "installuninstal": [
+      32
+    ],
+    "portion": [
+      32
+    ],
+    "faulti": [
+      32
+    ],
+    "test": [
+      32
+    ],
+    "toward": [
+      32
+    ],
+    "cheap": [
+      33
+    ],
+    "repaid": [
+      33
+    ],
+    "bad": [
+      33
+    ],
+    "arriv": [
+      33
+    ],
+    "least": [
+      33
+    ],
+    "market": [
+      33
+    ],
+    "bit": [
+      33
+    ],
+    "equipment": [
+      33
+    ],
+    "look": [
+      33
+    ],
+    "hide": [
+      33
+    ],
+    "discov": [
+      33
+    ],
+    "price": [
+      33
+    ],
+    "els": [
       34
-    ],
-    "degradation": [
-      34
-    ],
-    "important": [
-      34
-    ],
-    "know": [
-      34
-    ],
-    "produce": [
-      34
-    ],
-    "replacing": [
-      35
-    ],
-    "promotions": [
-      35
-    ],
-    "working": [
-      35
-    ],
-    "anel": [
-      35
-    ],
-    "hand": [
-      35
-    ],
-    "one": [
-      35
-    ],
-    "faulty": [
-      35
-    ],
-    "other": [
-      35
-    ],
-    "sales": [
-      35
-    ],
-    "some": [
-      36,
-      38
-    ],
-    "helpful": [
-      36
-    ],
-    "avoid": [
-      36
-    ],
-    "installers": [
-      36
-    ],
-    "undertake": [
-      36
-    ],
-    "suppliers": [
-      36
-    ],
-    "hints": [
-      36
-    ],
-    "dustry": [
-      36
-    ],
-    "poor-quality": [
-      36
-    ],
-    "professional": [
-      36
-    ],
-    "reliable": [
-      36
-    ],
-    "please": [
-      36,
-      37
-    ],
-    "reputation": [
-      36
-    ],
-    "companies": [
-      36
-    ],
-    "unscrupulous": [
-      36
-    ],
-    "positive": [
-      36
-    ],
-    "wisely": [
-      37
-    ],
-    "everything": [
-      37
     ],
     "real": [
-      37
+      34
     ],
-    "else": [
-      37
+    "next": [
+      34
     ],
-    "support": [
-      37
+    "properti": [
+      34
     ],
-    "rebate": [
-      37
+    "grow": [
+      34
     ],
-    "remember": [
-      37,
-      38
+    "wise": [
+      34
     ],
-    "consider": [
-      37
-    ],
-    "again": [
-      38
-    ],
-    "reserve": [
-      38
-    ],
-    "nighttime": [
-      38
-    ],
-    "fit": [
-      38
-    ],
-    "then": [
-      38
-    ],
-    "offer": [
-      39
+    "phone": [
+      34
     ],
     "page": [
-      39
+      35
     ],
-    "warranty:": [
-      39
+    "attract": [
+      35
     ],
-    "blog": [
-      39
+    "wwwlgcomussolarblog": [
+      35
     ],
-    "credits": [
-      39
+    "averag": [
+      35
     ],
-    "https://www.lg.com/us/solar/blog": [
-      39
+    "difficult": [
+      35
     ],
-    "manufacturers": [
-      39
+    "multi": [
+      35
     ],
-    "visit": [
-      39
+    "896": [
+      35
     ],
-    "years\u2019": [
-      39
+    "elig": [
+      35
     ],
-    "federal": [
-      39
+    "black": [
+      35
     ],
-    "heart": [
-      40
+    "supplier": [
+      36
     ],
-    "direct": [
-      40
+    "legal": [
+      36
+    ],
+    "link": [
+      36
+    ],
+    "establish": [
+      36
+    ],
+    "tip": [
+      37
+    ],
+    "inc": [
+      37
+    ],
+    "18the": [
+      37
+    ],
+    "60069": [
+      37
+    ],
+    "hint": [
+      37
+    ],
+    "2019": [
+      37
+    ],
+    "start": [
+      37
+    ],
+    "poorqual": [
+      37
+    ],
+    "2000": [
+      37
+    ],
+    "court": [
+      37
+    ],
+    "pleas": [
+      37
+    ],
+    "http": [
+      37
+    ],
+    "lincolnshir": [
+      37
+    ],
+    "copyright": [
+      37
+    ],
+    "reserv": [
+      37
+    ],
+    "electron": [
+      37
+    ],
+    "millbrook": [
+      37
+    ],
+    "installersaddit": [
+      37
+    ],
+    "get": [
+      37
     ]
+  },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
   },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

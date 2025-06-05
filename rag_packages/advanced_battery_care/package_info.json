@@ -2,28 +2,38 @@
   "package_id": "advanced_battery_care",
   "name": "Advanced Battery Care & Charging",
   "description": "Professional battery care, charging, and reconditioning procedures",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:25:04.928346",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:52.149176",
   "source_pdf": "ODYSSEY_Battery_Reconditioning_Charge_Procedure.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "advanced_battery_care.vdb.npz",
-    "size_bytes": 15612,
+    "size_bytes": 10616,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "advanced_battery_care_ios.index.json",
-    "size_bytes": 6355,
+    "size_bytes": 7664,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
     "num_chunks": 3,
-    "embedding_dim": 384,
-    "total_embeddings": 3
+    "embedding_dim": 768,
+    "total_embeddings": 3,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "low",
   "category": "technical_skills",
@@ -35,7 +45,7 @@
     "odyssey"
   ],
   "checksum": {
-    "vdb": "e50a90318b6b8adfc5857ed40b43f66adbadd68dd0bb08dd5a894ac4a5da016c",
-    "index": "f8094764999ed2fd46110d8e3b4480cf121f3cc4d7f502e2b6aad56ff7d27a89"
+    "vdb": "c3743828cc51449499b87104234953b8659aa5892c398d9bd8bf2664ffafe348",
+    "index": "ac159196515179327b0a5d6b8981ca0f8cbb0a57fca64a3bcc236315b3a07f6e"
   }
 }

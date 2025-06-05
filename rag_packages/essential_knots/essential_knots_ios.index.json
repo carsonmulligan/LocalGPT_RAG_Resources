@@ -1,159 +1,245 @@
 {
   "package_id": "essential_knots",
-  "format_version": "1.0",
-  "optimized_for": "ios_swift",
+  "format_version": "2.0_enhanced",
+  "optimized_for": "ios_swift_maximum_quality",
   "chunks": [
     {
       "chunk_id": 0,
-      "text": "Step-By-Step: Basic Scout Knots\n\nOverhand Knot\n\nSquare Knot (or Reef not, the classic joining knot.)\n\nRight over left\u2026\n\nLeft over right\u2026\n\nmakes a knot tidy\u2026 and tight.\n\nGranny Knot (The Granny knot is very UNSAFE. This is why your shoelaces come untied!)\n\nRight over left\u2026\n\nRight over left\u2026\n\nmakes a knot ugly and WRONG.\n\nBowline (The rescue knot.)\n\nMake a loop (top to you). The rabbit goes out of the hole\u2026\n\naround the tree\u2026\n\nand back into the hole.\n\nSheet Bend (Stronger than a Square Knot, especially good for joining different size lines..)\n\nMake a loop in one end. The rabbit goes out of the hole\u2026 around the tree\n\nback under his path.\n\nSlip Knot (Warning: This is a type of noose! This is a quick cinch knot.)\n\nMake a loop. Pull a loop up through the loop.\n\nPull tight.\n\nStep-By-Step: Basic Scout Knots\n\nPage 2\n\nHalf Hitch\n\nTwo Half Hitches (Taught-Line is much stronger.)\n\nLoop over the top (Half Hitch)\n\nSecond Half Hitch on the outside. Pull tight.\n\nTaut-Line Hitch (Perfect for tying down",
+      "text": "Step-By-Step: Basic Scout Knots Overhand Knot Square Knot (or Reef not, the classic joining knot.) Right over left Left over right makes a knot tidy and tight. Granny Knot (The Granny knot is very UNSAFE. This is why your shoelaces come untied!) Right over left Right over left makes a knot ugly and WRONG. Bowline (The rescue knot.) Make a loop (top to you). The rabbit goes out of the hole around the tree and back into the hole. Sheet Bend (Stronger than a Square Knot, especially good for joining different size lines..) Make a loop in one end. The rabbit goes out of the hole around the tree back under his path. Slip Knot (Warning: This is a type of noose! This is a quick cinch knot.) Make a loop. Pull a loop up through the loop. Pull tight. Step-By-Step: Basic Scout Knots Page 2 Half Hitch Two Half Hitches (Taught-Line is much stronger.) Loop over the top (Half Hitch) Second Half Hitch on the outside. Pull tight. Taut-Line Hitch (Perfect for tying down your truck lid or a tent guy line.)",
       "keywords": [
-        "knot",
+        "back",
+        "one",
+        "page",
+        "make",
+        "shoelac",
+        "ugli",
+        "tidi",
+        "tight",
+        "tree",
+        "size",
+        "goe",
         "left",
-        "joining",
-        "classic",
-        "right\u2026",
-        "makes",
-        "over",
-        "reef",
+        "differ",
+        "sheet",
+        "top",
         "basic",
-        "knots",
-        "not",
-        "overhand",
+        "lid",
+        "taughtlin",
+        "cordage",
+        "join",
         "right",
-        "square",
-        "scout",
-        "step-by-step:",
-        "left\u2026"
+        "half",
+        "slip",
+        "much",
+        "two"
       ],
-      "length": 999,
-      "preview": "Step-By-Step: Basic Scout Knots\n\nOverhand Knot\n\nSquare Knot (or Reef not, the classic joining knot.)..."
+      "enhanced_metadata": {
+        "contains_instructions": true,
+        "urgency_level": "high",
+        "survival_domains": [
+          "signaling",
+          "knots"
+        ]
+      },
+      "length": 1001,
+      "preview": "Step-By-Step: Basic Scout Knots Overhand Knot Square Knot (or Reef not, the classic joining knot.) Right over left Left over right makes a knot tidy a..."
     },
     {
       "chunk_id": 1,
-      "text": "out Knots\n\nPage 2\n\nHalf Hitch\n\nTwo Half Hitches (Taught-Line is much stronger.)\n\nLoop over the top (Half Hitch)\n\nSecond Half Hitch on the outside. Pull tight.\n\nTaut-Line Hitch (Perfect for tying down your truck lid or a tent guy line.)\n\nLoop over the top (Half Hitch)\n\nLoop over the top again.\n\nOne last loop outside. Pull tight.\n\nClove Hitch (For tying a rope to a tree or pole.)\n\nLoop over the top.\n\nLoop around again below. Pull through the hole.\n\nFigure-Eight (This classic \u201cstopper knot keeps knots in place.)\n\nLoop over the top\n\nLoop under\n\nGo through the hole\n\nPull tight",
+      "text": "Taut-Line Hitch (Perfect for tying down your truck lid or a tent guy line.) Loop over the top (Half Hitch) Loop over the top again. One last loop outside. Pull tight. Clove Hitch (For tying a rope to a tree or pole.) Loop over the top. Loop around again below. Pull through the hole. Figure-Eight (This classic stopper knot keeps knots in place.) Loop over the top Loop under Go through the hole Pull tight",
       "keywords": [
-        "hitches",
-        "stronger",
-        "page",
-        "half",
-        "over",
-        "taut-line",
-        "outside",
+        "one",
         "tight",
-        "second",
-        "knots",
-        "much",
-        "pull",
-        "loop",
+        "figureeight",
+        "tree",
+        "top",
+        "lid",
+        "keep",
+        "cordage",
+        "half",
+        "last",
+        "binding",
+        "tautlin",
+        "guy",
+        "clove",
+        "rope",
         "hitch",
-        "taught-line"
+        "outsid",
+        "lashing",
+        "tent",
+        "knot",
+        "place",
+        "line",
+        "perfect",
+        "pole",
+        "hole"
       ],
-      "length": 578,
-      "preview": "out Knots\n\nPage 2\n\nHalf Hitch\n\nTwo Half Hitches (Taught-Line is much stronger.)\n\nLoop over the top (..."
+      "enhanced_metadata": {
+        "contains_instructions": false,
+        "urgency_level": "normal",
+        "survival_domains": [
+          "knots"
+        ]
+      },
+      "length": 406,
+      "preview": "Taut-Line Hitch (Perfect for tying down your truck lid or a tent guy line.) Loop over the top (Half Hitch) Loop over the top again. One last loop outs..."
     }
   ],
   "keyword_lookup": {
-    "knot": [
+    "back": [
+      0
+    ],
+    "one": [
+      0,
+      1
+    ],
+    "page": [
+      0
+    ],
+    "make": [
+      0
+    ],
+    "shoelac": [
+      0
+    ],
+    "ugli": [
+      0
+    ],
+    "tidi": [
+      0
+    ],
+    "tight": [
+      0,
+      1
+    ],
+    "tree": [
+      0,
+      1
+    ],
+    "size": [
+      0
+    ],
+    "goe": [
       0
     ],
     "left": [
       0
     ],
-    "joining": [
+    "differ": [
       0
     ],
-    "classic": [
+    "sheet": [
       0
     ],
-    "right\u2026": [
-      0
-    ],
-    "makes": [
-      0
-    ],
-    "over": [
+    "top": [
       0,
       1
-    ],
-    "reef": [
-      0
     ],
     "basic": [
       0
     ],
-    "knots": [
+    "lid": [
       0,
       1
     ],
-    "not": [
+    "taughtlin": [
       0
     ],
-    "overhand": [
+    "cordage": [
+      0,
+      1
+    ],
+    "join": [
       0
     ],
     "right": [
       0
     ],
-    "square": [
-      0
-    ],
-    "scout": [
-      0
-    ],
-    "step-by-step:": [
-      0
-    ],
-    "left\u2026": [
-      0
-    ],
-    "hitches": [
-      1
-    ],
-    "stronger": [
-      1
-    ],
-    "page": [
-      1
-    ],
     "half": [
+      0,
       1
     ],
-    "taut-line": [
-      1
-    ],
-    "outside": [
-      1
-    ],
-    "tight": [
-      1
-    ],
-    "second": [
-      1
+    "slip": [
+      0
     ],
     "much": [
+      0
+    ],
+    "two": [
+      0
+    ],
+    "figureeight": [
       1
     ],
-    "pull": [
+    "keep": [
       1
     ],
-    "loop": [
+    "last": [
+      1
+    ],
+    "binding": [
+      1
+    ],
+    "tautlin": [
+      1
+    ],
+    "guy": [
+      1
+    ],
+    "clove": [
+      1
+    ],
+    "rope": [
       1
     ],
     "hitch": [
       1
     ],
-    "taught-line": [
+    "outsid": [
+      1
+    ],
+    "lashing": [
+      1
+    ],
+    "tent": [
+      1
+    ],
+    "knot": [
+      1
+    ],
+    "place": [
+      1
+    ],
+    "line": [
+      1
+    ],
+    "perfect": [
+      1
+    ],
+    "pole": [
+      1
+    ],
+    "hole": [
       1
     ]
   },
+  "enhanced_features": {
+    "smart_chunking": true,
+    "survival_synonyms": true,
+    "keyword_stemming": true,
+    "urgency_assessment": true,
+    "domain_classification": true
+  },
   "search_config": {
     "min_keyword_length": 3,
-    "max_results": 10,
-    "relevance_threshold": 0.1
+    "max_results": 15,
+    "relevance_threshold": 0.05,
+    "synonym_expansion": true
   },
   "ios_integration": {
     "swift_compatible": true,
     "core_ml_ready": true,
-    "memory_efficient": true
+    "memory_efficient": true,
+    "quality_optimized": true
   }
 }

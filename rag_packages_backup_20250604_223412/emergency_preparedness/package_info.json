@@ -1,0 +1,41 @@
+{
+  "package_id": "emergency_preparedness",
+  "name": "Emergency Preparedness Checklist",
+  "description": "Complete checklist for emergency preparedness and disaster planning",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:23:31.567036",
+  "source_pdf": "EmergencyPreparednessChecklist.pdf",
+  "vector_database": {
+    "file": "emergency_preparedness.vdb.npz",
+    "size_bytes": 58790,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "emergency_preparedness_ios.index.json",
+    "size_bytes": 23931,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 11,
+    "embedding_dim": 384,
+    "total_embeddings": 11
+  },
+  "offline_priority": "high",
+  "category": "emergency_preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "checklist",
+    "disaster",
+    "planning"
+  ],
+  "checksum": {
+    "vdb": "ae1dd6edc3df724643ff640db83680cc022919bbe594dd82db49223fd25b1c4e",
+    "index": "2c62a8b538b9a1daf1fd6c1bf99607e8ce1fa300dbdd1c34a9dfd9e4efa8ca10"
+  }
+}

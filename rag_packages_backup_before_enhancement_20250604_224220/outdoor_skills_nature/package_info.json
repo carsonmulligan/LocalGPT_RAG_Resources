@@ -1,0 +1,41 @@
+{
+  "package_id": "outdoor_skills_nature",
+  "name": "Outdoor Skills & Nature Connection",
+  "description": "Connecting with nature and developing outdoor awareness skills",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:23:35.380715",
+  "source_pdf": "outdoor-art-natural-connections.pdf",
+  "vector_database": {
+    "file": "outdoor_skills_nature.vdb.npz",
+    "size_bytes": 124974,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "outdoor_skills_nature_ios.index.json",
+    "size_bytes": 46841,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 23,
+    "embedding_dim": 384,
+    "total_embeddings": 23
+  },
+  "offline_priority": "low",
+  "category": "wilderness_skills",
+  "tags": [
+    "outdoor",
+    "nature",
+    "awareness",
+    "connection",
+    "skills"
+  ],
+  "checksum": {
+    "vdb": "b753a5327701e28d02124653c92d4e9bfc2edb514089ed4aa090314c2d4994e4",
+    "index": "27b4f754db50e74fb9a2ab17829784bde9dfc83f38bff983b0dd0ef7fcd31b59"
+  }
+}

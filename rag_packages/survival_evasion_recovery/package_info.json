@@ -2,28 +2,38 @@
   "package_id": "survival_evasion_recovery",
   "name": "Survival, Evasion & Recovery",
   "description": "Military survival, evasion, resistance, and escape procedures",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:24:06.279384",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:09.793769",
   "source_pdf": "fm3-05-70.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "survival_evasion_recovery.vdb.npz",
-    "size_bytes": 5415480,
+    "size_bytes": 2740101,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "survival_evasion_recovery_ios.index.json",
-    "size_bytes": 1888754,
+    "size_bytes": 1955027,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 978,
-    "embedding_dim": 384,
-    "total_embeddings": 978
+    "num_chunks": 859,
+    "embedding_dim": 768,
+    "total_embeddings": 859,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "high",
   "category": "military_tactical",
@@ -35,7 +45,7 @@
     "escape"
   ],
   "checksum": {
-    "vdb": "d7946b3fd863db249510f88e098b02be3898115a913eb2f295d3298441e3a356",
-    "index": "55df8664f034e75fce15197b1a05512de01f8d27587c02d0f75a65021be41417"
+    "vdb": "1d56d4fe3eb02ff60a8b85f0c53f1e905f6afc68b660e36ce4d3c14e084a7e58",
+    "index": "aa30f2ef09d2c6a220c70459ff558624385206b747f3b7590f0d3c4f78055773"
   }
 }

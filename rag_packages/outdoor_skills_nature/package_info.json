@@ -2,28 +2,38 @@
   "package_id": "outdoor_skills_nature",
   "name": "Outdoor Skills & Nature Connection",
   "description": "Connecting with nature and developing outdoor awareness skills",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:23:35.380715",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:40:44.579580",
   "source_pdf": "outdoor-art-natural-connections.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "outdoor_skills_nature.vdb.npz",
-    "size_bytes": 124974,
+    "size_bytes": 69893,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "outdoor_skills_nature_ios.index.json",
-    "size_bytes": 46841,
+    "size_bytes": 49982,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 23,
-    "embedding_dim": 384,
-    "total_embeddings": 23
+    "num_chunks": 22,
+    "embedding_dim": 768,
+    "total_embeddings": 22,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "low",
   "category": "wilderness_skills",
@@ -35,7 +45,7 @@
     "skills"
   ],
   "checksum": {
-    "vdb": "b753a5327701e28d02124653c92d4e9bfc2edb514089ed4aa090314c2d4994e4",
-    "index": "27b4f754db50e74fb9a2ab17829784bde9dfc83f38bff983b0dd0ef7fcd31b59"
+    "vdb": "a6f4128afc2df2711f2797a30537bdd7c0985ee2ab05bfb7958e2aefd049c8f3",
+    "index": "23e47be837cbfdbe3017e29c6be9d5cb85b132068572fb700a4a6840cf6acf9f"
   }
 }

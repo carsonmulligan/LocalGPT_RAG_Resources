@@ -1,0 +1,41 @@
+{
+  "package_id": "combat_skills_training",
+  "name": "Combat Skills Training Manual",
+  "description": "Military field manual for combat skills and tactical training",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:24:28.662646",
+  "source_pdf": "Fm21-75_15%2884%29.pdf",
+  "vector_database": {
+    "file": "combat_skills_training.vdb.npz",
+    "size_bytes": 1631240,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "combat_skills_training_ios.index.json",
+    "size_bytes": 567747,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 295,
+    "embedding_dim": 384,
+    "total_embeddings": 295
+  },
+  "offline_priority": "medium",
+  "category": "military_tactical",
+  "tags": [
+    "military",
+    "combat",
+    "tactical",
+    "training",
+    "field_manual"
+  ],
+  "checksum": {
+    "vdb": "3c1c322896fe3e70c2a21b28bef95914ffcf5560bab7794b48203198ae05487d",
+    "index": "c922ce8692e6d27658dfa55e25db6bf3d5eb0c8a297e7ed958799e25880f8c91"
+  }
+}

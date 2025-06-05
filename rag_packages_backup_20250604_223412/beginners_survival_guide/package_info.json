@@ -1,0 +1,41 @@
+{
+  "package_id": "beginners_survival_guide",
+  "name": "Beginner's Survival Guide",
+  "description": "Complete beginner's guide to survival skills and techniques",
+  "version": "1.0",
+  "created_date": "2025-06-04T01:25:06.951009",
+  "source_pdf": "Beginner-s-Guide_Ver20_01082020.pdf",
+  "vector_database": {
+    "file": "beginners_survival_guide.vdb.npz",
+    "size_bytes": 226218,
+    "format": "mlx_npz",
+    "compression": "auto"
+  },
+  "ios_index": {
+    "file": "beginners_survival_guide_ios.index.json",
+    "size_bytes": 80631,
+    "format": "json",
+    "optimized_for": "swift_integration"
+  },
+  "embeddings": {
+    "embedding_model": "BAAI/bge-small-en",
+    "chunk_size": 1000,
+    "overlap": 200,
+    "num_chunks": 41,
+    "embedding_dim": 384,
+    "total_embeddings": 41
+  },
+  "offline_priority": "high",
+  "category": "comprehensive_survival",
+  "tags": [
+    "beginner",
+    "survival",
+    "basics",
+    "getting_started",
+    "comprehensive"
+  ],
+  "checksum": {
+    "vdb": "b38a344adff5980f5507fe81e682e624cc099ef259f2acb4f601add9bc069e4b",
+    "index": "8e869865ce01fdfd527e9bf6bf288043c52d6d3de11b9c546347f46a5d9e0713"
+  }
+}

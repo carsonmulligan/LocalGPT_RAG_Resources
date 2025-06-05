@@ -2,28 +2,38 @@
   "package_id": "emergency_preparedness",
   "name": "Emergency Preparedness Checklist",
   "description": "Complete checklist for emergency preparedness and disaster planning",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:23:31.567036",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:40:43.748125",
   "source_pdf": "EmergencyPreparednessChecklist.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "emergency_preparedness.vdb.npz",
-    "size_bytes": 58790,
+    "size_bytes": 33000,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "emergency_preparedness_ios.index.json",
-    "size_bytes": 23931,
+    "size_bytes": 24078,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 11,
-    "embedding_dim": 384,
-    "total_embeddings": 11
+    "num_chunks": 10,
+    "embedding_dim": 768,
+    "total_embeddings": 10,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "high",
   "category": "emergency_preparedness",
@@ -35,7 +45,7 @@
     "planning"
   ],
   "checksum": {
-    "vdb": "ae1dd6edc3df724643ff640db83680cc022919bbe594dd82db49223fd25b1c4e",
-    "index": "2c62a8b538b9a1daf1fd6c1bf99607e8ce1fa300dbdd1c34a9dfd9e4efa8ca10"
+    "vdb": "d5c190ac1db1ef5958cda936da1e6c85205d515326b28ffeb855f06ed8fc874b",
+    "index": "500f353df09b679080df97a13de1aede3e04a46c18f1f2227019247fd722ebd1"
   }
 }

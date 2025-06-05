@@ -2,28 +2,38 @@
   "package_id": "forest_education",
   "name": "Forest Education & Awareness",
   "description": "Educational materials for forest awareness and outdoor education",
-  "version": "1.0",
-  "created_date": "2025-06-04T01:24:10.413926",
+  "version": "2.0_enhanced",
+  "created_date": "2025-06-04T22:41:12.170979",
   "source_pdf": "Forestry%20England_Arts%20Material_Lesson%20Plan.pdf",
+  "quality_level": "maximum",
   "vector_database": {
     "file": "forest_education.vdb.npz",
-    "size_bytes": 73894,
+    "size_bytes": 42448,
     "format": "mlx_npz",
-    "compression": "auto"
+    "compression": "auto",
+    "quality": "768d_maximum"
   },
   "ios_index": {
     "file": "forest_education_ios.index.json",
-    "size_bytes": 27708,
+    "size_bytes": 30949,
     "format": "json",
-    "optimized_for": "swift_integration"
+    "optimized_for": "swift_integration_enhanced",
+    "features": [
+      "smart_keywords",
+      "survival_synonyms",
+      "stemming"
+    ]
   },
   "embeddings": {
-    "embedding_model": "BAAI/bge-small-en",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "embedding_quality": "maximum_768d",
     "chunk_size": 1000,
     "overlap": 200,
-    "num_chunks": 14,
-    "embedding_dim": 384,
-    "total_embeddings": 14
+    "num_chunks": 13,
+    "embedding_dim": 768,
+    "total_embeddings": 13,
+    "chunking_strategy": "smart_sentence_boundary",
+    "keyword_extraction": "enhanced_survival_optimized"
   },
   "offline_priority": "low",
   "category": "wilderness_skills",
@@ -34,7 +44,7 @@
     "awareness"
   ],
   "checksum": {
-    "vdb": "0cbd5c390f759e6b02ab8ccca80ed15049d0e7a912b4970869179afe254e9658",
-    "index": "20453fc33d0aab1d0553e2f71fb397c0f0aa2f7618949b666f863807299462ad"
+    "vdb": "d2f28edf0979ddfefdd810fedbe4983c5f7504f5a05eae6adbf6e4af48186e2e",
+    "index": "e55490d9fa4026d8560170fff35ce6d2d498c112f1239379e65a82b4db5f362c"
   }
 }
