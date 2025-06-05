@@ -1,7 +1,6 @@
 {
-  "catalog_version": "2.0_enhanced",
-  "quality_level": "maximum_768d",
-  "created_date": "2025-06-04T23:02:35.720418",
+  "catalog_version": "1.0",
+  "created_date": "2025-06-04T23:05:11.264323",
   "total_packages": 20,
   "total_size_bytes": 18171069,
   "total_size_mb": 17.33,
@@ -13,24 +12,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:55.779367",
       "source_pdf": "American-Red-Cross-First-Aid-CPR-AED-Participants-Manual.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "first_aid_medical.vdb.npz",
         "size_bytes": 1814518,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "first_aid_medical_ios.index.json",
         "size_bytes": 1278883,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -65,24 +57,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:36.250289",
       "source_pdf": "FM21-76_SurvivalManual.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "army_survival_manual.vdb.npz",
         "size_bytes": 1878521,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "army_survival_manual_ios.index.json",
         "size_bytes": 1323820,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -116,24 +101,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:09.793769",
       "source_pdf": "fm3-05-70.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "survival_evasion_recovery.vdb.npz",
         "size_bytes": 2740101,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "survival_evasion_recovery_ios.index.json",
         "size_bytes": 1955027,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -167,24 +145,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:53.283605",
       "source_pdf": "Beginner-s-Guide_Ver20_01082020.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "beginners_survival_guide.vdb.npz",
         "size_bytes": 120255,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "beginners_survival_guide_ios.index.json",
         "size_bytes": 83505,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -218,24 +189,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:17.525821",
       "source_pdf": "fishingguide1.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "fishing_basics.vdb.npz",
         "size_bytes": 119060,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "fishing_basics_ios.index.json",
         "size_bytes": 86727,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -268,24 +232,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:45.674608",
       "source_pdf": "Step_By_Step_Basic_Knots.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "essential_knots.vdb.npz",
         "size_bytes": 7254,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "essential_knots_ios.index.json",
         "size_bytes": 5135,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -319,24 +276,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:15.632770",
       "source_pdf": "The_Complete_Guide_to_Edible_Wild_Plants_-_Department_of_the_Army.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "edible_wild_plants.vdb.npz",
         "size_bytes": 449820,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "edible_wild_plants_ios.index.json",
         "size_bytes": 319761,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -371,24 +321,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:43.748125",
       "source_pdf": "EmergencyPreparednessChecklist.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "emergency_preparedness.vdb.npz",
         "size_bytes": 33000,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "emergency_preparedness_ios.index.json",
         "size_bytes": 24078,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -422,24 +365,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:57.190600",
       "source_pdf": "BatteryReconditioning.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "battery_maintenance.vdb.npz",
         "size_bytes": 129975,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "battery_maintenance_ios.index.json",
         "size_bytes": 91015,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -473,24 +409,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:13.279631",
       "source_pdf": "basicfishingbook.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "advanced_fishing.vdb.npz",
         "size_bytes": 140590,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "advanced_fishing_ios.index.json",
         "size_bytes": 100661,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -523,24 +452,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:23.722538",
       "source_pdf": "Fm21-75_15%2884%29.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "combat_skills_training.vdb.npz",
         "size_bytes": 844825,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "combat_skills_training_ios.index.json",
         "size_bytes": 593699,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -574,24 +496,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:19.442598",
       "source_pdf": "Crawfords_Auto_Repair_Guide.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "automotive_repair.vdb.npz",
         "size_bytes": 440642,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "automotive_repair_ios.index.json",
         "size_bytes": 309861,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -625,24 +540,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:44.136281",
       "source_pdf": "ready_checklist.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "readiness_checklist.vdb.npz",
         "size_bytes": 10742,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "readiness_checklist_ios.index.json",
         "size_bytes": 8206,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -675,24 +583,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:45.979798",
       "source_pdf": "six_boy_scout_knots.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "scout_knots.vdb.npz",
         "size_bytes": 16886,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "scout_knots_ios.index.json",
         "size_bytes": 11969,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -725,24 +626,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:51.626559",
       "source_pdf": "fm20_20_1960.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "historical_military_manual.vdb.npz",
         "size_bytes": 663270,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "historical_military_manual_ios.index.json",
         "size_bytes": 466716,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -775,24 +669,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:52.149176",
       "source_pdf": "ODYSSEY_Battery_Reconditioning_Charge_Procedure.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "advanced_battery_care.vdb.npz",
         "size_bytes": 10616,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "advanced_battery_care_ios.index.json",
         "size_bytes": 7664,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -826,24 +713,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:40:44.579580",
       "source_pdf": "outdoor-art-natural-connections.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "outdoor_skills_nature.vdb.npz",
         "size_bytes": 69893,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "outdoor_skills_nature_ios.index.json",
         "size_bytes": 49982,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -877,24 +757,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:12.170979",
       "source_pdf": "Forestry%20England_Arts%20Material_Lesson%20Plan.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "forest_education.vdb.npz",
         "size_bytes": 42448,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "forest_education_ios.index.json",
         "size_bytes": 30949,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -927,24 +800,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:52.036785",
       "source_pdf": "WK3-GE-MC3-PVintro.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "technical_reference.vdb.npz",
         "size_bytes": 43257,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "technical_reference_ios.index.json",
         "size_bytes": 31190,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -977,24 +843,17 @@
       "version": "2.0_enhanced",
       "created_date": "2025-06-04T22:41:47.436269",
       "source_pdf": "fm3-19-17.pdf",
-      "quality_level": "maximum",
       "vector_database": {
         "file": "military_operations.vdb.npz",
         "size_bytes": 1062075,
         "format": "mlx_npz",
-        "compression": "auto",
-        "quality": "768d_maximum"
+        "compression": "auto"
       },
       "ios_index": {
         "file": "military_operations_ios.index.json",
         "size_bytes": 754473,
         "format": "json",
-        "optimized_for": "swift_integration_enhanced",
-        "features": [
-          "smart_keywords",
-          "survival_synonyms",
-          "stemming"
-        ]
+        "optimized_for": "swift_integration_enhanced"
       },
       "embeddings": {
         "embedding_model": "sentence-transformers/all-mpnet-base-v2",
@@ -1021,20 +880,11 @@
       }
     }
   ],
-  "enhancement_features": [
-    "768d_embeddings",
-    "smart_sentence_chunking",
-    "enhanced_keyword_extraction",
-    "survival_synonym_expansion",
-    "urgency_assessment",
-    "domain_classification"
-  ],
   "ios_requirements": {
     "min_ios_version": "14.0",
     "required_mlx": true,
-    "required_storage_mb": 31.2,
-    "swift_package_manager": true,
-    "recommended_ram_mb": 1024
+    "required_storage_mb": 26.0,
+    "swift_package_manager": true
   },
   "download_strategy": {
     "recommended_order": [
